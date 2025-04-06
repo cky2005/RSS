@@ -1,255 +1,495 @@
 {
-  "update_time": "2025-04-06",
+  "update_time": "2025-04-07",
   "articles": [
     {
-      "title": "索尼家庭影音娱乐新品发布会 4 月 15 日举行，含电视、回音壁等",
-      "link": "https://www.ithome.com/0/843/354.htm",
-      "date": "2025-04-06 20:18",
-      "author": "IT之家",
-      "timestamp": 1743941903.0,
-      "summary": "IT之家 4 月 6 日消息，索尼官宣，索尼家庭影音娱乐新品发布会将于 4 月 15 日 10:00 举行，预计将带来电视、回音壁等一系列新品。IT之家注意到，索尼本月初在海外发布了 Bravia Theatre Bar 6 回音壁（HTB600）以及 Bravia Theatre System 6",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "微信近期更新一览：小程序浮窗回调、图片保存优化、新增全文翻译",
-      "link": "https://www.ithome.com/0/843/352.htm",
-      "date": "2025-04-06 20:05",
-      "author": "IT之家",
-      "timestamp": 1743941127.0,
-      "summary": "在 3 月 31 日的推文中，IT之家介绍了微信的多个调整：摇一摇撤回、视频号可锁定多个倍速、搜一搜优化......然而这才不到一周的时间，微信新一轮更新再度上线，经小编实测发现，本次的改动主要集中在“表面”。具体的情况，这就挨个向各位说明。一、引用消息升级官宣（双端）在先前的推文中，IT之家小编曾",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "加快新应用安装速度，谷歌计划在安卓 16 中加入云编译功能",
-      "link": "https://www.ithome.com/0/843/351.htm",
-      "date": "2025-04-06 20:02",
-      "author": "IT之家",
-      "timestamp": 1743940940.0,
-      "summary": "IT之家 4 月 6 日消息，据 Android Authority 报道，对于大多数安卓设备而言，安装新的应用程序或游戏并非难事，但部分低端设备的处理器性能较弱或存储速度较慢，仍然难以安装大型应用程序。为此，谷歌计划在安卓 16&nbsp;中引入一项新功能，有望加快新应用程序的安装速度，尤其是在低",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "我国首个 5 米大直径不锈钢火箭贮箱研制成功",
-      "link": "https://www.ithome.com/0/843/350.htm",
-      "date": "2025-04-06 19:53",
-      "author": "IT之家",
-      "timestamp": 1743940390.0,
-      "summary": "IT之家 4 月 6 日消息，近日，由中国航天科技集团有限公司一院研制的我国首个 5 米大直径不锈钢火箭贮箱正式下架，标志着该院生产制造技术创新取得了突破性的进展，为国家重大工程任务的顺利推进提供了支撑。据介绍，该项目是一院在宇航领域创新研制模式的一次成功探索。项目团队采用“小步快跑、极速迭代”的设",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "中老高校携手举办2025“澜湄周”中老铁路民心相通活动",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395348.shtml",
-      "date": "2025-04-06 19:45",
-      "author": "中新网社会新闻",
-      "timestamp": 1743939906.0,
-      "summary": "中新网上海4月6日电 (吕客 许婧)澜湄合作已迈入了第十个年头，中老铁路已成为澜湄区域互联互通的典范。记者6日从上海应用技术大学获悉，该校与老挝苏发努冯大学携手举办了以“铁路互联，民心相通”为主题的2025“澜湄周”之“共话澜湄铁路暨魔都牵手古都”活动，通过多层次对话、文化交融实践，持续书写着中老两",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "创新高！清明假期全社会跨区域人员流动量约7.9亿人次",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395349.shtml",
-      "date": "2025-04-06 19:44",
-      "author": "中新网社会新闻",
-      "timestamp": 1743939856.0,
-      "summary": "来自交通运输部的最新数据显示，清明假期三天，预计全社会跨区域人员流动量约7.9亿人次，创清明假期出行量新高。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "清明假期北京市属公园接待游客225万余人次",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395332.shtml",
-      "date": "2025-04-06 19:42",
-      "author": "中新网社会新闻",
-      "timestamp": 1743939722.0,
-      "summary": "中新网北京4月6日电(记者 徐婧)清明假期，北京各大公园迎来春季游览高峰。北京市公园管理中心6日发布，4月4日至6日，北京香山、北海等12家市属公园和中国园林博物馆共接待游客225万余人次。游客量排名前三的是颐和园、天坛公园、玉渊潭公园。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "以动漫为媒  两岸青少年彼此交流共同成长",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395337.shtml",
-      "date": "2025-04-06 19:41",
-      "author": "中新网社会新闻",
-      "timestamp": 1743939682.0,
-      "summary": "中新网上海4月6日电 (记者 缪璐)上海东方明珠与台北101大楼“同框”、上海与台北两所徐汇中学“见面”、京剧、傩戏、夜市、少数民族服饰……近日，首届“同契之光”海峡两岸青少年动漫研习营暨优秀作品展在上海新世界城开营。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "清明假期北京全市公园纳客606.32万人次",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395344.shtml",
-      "date": "2025-04-06 19:39",
-      "author": "中新网社会新闻",
-      "timestamp": 1743939548.0,
-      "summary": "中新网北京4月6日电(记者 徐婧)北京市园林绿化局6日发布，4月4日至6日清明假期三天，北京全市公园共接待游客606.32万人次，与去年同期相比增加10.5%。假期纳客量排名前三的公园为颐和园、天坛公园、玉渊潭公园。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "哈尔滨冰雪消融热度“续航” 主题乐园抢占假日旅游C位",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395345.shtml",
-      "date": "2025-04-06 19:38",
-      "author": "中新网社会新闻",
-      "timestamp": 1743939508.0,
-      "summary": "中新网哈尔滨4月6日电 (记者 王琳)开春了，冰雪消融后的哈尔滨还有什么好玩的？记者于6日采访获悉，哈尔滨清明假日旅游市场热度高涨，各大主题乐园成为热门旅游目的地。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "不用重新调设置，任天堂 Switch 存储资料及设定可“完整传送”至 Switch 2",
-      "link": "https://www.ithome.com/0/843/348.htm",
-      "date": "2025-04-06 19:33",
-      "author": "IT之家",
-      "timestamp": 1743939233.0,
-      "summary": "IT之家 4 月 6 日消息，任天堂 Switch 2 将于 6 月 5 日全球正式发售，港版 3450 港币（IT之家注：现汇率约合 3233 元人民币），日版 49980~69980 日元（现汇率约合 2492 ~ 3489 元人民币）。据任天堂官网介绍，玩家可以通过“完整传送”功能，将目前为止",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "日本东电已结束使用福岛一核处理水养鱼的试验",
-      "link": "https://www.ithome.com/0/843/347.htm",
-      "date": "2025-04-06 19:28",
-      "author": "IT之家",
-      "timestamp": 1743938913.0,
-      "summary": "IT之家 4 月 6 日消息，据日本共同社报道，日本东京电力公司已于 3 月底结束了使用福岛第一核电站产生的含放射性物质氚的处理水饲养比目鱼和鲍鱼的试验。据称，剩下的约 470 条比目鱼等将用于放射性物质的分析训练。试验使用的是经由多核素去除设备（ALPS）净化的处理水，并用海水稀释。将水槽内的氚浓",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "20余人组成、涵盖多个科室 中国救援队伍在缅甸曼德勒义诊",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395342.shtml",
-      "date": "2025-04-06 19:27",
-      "author": "中新网社会新闻",
-      "timestamp": 1743938863.0,
-      "summary": "缅甸中部发生强震以来，多支中国救援队伍在震区参与救援。昨天(5日)，中国救援队伍在曼德勒为当地民众开展了义诊服务。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "乘联分会崔东树：3 月份乘用车降价车型数量 23 款，较去年同期大幅减少",
-      "link": "https://www.ithome.com/0/843/345.htm",
-      "date": "2025-04-06 19:11",
-      "author": "IT之家",
-      "timestamp": 1743937867.0,
-      "summary": "IT之家 4 月 6 日消息，今日，乘联分会秘书长崔东树通过其个人微信公众号发文称，2025 年乘用车市场降价促销力度仍保持较强水平。IT之家从报告获悉，1 月有 7 款车型降价，2 月份有 21 款车型降价，3 月份降价车型数量 23 款，相对于历史来看也是较高的水平，但较去年 3 月份的 51",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "上海清明假日消费维权畅通有序 祭祀用品等消费投诉同比有所下降",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395334.shtml",
-      "date": "2025-04-06 19:06",
-      "author": "中新网社会新闻",
-      "timestamp": 1743937616.0,
-      "summary": "中新网上海4月6日电 (记者 许婧)上海市市场监管局6日发布的最新消息显示，2025年清明假期，上海假日消费维权畅通有序，网购、直播带货等诉求较集中，祭祀用品、节令食品等消费投诉同比有所下降。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "四月天象：天琴座流星雨和令人惊叹的M3“星城”照亮天空",
-      "link": "https://www.cnbeta.com.tw/articles/science/1490956.htm",
-      "date": "2025-04-06 18:54",
+      "title": "苹果获准将TikTok保留在App Store中 直至与美国达成协议",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1490998.htm",
+      "date": "2025-04-07 05:35",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743936894.0,
-      "summary": "今年 4 月，天空上演了一场令人眼花缭乱的表演——观看木星、金星和火星等行星在清晨和傍晚的天空中滑行，捕捉照亮夜空的天琴座流星雨，探索古老的球状星团 M3 的迷人“星城”。无论您是业余观星者还是望远镜专家，每个人都可以享受其中的乐趣。 阅读全文",
+      "timestamp": 1743975326.0,
+      "summary": "在美国政府保证在未来 75 天内不会采取任何行动之后，&nbsp;苹果公司被告知可以将 TikTok 应用程序保留在App Store中。美国司法部长帕姆·邦迪于 4 月 4 日星期五致信苹果和Google，要求这两家公司遵守特朗普总统的新行政命令。该行政命令进一步延长了美国之前威胁禁止 TikTo",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
-      "title": "人工智能为什么不能驾驶你的汽车？因为它会在基本数学方面撒谎",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1490954.htm",
-      "date": "2025-04-06 18:48",
+      "title": "OpenAI 测试 ChatGPT-4o 图像生成模型的水印",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1490996.htm",
+      "date": "2025-04-07 05:34",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743936504.0,
-      "summary": "我第一次学开车是在 10 岁左右，16 岁时就拿到了驾照。人工智能发展到现在已经 73 岁了，但仍然不会开车。这是怎么回事？人工智能无法驾驶汽车的原因有很多，而这些原因都与电子设备有关。 阅读全文",
+      "timestamp": 1743975246.0,
+      "summary": "据报道，OpenAI 正在为图像生成模型测试新的“水印”，该模型是 ChatGPT 4o 模型的一部分。这是一个有趣的举措，可能是因为越来越多的用户使用 ImageGen 模型生成吉卜力工作室的艺术作品。事实上，ChatGPT 之所以成为新闻，很大程度上是因为图像生成模型，这是迄今为止最先进的多模态",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
-      "title": "清明节小长假探访“飞机餐厅”：当三万英尺邂逅烟火人间",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395308.shtml",
-      "date": "2025-04-06 18:27",
-      "author": "中新网社会新闻",
-      "timestamp": 1743935234.0,
-      "summary": "中新网鄂尔多斯4月6日电 题：清明节小长假探访“飞机餐厅”：当三万英尺邂逅烟火人间",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "侨乡海南文昌量身打造青年就业创业支持政策体系",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395305.shtml",
-      "date": "2025-04-06 18:26",
-      "author": "中新网社会新闻",
-      "timestamp": 1743935190.0,
-      "summary": "中新网海南文昌4月6日电 (记者 符宇群)“来文昌创业，您将体验到‘拎包入住’的便利，不仅提供免费办公用房、办公设备，补贴水电费等，同时还提供政策咨询、技术对接、创业指导、市场拓展等‘保姆式’服务。”海南省文昌市副市长王廷太在此间举行的2025年第十一届海南文昌南洋文化节上，详细介绍文昌市为青年量身",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "以消失为目标 普利兹克奖得主刘家琨以生态建筑诠释滇池保护理念",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395302.shtml",
-      "date": "2025-04-06 18:24",
-      "author": "中新网社会新闻",
-      "timestamp": 1743935086.0,
-      "summary": "中新网昆明4月6日电 题：以消失为目标 普利兹克奖得主刘家琨以生态建筑诠释滇池保护理念",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "家庭智慧旗舰 SUV 鸿蒙智行问界 M8 汽车小订突破 10 万台",
-      "link": "https://www.ithome.com/0/843/342.htm",
-      "date": "2025-04-06 18:24",
-      "author": "IT之家",
-      "timestamp": 1743935044.0,
-      "summary": "IT之家 4 月 6 日消息，据多位博主 / 用户分享，家庭智慧旗舰 SUV 鸿蒙智行问界 M8 汽车小订突破 10 万台。该车于 3 月 6 日开启预订，预售价为 36.8 万元。IT之家汇总该车主要信息如下：问界 M8 定位“家庭智慧旗舰 SUV”，车身长宽高分别为&nbsp;5190/1999",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "冒险游戏《北方之魂 2》5 月 8 日发售，登陆 PS5、Xbox 及 PC 平台",
-      "link": "https://www.ithome.com/0/843/341.htm",
-      "date": "2025-04-06 18:16",
-      "author": "IT之家",
-      "timestamp": 1743934568.0,
-      "summary": "IT之家 4 月 6 日消息，发行商 Silver Lining Interactive 和开发商 Infuse Studio 宣布，冒险游戏《北方之魂 2》（Spirit of the North 2）将于 5 月 8 日在 PS5 / Xbox Series X|S、Steam 平台发售。游戏支",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "（乡村行·看振兴）春茶吐新绿 “一片叶子”如何点绿成金？",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395303.shtml",
-      "date": "2025-04-06 18:13",
-      "author": "中新网社会新闻",
-      "timestamp": 1743934397.0,
-      "summary": "中新网杭州4月6日电 (郭其钰)春风拂皋亭，茶韵满山岗。清明时节，浙江杭州上城区丁兰街道沿山村的生态茶园再次泛起新绿，空气中弥漫着沁人心脾的茶香。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "民政部：清明节假期第三天各地祭扫活动安全平稳有序",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395304.shtml",
-      "date": "2025-04-06 18:03",
-      "author": "中新网社会新闻",
-      "timestamp": 1743933792.0,
-      "summary": "中新网4月6日电 据民政部网站消息，4月6日是清明节假期最后一天，祭扫人数较昨日继续回落。据统计，今日全国有6.55万家殡葬服务机构提供现场祭扫服务，共有30.7万名工作人员参与服务保障工作；共接待现场祭扫群众767.12万人次，疏导祭扫群众车辆155.98万台次，分别较昨日减少43.8%和52.2",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "12针供电接口惹祸 RTX 5090与电源两头烧熔：两万多的显卡直接报废",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1490952.htm",
-      "date": "2025-04-06 17:58",
+      "title": "Windows 11 正测试“显示较小的任务栏按钮”功能",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1490994.htm",
+      "date": "2025-04-07 05:32",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743933518.0,
-      "summary": "近日，一位Reddit用户分享了其微星RTX 5090 Gaming TRIO OC显卡和配套电源因12VHPWR供电接口烧毁的惨状。该用户表示，其使用的是海盗船SF1000L电源附赠的原厂线材，未超频的情况下，显卡和电源两端的12针接口均出现塑料鼓包、金属针脚熔毁的情况，价值约2900美元（约合人",
+      "timestamp": 1743975179.0,
+      "summary": "Windows 11 KB5055625 现已在 Dev Channel 上发布，它有很多有趣的功能。一个是重新设计的“开始”菜单，没有“推荐”板块，另一个是自动缩放任务栏图标的功能。此功能称为“显示较小的任务栏按钮”，您可以在&nbsp;“设置”&nbsp;&nbsp;&gt;&nbsp;&nbs",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
+    },
+    {
+      "title": "美国太空部队授予SpaceX和另外两家公司137亿美元的国家安全任务合同",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1490992.htm",
+      "date": "2025-04-07 04:22",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1743970934.0,
+      "summary": "美国太空部队已根据国家安全太空发射第三阶段计划向 SpaceX、联合发射联盟和蓝色起源授予了价值 137 亿美元的合同。这些合同将持续到 2029 年，标志着三家公司首次同时处理最高优先级的军事卫星任务——标志着国防太空发射竞争的新时代。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "分析认为苹果将iPhone生产转移到美国\"在任何情况下都不会发生\"",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1490990.htm",
+      "date": "2025-04-07 02:33",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1743964394.0,
+      "summary": "iPhone 系列一直是苹果的摇钱树，无论该公司涉足多少类别，其移动设备业务始终蓬勃发展，为公司带来了最大的收入份额，并帮助在技术行业建立了新的梯队。凭借在中国、越南和现在的印度等地区建立的全面供应链，苹果不仅可以保证每年数百万台的出货量，还可以利用这些地区的低劳动力成本来最大化利润。这些原因以及其",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "一种细菌可以在制作月壤砖块时填补它的裂缝",
+      "link": "https://www.cnbeta.com.tw/articles/science/1490988.htm",
+      "date": "2025-04-07 02:29",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1743964147.0,
+      "summary": "人类很快就会更频繁重新登上月球，这意味着我们在那里需要有休息、研究和工作的地方，就地取材建造和维护居住地将非常困难，但细菌可以通过帮助修复由月球土壤制成的破裂砖块来提供帮助。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "“太阳鸟”聚变概念火箭号称可以在四年内将12名成年男子送往冥王星",
+      "link": "https://www.cnbeta.com.tw/articles/science/1490986.htm",
+      "date": "2025-04-07 02:26",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1743963981.0,
+      "summary": "Pulsar Fusion 是一家总部位于英国的先进推进技术公司，该公司上个月推出了“太阳鸟”火箭概念，这是一种基于核聚变的火箭。“太阳鸟”火箭旨在通过大幅缩短星际旅行时间来彻底改变太空旅行。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "都说页游要死了 结果老外想做自己的“贪玩蓝月”？",
+      "link": "https://www.cnbeta.com.tw/articles/game/1490984.htm",
+      "date": "2025-04-07 02:24",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1743963847.0,
+      "summary": "提起网页游戏，你最先想到的是什么？是浮夸的大翅膀装扮？是闪瞎钛合金狗眼的特效？是开局一条狗刀刀 999 ？可能在很多人的印象里，网页游戏这四个大字，已经和 “ 过时 ” 画上等号了。这不是单纯的身边统计学，中国音像与数字出版协会发表的《 2024 年中国游戏产业报告 》，就指出了网页游戏市场实际销售",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "哺乳动物的眼睛过去失去一个骨环 而这让我们拥有强大的夜视潜能",
+      "link": "https://www.cnbeta.com.tw/articles/science/1490982.htm",
+      "date": "2025-04-07 02:22",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1743963762.0,
+      "summary": "不知道，大家平时有没有注意到，晚上关灯之后，只要过一会儿，我们的眼睛就能适应黑暗，并看见东西。然而，您很难在黑夜看到颜色，您只能看到物体的轮廓，但这也已经足以让我们在黑夜中辨认周围环境了。夜视能力，这绝对是哺乳动物眼睛的天赋，虽然其它种类的动物也可以在黑夜中看到东西，但绝对没有一种动物的眼睛能像哺乳",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "研究发现石榴皮可用来制作可食用的草莓保鲜涂层",
+      "link": "https://www.cnbeta.com.tw/articles/science/1490980.htm",
+      "date": "2025-04-07 00:21",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1743956515.0,
+      "summary": "如果你吃过石榴，一定会知道石榴的很大一部分是由厚厚的果皮组成的——这些果皮通常会被扔掉。然而，这些果皮就可以用作可食用的涂层，帮助防止草莓腐烂。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果或许能够暂时推迟产品涨价 但不会持续太久",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1490978.htm",
+      "date": "2025-04-07 00:20",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1743956424.0,
+      "summary": "面对高额关税，苹果将不得不提高美国和其他地区&nbsp;iPhone等热销产品的价格，但正试图将涨价推迟到下一次硬件升级。一份新报告显示，苹果正在采取多项举措，以减轻美国和其他国家对其旗舰产品征收关税带来的成本上涨。也就是说，美国消费者应该预计在不久的将来会看到 iPhone、Mac和其他硬件产品的",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "智慧车载支持 Android auto 功能，一加 11 手机获 ColorOS 15.0.0.700 升级",
+      "link": "https://www.ithome.com/0/843/382.htm",
+      "date": "2025-04-06 23:31",
+      "author": "IT之家",
+      "timestamp": 1743953485.0,
+      "summary": "IT之家 4 月 6 日消息，一加 11 手机现开启 ColorOS 15.0.0.700(CN01) 版本升级，系统包大小约 1.07GB，新增智慧车载支持 Android auto、应用后台定位风险提醒等功能。IT之家附一加 11 手机此次更新内容如下：系统新增桌面文件夹可拖拽调整大小为 1×2",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Google Pixel 9a 拆解视频发布 让我们一睹其内部",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1490976.htm",
+      "date": "2025-04-06 23:11",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1743952308.0,
+      "summary": "Google上个月发布了Pixel&nbsp;9a&nbsp;，但随后由于未知问题而推迟了发布。这款手机最终将于下周（具体时间是4 月 10 日）上架。在此之前，YouTuber PBKreviews 设法拿到了一台设备，并在他现在传统的拆解视频之一中将其拆开。所以如果你一直想知道 Pixel 9a",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "加密投资新忧：比特币自我保管的风险攀升",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1490974.htm",
+      "date": "2025-04-06 23:08",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1743952090.0,
+      "summary": "是否将加密货币作为长期持有资产可能是对数字资产感兴趣的投资者需要做出的最大决策，但像比特币这样的加密货币该存放在哪里，可能会成为最具决定性的问题。在今年早些时候加利福尼亚发生野火之后，社交媒体上开始出现一些声称比特币损失的帖子。一些用户展示了原本用于保护助记词的金属板被烧毁，变得难以辨认，或者描述了",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "广汽国际与泰国机场管理局达成战略合作，交付 50 台 AION Y Plus 汽车",
+      "link": "https://www.ithome.com/0/843/378.htm",
+      "date": "2025-04-06 22:51",
+      "author": "IT之家",
+      "timestamp": 1743951090.0,
+      "summary": "IT之家 4 月 6 日消息，广汽国际 4 月 4 日与泰国机场管理局（简称 AOT）达成战略合作，正式交付 50 台 AION Y Plus 纯电动车，投入运营服务，为素万那普国际机场乘客提供出行选择。据IT之家此前报道，2025 款广汽埃安 AION Y Plus 纯电 SUV 汽车于去年 12",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Meta LIama 4 重夺开源第一：DeepSeek 同等代码能力但参数减半，一张 H100 就能跑，还有两万亿参数超大杯",
+      "link": "https://www.ithome.com/0/843/377.htm",
+      "date": "2025-04-06 22:48",
+      "author": "IT之家",
+      "timestamp": 1743950910.0,
+      "summary": "AI 不过周末，硅谷也是如此。大周日的，Llama 家族上新，一群 LIama 4 就这么突然发布了。这是 Meta 首个基于 MoE 架构模型系列，目前共有三个款：Llama 4 Scout、Llama 4 Maverick、Llama 4 Behemoth。最后一个尚未推出，只是预告，但 Met",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "中科大华为发布生成式推荐大模型：昇腾 NPU 可部署，背后认知一同公开",
+      "link": "https://www.ithome.com/0/843/376.htm",
+      "date": "2025-04-06 22:41",
+      "author": "IT之家",
+      "timestamp": 1743950485.0,
+      "summary": "推荐大模型也可生成式，并且首次在国产昇腾 NPU 上成功部署！在信息爆炸时代，推荐系统已成为生活中不可或缺的一部分。Meta 率先提出了生成式推荐范式 HSTU，将推荐参数扩展至万亿级别，取得显著成果。近期，中科大与华为合作开发了推荐大模型部署方案，可应用于多个场景。探索过程中还有哪些经验与发现？最",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "中国云南救援医疗队完成在缅地震救援任务返回昆明",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395391.shtml",
+      "date": "2025-04-06 22:39",
+      "author": "中新网社会新闻",
+      "timestamp": 1743950397.0,
+      "summary": "中新社昆明4月6日电 (记者 缪超)中国云南救援医疗队6日完成在缅甸的地震救援任务，乘坐飞机顺利返回云南昆明。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "比亚迪汉 L、唐 L 实车亮相，“划时代电动车该有的技术”即将揭晓",
+      "link": "https://www.ithome.com/0/843/375.htm",
+      "date": "2025-04-06 22:39",
+      "author": "IT之家",
+      "timestamp": 1743950368.0,
+      "summary": "IT之家 4 月 6 日消息，今日早些时候，比亚迪官宣汉 L、唐 L 车型将于 4 月 9 日 19:00 上市。在最新预热视频中，比亚迪展示了两款新车的实车，并称：“超高转速、智能底盘，什么是划时代电动车该有的技术？”。据IT之家此前报道，两款车型均基于比亚迪超级 e 平台打造，该平台具备 100",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "福建清明假期接待游客逾540万人次 游客青睐个性化“疗愈式漫游”",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395395.shtml",
+      "date": "2025-04-06 22:37",
+      "author": "中新网社会新闻",
+      "timestamp": 1743950251.0,
+      "summary": "中新社福州4月6日电 (叶秋云)福建省文化和旅游厅6日晚披露，据第三方测算，2025年清明假日期间，福建累计接待游客547.46万人次，同比增长23.9%；游客旅游总花费51.22亿元人民币，同比增长27.1%。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "中国首艘国产大型邮轮爱达·魔都号首次亮相上海以外的中国港口城市",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395396.shtml",
+      "date": "2025-04-06 22:36",
+      "author": "中新网社会新闻",
+      "timestamp": 1743950203.0,
+      "summary": "中新社青岛4月6日电 (胡耀杰  张孝鹏)中国首艘国产大型邮轮爱达·魔都号6日满载四千余名宾客从青岛国际邮轮港启航，前往韩国济州和日本福冈。这是爱达·魔都号首次在上海外的中国港口城市亮相，标志着其将上海之外中国城市作为母港的中国海岸巡游拉开帷幕。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "蔚来纯电小车萤火虫 4 款内饰配色公布，各提供 2 种不同风格",
+      "link": "https://www.ithome.com/0/843/371.htm",
+      "date": "2025-04-06 22:23",
+      "author": "IT之家",
+      "timestamp": 1743949385.0,
+      "summary": "IT之家 4 月 6 日消息，蔚来纯电小车 firefly 萤火虫将于 4 月 19 日上市，预售价 14.88 万元。这款新车的四款内饰配色已经公布，各提供自在版、发光版 2 种不同风格。plum 惬意紫pine 松弛绿obsidian 沉静黑travertine 温暖米据官方介绍，自在版内饰采用",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "《赛博朋克2077》《霍格沃茨之遗》Switch 2上手实机",
+      "link": "https://www.cnbeta.com.tw/articles/game/1490972.htm",
+      "date": "2025-04-06 22:19",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1743949182.0,
+      "summary": "在美国纽约Switch 2试玩体验会上，媒体巴哈姆特试玩了《赛博朋克2077》、《霍格沃茨之遗》等游戏。以下是这两个第三方3A首发游戏在Switch 2上的实机效果。整体来看，画面观看还是非常不错的。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "AMD可能推出Radeon RX 9070 GRE显卡 配备12GB显存",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1490970.htm",
+      "date": "2025-04-06 22:19",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1743949154.0,
+      "summary": "AMD在今年3月初推出了新一代RDNA 4架构的Radeon RX 9070系列显卡，理论上下一批产品应该就是第二季度的Radeon RX 9060 XT，不过RX 9060 XT用的Navi 44 GPU是128bit显存位宽的，所以只能弄出8GB或者16GB显存的版本，这就让RX 9070和RX",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "创新高：清明假期全社会跨区域人员流动量约 7.9 亿人次",
+      "link": "https://www.ithome.com/0/843/370.htm",
+      "date": "2025-04-06 22:13",
+      "author": "IT之家",
+      "timestamp": 1743948827.0,
+      "summary": "IT之家 4 月 6 日消息，据央视新闻报道，交通运输部的最新数据显示，清明假期三天，预计全社会跨区域人员流动量约 7.9 亿人次、日均 2.64 亿人次、比去年同期增长 7.1%，创清明假期出行量新高。IT之家附各运输方式客运情况如下：公路人员流动量预计为 7.3 亿人次。滴滴出行数据显示，假期打",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "以色列和土耳其的叙利亚博弈丨刊中人",
+      "link": "https://www.infzm.com/contents/291226",
+      "date": "2025-04-06 22:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1743948005.0,
+      "summary": "（本文首发于南方人物周刊）\n                \n                \n                                        南方人物周刊记者 杨楠",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "缅甸强震已致该国3564人死亡丨滚动",
+      "link": "https://www.infzm.com/contents/290672",
+      "date": "2025-04-06 22:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1743948000.0,
+      "summary": "综合",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "中粮资本：不法分子散布虚假 App 链接，公司已向相关部门举报",
+      "link": "https://www.ithome.com/0/843/367.htm",
+      "date": "2025-04-06 21:48",
+      "author": "IT之家",
+      "timestamp": 1743947289.0,
+      "summary": "IT之家 4 月 6 日消息，中粮资本控股股份有限公司昨日发布声明，称发现有不法分子通过短信、微信等渠道散布虚假“中粮资本”App 链接，并通过该虚假 App 诱导用户充值扣费等。IT之家附中粮资本公司声明如下：近日，我公司发现有不法分子通过短信、微信等渠道散布虚假“中粮资本”App 链接，并通过该",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "华龙一号漳州核电 2 号汽轮发电机组非核蒸汽冲转圆满完成",
+      "link": "https://www.ithome.com/0/843/366.htm",
+      "date": "2025-04-06 21:47",
+      "author": "IT之家",
+      "timestamp": 1743947274.0,
+      "summary": "IT之家 4 月 6 日消息，据中国核电工程有限公司官方消息，2025 年 04 月 06 日 04 时 06 分，在全体参建人员的共同努力下，由中核工程总包的漳州核电 2 号机组首次非核蒸汽冲转升至额定转速 1500rpm 并稳定运行。6 时 34 分，机组达到盘车转速，盘车自动啮合投入。经主控",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "OPPO Find X8 Ultra 手机证件照公布，4 月 10 日全球首发",
+      "link": "https://www.ithome.com/0/843/364.htm",
+      "date": "2025-04-06 21:34",
+      "author": "IT之家",
+      "timestamp": 1743946494.0,
+      "summary": "IT之家 4 月 6 日消息，OPPO Find X8 Ultra 手机将于 4 月 10 日全球首发，这款新机的证件照已经在工信部公布。入网机型采用了白色配色，机身背面采用居中大圆相机模组。除了常规的音量键以外，新机另一侧还配备一个按钮，预计将带来更多的功能。IT之家整理曝光配置如下（以上市为准）",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "【IT之家评测室】OPPO Find X8s 上手体验：超窄边框、超 mini、超性能的轻薄小直屏",
+      "link": "https://www.ithome.com/0/843/363.htm",
+      "date": "2025-04-06 21:28",
+      "author": "IT之家",
+      "timestamp": 1743946131.0,
+      "summary": "这段时间，全新的 OPPO Find X8 系列手机可谓是数码圈的绝对焦点了，不管是小屏的 Find X8s 还是行业唯一直屏超大杯的 Find X8 Ultra，预热以来的一举一动便备受瞩目。好在今天 OPPO Find X8s 终于迎来全方位的解禁，尽管距离产品发布会还有整四天的时间。市场对小屏",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "2025 清明档新片票房破 3 亿，《我的世界大电影》《向阳・花》《不说话的爱》位列前三",
+      "link": "https://www.ithome.com/0/843/362.htm",
+      "date": "2025-04-06 21:28",
+      "author": "IT之家",
+      "timestamp": 1743946093.0,
+      "summary": "IT之家 4 月 6 日消息，据猫眼专业版数据，2025 年 4 月 6 日 17 时 20 分，2025 年清明档新片总票房破 3 亿，《我的世界大电影》暂列第一，《向阳・花》和《不说话的爱》分列二三位。IT之家注意到，截至 4 月 6 日 21 时，2025 清明档总票房 3.75 亿、总人次",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "越南越捷航空国内航线将使用中国商飞 C909 客机",
+      "link": "https://www.ithome.com/0/843/361.htm",
+      "date": "2025-04-06 21:17",
+      "author": "IT之家",
+      "timestamp": 1743945443.0,
+      "summary": "IT之家 4 月 6 日消息，据路透社当地时间 4 月 5 日报道，路透社看到一份公司声明：越南越捷航空将于 4 月中旬首次在国内航线上运营中国制造的中国商飞短途支线客机 C909。声明显示，越捷航空计划于 4 月 15 日起，使用 C909 在越南首都河内和南部昆仑群岛之间运营四趟航班。同日，该公",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "（乡村行·看振兴）从“望天收”到“链上飞” 浙江永嘉“甜蜜事业”焕新机",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395374.shtml",
+      "date": "2025-04-06 21:15",
+      "author": "中新网社会新闻",
+      "timestamp": 1743945304.0,
+      "summary": "中新网温州4月6日电(周健 李彩云)近日，位于浙江温州永嘉金溪镇的红岩漈山洞仓储项目进场施工，这座藏于青山间的“自然冷库”将有效延长鲜果保鲜期，是当地多措并举以“小枇杷”撬动“大产业”的缩影。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "解码中国最大国有林区：从“一木独大”到“百花齐放”",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395376.shtml",
+      "date": "2025-04-06 21:10",
+      "author": "中新网社会新闻",
+      "timestamp": 1743945050.0,
+      "summary": "中新网内蒙古大兴安岭4月6日电 题：解码中国最大国有林区：从“一木独大”到“百花齐放”",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "低空瞭望“守山护水” 浙南山区“插翅” 助力生态发展加速",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395370.shtml",
+      "date": "2025-04-06 21:10",
+      "author": "中新网社会新闻",
+      "timestamp": 1743945046.0,
+      "summary": "中新网温州4月6日电(周健 陈祥磊)“低空经济发力赋能生态功能区巡护守护，实现了绿水青山全时段、全系统、全覆盖呵护，为生态资源转化变现奠定了基础。”近日，在浙江温州泰顺，经无人机“飞手”调试后，一架专门负责保护区生态巡护巡防的无人机升空，为生态监测构筑起“空中瞭望哨”。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“轧蚕花”民俗观察：江南蚕桑文化何以历久弥新？",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395367.shtml",
+      "date": "2025-04-06 21:09",
+      "author": "中新网社会新闻",
+      "timestamp": 1743944958.0,
+      "summary": "中新网湖州4月6日电(胡丰盛)清明时节，浙江湖州的德清、南浔等地轮番上演的“轧蚕花”活动，吸引数万游客涌入杭嘉湖平原。当养蚕业淡出日常生活，这项千年民俗却以蚕花巡游、非遗市集等新形式焕发活力。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "清明假期四川“三大特色场景”促文旅消费成绩斐然",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395384.shtml",
+      "date": "2025-04-06 21:08",
+      "author": "中新网社会新闻",
+      "timestamp": 1743944904.0,
+      "summary": "中新网成都4月6日电 (唐倩)6日，据四川省文化和旅游厅消息，清明假期，四川全省纳入统计的886家A级旅游景区，累计接待游客1274.57万人次、实现门票收入11988.4万元，与2024年清明假期同口径(826家A级旅游景区)相比，分别增长16.06%、11.32%。全省图书馆、文化馆、博物馆累计",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "广东税务部门推出30条措施助力现代化产业体系建设",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395369.shtml",
+      "date": "2025-04-06 21:07",
+      "author": "中新网社会新闻",
+      "timestamp": 1743944832.0,
+      "summary": "中新网广州4月6日电 (孙秋霞 岳瑞轩)国家税务总局广东省税务局近日发布《关于进一步发挥税收职能作用助力广东省现代化产业体系建设的若干措施》(简称《措施》)，从助力激发产业科技创新动力、助力壮大新兴未来产业等十方面推出30条税务支持措施，助力广东加快建设更具国际竞争力的现代化产业体系。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "侨见海南自贸港：咖啡产业“玩”出老少皆宜新花样",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395387.shtml",
+      "date": "2025-04-06 21:06",
+      "author": "中新网社会新闻",
+      "timestamp": 1743944772.0,
+      "summary": "中新网海南万宁4月6日电 (张月和)喝完的咖啡渣，经处理后被用来创作沙画；喜欢在海边玩沙的小朋友，在工场里玩起了晒干的咖啡豆；还有咖啡粉壁画、咖啡豆手链、咖啡香薰……在海南万宁M1咖啡奇幻工场，咖啡被“玩”出了新花样。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "湖北百花“接力绽放” 入境游市场增长",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395357.shtml",
+      "date": "2025-04-06 21:04",
+      "author": "中新网社会新闻",
+      "timestamp": 1743944688.0,
+      "summary": "中新社武汉4月6日电 (记者 梁婷)记者6日从湖北省文旅厅获悉，随着湖北境内百花“接力绽放”，该省赏花游热度持续走高，入境游市场呈增长态势。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "广东江门古劳水乡：古韵国潮 演绎不一样的岭南风情",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395352.shtml",
+      "date": "2025-04-06 21:03",
+      "author": "中新网社会新闻",
+      "timestamp": 1743944616.0,
+      "summary": "中新网江门4月6日电 (记者 程景伟)以“水韵清明·岭南雅集”为主题的水上古韵国潮活动4日至6日在广东江门古劳水乡举办。活动依托岭南水乡特色，通过民乐泛舟、马术拾锦、咏春拳等节目，在碧水荷塘、鹭影翩跹间，为游客呈现了不一样的岭南风情。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "清明假期黄山迎客超9.5万 四海游人尽享春日美景",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395330.shtml",
+      "date": "2025-04-06 21:03",
+      "author": "中新网社会新闻",
+      "timestamp": 1743944592.0,
+      "summary": "中新网黄山4月6日电 (王磊 张强)今年清明假期，安徽省黄山风景区天气持续晴好，三天内共接待游客超9.5万人，同比增长26%。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "吉林雪季收官：雪场打造“新玩法”迎春",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395328.shtml",
+      "date": "2025-04-06 21:02",
+      "author": "中新网社会新闻",
+      "timestamp": 1743944570.0,
+      "summary": "中新网吉林4月6日电 (记者 石洪宇)6日，来自广东、辽宁、上海等地的数百名滑雪客装扮成奥特曼、白雪公主、锦衣卫等形象，尝试滑过雪道上十几米长的水池。无论是否挑战成功，都会引发现场观众的欢呼声。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "任天堂 Switch 2 或通过“双重价格”防止倒卖",
+      "link": "https://www.ithome.com/0/843/359.htm",
+      "date": "2025-04-06 20:57",
+      "author": "IT之家",
+      "timestamp": 1743944270.0,
+      "summary": "IT之家 4 月 6 日消息，据日经中文网报道，任天堂针对定于 6 月 5 日发售的新款游戏机“Nintendo Switch 2”，分为只支持日语的“日语・国内专用版”和可使用英语等的“多语言支持版”，设定了不同的价格。日本国内版价格为 49980 日元（IT之家注：现汇率约合 2492 元人民币",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "电影《饥饿游戏：收获日出》定档 2026 年 11 月 20 日上映",
+      "link": "https://www.ithome.com/0/843/358.htm",
+      "date": "2025-04-06 20:54",
+      "author": "IT之家",
+      "timestamp": 1743944042.0,
+      "summary": "IT之家 4 月 6 日消息，新一部“饥饿游戏”系列电影 ——《饥饿游戏：收获日出》（暂译）已发布先导预告，影片将于 2026 年 11 月 20 日上映。IT之家查询获悉，新作《饥饿游戏：收获日出》由弗朗西斯・劳伦斯回归执导，编剧为系列电影联合编剧比利・雷（Billy Ray）。电影将于今年七月开",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "寻味香格里拉 藏式火锅里的团圆新意",
+      "link": "http://www.chinanews.com/sh/2025/04-06/10395321.shtml",
+      "date": "2025-04-06 20:51",
+      "author": "中新网社会新闻",
+      "timestamp": 1743943905.0,
+      "summary": "中新社云南迪庆4月6日电 题：寻味香格里拉 藏式火锅里的团圆新意",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "创新高，清明假期全社会跨区域人员流动量约7.9亿人次",
+      "link": "https://www.infzm.com/contents/291222",
+      "date": "2025-04-06 19:50",
+      "author": "南方周末-新闻",
+      "timestamp": 1743940202.0,
+      "summary": "央视新闻",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "欧洲人开始吃虫子，虫食能否颠覆传统饮食格局？",
+      "link": "https://www.infzm.com/contents/291218",
+      "date": "2025-04-06 18:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1743933600.0,
+      "summary": "“（以前）如果他们在厨房发现一只虫子，会关闭你的餐馆；现在他们却想把虫子放到你的餐盘里！真是荒唐啊！！！”\n\n（本文首发于南方人物周刊）\n                \n                \n                                        南方人物周刊特",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
     },
     {
       "title": "上交所公示第二届上市委、重组委委员候选人名单",
@@ -262,46 +502,6 @@
       "category": "Blog"
     },
     {
-      "title": "部分欧洲零售商无视任天堂建议零售价 给游戏标低价销售",
-      "link": "https://www.cnbeta.com.tw/articles/game/1490950.htm",
-      "date": "2025-04-06 17:58",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743933486.0,
-      "summary": "任天堂直面会引发的一大热门话题是任天堂的游戏定价策略。《马里奥赛车世界》的建议零售价为80美元/75英镑，而《咚奇刚》新作等游戏的建议价稍低，为69.99美元/66.99英镑（我们还得补充一点，这两款游戏数字版的售价更便宜），如此高昂的价格让人难以接受。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "中国电车生死战：每2天1款新车上市 自动驾驶和价格战成生存密码",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1490948.htm",
-      "date": "2025-04-06 17:57",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743933453.0,
-      "summary": "4月6日，金融时报发文，从车顶搭载无人机的汽车，到免费的自动驾驶软件以及5分钟充满电的技术，中国公司在电动汽车领域的创新步伐十分迅猛，一些分析师认为，这正推动着汽车行业迎来从未有过的激烈竞争。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "杀死抗生素耐药性细菌的药物在花园里不知不觉地生长出来",
-      "link": "https://www.cnbeta.com.tw/articles/science/1490946.htm",
-      "date": "2025-04-06 17:56",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743933365.0,
-      "summary": "上个月，研究人员发现了一种名为“lariocidin”的新抗生素，它可以帮助对抗对常规药物无效的细菌。这一发现很重要，因为耐药性细菌正在成为一个严重的全球健康问题。每年有数百万人死于目前的抗生素对某些感染不再有效。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "顺丰首个全自营模式国际大型仓在西班牙启动运营，助力中国卖家出海",
-      "link": "https://www.ithome.com/0/843/340.htm",
-      "date": "2025-04-06 17:54",
-      "author": "IT之家",
-      "timestamp": 1743933260.0,
-      "summary": "IT之家 4 月 6 日消息，据顺丰集团官方消息，近日，顺丰在西班牙马德里的西班牙仓正式启动运营，标志着顺丰在欧洲的仓储网络又添加了重要节点。在正式运营前，该海外仓已经吸引家具、打印机行业的龙头企业入驻，并在开仓次日，完成了首批货物入仓作业。据介绍，西班牙仓位于西班牙首都马德里南部核心物流区，距离马",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "深交所公示第二届上市委、重组委委员候选人名单",
       "link": "https://36kr.com/newsflashes/3238472884977672?f=rss",
       "date": "2025-04-06 17:50",
@@ -309,16 +509,6 @@
       "timestamp": 1743933059.0,
       "summary": "36氪获悉，深圳证券交易所4月6日发布公告，日前，深交所启动了第二届上市审核委员会、第二届并购重组审核委员会组建工作。经相关单位推荐、履行相关程序，形成上市委、重组委委员候选人名单。为强化社会监督，保障上市委、重组委选聘工作公开、公平、公正，现就委员候选人名单予以公示，公示期为5个工作日。",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "为建科研站做准备，我国已开展研制第一台在月球“打砖”的机器",
-      "link": "https://www.ithome.com/0/843/338.htm",
-      "date": "2025-04-06 17:46",
-      "author": "IT之家",
-      "timestamp": 1743932777.0,
-      "summary": "IT之家 4 月 6 日消息，据中国航天科技集团消息，4 月 1 日，“九天揽月 —— 中国探月工程 20 年”展览在中国国家博物馆开幕，月球正、背面样品全球首次同时展出。中国探月工程总设计师吴伟仁在现场接受采访时表示，我国在月球探测方面还将发射嫦娥七号、嫦娥八号探测器：嫦娥七号预计在 2026 年",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -342,16 +532,6 @@
       "category": "Blog"
     },
     {
-      "title": "海外人士广西“三月三”畅玩“不夜歌圩”",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395294.shtml",
-      "date": "2025-04-06 17:36",
-      "author": "中新网社会新闻",
-      "timestamp": 1743932196.0,
-      "summary": "【东盟专线】海外人士广西“三月三”畅玩“不夜歌圩”",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
       "title": "耐克等品牌或将被迫提价",
       "link": "https://36kr.com/newsflashes/3238427410169480?f=rss",
       "date": "2025-04-06 17:34",
@@ -359,16 +539,6 @@
       "timestamp": 1743932080.0,
       "summary": "根据特朗普4月2日公布的关税清单，美国将对柬埔寨、越南、泰国等多个国家加征30%以上的对等关税，作为全球供应链上的重要一环，这些国家面临巨大的冲击。越南纺织服装协会的数据显示，2024年越南纺织品服装出口额达440亿美元，美国是其最大市场，耐克等服装品牌超过35%的产能聚集在越南。随着美国所谓“对等",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "刷社保卡也能坐高铁，天津市民可在京津城际铁路 8 个站点刷卡乘车",
-      "link": "https://www.ithome.com/0/843/337.htm",
-      "date": "2025-04-06 17:27",
-      "author": "IT之家",
-      "timestamp": 1743931650.0,
-      "summary": "IT之家 4 月 6 日消息，据“中国铁路”公众号消息，近日，天津市第三代社会保障卡加载中铁银通应用，持此卡的天津市民，可在京津城际铁路北京南、亦庄、武清、天津西、天津、军粮城北、塘沽、滨海等，8 个站点刷卡乘车。IT之家整理详情如下：▲ 图源“中国铁路”公众号，下同如何申请办理？具有完全民事行为能",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -382,94 +552,14 @@
       "category": "Blog"
     },
     {
-      "title": "特朗普新关税政策将对美国桌游行业造成毁灭性打击",
-      "link": "https://www.cnbeta.com.tw/articles/game/1490944.htm",
-      "date": "2025-04-06 17:19",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743931194.0,
-      "summary": "当无数行业因美国出台的重大新贸易关税政策而陷入动荡时，在美国，有一个行业很可能是受影响最严重的行业之一，那就是桌面游戏行业。在过去大约15年里，桌面角色扮演游戏、战棋游戏，尤其是桌游，迎来了巨大的发展热潮。诸如Kickstarter的兴起以及极客文化的主流化等因素，使得各种各样的游戏得以蓬勃发展并找",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "《我的世界》电影版导演表示自己很愿意拍摄续集",
-      "link": "https://www.cnbeta.com.tw/articles/movie/1490942.htm",
-      "date": "2025-04-06 17:19",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743931159.0,
-      "summary": "《我的世界》电影刚刚上映，尽管评价褒贬不一，但它绝对不容忽视：全方位的营销攻势无处不在，从超市货架到麦当劳的开心乐园餐，好莱坞的大佬们看着票房预期，高兴得搓起了手。在接受采访时，导演贾里德·赫斯被问及是否有兴趣拍摄续集，不出所料，他的回答是非常肯定的。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "我国首台应用全球真空压力浸渍技术的 500 兆瓦级全氢冷发电机组投产",
-      "link": "https://www.ithome.com/0/843/336.htm",
-      "date": "2025-04-06 17:15",
-      "author": "IT之家",
-      "timestamp": 1743930947.0,
-      "summary": "IT之家 4 月 6 日消息，中国电建承建的南山电厂气电扩建项目&nbsp;5 号机组近日完成试运行，标志着我国首台应用全球真空压力浸渍技术的&nbsp;500 兆瓦级全氢冷发电机组建成投产。据介绍，华能南山电厂气电扩建项目是海南省“十四五”重点能源项目，位于海南省三亚市，规划建设 4 台燃气-蒸汽",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "大量游客聚集高喊“退票”，景区致歉",
-      "link": "http://www.chinanews.com/sh/2025/04-06/10395297.shtml",
+      "title": "特朗普回应股市崩盘：暗示自己是“故意” ，喊话美国人民“挺住”",
+      "link": "https://www.infzm.com/contents/291220",
       "date": "2025-04-06 17:14",
-      "author": "中新网社会新闻",
-      "timestamp": 1743930887.0,
-      "summary": "4月6日，万岁山武侠城景区发布致歉声明：",
-      "source_url": "http://www.chinanews.com/society.shtml",
+      "author": "南方周末-新闻",
+      "timestamp": 1743930843.0,
+      "summary": "新华社",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
-    },
-    {
-      "title": "经济学家宋清辉回应被诉：胖东来没有核心竞争力 将积极反诉斗争到底",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1490940.htm",
-      "date": "2025-04-06 17:11",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743930711.0,
-      "summary": "4月6日下午消息， 胖东来近日发布关于侵权行为的处理公示（五），其中提到，宋清辉在“胖东来基层员工平均月薪9886元”的微博超话中评论“胖东来是一家没有什么核心竞争力的企业，只能变着花样靠流量活着”的言论，上述言论涉嫌对公司品牌形象进行贬损，追责金额不低于100万。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "驱动不兼容致蓝屏死机：又一批设备不能升Windows 11 24H2",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1490938.htm",
-      "date": "2025-04-06 17:10",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743930648.0,
-      "summary": "微软在Windows 11 24H2版本更新中又遇到了新的兼容性问题。微软确认了一个涉及Windows 11 24H2的Bug：运行sprotect.sys驱动程序的应用可能会导致设备出现蓝屏或黑屏报错，甚至可能导致系统无法启动或恢复。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "Google计划通过云端编译加速低端Android手机的应用和游戏安装速度",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1490936.htm",
-      "date": "2025-04-06 17:10",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743930619.0,
-      "summary": "Android系统使用 Android Runtime 来执行应用程序代码，而在安装新应用程序时Android使用名为 dex2oat 工具获取 APK 的.dex 文件，这个文件包含应用程序的编译字节码，dex2oat 会使用该文件生成一个或多个应用程序工件。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "比亚迪官宣“划时代旗舰”汉 L、唐 L 车型 4 月 9 日上市",
-      "link": "https://www.ithome.com/0/843/335.htm",
-      "date": "2025-04-06 17:09",
-      "author": "IT之家",
-      "timestamp": 1743930593.0,
-      "summary": "IT之家 4 月 6 日消息，比亚迪今日官宣，“划时代旗舰”汉 L、唐 L 车型 4 月 9 日 19:00 上市。这两款车型已于&nbsp;3 月 17 日正式开启预售，其中汉 L EV 预售价区间 27-35 万元，唐 L EV 预售价 28-36 万元。两款车型均基于比亚迪超级 e 平台打造，",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "《我的世界大电影》累计票房破 1 亿，豆瓣评分 5.8",
-      "link": "https://www.ithome.com/0/843/333.htm",
-      "date": "2025-04-06 17:04",
-      "author": "IT之家",
-      "timestamp": 1743930249.0,
-      "summary": "IT之家 4 月 6 日消息，《我的世界大电影》已于本月（4 月 4 日）在国内和美国正式上映，新片由杰瑞德・赫斯执导，片长约 101 分钟，目前累计票房已破 1 亿。IT之家查询获悉，目前《我的世界大电影》豆瓣评分 5.8，有 8.6% 的用户给出 5 星评价、18.3% 的用户给出 4 星、39",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
     },
     {
       "title": "浙商证券：关税致使调整继续，再观望、待时机",
@@ -572,46 +662,6 @@
       "category": "Blog"
     },
     {
-      "title": "LIama 4发布重夺开源第一 DeepSeek同等代码能力但参数减一半",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1490934.htm",
-      "date": "2025-04-06 15:23",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743924207.0,
-      "summary": "AI不过周末，硅谷也是如此。大周日的，Llama家族上新，一群LIama 4就这么突然发布了。这是Meta首个基于MoE架构模型系列，目前共有三个款：Llama 4 Scout、Llama 4 Maverick、Llama 4 Behemoth。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "这种奇异的“永生”生物可能掌握着逆转衰老的秘密",
-      "link": "https://www.cnbeta.com.tw/articles/science/1490932.htm",
-      "date": "2025-04-06 15:22",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743924121.0,
-      "summary": "随着年龄的增长，身体会发生自然变化，包括神经元和肌肉质量的逐渐损失，以及生育能力和伤口愈合能力的下降。先前的动物研究已经发现了几种可以减缓衰老或使特定组织恢复活力的策略，例如运动和限制热量。然而，逆转血细胞或整个生物体的衰老仍然遥不可及。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "212英尺高的NASA的Artemis II火箭已为月球任务做好充分准备",
-      "link": "https://www.cnbeta.com.tw/articles/science/1490930.htm",
-      "date": "2025-04-06 15:20",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743924047.0,
-      "summary": "美国宇航局通过将SLS火箭与固体火箭助推器整合到 Artemis II 任务中，向深空探索迈出了重要一步。此次即将发射的火箭将是阿尔忒弥斯计划中首次搭载宇航员的发射，该计划旨在建立人类在月球上的可持续存在，并为未来的火星任务奠定基础。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "美索不达米亚南部发现6000年前的古代灌溉网络",
-      "link": "https://www.cnbeta.com.tw/articles/science/1490928.htm",
-      "date": "2025-04-06 15:19",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1743923976.0,
-      "summary": "研究人员在美索不达米亚南部的埃利都地区发现了广泛且保存完好的古代灌溉渠系统，为早期农业实践提供了新的见解。由地质考古学家贾法尔·乔瑟里 (Jaafar Jotheri) 领导的研究小组发现了一个可追溯到公元前一千年之前的复杂的水管理系统。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "还有明天",
       "link": "https://www.infzm.com/contents/290864",
       "date": "2025-04-06 14:00",
@@ -700,36 +750,6 @@
       "summary": "2025年4月1日，国际爱鸟日，一只雕鸮（猫头鹰）在北京十三陵附近重返自然。\n\n二十多天前，它被一群乌鸦“围攻”受伤，落水后被热心市民救起，并在北京猛禽救助中心被细心照料。\n\n雕鸮是国家二级保护动物，北京猛禽救助中心自2001年成立以来，共接收救治猛禽40种、近6200只。这是该中心放归的第100只",
       "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
-    },
-    {
-      "title": "“算法太荒谬” 美财长被曝难忍特朗普关税政策 打算辞职",
-      "link": "https://www.infzm.com/contents/291204",
-      "date": "2025-04-05 23:26",
-      "author": "南方周末-新闻",
-      "timestamp": 1743866782.0,
-      "summary": "央视新闻客户端",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
-      "title": "DMIT推出CN2线路回程优化VPS服务器 支持IPv4/v6 支持更换IP地址",
-      "link": "https://www.landiannews.com/archives/108637.html",
-      "date": "2025-04-05 22:26",
-      "author": "蓝点网",
-      "timestamp": 1743863187.0,
-      "summary": "#云计算 DMIT 推出 CN2 线路回程优化 VPS 服务器，支持 IPv4/IPv6 年付价 49.9 美元，三网回程全部走 CN2 线路，延迟大约在 160 毫秒左右，连接速度较快。配置方面为 2Gbps 带宽 + 1000GB / 月流量，20GB 固态硬盘 + 1 核心 + 1GB 内存。",
-      "source_url": "https://www.landiannews.com",
-      "category": "Blog"
-    },
-    {
-      "title": "币安已按要求在欧盟下架USDT在内的多款加密稳定币 用户仍可存入/提出但不能交易",
-      "link": "https://www.landiannews.com/archives/108636.html",
-      "date": "2025-04-05 21:58",
-      "author": "蓝点网",
-      "timestamp": 1743861530.0,
-      "summary": "#加密货币 为满足监管规定币安在欧盟下架 USDT 等多种不符合 MiCA 规定的加密稳定币及其相关交易对，例如 USDT/BTC 等交易对都被撤销。MiCA 要求加密稳定币发行商申报并得到批准后才能在欧盟市场，被下架的包括多种加密稳定币，例如 DAI、FDUSD、TUSD、USDP 等。查看全文：",
-      "source_url": "https://www.landiannews.com",
-      "category": "Blog"
     }
   ]
 }
