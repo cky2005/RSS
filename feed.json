@@ -1,6 +1,386 @@
 {
-  "update_time": "2025-05-02",
+  "update_time": "2025-05-03",
   "articles": [
+    {
+      "title": "叮！请查收“五一”假期网络安全指南",
+      "link": "http://www.chinanews.com/sh/2025/05-03/10409920.shtml",
+      "date": "2025-05-03 05:30",
+      "author": "中新网社会新闻",
+      "timestamp": 1746221458.0,
+      "summary": "五一小长假来临，旅游出行、购物消费的热潮席卷而来。在尽情享受美好假期的同时，网络安全隐患也悄然潜伏。在此提醒，这些安全要点请务必牢记，守护您的假期“不踩雷”。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "Google即将允许13岁以下儿童使用其Gemini聊天机器人",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1497008.htm",
+      "date": "2025-05-03 04:14",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746216885.0,
+      "summary": "据《纽约时报》报道，下周，Google将开始允许拥有家长管理Google账户的 13 岁以下儿童使用其 Gemini 聊天机器人。Gemini 将面向使用Family Link的家长开放&nbsp;。Family Link是Google的一项服务，允许家长为孩子选择各种Google服务。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果遭两家机构下调评级 最新财报加剧关税和企业增长之忧",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1497006.htm",
+      "date": "2025-05-03 03:53",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746215630.0,
+      "summary": "苹果公司周五遭至少两家机构下调评级，此前该公司发布的季度业绩加剧了投资者对关税及其增长潜力的担忧。Jefferies将该股评级下调至“跑输大盘”，成为少见的看空该iPhone制造商的机构之一。分析师Edison Lee写道，虽然业绩符合预期，“但关税的影响将随着时间推移而扩大，进一步压低企业盈利预期",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果与 Anthropic 合作推出基于 Claude 的 AI 编程平台",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1497004.htm",
+      "date": "2025-05-03 02:57",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746212255.0,
+      "summary": "据彭博社报道，苹果公司正在与 Anthropic 合作开发 Xcode 的更新版本，该版本将支持 AI 代码的编写、编辑和测试。Anthropic以其“Claude”大语言模型和聊天机器人而闻名，该模型与 OpenAI 的 ChatGPT 竞争。Claude 以其编程能力而闻名，在编程任务上击败了其",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "特朗普关税打乱伦敦上市计划 Shein终止与英国公关公司合作",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1497002.htm",
+      "date": "2025-05-03 02:00",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746208814.0,
+      "summary": "一位知情人士周五证实，在线快时尚零售商希音（Shein）已终止与布伦瑞克（Brunswick）和 FGS 这两家支持其在伦敦进行首次公开募股（IPO）的公关公司的合作，这是其上市计划未能按预期推进的最新迹象。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Google广告技术反垄断案将于9月开庭审理",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1497000.htm",
+      "date": "2025-05-03 01:59",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746208789.0,
+      "summary": "字母表公司（Alphabet）旗下的Google公司将在 9 月面临一场庭审，此次庭审围绕反垄断执法机构提出的相关提议展开，该提议要求Google剥离其广告技术业务的部分资产，以解决Google在在线出版商用于销售广告的工具方面占据主导地位的问题。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "英特尔Arc Xe3 “Celestial” GPU已完成前期验证 即将进行流片",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1496998.htm",
+      "date": "2025-05-03 01:32",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746207135.0,
+      "summary": "去年 12 月，我们报道了英特尔基于 Xe3 “Celestial” IP 的下一代 Arc 显卡已经完成，这意味着基础媒体引擎、Xe 核心、XMX 矩阵引擎、光线追踪引擎以及游戏 GPU 的其他部分均已设计完成，很可能正在等待试制。今天，我们获悉英特尔已完成流片前验证，这意味着试制即将开始。 阅读",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "美军核潜艇设计团队准备罢工",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1496996.htm",
+      "date": "2025-05-03 00:10",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746202222.0,
+      "summary": "美国海军的核潜艇制造商——康涅狄格州电船公司（Electric Boat）的2500名潜艇设计师周五宣布，若5月18日前未能达成劳资协议，将自午夜起启动罢工。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "特朗普承认对华关税将推高美国物价",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1496994.htm",
+      "date": "2025-05-03 00:10",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746202214.0,
+      "summary": "美国总统特朗普在本周三（2025年4月30日）首次公开承认，其关税政策可能导致美国市场商品数量减少、价格上升，但他强调外国在贸易战中承受的损失远高于美国。此番言论发表于美国一季度GDP萎缩0.3%的敏感时刻，凸显贸易政策对经济的双重冲击。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "《侠盗猎车手 VI》延期 Take-Two股价暴跌",
+      "link": "https://www.cnbeta.com.tw/articles/game/1496992.htm",
+      "date": "2025-05-03 00:09",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746202184.0,
+      "summary": "Take-Two 互动软件公司表示将推迟其重磅视频游戏《侠盗猎车手 VI》的发布，该公司股价周五暴跌。该公司将这款游戏的发布时间从原预期的 2025 年秋季推迟至 2026 年 5 月 26 日。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "受美国关税影响 加拿大人购买徕卡相机的费用也将上涨",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1496990.htm",
+      "date": "2025-05-03 00:07",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746202021.0,
+      "summary": "一家加拿大相机店最近发现，由于特朗普总统的全球关税，电子产品价格上涨的影响已开始波及美国以外的地区。据 PetaPixel 报道，由于徕卡产品进口到北美的方式，位于阿尔伯塔省卡尔加里的一家门店最近收到徕卡的通知，称将从 2025 年 5 月 1 日起，在美国和加拿大的经销商价格上调 7%&nbsp;",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Google NotebookLM Android 和 iOS 应用现已开放预订",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1496988.htm",
+      "date": "2025-05-03 00:05",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746201942.0,
+      "summary": "根据应用商店列表，Google的 NotebookLM&nbsp;Android和iOS应用预计将于 5 月 20 日上线。目前这些应用已开放预订。自2023 年推出以来，这款基于人工智能的笔记和研究助手一直只能通过桌面设备访问。Google现在正准备让这项服务在移动设备上可用。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "德雷克海峡发生7.4级地震 智利发布海啸预警",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1496986.htm",
+      "date": "2025-05-03 00:04",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746201855.0,
+      "summary": "据央视新闻报道，当地时间5月2日8点58分，德雷克海峡发生7.4级地震，震源深度10公里，震中位于南纬56.80度，西经68.25度。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "《GTA 6》跳票后各界反应：彭博社记者称早已注定，玩家直呼“好歹来张截图”",
+      "link": "https://www.ithome.com/0/850/510.htm",
+      "date": "2025-05-02 23:19",
+      "author": "IT之家",
+      "timestamp": 1746199187.0,
+      "summary": "IT之家 5 月 2 日消息，今晚，R 星宣布《GTA 6》延期至 2026 年 5 月 26 日发布的消息可以说是“引爆”了游戏圈，有玩家表示已经见怪不怪，也有人感觉失望，同时也有担心游戏大幅涨价的声音出现。彭博社记者 Jason Schreier 对《GTA 6》跳票至 2026 年的消息表示，",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "黑客窃取迪士尼 Slack 频道 1.1TB 数据后，承认两项重罪指控",
+      "link": "https://www.ithome.com/0/850/509.htm",
+      "date": "2025-05-02 23:16",
+      "author": "IT之家",
+      "timestamp": 1746198981.0,
+      "summary": "IT之家 5 月 2 日消息，华特迪士尼（Walt Disney）公司的内部&nbsp;Slack 频道在去年 7 月被曝遭到黑客攻击，导致超过 1.1TB&nbsp;的公司数据泄露。如今，美国加利福尼亚州中部地区检察官办公室报告称，美国加利福尼亚州圣克拉拉县的一名男子 —— 黑客 Ryan Mit",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "现代汽车旗舰纯电 SUV IONIQ 9 在美上市，60555-78090 美元",
+      "link": "https://www.ithome.com/0/850/508.htm",
+      "date": "2025-05-02 22:55",
+      "author": "IT之家",
+      "timestamp": 1746197754.0,
+      "summary": "IT之家 5 月 2 日消息，现代汽车的首款三排座纯电 SUV——2026 款 IONIQ 9 即将登陆美国各地经销商。这款新车拥有最高 335 英里（IT之家注：约 539.13 公里）续航，支持快充，起售价为 60555 美元（现汇率约合 44 万元人民币）。现代汽车今日公布的该车型具体定价和配",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Xbox涨价后Series X性价比不及PS5 Pro Game Pass可能也会涨",
+      "link": "https://www.cnbeta.com.tw/articles/game/1496984.htm",
+      "date": "2025-05-02 22:53",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746197625.0,
+      "summary": "昨晚，微软突然宣布上调Xbox Series全系主机在全球各地的价格，上涨后的Xbox Series X，2TB版本售价729.99美元，这一价格已经超过了PS5 Pro（默认2TB硬盘，699.99美元，光驱需单独购买），但性能不及后者。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "特朗普称哈佛大学将丧失其免税地位",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1496982.htm",
+      "date": "2025-05-02 22:51",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746197507.0,
+      "summary": "唐纳德・特朗普总统宣称哈佛大学将失去其免税地位，他加大了对这所常春藤盟校的攻击力度，威胁要取消其一系列经济利益。特朗普在数周来一直威胁要改变哈佛大学的免税待遇后，终于宣布了这一消息。“我们将取消哈佛大学的免税地位。这是他们应得的！” 特朗普在周五凌晨的一条帖子中写道。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "小米平板 7 Max 有望更名 Ultra：已通过蓝牙认证，120W 快充",
+      "link": "https://www.ithome.com/0/850/507.htm",
+      "date": "2025-05-02 22:51",
+      "author": "IT之家",
+      "timestamp": 1746197495.0,
+      "summary": "IT之家 5 月 2 日消息，小米曾在 2023 年发布旗下首款 14 英寸巨屏平板产品 —— 小米平板 6 Max。目前，有不少关于小米平板 7 Max 的传闻，然而一份新的认证列表表明，小米计划为其大尺寸平板电脑采用“Ultra”这一名称。▲ IT之家图赏：小米平板 6 Max如下图所示，小米现",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果遭评级下调 市值被微软超越",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1496980.htm",
+      "date": "2025-05-02 22:51",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1746197478.0,
+      "summary": "苹果公司在周五至少遭到了两项评级下调，此前公布的季度业绩加剧了市场对关税以及其增长潜力的担忧。杰富瑞（Jefferies）将苹果股票评级下调至 “表现逊于大盘”，成为少数看空这家 iPhone 制造商的机构之一。分析师爱迪生・李写道，尽管苹果的业绩符合预期，“但关税的影响会随着时间推移而扩大，进而带",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "大众今年 Q1 净利大幅下滑，纯电车型销量暴增带来“甜蜜负担”",
+      "link": "https://www.ithome.com/0/850/505.htm",
+      "date": "2025-05-02 22:23",
+      "author": "IT之家",
+      "timestamp": 1746195788.0,
+      "summary": "IT之家 5 月 2 日消息，大众集团 2025 年第一季度税后利润大幅下滑 40.6%，降至 21.8 亿欧元（IT之家注：现汇率约合 179.34 亿元人民币）。乍看之下可能会以为“销量疲软”，但实际上交付量同比增长了 1.4%，达到 213 万辆。纯电动车需求的上涨，反而成了利润缩水的主要原因",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "一季度我国出口集成电路 761 亿个，同比增长 22%",
+      "link": "https://www.ithome.com/0/850/504.htm",
+      "date": "2025-05-02 22:10",
+      "author": "IT之家",
+      "timestamp": 1746195036.0,
+      "summary": "IT之家 5 月 2 日消息，工业和信息化部运行监测协调局今日发布 2025 年一季度电子信息制造业运行情况，IT之家附具体数据如下：一季度，我国电子信息制造业生产增长较快，出口保持增长，效益稳步改善，投资持续快速，行业整体发展态势良好。一季度，规模以上电子信息制造业增加值同比增长 11.5%，增速",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "丹麦万人研究表明：生成式 AI“尚未显著影响”工资与就业情况",
+      "link": "https://www.ithome.com/0/850/503.htm",
+      "date": "2025-05-02 22:05",
+      "author": "IT之家",
+      "timestamp": 1746194704.0,
+      "summary": "IT之家 5 月 2 日消息，据 Ars Technica 今日报道，一项针对丹麦 2023 至 2024 年劳动力市场的新研究发现，尽管 ChatGPT 等生成式 AI 模型如在部分职场迅速普及，但整体来看，尚未对工资或就业产生明显影响。这项研究由芝加哥大学与哥本哈根大学的经济学家合作完成，论文通",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "长三角局地破35℃ 气温将搭“过山车”",
+      "link": "http://www.chinanews.com/sh/2025/05-02/10409895.shtml",
+      "date": "2025-05-02 21:44",
+      "author": "中新网社会新闻",
+      "timestamp": 1746193499.0,
+      "summary": "中新社南京5月2日电 (记者 徐珊珊)“五一”假期伊始，长三角地区晴热持续，局地气温突破35℃。随着一股较强冷空气自北向南推进，引发气温“过山车”式波动，雷暴大风等强对流天气将席卷长三角。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "《GTA 6》跳票至明年，发行商 Take-Two 表示“完全支持”",
+      "link": "https://www.ithome.com/0/850/502.htm",
+      "date": "2025-05-02 21:44",
+      "author": "IT之家",
+      "timestamp": 1746193467.0,
+      "summary": "IT之家 5 月 2 日消息，Take-Two Interactive 董事长兼 CEO 斯特劳斯・泽尔尼克回应了《GTA 6》的延期消息：“我们完全支持 Rockstar Games 延长开发时间，以实现他们对《GTA 6》的创意愿景。这款作品有望成为开创性的娱乐大作，势必超越玩家的期待。”他还表",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "解码历史根脉，蒙曼在内蒙古火速“出圈”",
+      "link": "http://www.chinanews.com/sh/2025/05-02/10409893.shtml",
+      "date": "2025-05-02 21:40",
+      "author": "中新网社会新闻",
+      "timestamp": 1746193233.0,
+      "summary": "中新网呼和浩特5月2日电 题：解码历史根脉，蒙曼在内蒙古火速“出圈”",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "工信部推广“二次号码焕新”服务，手机号注销后可一键解绑互联网账号",
+      "link": "https://www.ithome.com/0/850/501.htm",
+      "date": "2025-05-02 21:38",
+      "author": "IT之家",
+      "timestamp": 1746193094.0,
+      "summary": "IT之家 5 月 2 日消息，工信部近日通告今年第一季度电信服务质量情况，其中提到要指导基础电信企业和互联网企业联合提供“二次号码焕新”服务，可一键解绑历史互联网账号，目前已覆盖超 200 款主流互联网应用。据了解，手机号码在被注销或者停用后，经过大约 3 个月的“冻结”，会被运营商重新投放市场供新",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "ICML 2025 录用结果公布：好评论文遭拒，审稿人敷衍引全网吐槽",
+      "link": "https://www.ithome.com/0/850/500.htm",
+      "date": "2025-05-02 21:23",
+      "author": "IT之家",
+      "timestamp": 1746192193.0,
+      "summary": "ICML 2025 录用结果，终于公布了！今年，顶会共提交了 12107 篇有效投稿（不包括「桌拒」论文）。其中，3260 篇论文被接收，录用率为 26.9%。值得一提的是，ICML 总投稿数量每年激增，2024 年有 9653 篇，2023 年有 6538 篇。今年更是创下了新高，相较于 24 年",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "“溶洞游”打造假日消费新场景 这个“五一”一起去探索溶洞奇幻魅力",
+      "link": "http://www.chinanews.com/sh/2025/05-02/10409884.shtml",
+      "date": "2025-05-02 21:01",
+      "author": "中新网社会新闻",
+      "timestamp": 1746190885.0,
+      "summary": "央视网消息：“五一”假期，位于北京房山的溶洞探险、地下暗河航行等小众溶洞游玩项目受到了游客们青睐，假期期间有不少游客专门前往溶洞打卡。接下来，我们跟随记者去看看溶洞里有什么奥秘。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“中国第一龙乡”嘉荫开江迎春 游客界江游船品鱼鲜",
+      "link": "http://www.chinanews.com/sh/2025/05-02/10409881.shtml",
+      "date": "2025-05-02 20:52",
+      "author": "中新网社会新闻",
+      "timestamp": 1746190370.0,
+      "summary": "中新网伊春5月2日电(记者 刘璐)“我第一次坐着游船行进在中俄界江黑龙江的江面上，欣赏一江两岸风光，这种体验太美好了。”江苏游客陆女士如是说。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "消息称三星 Galaxy S25 Edge 手机将配 1/1.3 英寸 2 亿主摄、1200 万像素超广角镜头",
+      "link": "https://www.ithome.com/0/850/498.htm",
+      "date": "2025-05-02 20:49",
+      "author": "IT之家",
+      "timestamp": 1746190152.0,
+      "summary": "IT之家 5 月 2 日消息，外媒 SammyGuru 4 月 30 日发布消息称，在一份“监管数据库”中发现了 Galaxy S25 Edge 主摄和超广角摄像头的详细参数。信息显示这款手机将搭载一颗 1/1.3 英寸、2 亿像素的主摄，规格与 Galaxy S25 Ultra 相同。三星此次直接",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "侨乡青田推出西式长桌宴 中西文化交融引客来",
+      "link": "http://www.chinanews.com/sh/2025/05-02/10409871.shtml",
+      "date": "2025-05-02 20:45",
+      "author": "中新网社会新闻",
+      "timestamp": 1746189931.0,
+      "summary": "中新社丽水5月2日电 (周健 叶佳霁)36米长的西式宴会长桌沿瓯江畔铺展，百余名游客尽享美食盛宴……5月1日至5月3日，侨乡浙江青田以“欧风侨飨·时尚青田”为主题，打造了一场集美食、光影、文化于一体的“五一”文旅嘉年华。其中，该县首次推出的“西式百人长桌宴”尽显中西文化交融魅力。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "广西发出“五一”假期安全提示函 要求加强景区设施检查",
+      "link": "http://www.chinanews.com/sh/2025/05-02/10409868.shtml",
+      "date": "2025-05-02 20:44",
+      "author": "中新网社会新闻",
+      "timestamp": 1746189845.0,
+      "summary": "中新网南宁5月2日电 (林浩)5月2日，为确保“五一”假期安全形势平稳，广西壮族自治区安全生产委员会办公室(简称：广西安委办)向各有关单位发出假期安全提示函，针对旅游设施安全监管、人员密集场所消防管理、森林火灾与极端天气防范、突发事件应急值守等工作提出具体要求。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "1133人作弊，蓝桥杯大赛组委会宣布取消成绩，禁赛三年",
+      "link": "https://www.infzm.com/contents/292926",
+      "date": "2025-05-02 20:42",
+      "author": "南方周末-新闻",
+      "timestamp": 1746189746.0,
+      "summary": "央视新闻客户端",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "68 页论文再锤大模型竞技场：Llama4 发布前私下测试 27 个版本，只取最佳成绩",
+      "link": "https://www.ithome.com/0/850/497.htm",
+      "date": "2025-05-02 20:41",
+      "author": "IT之家",
+      "timestamp": 1746189696.0,
+      "summary": "大模型竞技场的可信度，再次被锤。最近一篇名为《排行榜幻觉》（The Leaderboard Illusion）的论文在学术圈引发关注。它指出，如今被视为 LLM 领域首选排行榜的 Chatbot Arena，存在诸多系统问题。比如：少数大厂可以私下测试多个模型版本，Llama4 在发布前甚至测了 2",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "湖北“五一”假期“宠客”模式再升级",
+      "link": "http://www.chinanews.com/sh/2025/05-02/10409865.shtml",
+      "date": "2025-05-02 20:36",
+      "author": "中新网社会新闻",
+      "timestamp": 1746189383.0,
+      "summary": "中新网武汉5月2日电 (王梦媛)“公交班次变多，我们不用担心玩得太晚没车回酒店。”5月1日晚上9时，来自湖南的李女士在武汉东湖绿道公交站欣慰地说道。据了解，为应对“五一”假期客流高峰，东湖周边公交线路加密公交班次，延长末班车时间，这正是湖北“五一”文旅惠民行动的举措之一。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "中外青年走进浙江诸暨 探访“以和为贵”的东方智慧",
+      "link": "http://www.chinanews.com/sh/2025/05-02/10409859.shtml",
+      "date": "2025-05-02 20:30",
+      "author": "中新网社会新闻",
+      "timestamp": 1746189002.0,
+      "summary": "中新网绍兴5月2日电 (钱晨菲)“我在中国生活了10年，这是第一次走进浙江的乡村，没有想到这么美，村民们能在村里办证、看病，既方便又安全。”走在浙江绍兴诸暨枫桥镇枫源村，中国矿业大学科摩罗留学生马本(Yahaya Maabad)不时感慨，并用手机记录下村里的为民服务设施和基层治理做法。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "假期首日交通运输保持高位运行态势 各部门多管齐下撑起出行“安全伞”",
+      "link": "http://www.chinanews.com/sh/2025/05-02/10409862.shtml",
+      "date": "2025-05-02 20:29",
+      "author": "中新网社会新闻",
+      "timestamp": 1746188970.0,
+      "summary": "央视网消息：5月2日是“五一”假期的第二天，5月1日假期首日，交通运输保持高位运行态势，全国铁路单日旅客发送量创历史新高。5月2日，短途出行客流明显增加。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
     {
       "title": "iOS 版 Spotify 迎“史诗级更新”：用户可跳转至苹果以外平台付款",
       "link": "https://www.ithome.com/0/850/496.htm",
@@ -32,16 +412,6 @@
       "category": "Blog"
     },
     {
-      "title": "苹果公司CEO Tim Cook在美国科技巨头会议上称赞特朗普",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1496964.htm",
-      "date": "2025-05-02 20:01",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746187314.0,
-      "summary": "苹果公司CEO Tim Cook通过卫星连线参加了特朗普总统的企业首席执行官聚会，并承诺公司将与政府合作。库克延续了此前与特朗普的政治角力，此前他曾与特朗普进行过对话和会面，最终总统批准了苹果的关税豁免，尽管特朗普随即否认了这一决定。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "上万人参加云南西盟佤族木鼓节",
       "link": "http://www.chinanews.com/sh/2025/05-02/10409838.shtml",
       "date": "2025-05-02 19:46",
@@ -50,56 +420,6 @@
       "summary": "中新网普洱5月2日电 (黄兴鸿)2日，云南省普洱市西盟佤族自治县佤族木鼓节迎来迎木鼓、拉木鼓等多项活动，吸引上万名当地民众及游客参与。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "《侠盗猎车手 VI》发售日期推迟至2026年5月",
-      "link": "https://www.cnbeta.com.tw/articles/game/1496962.htm",
-      "date": "2025-05-02 19:44",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746186283.0,
-      "summary": "Rockstar Games 将备受期待的《侠盗猎车手 VI》的发布推迟至 2026 年 5 月 26 日。该游戏原计划于&nbsp;2025 年秋季发布，但 Rockstar Games 现在表示，团队需要更多时间“才能达到您期望和应得的质量水平”。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "黄仁勋：中国是一个意志坚定、能力超群的国家 AI研究者一半是中国人",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1496960.htm",
-      "date": "2025-05-02 19:43",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746186228.0,
-      "summary": "对于中国，英伟达CEO黄仁勋直言，这是一个强大的国家，想要速胜基本不可能。“中国是一个意志坚定、能力超群的国家，全球一半的人工智能领域研究人员都是中国人（且美国所有AI实验室均有大量中国研究人员参与），而人工智能领域的竞争是一场“持久战”，无法速胜。 ” 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "小米SU7 Ultra限制1500匹马力 多位车主证实OTA取消",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1496958.htm",
-      "date": "2025-05-02 19:43",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746186211.0,
-      "summary": "昨天多名网友表示小米SU7Ultra更新Xiaomi HyperOS时，更新内容中有一条“新增排位模式圈速考核，在指定赛道圈速达到官方建议成绩可解锁排位模式。” 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "开发者成功实现Excel中运行Linux",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1496956.htm",
-      "date": "2025-05-02 19:43",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746186182.0,
-      "summary": "近日，开发者NSG650成功实现在Excel表格中“运行Linux”，这个名为LinuxInExcel的项目已发布在GitHub上。NSG650的成果堪称一次大胆的尝试，他利用了GitHub用户cnlohr构建的RISC-V模拟器，并通过Microsoft VBA宏在DLL中调用该模拟器，将输出结果",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "一粒药片实现多剂量给药 新型胶囊分阶段输送药物",
-      "link": "https://www.cnbeta.com.tw/articles/science/1496954.htm",
-      "date": "2025-05-02 19:42",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746186129.0,
-      "summary": "对于一些常见的疾病来说，服药时机至关重要。如今，加州大学圣地亚哥分校设计了一种可定制的胶囊，它采用了独特的分阶段释放系统，可以简化复杂的服药方案。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "北岳恒山、悬空寺“流量”攀升  古城非遗成文旅新名片",
@@ -112,16 +432,6 @@
       "category": "News"
     },
     {
-      "title": "章泽天罕见亮相 与杨天真在不丹徒步",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1496952.htm",
-      "date": "2025-05-02 19:39",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746185954.0,
-      "summary": "今日杨天真发文晒照，出现了罕见亮相的章泽天身影，两人在不丹徒步。从照片看，杨天真身着紫色运动装，章泽天穿黑色运动装，状态不错。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "山西孝义“花式”过“五一”  多项活动展示文旅魅力",
       "link": "http://www.chinanews.com/sh/2025/05-02/10409835.shtml",
       "date": "2025-05-02 19:37",
@@ -130,46 +440,6 @@
       "summary": "中新网吕梁5月2日电 (范舒琪)达人演出、非遗展演、乡村旅游…“五一”假期，山西省孝义市推出为期5天的文旅盛宴，“花式”邀请各方游客共度假期。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "摩根士丹利对苹果将生产从中国转移到越南和印度的做法不以为然",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1496950.htm",
-      "date": "2025-05-02 19:37",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746185845.0,
-      "summary": "投资银行摩根士丹利对苹果最新的财报结果并不满意，该公司第二财季营收和每股收益均超出分析师预期。苹果公布的营收为954亿美元，每股收益为1.65美元。然而，由于该公司对关税对其业务的影响、将生产从中国转移出去的举措、服务业务的未来以及Siri软件升级计划仍不明朗，其股价在盘后交易中下跌了4%。 阅读全",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "TikTok因中国监控风险在欧洲被罚款约6亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1496948.htm",
-      "date": "2025-05-02 19:36",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746185771.0,
-      "summary": "爱尔兰数据隐私监管机构对 TikTok 处以约 6 亿美元的罚款，原因是该公司未能保证发送到中国的用户数据免受政府监控，这对该公司说服西方国家其安全使用的努力造成了打击。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "R 星官宣《GTA6》延期至 2026 年 5 月 26 日发售",
-      "link": "https://www.ithome.com/0/850/492.htm",
-      "date": "2025-05-02 19:31",
-      "author": "IT之家",
-      "timestamp": 1746185499.0,
-      "summary": "IT之家 5 月 2 日消息，R 星今日晚间官宣，《GTA6》将于 2026 年 5 月 26 日发售。R 星在公告中对游戏延期进行了致歉，目前游戏仍在完善中，官方需要额外的时间来达到玩家的期望和应有的品质。IT之家附公告机翻内容如下：消息发布后，R 星母公司&nbsp;Take-Two 的盘前股价",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "受关税担忧影响 全球粮食价格升至两年新高",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1496946.htm",
-      "date": "2025-05-02 19:29",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746185386.0,
-      "summary": "全球粮食价格4月升至两年高点，表明关税不确定性开始对贸易构成压力。联合国一项追踪食品原料成本的指数升至128.3，较上月上涨1%，达到2023年3月以来的最高水平。尽管影响需要时间才能传导至超市，且该指标仍远低于2022年的峰值，但这一走势暗示在食品通胀有所缓解后，未来可能再度上涨。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "最美日出成万人“期待” 浙江小城吸引游客“追光”",
@@ -192,46 +462,6 @@
       "category": "News"
     },
     {
-      "title": "五一购票警惕诈骗陷阱！这些防诈手段速看→",
-      "link": "http://www.chinanews.com/sh/2025/05-02/10409818.shtml",
-      "date": "2025-05-02 19:16",
-      "author": "中新网社会新闻",
-      "timestamp": 1746184582.0,
-      "summary": "网警提醒：五一假期 保护个人信息！",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "Steam 平台 2025 年 4 月软硬件调查结果出炉，RTX 4060 笔记本显卡份额登顶",
-      "link": "https://www.ithome.com/0/850/489.htm",
-      "date": "2025-05-02 19:09",
-      "author": "IT之家",
-      "timestamp": 1746184194.0,
-      "summary": "IT之家 5 月 2 日消息，PC 游戏平台 Steam 每月进行一次调查，收集客户正在使用的电脑软硬件种类的数据。日前公布的 2025 年 4 月调查结果显示，RTX 4060 笔记本显卡份额登顶。IT之家汇总亮点信息如下：从显卡份额来看，RTX 4060 笔记本显卡的份额相比 3 月增长 0.5",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "Atomic Keyboard 打造《人生切割术》同款键盘，众筹价 399 美元起",
-      "link": "https://www.ithome.com/0/850/488.htm",
-      "date": "2025-05-02 19:04",
-      "author": "IT之家",
-      "timestamp": 1746183862.0,
-      "summary": "IT之家 5 月 2 日消息，外设厂商 Atomic Keyboard 曾在上个月展示过一款新产品 —— 热门 Apple TV + 剧集《人生切割术》中的“同款”键盘 MDR Dasher，其外形灵感来自 Lumon Terminal Pro 终端。据外媒 MacWorld 4 月 30 日报道，",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "华硕 PRIME AP202“灵光岛”悬浮式海景房机箱上架，599 元",
-      "link": "https://www.ithome.com/0/850/487.htm",
-      "date": "2025-05-02 18:54",
-      "author": "IT之家",
-      "timestamp": 1746183295.0,
-      "summary": "IT之家 5 月 2 日消息，华硕此前预热的悬浮式海景房 M-ATX 机箱 PRIME AP202“灵光岛”现已在电商平台上架。该机箱标价 599 元，将于 5 月 7 日 09:00 正式开售。AP202 机箱最有特色的无疑是其上下仓交界处的专利悬浮空间结构。这一开口同机箱内部相连，带来更为优秀的",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "日本财务大臣称美债可当谈判筹码",
       "link": "https://36kr.com/newsflashes/3275337346408840?f=rss",
       "date": "2025-05-02 18:45",
@@ -242,56 +472,6 @@
       "category": "Blog"
     },
     {
-      "title": "任天堂“My Nintendo Store”访问量激增，官方启动人数管控机制",
-      "link": "https://www.ithome.com/0/850/486.htm",
-      "date": "2025-05-02 18:41",
-      "author": "IT之家",
-      "timestamp": 1746182503.0,
-      "summary": "IT之家 5 月 2 日消息，任天堂客服的官方 X 账号昨日发布消息称，由于“My Nintendo Store”网站访问量激增，已启动人数管控机制。据日媒 ITMedia News 报道，任天堂采取此举的原因被认为是首批抽选中签者已开始办理 Switch 2 的购机手续。当天下午 1 点左右，商店",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "福建三明“五一”暖心服务迎客来 2.2万免费车位+旅游专线助力畅游",
-      "link": "http://www.chinanews.com/sh/2025/05-02/10409812.shtml",
-      "date": "2025-05-02 18:41",
-      "author": "中新网社会新闻",
-      "timestamp": 1746182499.0,
-      "summary": "中新网福建三明5月2日电(雷朝良)“五一”期间，福建省三明市文旅局联合交通、城管、交警等部门推出系列惠民举措，通过免费停车、旅游专线、柔性执法等政策提升游客体验。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "《赛博朋克 2077》Switch 2 版将支持 Joy-Con 体感操作，模拟挥砍武士刀",
-      "link": "https://www.ithome.com/0/850/485.htm",
-      "date": "2025-05-02 18:41",
-      "author": "IT之家",
-      "timestamp": 1746182496.0,
-      "summary": "IT之家 5 月 2 日消息，任天堂 4 月 29 日发布了最新一期“开发者之声”节目中，《赛博朋克 2077》总监 Adam Badowski 透露，该作的 Switch 2 版本将充分利用机器的全新特性。Badowski 介绍称，玩家在游戏中可以将 JoyCon 当作武士刀来使用。根据官方公告显",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "从技能赛场到城市一线的“光明守护者”",
-      "link": "http://www.chinanews.com/sh/2025/05-02/10409807.shtml",
-      "date": "2025-05-02 18:39",
-      "author": "中新网社会新闻",
-      "timestamp": 1746182379.0,
-      "summary": "中新网绍兴5月2日电(钱晨菲 石慧 张小红)“电力基层工作的意义，在于照亮城市的万家灯火。”头戴安全帽、身穿绝缘服、架着绝缘斗，在距离地面10余米的电线杆上维修更换设备，守护城市“电力动脉”畅通无阻……这是带电作业的工作日常，也是国网绍兴供电公司带电专业技工何雄豪的日常。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "福建省科技馆举办五一假期系列科普活动 非遗技艺与科技碰撞",
-      "link": "http://www.chinanews.com/sh/2025/05-02/10409806.shtml",
-      "date": "2025-05-02 18:38",
-      "author": "中新网社会新闻",
-      "timestamp": 1746182323.0,
-      "summary": "中新网福州5月2日电 (吴晟炜 陈倩)五一假期期间，福建省科技馆以“科技传承 智趣未来”为主题，推出系列科普活动，融合非遗技艺体验、科技竞技互动、科学表演秀、4D电影展映等形式，让民众在传统智慧与现代科技的碰撞中，体验一场兼具趣味性与启发性的探索之旅。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
       "title": "神山圣湖朝圣线路重启，成中印“低敏感合作”试验场丨智库视点2025",
       "link": "https://www.infzm.com/contents/292862",
       "date": "2025-05-02 18:24",
@@ -299,56 +479,6 @@
       "timestamp": 1746181487.0,
       "summary": "“某种程度上印度和中国都看到了来自美国的经济挑战，鉴于美国正在发生的政治变化，双方都需要维持一定程度的关系。”\n\n冈仁波齐、玛旁雍错周边的喜马拉雅生态系统十分脆弱，朝圣线路重启后，如何在促进朝圣便利化与保护生态环境、改善当地民生之间实现良性互动，是未来发展的重要课题。",
       "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
-      "title": "我国首台单机容量最大抽水蓄能机组完成转子吊装，进入总装阶段",
-      "link": "https://www.ithome.com/0/850/484.htm",
-      "date": "2025-05-02 18:24",
-      "author": "IT之家",
-      "timestamp": 1746181445.0,
-      "summary": "IT之家 5 月 2 日消息，据央视新闻报道，浙江天台抽水蓄能电站 1 号机组今日顺利完成转子吊装，标志着目前我国首台单机容量最大抽水蓄能机组正式进入总装阶段。天台抽蓄电站是国家“十四五”重点实施项目、浙江省“十四五”重大建设项目。电站具有在建抽蓄额定水头世界最高、单级斜井国内最长、单机容量国内最大",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "芝奇全球首次展示 DDR5-8400 CL44 128GB（2x64GB）超频内存",
-      "link": "https://www.ithome.com/0/850/483.htm",
-      "date": "2025-05-02 18:16",
-      "author": "IT之家",
-      "timestamp": 1746180971.0,
-      "summary": "IT之家 5 月 2 日消息，芝奇国际今日宣布再创 DDR5 超频内存的里程碑，本次推出 DDR5-8400 CL44-58-58-94 128GB（2x64GB）超频内存，使用最新 SK 海力士 DDR5 ICs。该内存搭配华硕 ROG Crosshair X870E APEX 主板及 AMD R",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "日本将谷歌、TikTok、雅虎等纳入监管，要求科技公司加大打击有害信息力度",
-      "link": "https://www.ithome.com/0/850/481.htm",
-      "date": "2025-05-02 18:10",
-      "author": "IT之家",
-      "timestamp": 1746180619.0,
-      "summary": "IT之家 5 月 2 日消息，日本总务省于 4 月 30 日宣布，已将 Meta、X、TikTok 等五家公司纳入《信息流通平台对策法》的监管范围。该法律要求平台加快处理非法或有害内容的删除请求，并提高平台运作的透明度。此次被指定为监管对象的五家公司为：谷歌、LINE 雅虎、Meta、TikTok",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "《植物大战僵尸 3》中国版有望 7 月 18 日推出，现已上架 iOS",
-      "link": "https://www.ithome.com/0/850/480.htm",
-      "date": "2025-05-02 18:05",
-      "author": "IT之家",
-      "timestamp": 1746180350.0,
-      "summary": "IT之家 5 月 2 日消息，《植物大战僵尸 3》手游于今年 2 月获得版号，中国版手游开启预约。据IT之家小伙伴投稿，《植物大战僵尸 3》手游已上架苹果 iOS 商店，显示预计于 2025 年 7 月 18 日推出。该游戏的中国版运营单位为海南萌星科技有限公司，商店介绍显示：《植物大战僵尸 3》是",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "1133人作弊！蓝桥杯大赛组委会宣布取消成绩 禁赛三年",
-      "link": "http://www.chinanews.com/sh/2025/05-02/10409789.shtml",
-      "date": "2025-05-02 18:03",
-      "author": "中新网社会新闻",
-      "timestamp": 1746180209.0,
-      "summary": "4月30日，蓝桥杯大赛组委会发布《关于第十六届蓝桥杯大赛(软件赛/电子赛)省赛个别选手违纪行为的处理决定》，大赛组委会综合运用技术监测、人工核查、线索举报等多重手段，对省赛过程中发现的个别违纪行为进行了严格认定与处理。",
-      "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
     {
@@ -362,116 +492,6 @@
       "category": "News"
     },
     {
-      "title": "Visa 描绘“AI 购物智能体”蓝图：未来能帮你自动购物、刷卡消费",
-      "link": "https://www.ithome.com/0/850/477.htm",
-      "date": "2025-05-02 17:57",
-      "author": "IT之家",
-      "timestamp": 1746179838.0,
-      "summary": "IT之家 5 月 2 日消息，据美联社报道，当地时间周三，Visa 宣布与&nbsp;Anthropic、微软、OpenAI、Perplexity 等多家领先的智能体开发公司建立合作关系，并希望将 AI 智能体接入 Visa 的支付网络。试点项目于当天启动，全面推广预计将在明年展开。Visa 首席产",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "华硕 TUF GAMING B650EM-PLUS WIFI 主板上市：一槽显卡，1329 元",
-      "link": "https://www.ithome.com/0/850/476.htm",
-      "date": "2025-05-02 17:51",
-      "author": "IT之家",
-      "timestamp": 1746179517.0,
-      "summary": "IT之家 5 月 2 日消息，IT之家此前曾介绍过华硕的 TUF GAMING B650EM-PLUS WIFI 主板。现在这一产品已经上市，定价 1329 元。京东华硕 TUF GAMING B650EM-PLUS WIFI 主板 1329 元直达链接TUF GAMING B650EM-PLUS",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "杭州西湖“最美人墙”如约而至 点亮城市文明",
-      "link": "http://www.chinanews.com/sh/2025/05-02/10409787.shtml",
-      "date": "2025-05-02 17:49",
-      "author": "中新网社会新闻",
-      "timestamp": 1746179364.0,
-      "summary": "中新网杭州5月2日电 (王潇婧)“请快速通行，注意安全”……“五一”假期，人流如织的杭州西湖断桥斑马线两端，再现熟悉一幕。数十名“西子义警”手拉着手，形成了一道流动的“安全屏障”，将行人与车流有序隔开，在循环往复的变阵中，确保市民游客平安出行，一声声饱含关切的提示，更传递着杭州这座城市独有的温暖。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "车轮上的劳动节：致敬坚守“轨道生命线”的火车司机",
-      "link": "http://www.chinanews.com/sh/2025/05-02/10409781.shtml",
-      "date": "2025-05-02 17:47",
-      "author": "中新网社会新闻",
-      "timestamp": 1746179258.0,
-      "summary": "中新网台州5月2日电(奚金燕 李立阳)5月2日，当清晨的第一缕阳光穿透薄雾，一列满载货物的“钢铁巨龙”缓缓驶入台州南站。驾驶室内，浙江交通集团金温铁道公司调车司机阮子健揉了揉发酸的眼角，目光却始终未离开前方信号机。这是他连续在岗的第六个劳动节。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "崇凭铁路“五一”不打烊 200余名建设者全力冲刺",
-      "link": "http://www.chinanews.com/sh/2025/05-02/10409780.shtml",
-      "date": "2025-05-02 17:46",
-      "author": "中新网社会新闻",
-      "timestamp": 1746179214.0,
-      "summary": "中新网崇左5月2日电(记者 杨陈)“五一”期间，由中铁上海工程局负责施工建设的新建广西崇左至凭祥铁路(下称崇凭铁路)项目施工现场一派繁忙景象。200余名建设者坚守岗位，争分夺秒抢工期、保节点，严格落实安全管控措施，全力冲刺工程节点。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "Xbox如今已经成为PlayStation商店的头号发行商",
-      "link": "https://www.cnbeta.com.tw/articles/game/1496944.htm",
-      "date": "2025-05-02 17:40",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746178813.0,
-      "summary": "今天，在传出Xbox在全球范围内提高硬件和配件价格的消息之际，我们也了解到该公司在软件和订阅业务方面取得了成功。Xbox在周三举行了一次财报电话会议，公布了今年1月至3月的财务业绩。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "广西南宁园博园烟花秀点亮“五一”假日 日夜双场景呈现视觉盛宴",
-      "link": "http://www.chinanews.com/sh/2025/05-02/10409783.shtml",
-      "date": "2025-05-02 17:37",
-      "author": "中新网社会新闻",
-      "timestamp": 1746178645.0,
-      "summary": "中新网南宁5月2日电(张广权 肖景凤)5月1日至5日，广西南宁园博园举办南宁烟花秀—五一夏日缤纷主题活动。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "宁夏遭遇大风沙尘天气 部分景区临时关闭",
-      "link": "http://www.chinanews.com/sh/2025/05-02/10409782.shtml",
-      "date": "2025-05-02 17:36",
-      "author": "中新网社会新闻",
-      "timestamp": 1746178605.0,
-      "summary": "中新网银川5月2日电 (记者 杨迪)5月2日，宁夏遭遇大风沙尘天气，部分景区临时关闭。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "华为384颗自研芯片方案揭秘 领先英伟达AMD一代",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1496942.htm",
-      "date": "2025-05-02 17:25",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746177912.0,
-      "summary": "美国封锁芯片对华出口，这让英伟达CEO黄仁勋倍感焦虑，因为他深知中国国产算力目前达到了怎样的水平。前段时间华为推出了AI算力集群解决方案CloudMatrix 384，这在外行看来似乎没有什么不同，但如果仔细剖析其影响可谓深远。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "日本3个月前掉下水道大爷终于找到了",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1496940.htm",
-      "date": "2025-05-02 17:21",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746177705.0,
-      "summary": "今年1月28日，日本埼玉县八潮市一路口发生大规模坍塌，一名74岁的卡车司机随驾驶车辆一同落坑被困。据日本电视台（NTV）、全日本新闻网（ANN）等媒体最新报道，救援人员于5月2日上午的搜救行动中，在卡车驾驶室里发现一名男子遗体并确认其已死亡，据称他就是上述卡车司机。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "无人驾驶货运卡车开始穿越德克萨斯州",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1496938.htm",
-      "date": "2025-05-02 17:08",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746176922.0,
-      "summary": "下次你在I-45公路上看到长途卡车时，一定要伸长脖子看看驾驶座上有没有人。如果是空的，那这都要归功于Aurora。这家总部位于匹兹堡的自动驾驶汽车科技初创公司刚刚在德克萨斯州推出了自动驾驶卡车运输服务，首批服务对象是达拉斯和休斯顿之间的货运。该公司的无人驾驶技术套件已在公共道路上行驶了超过 1200",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "泰国央行副行长：关税影响预计将在下半年开始显现",
       "link": "https://36kr.com/newsflashes/3275240843944071?f=rss",
       "date": "2025-05-02 17:07",
@@ -479,16 +499,6 @@
       "timestamp": 1746176836.0,
       "summary": "泰国央行副行长：货币政策立场略微偏宽松，并非处于宽松周期。货币政策空间有限，但如有需要将准备进一步放松政策。关税影响预计将在下半年开始显现。（新浪财经）",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "外卖大战，马云开始出手",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1496936.htm",
-      "date": "2025-05-02 17:04",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1746176673.0,
-      "summary": "4月渐近尾声，即时零售领域依旧热闹非凡，竞争态势持续升级。今日，阿里在该领域又有新动作，为这场激烈的市场角逐再添一把火。阿里将淘天旗下即时零售业务——淘宝“小时达”升级为淘宝“闪购”。该业务预计先在50多个城市上线，并于5月6日实现全国覆盖。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
