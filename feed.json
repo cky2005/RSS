@@ -1,35 +1,425 @@
 {
-  "update_time": "2025-07-18",
+  "update_time": "2025-07-19",
   "articles": [
     {
-      "title": "美联储理事沃勒：在美联储会议前，从不希望预先承诺采取某项行动",
-      "link": "https://36kr.com/newsflashes/3384434043109122?f=rss",
-      "date": "2025-07-18 20:24",
+      "title": "iPhone可能得涨价 因为京东方在正面硬刚三星",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1513986.htm",
+      "date": "2025-07-19 00:12",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1752855124.0,
+      "summary": "估计苹果自己都没想到，自家 iPhone 17 还没发布，就先被三星给摆了一道。事情是这样的，就在前几天，美国国际贸易委员会（ ITC ）甩出了一份初步裁决：认定咱中国屏幕巨头京东方及其子公司，侵犯了韩国三星显示关于 OLED 面板的商业机密。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "英伟达向阿联酋出口芯片交易遭遇安全审查障碍",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1513984.htm",
+      "date": "2025-07-19 00:05",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1752854705.0,
+      "summary": "7月中旬，美国商务部官员仍在暂缓批准英伟达向阿联酋出口人工智能芯片的许可，导致这项曾被特朗普总统在5月誉为“贸易突破里程碑”的交易陷入停滞。原本看似板上钉钉的交易，如今取决于新的安全保证措施。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "奈飞开始在其影视剧制作中使用生成式人工智能",
+      "link": "https://www.cnbeta.com.tw/articles/movie/1513982.htm",
+      "date": "2025-07-19 00:04",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1752854649.0,
+      "summary": "开发视频人工智能模型和工具的公司经常提及与好莱坞制片厂合作，以实现某些工作流程。周四，奈飞（Netflix）表示已开始在其制作的电影和剧集中使用人工智能。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "马斯克推出“AI男友”Valentine",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1513980.htm",
+      "date": "2025-07-19 00:01",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1752854480.0,
+      "summary": "18日，埃隆·马斯克在社交平台X宣布，“明天Grok发布‘AI男友’Valentine预告视频。情人节（直译：Valentine的日子）在一周内到来。他会让你心跳加速。”17日，马斯克公布了关于Valentine的信息：该“AI男友”以海因莱因的小说《异乡异客》中的主人公命名。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "前往鹿特丹海牙机场的自动驾驶班车将于下个月开始运营",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1513978.htm",
+      "date": "2025-07-18 23:58",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1752854324.0,
+      "summary": "尽管自动驾驶汽车在世界各地进行了多年的测试，但其道路交通服务尚未获得主流认可。然而，一条通往鹿特丹海牙机场的全新自动驾驶巴士服务或将成为该技术应用的又一里程碑。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "2025 上半年国内汽车销量前十企业出炉：比亚迪领头，仅东风、广汽同比下滑",
+      "link": "https://www.ithome.com/0/869/169.htm",
+      "date": "2025-07-18 23:55",
+      "author": "IT之家",
+      "timestamp": 1752854149.0,
+      "summary": "IT之家 7 月 18 日消息，据中国汽车工业协会（中汽协）分析，2025 年 1 月-6 月，汽车销量排名前十位的企业（集团）共销售 1315.9 万辆汽车，占汽车销售总量的 84.1%。其中比亚迪销量排名第一，上汽集团排名第二，吉利汽车排名第三；中国一汽、长安汽车、奇瑞控股、北汽集团和长城汽车销",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "国产 OLED 新成员，HKC 惠科首款自研 OLED 模组成功点亮",
+      "link": "https://www.ithome.com/0/869/233.htm",
+      "date": "2025-07-18 23:30",
+      "author": "IT之家",
+      "timestamp": 1752852634.0,
+      "summary": "IT之家 7 月 18 日消息，HKC 惠科首款自主研发并制造的 OLED 模组于 7 月 18 日在深圳惠科创新半导体显示工业园成功点亮。▲ 产品实拍 — 惠科 OLED 模组点亮惠科表示，作为惠科布局 OLED 赛道的战略级成果，此次量产的 OLED 模组攻克了核心工艺壁垒。产品采用创新的氧化物",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "“砍刀部”上分，微软“电影和电视”商店将永久关闭",
+      "link": "https://www.ithome.com/0/869/232.htm",
+      "date": "2025-07-18 23:25",
+      "author": "IT之家",
+      "timestamp": 1752852357.0,
+      "summary": "IT之家 7 月 18 日消息，微软日前宣布正式停止出售电影和电视节目，用户无法再通过微软官网或 Windows 和 Xbox 应用商店购买数字内容。IT之家附通知内容大意如下：重要通知：微软不再在 Microsoft.com、Windows 上的 Microsoft Store 以及 Xbox 上",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "大疆 Osmo 360 全景相机包装盒曝光：确认 1 英寸传感器，759 澳元",
+      "link": "https://www.ithome.com/0/869/231.htm",
+      "date": "2025-07-18 23:22",
+      "author": "IT之家",
+      "timestamp": 1752852129.0,
+      "summary": "IT之家 7 月 18 日消息，据 Quadro News 今日爆料，大疆全景相机 Osmo 360 包装盒曝光。爆料照片显示，大疆 Osmo 360 海外单机售价为 759 澳元（IT之家注：现汇率约合 3530 元人民币），套机为 989 澳元（现汇率约合 4600 元人民币），规格也与之前流出",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "等了 12 年，《GTA 5》终于在沙特、阿联酋上线",
+      "link": "https://www.ithome.com/0/869/230.htm",
+      "date": "2025-07-18 23:08",
+      "author": "IT之家",
+      "timestamp": 1752851310.0,
+      "summary": "IT之家 7 月 18 日消息，《GTA 5》自 2013 年 9 月 17 日发行以来，至今已接近 12 年。对全球数以亿计的玩家来说，这款游戏早已是反复游玩的经典，或者至少通过合法方式轻松获取。但如果你这 12 年一直住在沙特或阿联酋，并且没有尝试通过灰色渠道下载，那《GTA 5》将在 2025",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Meta拒绝签署欧盟的AI行为准则",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1513976.htm",
+      "date": "2025-07-18 23:03",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1752851033.0,
+      "summary": "在欧盟通用人工智能模型提供商规则生效前几周，Meta 拒绝签署欧盟人工智能法案的行为准则。Meta 首席全球事务官 Joel Kaplan 在领英上写道：“欧洲在人工智能领域正走在错误的道路上。我们仔细审查了欧盟委员会的通用人工智能 (GPAI) 模型行为准则，Meta 不会签署。该准则给模型开发者",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "宝马中国唯一 IT 研发中心：宝马集团全球六大信息技术研发中心之一落地南京",
+      "link": "https://www.ithome.com/0/869/229.htm",
+      "date": "2025-07-18 23:01",
+      "author": "IT之家",
+      "timestamp": 1752850873.0,
+      "summary": "IT之家 7 月 18 日消息，宝马集团今日官宣，华晨宝马汽车有限公司与南京市建邺区正式签署合作协议，宣布设立全资子公司“宝马（南京）信息技术有限公司”，成为宝马集团全球六大信息技术研发中心之一，同时也是宝马集团在中国设立的首个且唯一的 IT 研发中心，更是集团在全亚洲规模最大的 IT 研发基地。宝",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Netflix 承认已在自制剧集中使用生成式 AI：制作比传统特效快 10 倍",
+      "link": "https://www.ithome.com/0/869/228.htm",
+      "date": "2025-07-18 22:46",
+      "author": "IT之家",
+      "timestamp": 1752849977.0,
+      "summary": "IT之家 7 月 18 日消息，据外媒 TechCrunch 今晚报道，Netflix 在电话会议中透露，平台已在自制影视作品中实际启用了 AI 技术。Netflix 联席 CEO 泰德・萨兰多斯表示，平台在阿根廷剧集《El Atonata》中首次展示了“出现在荧幕上的首个由生成式 AI 作出的最终",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "美国首条高铁“烂尾”：耗时 16 年、耗资 150 亿美元，却未铺设一条轨道",
+      "link": "https://www.ithome.com/0/869/227.htm",
+      "date": "2025-07-18 22:46",
+      "author": "IT之家",
+      "timestamp": 1752849962.0,
+      "summary": "IT之家 7 月 18 日消息，据央视新闻报道，当地时间 7 月 17 日，美国交通部长肖恩・达菲在参加活动时称，“胡佛水坝建成仅用 5 年，金门大桥仅用 4 年”，斥责加州高铁项目耗时 16 年、耗资 150 亿美元（IT之家注：现汇率约合 1077.85 亿元人民币），却未铺设一条轨道。当天，针",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "我国海水淡化工程已达 158 个，关键装备实现国产化",
+      "link": "https://www.ithome.com/0/869/226.htm",
+      "date": "2025-07-18 22:31",
+      "author": "IT之家",
+      "timestamp": 1752849099.0,
+      "summary": "IT之家 7 月 18 日消息，据央视新闻今日报道，自然资源部海洋战略规划与经济司发布《2024 年全国海水利用报告》（以下简称《报告》）。《报告》显示，2024 年全国现有海水淡化工程 158 个，工程规模 285.6 万吨 / 日，比 2023 年增加了 33.3 万吨 / 日。《报告》提到，天",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "高温多雨天气影响消费者购车，中国汽车流通协会预计 7 月全国乘用车终端销量约 190 万辆",
+      "link": "https://www.ithome.com/0/869/225.htm",
+      "date": "2025-07-18 22:22",
+      "author": "IT之家",
+      "timestamp": 1752848566.0,
+      "summary": "IT之家 7 月 18 日消息，中国汽车流通协会产业协调部发文，认为 7 月全国乘用车终端销量 190 万辆左右。IT之家参考相应报道获悉，今年 7 月高温多雨的天气对消费者到店购车有一定的影响，厂商在 7 月或将在一定程度上放缓生产及销售节奏，经销商促销力度也将对应有所减弱。而在消费者方面，消费者",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "谷歌安卓部门负责人：计算机科学专业需要“重塑”，本质是科学、不只是编程",
+      "link": "https://www.ithome.com/0/869/224.htm",
+      "date": "2025-07-18 22:20",
+      "author": "IT之家",
+      "timestamp": 1752848437.0,
+      "summary": "IT之家 7 月 18 日消息，据《商业内幕》今日报道，谷歌安卓部门负责人 Sameer Samat 认为，计算机科学专业需要一次“重塑（rebrand）”。IT之家从报道中获悉，Samat 表示，如今许多人一提起这个专业，就觉得只是去学 Java 编程，但如果目标只是写代码，“其实根本用不着去读大",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "索尼 PSN 商店迎“夏日优惠”游戏促销，《寂静岭 2：重制版》5 折 233 港币新史低等",
+      "link": "https://www.ithome.com/0/869/223.htm",
+      "date": "2025-07-18 22:07",
+      "author": "IT之家",
+      "timestamp": 1752847645.0,
+      "summary": "IT之家 7 月 18 日消息，索尼 PSN 商店现已开启“夏日优惠”游戏折扣活动，《光与影：33 号远征队》、《幻想水浒传 1&amp;2：HD 复刻版》、《寂静岭 2：重制版》等游戏迎来特惠，活动将于 7 月 30 日结束（部分产品活动优惠 8 月 13 日结束）。IT之家整理主要游戏优惠内容如",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "工信部等召开新能源汽车行业座谈会，要求加快出台电耗限值标准、共同抵制“网络水军”“黑公关”",
+      "link": "https://www.ithome.com/0/869/222.htm",
+      "date": "2025-07-18 22:04",
+      "author": "IT之家",
+      "timestamp": 1752847480.0,
+      "summary": "IT之家 7 月 18 日消息，据“工信微报”公众号今晚推文，工业和信息化部、国家发展改革委、市场监管总局 18（今）日联合召开新能源汽车行业座谈会，部署进一步规范新能源汽车产业竞争秩序工作。IT之家从工信部获悉，会议提出了如下要求：一是加强监督检查。深入推进产品价格监测、产品一致性监督检查、缩短供",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "俄军向乌克兰机器人投降时，人类战争史翻开了新的一页丨军事",
+      "link": "https://www.infzm.com/contents/298413",
+      "date": "2025-07-18 22:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1752847200.0,
+      "summary": "（本文首发于南方人物周刊）\n                \n                \n                                        南方人物周刊特约撰稿 朱江明",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "首都互联网协会“自媒体”治理与发展专业委员会成立",
+      "link": "http://www.chinanews.com/sh/2025/07-18/10450365.shtml",
+      "date": "2025-07-18 21:55",
+      "author": "中新网社会新闻",
+      "timestamp": 1752846939.0,
+      "summary": "7月17日，由北京市网信办指导成立的首都互联网协会“自媒体”治理与发展专业委员会召开成立大会。市网信办相关负责人，市委教育工委、市公安局、市司法局、市住建委、市卫健委、市市场监管局、市金融监管局等相关管理部门代表，区行业协会代表、网站平台、MCN机构、网络代表人士等齐聚一堂，共享共治，共谋发展。专委",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "一年多省 135 度电，家用电冰箱能耗“史上最严”新国标明年 6 月实施",
+      "link": "https://www.ithome.com/0/869/221.htm",
+      "date": "2025-07-18 21:51",
+      "author": "IT之家",
+      "timestamp": 1752846686.0,
+      "summary": "IT之家 7 月 18 日消息，市场监管总局（国家标准委）5 月底批准发布 GB 12021.2-2025《家用电冰箱耗电量限定值及能效等级》，该标准将于 2026 年 6 月 1 日起正式实施。新版《家用电冰箱耗电量限定值及能效等级》标准产品范围中增加了半导体制冷的家用电冰箱和可移动式车载制冷器具",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "提升极端天气临灾防范能力 气象部门强化临近预报预警",
+      "link": "http://www.chinanews.com/sh/2025/07-18/10450280.shtml",
+      "date": "2025-07-18 21:47",
+      "author": "中新网社会新闻",
+      "timestamp": 1752846453.0,
+      "summary": "中新网北京7月18日电 (记者 陈溯)当前正值“七下八上”防汛关键期，突发性强、发展迅猛的强对流天气愈发频繁地进入公众视野。基于强对流天气预报预警仍是世界性难题这一现状，气象部门进一步强化气象预警与灾害预报联动，以层层递进的预报预警，提升服务效果，同时，面对难题勇于挑战，不断提升极端灾害性天气监测预",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "党建联建引领多元共治 浙江嘉兴“蓝领公寓”的安居密码",
+      "link": "http://www.chinanews.com/sh/2025/07-18/10450348.shtml",
+      "date": "2025-07-18 21:47",
+      "author": "中新网社会新闻",
+      "timestamp": 1752846443.0,
+      "summary": "中新网嘉兴7月18日电(胡丰盛)清晨，浙江省嘉兴市秀洲区高照街道新义村，房东沈正光家门前响起清脆的“滴”声——租住在此的“蓝领”职工小周刷开智能门锁，开启新的一天。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "安徽农村创业成果展风采 优秀带头人获表彰",
+      "link": "http://www.chinanews.com/sh/2025/07-18/10450354.shtml",
+      "date": "2025-07-18 21:46",
+      "author": "中新网社会新闻",
+      "timestamp": 1752846409.0,
+      "summary": "中新网合肥7月18日电(朱孔阳)2025年农村创业项目大赛省级遴选暨安徽省农村创业优秀带头人典型案例发布活动18日在合肥举办。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "2000万年前犀牛牙齿的古老蛋白质正改变我们对进化的理解",
+      "link": "https://www.cnbeta.com.tw/articles/science/1513974.htm",
+      "date": "2025-07-18 21:42",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1752846126.0,
+      "summary": "研究人员通过分析从一颗有 2000 多万年历史的牙齿化石中提取的蛋白质，在了解犀牛进化方面取得了重大突破。通过检查这些古老的蛋白质序列，科学家发现这种史前犀牛在中始新世至渐新世时期（大约 4100 万至 2500 万年前）与犀牛家族的其他成员分离。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "马斯克AI女友Ani火爆出圈 给3A游戏行业上了一课",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1513972.htm",
+      "date": "2025-07-18 21:38",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1752845938.0,
+      "summary": "近日马斯克推出了二次元AI女友Ani引发大量关注，甚至引发了一波Cosplay热潮。推主@Grummz在社交媒体上分享了一张Cos照片，直言对马斯克AI女友的COS充分说明了AI女友的大获成功，顺便鄙视了现如今的3A游戏行业。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "官方约谈饿了么、美团、京东 要求外卖平台企业理性竞争",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1513970.htm",
+      "date": "2025-07-18 21:38",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1752845904.0,
+      "summary": "据国家市场监管总局网站消息，国家市场监管总局开展行政约谈，要求外卖平台企业理性竞争。7月18日，国家市场监管总局约谈饿了么、美团、京东三家平台企业，要求相关平台企业严格遵守《中华人民共和国电子商务法》《中华人民共和国反不正当竞争法》《中华人民共和国食品安全法》等法律法规规定，严格落实主体责任，进一步",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "成都警方打掉一“套路运”诈骗团伙",
+      "link": "http://www.chinanews.com/sh/2025/07-18/10450343.shtml",
+      "date": "2025-07-18 21:37",
+      "author": "中新网社会新闻",
+      "timestamp": 1752845848.0,
+      "summary": "中新网成都7月18日电 (记者 安源)记者18日从成都市公安局获悉，该局新都区公安分局于近日成功打掉该“套路运”诈骗犯罪团伙，目前正在提请检察院依法逮捕中。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "（乡村行·看振兴）以“球”为媒促同心 浙江平湖统战力量开辟乡村新赛道",
+      "link": "http://www.chinanews.com/sh/2025/07-18/10450292.shtml",
+      "date": "2025-07-18 21:33",
+      "author": "中新网社会新闻",
+      "timestamp": 1752845626.0,
+      "summary": "中新网嘉兴7月18日电(黄彦君)正值暑假，浙江省平湖市林埭镇徐家埭村迎来文旅热潮：棒球场上，两岸青年激情“挥棒”；棒球乐园景区内，游客络绎不绝；周边农家乐、民宿场场客满……",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "台风“韦帕”影响在即！这些地方或有大到暴雨",
+      "link": "http://www.chinanews.com/sh/2025/07-18/10450302.shtml",
+      "date": "2025-07-18 21:29",
+      "author": "中新网社会新闻",
+      "timestamp": 1752845384.0,
+      "summary": "中新网北京7月18日电(记者 邵萌)今年第6号台风“韦帕”已于18日凌晨在菲律宾以东洋面生成。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "台风“韦帕”预计横穿北部湾 广西海事局启动防御台风IV级应急响应",
+      "link": "http://www.chinanews.com/sh/2025/07-18/10450309.shtml",
+      "date": "2025-07-18 21:28",
+      "author": "中新网社会新闻",
+      "timestamp": 1752845318.0,
+      "summary": "中新网南宁7月18日电 (莫卫华  黄艳梅)记者18日从广西海事局获悉，今年第6号台风“韦帕”已于18日凌晨在菲律宾以东洋面生成，预计将于21日横穿北部湾广西沿海，最强可达台风级或强台风级。广西海事局已于18日9时30分启动防御台风IV级应急响应，全力组织防御工作。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "云南石林火把节两大比赛吸引上万观众",
+      "link": "http://www.chinanews.com/sh/2025/07-18/10450323.shtml",
+      "date": "2025-07-18 21:25",
+      "author": "中新网社会新闻",
+      "timestamp": 1752845112.0,
+      "summary": "中新网昆明7月18日电 (黄兴鸿)18日，云南省昆明市石林彝族自治县2025年火把节活动迎来彝族传统摔跤比赛、“牛王争霸”赛两大比赛，吸引上万游客和当地民众观看。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "成都查处虚假兼职招聘诈骗案 刑拘负责人",
+      "link": "http://www.chinanews.com/sh/2025/07-18/10450324.shtml",
+      "date": "2025-07-18 21:24",
+      "author": "中新网社会新闻",
+      "timestamp": 1752845096.0,
+      "summary": "中新网成都7月18日电 (记者 安源)记者18日从成都市公安局锦江区分局发布的警情通报获悉，成都一公司发布虚假兼职招聘信息，引诱求职者缴费实施诈骗。目前，已对该公司负责人高某(男，24岁)采取刑事拘留强制措施。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "POWER-Z 开设京东旗舰店，上架 240W PD 3.1 充电测试工具 KM003C 售 398 元",
+      "link": "https://www.ithome.com/0/869/218.htm",
+      "date": "2025-07-18 21:22",
+      "author": "IT之家",
+      "timestamp": 1752844925.0,
+      "summary": "IT之家 7 月 18 日消息，充电测试领域品牌 POWER-Z（泡尔）现已入驻京东，在其官方旗舰店上架了一系列充电测试工具，目前相应旗舰店共有 9 款产品在售，涵盖协议诱骗至自动化测试等场景用途。POWER-Z KM003CPOWER-Z KM001 ProPOWER-Z KT002POWER-Z",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "320名“拉面人”角逐第二届全国拉面技能大赛",
+      "link": "http://www.chinanews.com/sh/2025/07-18/10450317.shtml",
+      "date": "2025-07-18 21:20",
+      "author": "中新网社会新闻",
+      "timestamp": 1752844847.0,
+      "summary": "中新网青海化隆7月18日电 (张海雯)18日，以“匠心筑梦，面向未来”为主题的第二届全国拉面技能大赛在青海省海东市开幕，来自全国31个省(市、区)的86支代表队、320名“拉面人”同台竞技。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "百度文库GenFlow2.0版本即将于8月发布",
+      "link": "https://36kr.com/newsflashes/3384467403587337?f=rss",
+      "date": "2025-07-18 20:58",
       "author": "36氪",
-      "timestamp": 1752841460.0,
-      "summary": "据报道，美联储理事沃勒称，在美联储会议前，从不希望预先承诺采取某项行动。（界面）",
+      "timestamp": 1752843496.0,
+      "summary": "36氪获悉，知情人士透露，百度文库GenFlow2.0版本即将于8月发布。新版本将具备更强大的底层多模型能力，支持生成更多模态内容，大幅缩短任务并发交付时间，并将推出更加便捷的主动干预模式，全新升级交互体验。同日，OpenAI发布了ChatGPT Agent，通过多智能体协作自主执行复杂任务。值得一",
       "source_url": "http://36kr.com",
       "category": "Blog"
     },
     {
-      "title": "圆通速递：6月快递产品收入55.27亿元，同比增长11.35%",
-      "link": "https://36kr.com/newsflashes/3384433066524165?f=rss",
-      "date": "2025-07-18 20:23",
+      "title": "诺泰生物：公司股票将被实施其他风险警示，A股简称变更为“ST诺泰”",
+      "link": "https://36kr.com/newsflashes/3384457424551682?f=rss",
+      "date": "2025-07-18 20:56",
       "author": "36氪",
-      "timestamp": 1752841401.0,
-      "summary": "36氪获悉，圆通速递发布6月快递业务主要经营数据，6月，快递产品收入55.27亿元，同比增长11.35%；业务完成量26.27亿票，同比增长19.34%；快递产品单票收入2.1元，同比下降6.69%。",
+      "timestamp": 1752843396.0,
+      "summary": "36氪获悉，诺泰生物发布公告，公司于7月18日收到中国证券监督管理委员会下发的《事先告知书》。依据《事先告知书》载明的内容，公司股票将被实施其他风险警示，实施后A股简称为ST诺泰，公司股票将于7月21日停牌1天，7月22日起复牌，自复牌之日起实施其他风险警示。",
       "source_url": "http://36kr.com",
       "category": "Blog"
     },
     {
-      "title": "Meta称不会签署欧盟最终版《通用人工智能行为准则》，批其“过度干预”",
-      "link": "https://36kr.com/newsflashes/3384431595257609?f=rss",
-      "date": "2025-07-18 20:21",
+      "title": "TOYCITY\"耙老师\"首款AI智能体全球首发",
+      "link": "https://36kr.com/newsflashes/3384465665949444?f=rss",
+      "date": "2025-07-18 20:56",
       "author": "36氪",
-      "timestamp": 1752841311.0,
-      "summary": "Meta首席全球事务官乔尔·卡普兰（Joel Kaplan）7月18日在领英发文称，Meta不会签署欧盟本月早些时候发布的最终版《通用人工智能行为准则》，“该守则为模型开发者带来了许多法律上的不确定性，其措施也远远超出欧盟《人工智能法案》的范畴”。卡普兰提到，本月早些时候，博世、西门子、SAP、空客",
+      "timestamp": 1752843390.0,
+      "summary": "36氪获悉，TOYCITY旗下IP“耙老师”发布了首款智能陪伴玩偶——小耙AI。据介绍，这是TOYCITY原创IP\"耙老师\"的首个智能化衍生品。",
       "source_url": "http://36kr.com",
       "category": "Blog"
+    },
+    {
+      "title": "芯联集成：拟58.97亿元购买芯联越州72.33%股权",
+      "link": "https://36kr.com/newsflashes/3384460087901958?f=rss",
+      "date": "2025-07-18 20:50",
+      "author": "36氪",
+      "timestamp": 1752843050.0,
+      "summary": "36氪获悉，芯联集成发布公告，公司拟通过发行股份及支付现金的方式向15名交易对方购买其合计持有的芯联越州集成电路制造（绍兴）有限公司（简称“芯联越州”）72.33%股权，交易价格为58.97亿元。交易完成后，芯联越州将成为芯联集成的全资子公司。此次交易构成关联交易，不构成重组上市。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "热门中概股美股盘前普涨，阿里巴巴涨超3%",
+      "link": "https://36kr.com/newsflashes/3384455808237061?f=rss",
+      "date": "2025-07-18 20:46",
+      "author": "36氪",
+      "timestamp": 1752842789.0,
+      "summary": "36氪获悉，热门中概股美股盘前普涨， 截至发稿，阿里巴巴、京东、哔哩哔哩涨超3%，爱奇艺、网易、富途控股涨超2%，拼多多、百度涨超1%。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "中国气象局启动重大气象灾害暴雨台风四级应急响应",
+      "link": "http://www.chinanews.com/sh/2025/07-18/10450303.shtml",
+      "date": "2025-07-18 20:46",
+      "author": "中新网社会新闻",
+      "timestamp": 1752842765.0,
+      "summary": "中国天气网讯 中国气象局启动重大气象灾害(暴雨、台风)Ⅳ级应急响应的命令：预计7月18日夜间至22日，西北地区东部、西南地区、华北、黄淮、内蒙古中东部和东北地区等地将出现一轮降雨过程，青海、甘肃、四川、内蒙古、山东、河北、辽宁、吉林、黑龙江等局地降雨强。今年第6号台风“韦帕”将于20日至21日早晨登",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
     },
     {
       "title": "美国国会通过稳定币法案 加密货币总市值首次突破4万亿美元",
@@ -42,64 +432,14 @@
       "category": "Blog"
     },
     {
-      "title": "市场监管总局开展行政约谈，要求外卖平台企业理性竞争",
-      "link": "https://36kr.com/newsflashes/3384429022559746?f=rss",
-      "date": "2025-07-18 20:19",
-      "author": "36氪",
-      "timestamp": 1752841154.0,
-      "summary": "今天（18日），市场监管总局约谈饿了么、美团、京东三家平台企业，要求相关平台企业严格遵守《中华人民共和国电子商务法》《中华人民共和国反不正当竞争法》《中华人民共和国食品安全法》等法律法规规定，严格落实主体责任，进一步规范促销行为，理性参与竞争，共同构建消费者、商家、外卖骑手和平台企业等多方共赢的良好",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "饿了么、美团、京东被市场监管总局约谈：进一步规范促销行为，理性参与竞争",
-      "link": "https://www.ithome.com/0/869/206.htm",
-      "date": "2025-07-18 20:17",
-      "author": "IT之家",
-      "timestamp": 1752841052.0,
-      "summary": "IT之家 7 月 18 日消息，市场监管总局今日发文，市场监管总局约谈饿了么、美团、京东三家平台企业，要求相关平台企业严格遵守《中华人民共和国电子商务法》《中华人民共和国反不正当竞争法》《中华人民共和国食品安全法》等法律法规规定，严格落实主体责任，进一步规范促销行为，理性参与竞争，共同构建消费者、商",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "曝博通欲重启 VMware 合作伙伴计划，意图将小型伙伴“扫地出门”",
-      "link": "https://www.ithome.com/0/869/180.htm",
-      "date": "2025-07-18 20:15",
-      "author": "IT之家",
-      "timestamp": 1752840912.0,
-      "summary": "IT之家 7 月 18 日消息，据科技媒体 The Register 本周（7 月 16 日）报道，VMware 已通知其合作伙伴，当前的合作伙伴计划即将结束，而规模较小的合作伙伴可能不会被邀请加入新的合作体系。The Register 首先援引了澳大利亚 IT 服务商 Interactive 周三",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "台积电称汇率是个“大变数”，将不断评估对冲策略",
-      "link": "https://36kr.com/newsflashes/3384424870919683?f=rss",
-      "date": "2025-07-18 20:15",
-      "author": "36氪",
-      "timestamp": 1752840900.0,
-      "summary": "台积电财务长黄仁昭表示，该公司认为汇率波动对利润率来说是个“大变数”，并将不断评估对冲策略以控制其影响。黄仁昭在周五接受采访时表示：“汇率是我们无法控制的因素，曾经有过对我们不利的时候，但我们设法依靠其他因素保持了盈利能力，这就是我们要去做的事情。”（新浪财经）",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "惠普全球 CEO 洛雷斯访华：将坚定加大在华长期运营与合作",
-      "link": "https://www.ithome.com/0/869/205.htm",
-      "date": "2025-07-18 20:09",
-      "author": "IT之家",
-      "timestamp": 1752840564.0,
-      "summary": "IT之家 7 月 18 日消息，惠普公司今日发文称，惠普公司总裁兼首席执行官恩里克・洛雷斯继 2024 年 3 月后，于今年 7 月 15 日至 18 日再度访华。此行中，他应邀出席在北京举办的第三届中国国际供应链促进博览会（IT之家注：以下简称“链博会”），还前往山东威海、重庆等地展开访问，与中央",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "AMD Magnus APU 规格曝光：Zen 6 架构、11 核心，次世代游戏机有望搭载",
-      "link": "https://www.ithome.com/0/869/203.htm",
-      "date": "2025-07-18 19:58",
-      "author": "IT之家",
-      "timestamp": 1752839935.0,
-      "summary": "IT之家 7 月 18 日消息，博主 Moore's Law Is Dead 今日发布视频，曝光了 AMD 尚未发布的 Magnus APU，这款 APU 代号为 Magnus，配备 264mm² 的 GPU Die，GPU 位宽为 384 bit，这个规格比任何一款现有游戏机都宽（现世代性能最强主",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
+      "title": "涉及55地 四川发布山洪灾害橙色预警",
+      "link": "http://www.chinanews.com/sh/2025/07-18/10450247.shtml",
+      "date": "2025-07-18 20:00",
+      "author": "中新网社会新闻",
+      "timestamp": 1752840027.0,
+      "summary": "中新网成都7月18日电 (记者 何浠)记者18日从四川水利厅获悉，当日17时，四川省水利厅、四川省气象局联合发布山洪灾害橙色预警。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
     },
     {
       "title": "氪星晚报｜英国石油出售美国陆上风电业务；比亚迪在济南成立销售服务新公司；香港航空推出免费机场接送服务",
@@ -109,16 +449,6 @@
       "timestamp": 1752839884.0,
       "summary": "大公司：\n  香港航空推出免费机场接送服务\n  7月18日，香港航空宣布分别与永东直通巴士有限公司和日本阿拉丁集团达成合作，推出一系列免费机场接送增值服务。由即日起至2025年12月31日，凡乘坐香港航空航班的乘客，可凭有效登机证（纸质或电子版）及相应的旅行证件，于永东直通巴士指定柜台免费兑换一张香",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "单颗顶规处理器近 10 万，AMD 公布锐龙 TR PRO 9000WX 系列国行建议零售价",
-      "link": "https://www.ithome.com/0/869/204.htm",
-      "date": "2025-07-18 19:54",
-      "author": "IT之家",
-      "timestamp": 1752839640.0,
-      "summary": "IT之家 7 月 18 日消息，AMD 美国当地时间昨日正式推出了锐龙 Threadripper PRO 9000 WX 系列处理器，并公布了除最低端的 12 核心 9945WX 以外的五款处理器的美元建议零售价。而在今天，AMD 也给出了 9995WX / 9985WX / 9975WX / 99",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -138,46 +468,6 @@
       "author": "中新网社会新闻",
       "timestamp": 1752839419.0,
       "summary": "中国天气网讯 自然资源部与中国气象局7月18日18时联合发布地质灾害气象风险预警：",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "高温黄色预警：新疆重庆等局部地区最高气温可达40℃以上",
-      "link": "http://www.chinanews.com/sh/2025/07-18/10450268.shtml",
-      "date": "2025-07-18 19:49",
-      "author": "中新网社会新闻",
-      "timestamp": 1752839383.0,
-      "summary": "中国天气网讯 中央气象台7月18日18时继续发布高温黄色预警：",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "B站第三方客户端 PiliPala 开发者收侵权告知函，宣布停止更新",
-      "link": "https://www.ithome.com/0/869/202.htm",
-      "date": "2025-07-18 19:48",
-      "author": "IT之家",
-      "timestamp": 1752839326.0,
-      "summary": "IT之家 7 月 18 日消息，PiliPala 是一款使用 Flutter 开发的B站第三方客户端，开发者 guozhigq 昨日发布《给用户的一封信》，表示由于收到官方侵权告知函，自即日起停止更新。侵权告知函指出，PiliPala 项目未经许可破解了哔哩哔哩平台接口，将数据聚合到自身应用中，使用",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "暴雨蓝色预警：四川台湾等地部分地区有大暴雨",
-      "link": "http://www.chinanews.com/sh/2025/07-18/10450267.shtml",
-      "date": "2025-07-18 19:47",
-      "author": "中新网社会新闻",
-      "timestamp": 1752839273.0,
-      "summary": "中国天气网讯 中央气象台7月18日18时发布暴雨蓝色预警：",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "台风黄色预警：“韦帕”将于20日登陆广东深圳到海南文昌沿海",
-      "link": "http://www.chinanews.com/sh/2025/07-18/10450265.shtml",
-      "date": "2025-07-18 19:47",
-      "author": "中新网社会新闻",
-      "timestamp": 1752839239.0,
-      "summary": "中国天气网讯 中央气象台7月18日18时继续发布台风黄色预警：",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
@@ -212,16 +502,6 @@
       "category": "Blog"
     },
     {
-      "title": "2025 款一汽-大众捷达 VA3 上市：可选手动变速箱，6.78 万元起",
-      "link": "https://www.ithome.com/0/869/201.htm",
-      "date": "2025-07-18 19:37",
-      "author": "IT之家",
-      "timestamp": 1752838676.0,
-      "summary": "IT之家 7 月 18 日消息，一汽-大众宣布旗下 2025 款捷达 VA3 正式上市，共推出 7 款配置车型，提供 5 速手动变速箱和 6 速手自一体变速箱两种规格可选，指导价 6.78 万-9.48 万元。外观方面，该车采用大众家族式设计，前脸拥有镀铬装饰铠甲式进气前格栅。车身使用传统造型门把手",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "哔哩哔哩第三方客户端PiliPala开发者收律师函 宣布停止开发",
       "link": "https://www.cnbeta.com.tw/articles/movie/1513960.htm",
       "date": "2025-07-18 19:37",
@@ -242,254 +522,14 @@
       "category": "Blog"
     },
     {
-      "title": "我国嫦娥六号样品新发现：可能包含月球原始月壳成分",
-      "link": "https://www.ithome.com/0/869/200.htm",
-      "date": "2025-07-18 19:26",
-      "author": "IT之家",
-      "timestamp": 1752838014.0,
-      "summary": "IT之家 7 月 18 日消息，据科技日报今日报道，中国科学院国家空间科学中心科研人员系统分析了月球阿波罗盆地内斜长岩的出露情况，成功识别出了 51 处纯斜长岩出露点。它们分布在阿波罗盆地的北缘、南缘、盆底及中央峰环结构上，这意味着嫦娥六号从阿波罗盆地带回的月球样品，或包含代表原始月壳成分的斜长岩。",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "欧盟为具有系统性风险的 AI 模型定规矩：若发生严重事故必须上报，网安工作要到位",
-      "link": "https://www.ithome.com/0/869/198.htm",
-      "date": "2025-07-18 19:22",
-      "author": "IT之家",
-      "timestamp": 1752837734.0,
-      "summary": "IT之家 7 月 18 日消息，据路透社报道，欧盟委员会周五发布指导方针，帮助被认定具有系统性风险的 AI 模型落实《人工智能法案》的相关要求。这类模型将面临更严格的合规义务，以降低潜在风险。这一举措旨在回应部分企业对《人工智能法案》监管负担的质疑，同时也为相关企业提供更明确的操作指引。根据该法案，",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "2025 款微星冒险家 14 AI+ 锐龙版笔记本上市：AI 7 H 350 + 16G + 512G 售 6999 元",
-      "link": "https://www.ithome.com/0/869/197.htm",
-      "date": "2025-07-18 19:19",
-      "author": "IT之家",
-      "timestamp": 1752837595.0,
-      "summary": "IT之家 7 月 18 日消息，微星现已在京东上架 2025 款冒险家 14 AI+ 锐龙版笔记本，该机搭载锐龙 AI 7 H 350 + 16 GB RAM + 512GB SSD，定价为 6999 元，部分地区国补后到手价 5571.21 元。该机整体造型简洁，采用黑色外观，支持 180 度开合",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "受台风“韦帕”影响 四条两岸“小三通”客运航线19日停航",
-      "link": "http://www.chinanews.com/sh/2025/07-18/10450218.shtml",
-      "date": "2025-07-18 19:16",
-      "author": "中新网社会新闻",
-      "timestamp": 1752837396.0,
-      "summary": "中新社福州7月18日电 (记者 龙敏)受今年第6号台风“韦帕”的影响，福建省防汛抗旱指挥部18日11时启动防台风Ⅳ级应急响应。四条两岸“小三通”客运航线19日将全部停航。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "报告：外国青年在沪游玩呈现“生活场景深度化、文化体验分层化”特征",
-      "link": "http://www.chinanews.com/sh/2025/07-18/10450182.shtml",
-      "date": "2025-07-18 19:14",
-      "author": "中新网社会新闻",
-      "timestamp": 1752837296.0,
-      "summary": "中新网上海7月18日电 (李秋莹)2024年至今，“China Travel”热潮席卷全球社媒平台，中国入境游市场迎来复苏新态势。作为全国空港口岸出入境客流量持续蝉联第一的国际门户城市，上海依托过境免签政策叠加效应，成为外国游客入境游首站和最青睐的“新手村”。今年以来上海入境游市场持续升温，前5个月",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "“浙BA”平湖赛场“彩蛋”：民警抓获在逃人员",
-      "link": "http://www.chinanews.com/sh/2025/07-18/10450223.shtml",
-      "date": "2025-07-18 19:12",
-      "author": "中新网社会新闻",
-      "timestamp": 1752837141.0,
-      "summary": "中新网嘉兴7月18日电(黄彦君 徐秀凤)连日来，“浙BA”赛事如火如荼，引燃了无数球迷的热情。然而，在大多数观众“沉浸式”观赏篮球盛宴时，一次不动声色的抓捕行动在“浙BA”嘉兴赛区悄然上演。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "福建启动防台风Ⅳ级应急响应",
-      "link": "http://www.chinanews.com/sh/2025/07-18/10450167.shtml",
-      "date": "2025-07-18 19:10",
-      "author": "中新网社会新闻",
-      "timestamp": 1752837003.0,
-      "summary": "中新网福州7月18日电 (记者 龙敏)受今年第6号台风“韦帕”影响，18日傍晚到19日，台湾浅滩渔场最大风力8～10级、阵风10～12级；闽中、闽南渔场最大风力8～9级、阵风10～11级。今天夜间至19日，福建中南部沿海海区最大风力8～9级、阵风10级。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "海南发布台风海上四级预警 启动海上防台风Ⅳ级应急响应",
-      "link": "http://www.chinanews.com/sh/2025/07-18/10450163.shtml",
-      "date": "2025-07-18 19:09",
-      "author": "中新网社会新闻",
-      "timestamp": 1752836961.0,
-      "summary": "中新网海口7月18日电 (记者 王子谦)海南省气象局18日15时20分发布台风四级预警(海上)，海南省防灾减灾救灾委员会15时30分启动海上防台风Ⅳ级应急响应。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "挑战桌面充电线杂乱问题：安克推出 7 合 1 Nano 充电站，自带两根伸缩线、89.99 美元",
-      "link": "https://www.ithome.com/0/869/194.htm",
-      "date": "2025-07-18 19:06",
-      "author": "IT之家",
-      "timestamp": 1752836786.0,
-      "summary": "IT之家 7 月 18 日消息，安克日前推出了一款 7 合 1 Nano 充电站，其本体能为四个设备提供 USB 充电，用户可以通过将额外的电源适配器插入后部来增加更多的 USB 端口，售价为 89.99 美元（IT之家注：现汇率约合 646.6 元人民币）。该充电站的一大特点，是配备了两根 2.3",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "嫦娥六号样品新发现：可能包含月球原始月壳成分",
-      "link": "https://www.cnbeta.com.tw/articles/science/1513956.htm",
-      "date": "2025-07-18 19:04",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1752836676.0,
-      "summary": "嫦娥六号首次从月背带回的样品，还在不断给我们带来惊喜！中国科学院国家空间科学中心科研人员系统分析了月球阿波罗盆地内斜长岩的出露情况，成功识别出了51处纯斜长岩出露点，分布在阿波罗盆地的北缘、南缘、盆底、中央峰环结构上。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "搭载 3.5GHz 主频国产兆芯开先 KX-7000 处理器，国光推出 UT6500-ZA3 笔记本",
-      "link": "https://www.ithome.com/0/869/191.htm",
-      "date": "2025-07-18 18:57",
-      "author": "IT之家",
-      "timestamp": 1752836275.0,
-      "summary": "IT之家 7 月 18 日消息，兆芯合作伙伴国光信息现已公布一款型号为“UT6500-ZA3”的笔记本产品，该机采用兆芯开先 KX-7000 系列处理器，可满足政务、教育、医疗、银行、电力、通讯等行业需求。据介绍，该机采用金属材质机身，搭载 8 核心 8 线程 3.5GHz 主频开先 KX-7000",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "消息称京东计划推出“京东外卖”独立 App",
-      "link": "https://www.ithome.com/0/869/190.htm",
-      "date": "2025-07-18 18:53",
-      "author": "IT之家",
-      "timestamp": 1752835994.0,
-      "summary": "IT之家 7 月 18 日消息，据《读佳》7 月 17 日爆料称，从多方获悉，京东计划推出“京东外卖”App，该独立 App 已由“京东到家”App 的开发公司上海京东到家友恒电商信息技术有限公司完成开发，或择日上线。京东外卖服务上线 40 天，日订单量突破 100 万单；随后于 4 月 22 日突",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "NVIDIA高端“Blackwell Ultra”GB300 AI服务器将于9月开始发货",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1513954.htm",
-      "date": "2025-07-18 18:50",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1752835848.0,
-      "summary": "由于供应链已适应 NVIDIA 的设计变化，NVIDIA 的 GB300 AI 服务器最终预计将于 9 月开始批量出货。NVIDIA 的“Blackwell Ultra”系列 AI 服务器在 2025 年上半年发布时确实遇到了一些问题，因为 Green 团队引入了一些设计变更，导致供应链难以适应。这",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "淘宝闪购一线运营称网传“补贴金额”失实，内部规定绝不能搞 0 元购刷单",
-      "link": "https://www.ithome.com/0/869/189.htm",
-      "date": "2025-07-18 18:49",
-      "author": "IT之家",
-      "timestamp": 1752835754.0,
-      "summary": "IT之家 7 月 18 日消息，有媒体近日引用知情人士表述称：在上周末，淘宝闪购单日补贴高于美团，数额惊人。澎湃新闻记者向淘宝闪购相关一线运营人士求证，得到对方澄清：不明消息源所称补贴金额完全失实，市场上有平台以“0 元购”形式天量烧钱刷单，但绝不是淘宝闪购。该运营表示，“淘宝闪购的满减和免单活动，",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "玄戒 O1 专属：小米 15S Pro 手机上线芯片性能面板，可手动调节频率 / 电压",
-      "link": "https://www.ithome.com/0/869/188.htm",
-      "date": "2025-07-18 18:49",
-      "author": "IT之家",
-      "timestamp": 1752835751.0,
-      "summary": "IT之家 7 月 18 日消息，综合小米社区用户反馈并经IT之家测试，小米现已为旗下小米 15S Pro 手机上线了“芯片性能面板”，相应功能系玄戒 O1 芯片机型专属，目前处于 Beta 内测阶段，需要在开发者选项中手动开启，支持机主手动调节手机各核组电压和频率。IT之家获悉，收到相应功能的小米",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "国光发布兆芯开先KX-7000笔记本 轻薄也有RJ-45网口",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1513952.htm",
-      "date": "2025-07-18 18:48",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1752835732.0,
-      "summary": "近期，兆芯合作伙伴国光信息发布了新款笔记本产品“UT6500-ZA3”，采用兆芯开先KX-7000系列处理器，可满足政务、教育、医疗、银行、电力、通讯等行业需求。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "宇树科技IPO已完成辅导备案 中信、容诚、德恒为辅导机构",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1513950.htm",
-      "date": "2025-07-18 18:47",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1752835669.0,
-      "summary": "今日，中国证监会官网显示，宇树科技已于近日完成IPO辅导备案，开启上市辅导。报告显示，此次IPO的辅导机构为中信证券，会计师事务所为容诚，律师事务所为北京德恒。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "贾跃亭新车FX Super One实为长城高山9改装 获投资1亿美金",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1513948.htm",
-      "date": "2025-07-18 18:47",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1752835667.0,
-      "summary": "7月18日消息，贾跃亭的新车FX Super One今天正式在美国洛杉矶发布。发布会结束后，贾总一如既往的煽情：“洛杉矶DTLA 7.17，California sunset映照天际线，FX Super One全球公众产品发布会成功，Super EAI F.A.C.E.也终于揭幕与你们见面，且正式开",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "吉林一号卫星建奇功 破获39万元重大骗保案",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1513946.htm",
-      "date": "2025-07-18 18:46",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1752835590.0,
-      "summary": "吉林一号卫星近年来名声大噪，没想到居然还能协助破获骗保案！长光卫星官方宣布，与中国人寿财险在工程险等业务领域开展广泛合作，今年成功帮助中国人寿财险西藏分公司破获一起建筑工程骗保案，涉案金额达39万元。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "网友微信号借人开外挂遭封禁 喊话腾讯：要丢工作了",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1513944.htm",
-      "date": "2025-07-18 18:45",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1752835550.0,
-      "summary": "今日，有网友在微博发文称，微信工作号借给朋友两天就被封了。根据网友晒出的微信安全提醒显示，该微信号因使用外挂、模拟器等非官方客户端程序或其他违规技术，当前无法使用扫码登录其他设备，也无法使用加入群聊、邀请朋友加入群聊、被邀请加入群聊。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "作家冯唐谈宗馥莉：她把《孙子兵法》用到了极致",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1513942.htm",
-      "date": "2025-07-18 18:44",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1752835488.0,
-      "summary": "今日，著名作家、诗人冯唐发视频评论娃哈哈宗馥莉事件，称她将《孙子兵法》用到了极致。冯唐提醒网友，不要把这件事当成八卦看，宗馥莉的每一步都藏着《孙子兵法》的智慧。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "罗意威Logo晒痕拖鞋售价6800元 广告引发网络热议",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1513940.htm",
-      "date": "2025-07-18 18:44",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1752835476.0,
-      "summary": "奢侈品品牌LOEWE罗意威近日因一款新款凉鞋广告引发网络热议。广告中，模特穿着品牌凉拖鞋在阳光下曝晒后，脚部留下了清晰的品牌logo晒痕，而这一看似&quot;缺陷&quot;的痕迹却被作为核心卖点高调展示。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "告别「烂脸式美白」，一生要白的中国女孩全面觉醒丨2025年轻人焕新「白」皮书",
       "link": "https://36kr.com/p/3384248062704640?f=rss",
       "date": "2025-07-18 18:11",
       "author": "36氪",
       "timestamp": 1752833480.0,
-      "summary": "&amp;amp;nbsp;\n  \n  \n  「美白+修护」双管齐下，正是敏���肌护理专家溪木源交上的科学美白答卷：其核心在于研发团队经历912天探索出的自研专利成分氧白因™。实验室数据显示，其抑制黑色素能力惊人，对比传统成分，其抑黑力是熊果苷的7584倍、维C的45",
+      "summary": "&amp;amp;nbsp;\n  \n  \n  「美白+修护」双管齐下，正是敏感肌护理专家溪木源交上的科学美白答卷：其核心在于研发团队经历912天探索出的自研专利成分氧白因™。实验室数据显示，其抑制黑色素能力惊人，对比传统成分，其抑黑力是熊果苷的7584倍、维C的45倍、",
       "source_url": "http://36kr.com",
       "category": "Blog"
-    },
-    {
-      "title": "全国啤酒气象指数地图来了 解锁你的夏日微醺指南",
-      "link": "http://www.chinanews.com/sh/2025/07-18/10450181.shtml",
-      "date": "2025-07-18 17:46",
-      "author": "中新网社会新闻",
-      "timestamp": 1752831996.0,
-      "summary": "中国天气网讯 三伏天临近，各地高温预警持续拉响，连日来华北至华南大部持续酷热，河北南部、河南、重庆等地局部甚至突破40℃。今日(7月18日)起中东部高温略有缓解，但华北南部至华南周末仍难逃暑热。中国天气发布全国啤酒气象指数地图，小酌一杯解夏愁。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "“鸟中大熊猫”黑鹳首次现身青海省乐都区",
-      "link": "http://www.chinanews.com/sh/2025/07-18/10450172.shtml",
-      "date": "2025-07-18 17:40",
-      "author": "中新网社会新闻",
-      "timestamp": 1752831645.0,
-      "summary": "中新网西宁7月18日电 (李隽 王桂萍 祁延林)18日，记者从青海省海东市乐都区委宣传部获悉，该区林草部门在国家重点保护野生动物资源调查及栖息地评估项目第一阶段工作中，首次记录到国家一级保护动物黑鹳的活动身影。同时，橙翅噪鹛、雀鹰、大鵟、红喉歌鸲等国家二级保护动物也被观测记录。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
     },
     {
       "title": "玩模乐器品牌TOP15，“IP+技术”撬动积木潮玩｜世研消费指数品牌榜Vol.53",
@@ -500,36 +540,6 @@
       "summary": "本次监测周期内，乐高、变形金刚和迪士尼分别以1.74、1.57和1.45的综合热度位列榜单前三名。\n  \n  图源：世研大消费指数\n  技术场景化与IP本土化双轨并进，积木品类分层覆盖全龄段需求\n  从品牌分布来看，本月积木品类竞争集中体现为技术场景化与IP本土化双轨并进。技术层面，头部品牌通过差异",
       "source_url": "http://36kr.com",
       "category": "Blog"
-    },
-    {
-      "title": "二十五年磨一剑  “年轻的”浙江丽水叩开高质量发展之门",
-      "link": "http://www.chinanews.com/sh/2025/07-18/10450127.shtml",
-      "date": "2025-07-18 17:02",
-      "author": "中新网社会新闻",
-      "timestamp": 1752829363.0,
-      "summary": "中新网丽水7月18日电(傅飞扬)7月18日，一架由中国国际航空执飞的CA1873航班(B738机型)客机将降落在浙江丽水机场。这也标志着丽水机场迎来投运的历史性时刻，这座山区市终于圆了“航空梦”。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "新疆塔里木盆地发现全球最深砂岩型工业铀矿化",
-      "link": "http://www.chinanews.com/sh/2025/07-18/10450109.shtml",
-      "date": "2025-07-18 16:59",
-      "author": "中新网社会新闻",
-      "timestamp": 1752829163.0,
-      "summary": "中新网北京7月18日电 (记者 王东宇)7月18日，记者从国家原子能机构获悉，我国专家团队在新疆塔里木盆地地下1820米发现全球最深的砂岩型工业铀矿化，刷新了世界砂岩型工业铀矿化发现最深纪录，标志着我国在深地砂岩型铀资源勘查方面处于世界领先水平，为全球铀矿资源的勘查与开发提供了新的理论支撑和找矿思路",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "第二十届中国研究生电子设计竞赛华东赛区现场赛在厦门开幕",
-      "link": "http://www.chinanews.com/sh/2025/07-18/10450086.shtml",
-      "date": "2025-07-18 16:58",
-      "author": "中新网社会新闻",
-      "timestamp": 1752829139.0,
-      "summary": "中新网厦门7月18日电 (吴冠标)18日，第二十届中国研究生电子设计竞赛(简称“研电赛”)华东赛区现场赛在厦门大学翔安校区举办，来自42所高校的200余支优秀团队齐聚于此，切磋角逐。经过评审专家审议，优秀晋级团队将代表华东赛区参加全国决赛。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
     },
     {
       "title": "70亿！30岁“富四代”收购上海创新药企",
@@ -590,6 +600,16 @@
       "summary": "与中国智能驾驶公司合作研发，已成为豪华品牌追赶辅助驾驶的热门路径。\n  36氪独家获悉，宝马已与Momenta达成合作，将共同开发基于AI大模型的辅助驾驶软件，应用于包括新世代在内的多款国产车型上。\n  据36氪了解，这套辅助驾驶方案专门为中国市场开发，将支持全场景、点到点的领航辅助驾驶功能，未来可",
       "source_url": "http://36kr.com",
       "category": "Blog"
+    },
+    {
+      "title": "被虐待致死前，12岁女孩的童年丨记者手记",
+      "link": "https://www.infzm.com/contents/298365",
+      "date": "2025-07-18 12:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1752811200.0,
+      "summary": "关于刘思琪的过往，村民所知甚少。没有人能说出她喜欢吃什么，兴趣爱好是什么，在村里有哪些玩伴。大家对她最深的印象，只有一个字：瘦。同学、邻居都记得她总是饿着，时常逃跑，有时是为了找点吃的，有时是为了躲避挨打。",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
     },
     {
       "title": "AMD线程撕裂者9000 WX工作站CPU即将上市 最高96核192线程 售价11,699美元",
