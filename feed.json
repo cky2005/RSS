@@ -1,115 +1,405 @@
 {
-  "update_time": "2025-07-26",
+  "update_time": "2025-07-27",
   "articles": [
+    {
+      "title": "法润三晋 e法同行｜古韵晋阳法治新景迎面而来",
+      "link": "http://www.chinanews.com/sh/2025/07-27/10454255.shtml",
+      "date": "2025-07-27 00:46",
+      "author": "中新网社会新闻",
+      "timestamp": 1753548370.0,
+      "summary": "中国青年网太原7月24日电(记者 田昕禾)“笙歌闻四面，楼阁在中央。春变烟波色，晴添树木光。” 这是唐代诗人白居易笔下晋阳城的繁华盛景。千年岁月流转，这片承载着2500多年的历史的“面食之城”，依旧生机盎然。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“十四五”硬核成果丨全面投产，实现重大突破！",
+      "link": "http://www.chinanews.com/sh/2025/07-27/10454253.shtml",
+      "date": "2025-07-27 00:27",
+      "author": "中新网社会新闻",
+      "timestamp": 1753547259.0,
+      "summary": "“十四五”期间",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“村超”绿茵重生记！数字解码“贵州超力量”，让世界看懂“中国式团结”",
+      "link": "http://www.chinanews.com/sh/2025/07-27/10454251.shtml",
+      "date": "2025-07-27 00:08",
+      "author": "中新网社会新闻",
+      "timestamp": 1753546110.0,
+      "summary": "235.71米洪峰咆哮而来，",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "你已超过99%的人！助力世运火炬传递没你不行",
+      "link": "http://www.chinanews.com/sh/2025/07-26/10454250.shtml",
+      "date": "2025-07-26 23:56",
+      "author": "中新网社会新闻",
+      "timestamp": 1753545367.0,
+      "summary": "从三星堆的古蜀之眼",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "第20届萨克斯管大会在哈尔滨开幕",
+      "link": "http://www.chinanews.com/sh/2025/07-26/10454247.shtml",
+      "date": "2025-07-26 23:37",
+      "author": "中新网社会新闻",
+      "timestamp": 1753544262.0,
+      "summary": "中新社哈尔滨7月26日电(记者 刘锡菊 王妮娜)第20届萨克斯管大会26日晚在哈尔滨大剧院开幕，这是该盛会自1969年创办以来，首次落户中国，为第37届中国·哈尔滨之夏音乐会注入全新活力。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "美国多名“HR”谈 AI 生成简历：会让求职者显得像个机器人，丧失真实性且削弱竞争力",
+      "link": "https://www.ithome.com/0/870/973.htm",
+      "date": "2025-07-26 23:36",
+      "author": "IT之家",
+      "timestamp": 1753544167.0,
+      "summary": "IT之家 7 月 26 日消息，据《商业内幕》今日报道，现在越来越多的人借助 ChatGPT 等工具“走捷径”，将其用于求职、面试。但另一边，招聘人员抱怨自己收到的简历越来越“像机器写的”。接受采访的招聘人员表示，用 AI 来节省撰写简历、研究雇主或练习常见问题回答的时间本身没有问题，但过度依赖 A",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "民生向暖 信心更足——从“半年报”看中国经济高质量发展底气",
+      "link": "http://www.chinanews.com/sh/2025/07-26/10454246.shtml",
+      "date": "2025-07-26 23:29",
+      "author": "中新网社会新闻",
+      "timestamp": 1753543781.0,
+      "summary": "“一直担心从深圳来北京看病报销麻烦，没想到住院时刷电子医保卡登记，出院直接就结算了，不用带一堆材料回深圳跑手续，真是太方便了！”在北京安贞医院办理出院手续的深圳市民游先生感叹道。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "有一种“诗和远方”在延吉——写在第五届全国新电商大会召开之际",
+      "link": "http://www.chinanews.com/sh/2025/07-26/10454245.shtml",
+      "date": "2025-07-26 23:23",
+      "author": "中新网社会新闻",
+      "timestamp": 1753543433.0,
+      "summary": "长白山巍峨如黛，布尔哈通河蜿蜒似绸。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "中兴通讯总部大厦项目 1 号楼封顶，深圳湾超级总部基地新地标",
+      "link": "https://www.ithome.com/0/870/972.htm",
+      "date": "2025-07-26 23:09",
+      "author": "IT之家",
+      "timestamp": 1753542560.0,
+      "summary": "IT之家 7 月 26 日消息，据中建一局 7 月 25 日消息，中建一局承建的中兴通讯总部大厦项目 1 号楼主体结构封顶，建成后将打造深圳湾超级总部基地新地标。项目位于深圳市南山区，毗邻深圳湾，与香港隔海相望，东邻欢乐海岸文旅综合体；总建筑面积 27.6 万平方米，建设内容包括 5 栋塔楼，建成后",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "“AI 教父”辛顿呼吁全球合作：要让 AI 既拥有超凡智慧，又甘于辅助人类",
+      "link": "https://www.ithome.com/0/870/971.htm",
+      "date": "2025-07-26 23:08",
+      "author": "IT之家",
+      "timestamp": 1753542507.0,
+      "summary": "IT之家 7 月 26 日消息，据新华社报道，2024 年诺奖得主、2018 年图灵奖得主杰弗里・辛顿在今天的 2025 世界人工智能大会上表示，人类面临的重要挑战，是如何让人工智能既拥有超凡智慧，又甘于辅助人类，这值得全球通力合作。他回顾过去 60 年人工智能发展历程中的两种范式，一种是逻辑型，认",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "三天两连发：《明末：渊虚之羽》发布 1.4 版本补丁，优化部分机型性能问题",
+      "link": "https://www.ithome.com/0/870/970.htm",
+      "date": "2025-07-26 22:57",
+      "author": "IT之家",
+      "timestamp": 1753541820.0,
+      "summary": "IT之家 7 月 26 日消息，在 7 月 25 日发布 1.3 版补丁后，《明末：渊虚之羽》今晚在 Steam 上宣布推出 1.4 版补丁，更新内容为优化部分机型的性能问题。团队表示，正在全力开发下一个补丁，届时将带来更多的优化和修复。该作本月 24 日 10 时上线，但因为游戏发售后，因游戏优化",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "海尔人形机器人“HIVA 海娃”亮相，号称“家务终结者”",
+      "link": "https://www.ithome.com/0/870/969.htm",
+      "date": "2025-07-26 22:48",
+      "author": "IT之家",
+      "timestamp": 1753541292.0,
+      "summary": "IT之家 7 月 26 日消息，海尔集团今日公布了旗下人形机器人产品“HIVA 海娃”，号称是“家务终结者”。“HIVA 海娃”身高 165cm，体重 70kg，全身 44 个自由度，是一款保姆机器人产品，可实现低至地面、高至 2 米的空间触及面。根据海尔集团放出的渲染动图，“HIVA 海娃”采用底",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "“大罢免”首轮投票国民党完胜 台舆论指展现民意对民进党当局愤怒不满",
+      "link": "http://www.chinanews.com/sh/2025/07-26/10454242.shtml",
+      "date": "2025-07-26 22:27",
+      "author": "中新网社会新闻",
+      "timestamp": 1753540032.0,
+      "summary": "新华社台北7月26日电(记者李建华、李悦)针对24名中国国民党籍民意代表的罢免案26日举行投开票。计票结果显示，这些罢免案均未获通过，国民党在“大罢免”首轮投票完胜。岛内舆论认为，这一结果是台湾民意的最新展现，代表台湾民众对赖清德及民进党当局强烈愤怒与不满。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "演唱会CEO出轨事件最大赢家：拍摄者一夜爆红 还清贷款",
+      "link": "https://www.cnbeta.com.tw/articles/movie/1515560.htm",
+      "date": "2025-07-26 22:26",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1753539975.0,
+      "summary": "7月26日消息，据媒体报道，近日英国天团Coldplay（酷玩乐队）在美国波士顿开唱，一如既往地吸引了大批粉丝到场，不料现场镜头却意外捕捉到“出轨”画面。当时画面中的拜伦和卡伯特两人正在亲密拥抱，其中安迪·拜伦是人工智能公司Astronomer的CEO，该公司估值高达13亿美元，克里斯汀·卡伯特是公",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "中国移动“九天”通用基础大模型 3.0 发布，核心技术开源",
+      "link": "https://www.ithome.com/0/870/968.htm",
+      "date": "2025-07-26 22:23",
+      "author": "IT之家",
+      "timestamp": 1753539818.0,
+      "summary": "IT之家 7 月 26 日消息，在今日的 2025 世界人工智能大会“AI 焕新产业共赢”企业人工智能产业发展论坛上，中国移动焕新发布“九天”基础大模型 3.0。本次发布的“九天”基础大模型 3.0 是国务院国资委战新“百大工程”的新成果，进一步强化了“高安全、高可控、全国产、全行业”四大特性，重点",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "特斯拉前总裁谈老东家“成功秘诀”：会议上必须讨论真实的产品、极简设计、尽善尽美",
+      "link": "https://www.ithome.com/0/870/967.htm",
+      "date": "2025-07-26 22:21",
+      "author": "IT之家",
+      "timestamp": 1753539685.0,
+      "summary": "IT之家 7 月 26 日消息，通用汽车（GM）最近在电动汽车领域取得了显著成就。多年只销售雪佛兰 Bolt 后，通用一口气推出了 17 款纯电动汽车，使其在美国市场上排名仅次于特斯拉，跃居第二。这一成就背后有着特斯拉前高管的贡献。据外媒 TechCrunch 今晚报道，现任通用董事会成员 Jon",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "北京密云发布暴雨红色预警",
+      "link": "http://www.chinanews.com/sh/2025/07-26/10454241.shtml",
+      "date": "2025-07-26 22:19",
+      "author": "中新网社会新闻",
+      "timestamp": 1753539589.0,
+      "summary": "中新网北京7月26日电 (记者 陈杭)26日21时6分，北京市密云区气象台升级发布暴雨红色预警信号，目前，密云已有8个站降水量达150毫米，预计当前至27日0时，密云冯家峪镇、不老屯镇、石城镇6小时累计降雨量可达150毫米以上，山区及浅山区可能出现山洪、泥石流、滑坡等次生灾害，低洼地区可能出现积水，",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "不管你来不来32°C的上海逛WAIC，都需要这份探展指南",
+      "link": "https://36kr.com/p/3395805438052489?f=rss",
+      "date": "2025-07-26 22:19",
+      "author": "36氪",
+      "timestamp": 1753539562.0,
+      "summary": "文｜邱晓芬 邓咏仪\n  编辑｜苏建勋\n  制图｜王欣逸\n  7月26日，世界人工智能大会（WAIC 2025）在上海世博展览馆开幕。这是一年一度中国AI领域最重要的盛会，没有之一。\n  即使当日大雨且最高气温32度，上海黏腻的风也并不舒适，但依旧阻挡不了WAIC的火热。\n  在展览空间上，WAIC分",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "南京明故宫遗址将开展主动性考古发掘",
+      "link": "http://www.chinanews.com/sh/2025/07-26/10454239.shtml",
+      "date": "2025-07-26 22:19",
+      "author": "中新网社会新闻",
+      "timestamp": 1753539555.0,
+      "summary": "中新社南京7月26日电 (记者 徐珊珊)南京市考古研究院26日发布“关于在南京明故宫遗址开展主动性考古发掘的情况通报”(简称“通报”)。通报称，故宫博物院、南京城墙保护管理中心、南京市考古研究院于2025年7月底启动明故宫遗址的主动性考古发掘。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "第十五届中俄文化大集启幕  特色活动释放跨国合作潜力",
+      "link": "http://www.chinanews.com/sh/2025/07-26/10454236.shtml",
+      "date": "2025-07-26 22:15",
+      "author": "中新网社会新闻",
+      "timestamp": 1753539355.0,
+      "summary": "中新社黑龙江黑河7月26日电 (记者 王琳)第十五届中俄文化大集26日晚在黑河市中俄文化艺术中心启幕，中俄两国文化界、经贸界代表参加，将陆续举办47项特色活动，旨在深化中俄人文交流互鉴，充分释放跨国合作潜力。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "极氪另一款大尺寸 SUV 新车 8X 谍照曝光，今年 Q4 发布",
+      "link": "https://www.ithome.com/0/870/966.htm",
+      "date": "2025-07-26 21:57",
+      "author": "IT之家",
+      "timestamp": 1753538256.0,
+      "summary": "IT之家 7 月 26 日消息，博主 @长三角行健者 今晚放出一组神秘 SUV 的路试谍照，这款车预计为极氪旗下另一款大尺寸 SUV——8X。相比于极氪已经发布的首款大尺寸 SUV—— 极氪 9X，这款新车尺寸明显小上一圈，且拥有更圆润的外观。本月早些时候，博主 @SugarDesign 发布的另一",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "研究发现食用鸡蛋不会损害心脏健康",
+      "link": "https://www.cnbeta.com.tw/articles/science/1515558.htm",
+      "date": "2025-07-26 21:53",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1753538038.0,
+      "summary": "一项突破性研究表明，增加心脏病风险的不是鸡蛋中的胆固醇，而是其他食物中的饱和脂肪。无论你喜欢水煮蛋、炒蛋还是煎蛋，鸡蛋又回到了菜单上。南澳大利亚大学的一项新研究发现，早餐吃鸡蛋并不会像之前认为的那样损害你的胆固醇水平。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "安联人寿称“大部分”客户个人数据在网络攻击中被盗",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1515556.htm",
+      "date": "2025-07-26 21:52",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1753537976.0,
+      "summary": "安联人寿证实，在 7 月中旬的一次数据泄露事件中，黑客窃取了其“大多数”客户、金融专业人士和员工的个人信息。该公司周六在向缅因州总检察长提交的一份法律要求的文件中披露了此次数据泄露事件，但并未立即公布安联人寿客户的具体受影响人数。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "河北易县受灾村庄探访：已开展清淤消杀  村民彼此互助",
+      "link": "http://www.chinanews.com/sh/2025/07-26/10454235.shtml",
+      "date": "2025-07-26 21:48",
+      "author": "中新网社会新闻",
+      "timestamp": 1753537705.0,
+      "summary": "中新网保定7月26日电 题：河北易县受灾村庄探访：已开展清淤消杀 　村民彼此互助",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "雄安电信迎来首位万兆宽带用户：上传、下载均逼近10000Mbps",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1515554.htm",
+      "date": "2025-07-26 21:46",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1753537596.0,
+      "summary": "近日，雄安电信在“雄安新区华望城万兆小区”成功完成首户万兆宽带业务安装与开通实测。此次业务测试采用华为50G PON和Wi-Fi 7 FTTR解决方案，实现技术突破。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "蒙面演唱会、《年轮》等引争议 “旺仔小乔”道歉",
+      "link": "https://www.cnbeta.com.tw/articles/music/1515552.htm",
+      "date": "2025-07-26 21:46",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1753537567.0,
+      "summary": "今晚，歌手“旺仔小乔”发布道歉信：关于由我引发的争议，我接受大家所有的批评与指正。近期，“旺仔小乔”筹备蒙面演唱会一事引发广泛讨论与争议。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "砺算科技发布第一代TrueGPU系列显卡 性能对标英伟达/AMD",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1515550.htm",
+      "date": "2025-07-26 21:45",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1753537511.0,
+      "summary": "砺算科技发布了第一代TrueGPU系列图形卡，官方表示这是国产真自研高性能图形GPU。准确来说这次发布会砺算科技带来了两款产品，分别是首款GPU芯片“7G100”系列和首款显卡产品Lisuan eXtreme系列。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "消息称苹果 M 系列和英伟达游戏 GPU 考虑英特尔 14A 制程工艺",
+      "link": "https://www.ithome.com/0/870/965.htm",
+      "date": "2025-07-26 21:37",
+      "author": "IT之家",
+      "timestamp": 1753537040.0,
+      "summary": "IT之家 7 月 26 日消息，英特尔发力芯片代工，在昨日的财报电话会议表示，正与大型外部客户紧密合作，从头开始将 14A 打造为代工节点。分析师 Jeff Pu 今日爆料称，英特尔正在向其客户测试 14A PDK 的早期版本，而目前看来，英伟达和苹果似乎都对此感兴趣。英特尔 14A 工艺的下一个重",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "中国“妈祖”AI预警方案发布 守护全球极端天气防线",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1515548.htm",
+      "date": "2025-07-26 21:36",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1753536996.0,
+      "summary": "在2025年世界人工智能大会开幕式上，中国气象局正式发布全民早期预警中国方案“妈祖（MAZU）”。这一方案以多灾种预警为核心，旨在构建覆盖全球的早期预警服务网络，向世界分享中国在气象防灾领域的实践经验与技术成果。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Vertical Aerospace eVTOL 历史性完成机场间飞行",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1515546.htm",
+      "date": "2025-07-26 21:36",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1753536972.0,
+      "summary": "Vertical Aerospace 的VX-4&nbsp;eVTOL 混合动力空中出租车原型机创造了纪录，在英国皇家国际航空展期间完成了该类型飞机首次穿越公共空域在两个机场之间飞行。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "（抗战胜利80周年）中国人民抗战胜利受降纪念馆“胜利醒狮”揭幕",
+      "link": "http://www.chinanews.com/sh/2025/07-26/10454229.shtml",
+      "date": "2025-07-26 21:35",
+      "author": "中新网社会新闻",
+      "timestamp": 1753536912.0,
+      "summary": "中新网芷江7月26日电 (记者 徐志雄  邓霞)7月26日，以卢沟桥醒狮为创作原型的汉白玉雕塑“胜利醒狮”，在湖南芷江中国人民抗战胜利受降纪念馆揭幕。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "蔚来纯电小车萤火虫完成第 10000 台交付：历时 3 个月，11.98 万-12.58 万元",
+      "link": "https://www.ithome.com/0/870/964.htm",
+      "date": "2025-07-26 21:23",
+      "author": "IT之家",
+      "timestamp": 1753536222.0,
+      "summary": "IT之家 7 月 26 日消息，蔚来旗下纯电小车 firefly 萤火虫通过官微宣布，第 10000 台萤火虫今天正式完成交付。官微信息显示，首批萤火虫于 4 月 29 日开启交付。该车提供自在版、发光版两款配置，售价分别为 11.98 万元和 12.58 万元。IT之家附萤火虫主要配置信息如下：萤",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "第二届阳明心学论坛在贵阳启幕",
+      "link": "http://www.chinanews.com/sh/2025/07-26/10454224.shtml",
+      "date": "2025-07-26 21:17",
+      "author": "中新网社会新闻",
+      "timestamp": 1753535839.0,
+      "summary": "中新社贵阳7月26日电 (记者 张伟)7月26日，以“阳明心学：返本与开新”为主题的第二届阳明心学论坛26日在贵阳开幕，吸引中国、日本、韩国等海内外研究阳明心学知名专家学者等60余人参加。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "我国完成全球首次绿色船用氨燃料加注作业",
+      "link": "https://www.ithome.com/0/870/963.htm",
+      "date": "2025-07-26 21:10",
+      "author": "IT之家",
+      "timestamp": 1753535402.0,
+      "summary": "IT之家 7 月 26 日消息，据科技日报今日消息，中石化中海船舶燃料供应有限公司 7 月 25 日在大连市完成全球首次绿色船用氨燃料加注作业，标志着我国航运业在绿色低碳转型道路上迈出关键一步，为全球航运业的可持续发展提供了“中国方案”。此次加注的绿氨来自内蒙古，采用 100% 绿色电力制备，是用风",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "欧航局“织女星-C”型火箭成功发射一箭五星",
+      "link": "https://www.ithome.com/0/870/962.htm",
+      "date": "2025-07-26 20:49",
+      "author": "IT之家",
+      "timestamp": 1753534148.0,
+      "summary": "IT之家 7 月 26 日消息，欧洲航天局 7 月 26 日宣布，当地时间 25 日夜，该机构利用“织女星-C”型火箭将 5 颗卫星成功送入预定轨道，其中包括用于地球观测和 3D 测绘的 4 颗 CO3D 卫星和 1 颗测量全球二氧化碳分布的 MicroCarb 卫星。欧航局表示，“织女星-C”型火",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "兰博基尼重新评估电动化战略，纯电概念车 Lanzador 量产版或改用插混动力",
+      "link": "https://www.ithome.com/0/870/961.htm",
+      "date": "2025-07-26 20:44",
+      "author": "IT之家",
+      "timestamp": 1753533878.0,
+      "summary": "IT之家 7 月 26 日消息，兰博基尼 Lanzador 于 2023 年发布，是一款高底盘 2+2 GT 轿跑车，最初被视为品牌首款纯电动车型的“预览版”。根据原本的规划，兰博基尼拟于 2029 年推出基于该车打造的第四款量产车，且将采用纯电动力。据外媒 CarExpert 24 日报道，兰博基",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "全球首个生命科学领域综合性大科学装置开放十周年之际迎来全面升级",
+      "link": "http://www.chinanews.com/sh/2025/07-26/10454215.shtml",
+      "date": "2025-07-26 20:43",
+      "author": "中新网社会新闻",
+      "timestamp": 1753533807.0,
+      "summary": "中新网上海7月26日电 (记者 许婧 郑莹莹)中国科学院上海高等研究院26日在沪举办的“国家蛋白质科学研究(上海)设施开放十周年学术论坛”传出消息，面向“AI for Science”新时代，蛋白质设施正全面加速传统实验技术与AI技术的深度融合，打造支撑未来蛋白质科学发展的关键“底座”型科技基础设施",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "拌沙拉、做奶茶，光谷东智通用人形机器人“光子”亮相",
+      "link": "https://www.ithome.com/0/870/959.htm",
+      "date": "2025-07-26 20:34",
+      "author": "IT之家",
+      "timestamp": 1753533249.0,
+      "summary": "IT之家 7 月 26 日消息，据央视新闻今日报道，在湖北武汉，一款刚刚发布的人形机器人 —— 光子，正在训练成为一名“赛博厨师”。人形机器人“光子”的身高大概是一米七，体重约 70 公斤，跟一个成年人差不多。在业内，通常把身高一米三左右的机器人称作“小尺寸机器人”，而像光子这样身高一米七的，则被称",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "特斯拉：智能辅助驾驶计划年内在华进一步落地，正等待监管部门审核",
+      "link": "https://www.ithome.com/0/870/958.htm",
+      "date": "2025-07-26 20:27",
+      "author": "IT之家",
+      "timestamp": 1753532866.0,
+      "summary": "IT之家 7 月 26 日消息，据上观新闻报道，2025 世界人工智能大会今天开幕，特斯拉参会并展示了智能电动车、人形机器人及智能辅助驾驶技术、V4 超充桩等最新成果。其中，特斯拉 Robotaxi 无人驾驶出租车服务基于视觉架构，结合全球数百万辆车数据训练的神经网络，支持跨区域部署，可快速复制到新",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
     {
       "title": "有道“子曰”教育大模型最新应用成果亮相WAIC 2025",
       "link": "https://36kr.com/newsflashes/3395752567031940?f=rss",
       "date": "2025-07-26 20:18",
       "author": "36氪",
       "timestamp": 1753532288.0,
-      "summary": "36氪获悉，7月26日，网易���道携国内首款AI原生学习硬件有道AI答疑笔SpaceOne亮相WAIC 2025，呈现出全新的AI答疑辅导新体验。活动现场，网易有道不仅带来了有道SpaceOne等智能学习硬件，更系统展示了网易有道词典、有道小P、有道精品课、有道领世、有道趣动屏、QAnything",
+      "summary": "36氪获悉，7月26日，网易有道携国内首款AI原生学习硬件有道AI答疑笔SpaceOne亮相WAIC 2025，呈现出全新的AI答疑辅导新体验。活动现场，网易有道不仅带来了有道SpaceOne等智能学习硬件，更系统展示了网易有道词典、有道小P、有道精品课、有道领世、有道趣动屏、QAnything等“",
       "source_url": "http://36kr.com",
       "category": "Blog"
-    },
-    {
-      "title": "傅利叶人形机器人 GR-3 首秀：主打交互陪伴，柔肤软包覆材设计",
-      "link": "https://www.ithome.com/0/870/957.htm",
-      "date": "2025-07-26 20:11",
-      "author": "IT之家",
-      "timestamp": 1753531896.0,
-      "summary": "IT之家 7 月 26 日消息，2025 世界人工智能大会（WAIC 2025）今日在上海世博展览馆开幕。智能机器人企业傅利叶携即将发布的人形机器人 GR-3 和全新升级的“具身智能康复港”登场。在本届 WAIC 上，傅利叶带来了即将发布的 GRx 系列第三代产品 —— GR-3，这也是其在公众场合",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "冰雪运动点燃羊城暑期体育新热潮",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454191.shtml",
-      "date": "2025-07-26 20:10",
-      "author": "中新网社会新闻",
-      "timestamp": 1753531801.0,
-      "summary": "中新网广州7月26日电 (记者 王坚)七月的广州暑气蒸腾，酷热难耐，但在广州最繁华的天河路商圈里，却藏着一处“冰天雪地”：孩子们在雪坡上欢快滑行，年轻身影在冰面划出优雅弧线……“全民迎全运”热潮叠加亲子避暑需求，冰雪运动正在羊城走俏，不受季节、天气限制的室内冰雪场馆热度飙升，受到民众欢迎。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "(乡村行·看振兴) 珠海金湾红旗镇：科技赋能黄立鱼产业升级",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454184.shtml",
-      "date": "2025-07-26 20:06",
-      "author": "中新网社会新闻",
-      "timestamp": 1753531615.0,
-      "summary": "中新网珠海7月26日电 题：珠海金湾红旗镇：科技赋能黄立鱼产业升级",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "上海将推动 500 辆数据采集网约车落地运行，建立自动驾驶大模型评测体系",
-      "link": "https://www.ithome.com/0/870/956.htm",
-      "date": "2025-07-26 20:05",
-      "author": "IT之家",
-      "timestamp": 1753531536.0,
-      "summary": "IT之家 7 月 26 日消息，据上证报报道，上海市经信委副主任汤文侃在今天的 2025 世界人工智能大会上表示，2024 年，上海汽车产业规模以上产值达 7035 亿元，新能源汽车累计推广量达到 164.5 万辆，稳居全球城市首位。为加快建设高级别自动驾驶引领区，上海将推动 500 辆数据采集网约",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "小米：四年与徕卡合作超 20 款机型，销量数千万台，未来也将一直是紧密的合作伙伴",
-      "link": "https://www.ithome.com/0/870/955.htm",
-      "date": "2025-07-26 20:05",
-      "author": "IT之家",
-      "timestamp": 1753531511.0,
-      "summary": "IT之家 7 月 26 日消息，小米徕卡影像大赛特展今日正式开幕，共有来自四届影像大赛的 100 幅优秀作品参展。小米集团副总裁、首席营销官许斐表示，小米徕卡影像大赛自举办以来共收获数百万张参赛作品，极大地推动了影像艺术走向大众。在过去四年中，小米与徕卡合作推出了 20 余款机型，累计销售数千万台，",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "中俄共建黑河国际文旅大通道 创造跨境文旅合作新机遇",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454177.shtml",
-      "date": "2025-07-26 20:04",
-      "author": "中新网社会新闻",
-      "timestamp": 1753531473.0,
-      "summary": "中新网黑河7月26日电 (记者 王琳)26日，“智汇北疆·共赢未来”建设黑河国际文旅大通道交流会在黑河举行。中外嘉宾、文旅企业及各界代表齐聚黑龙江畔，共话跨境文旅合作新机遇，见证多项合作协议签署，为东北亚区域发展注入新动能。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "换领二代身份证 这份攻略请收好→",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454186.shtml",
-      "date": "2025-07-26 20:03",
-      "author": "中新网社会新闻",
-      "timestamp": 1753531427.0,
-      "summary": "目前，首批有效期20年的第二代居民身份证已经陆续到期，今年是换领的高峰年，多个省份的业务量预计都将达到数百万。当前正值暑假，二代身份证换领叠加学生集中办证期，多地都出现了办证量激增的情况。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "全球首个空间天气链式 AI 预报模型“风宇”发布，国家卫星气象中心、南昌大学、华为打造",
-      "link": "https://www.ithome.com/0/870/954.htm",
-      "date": "2025-07-26 19:52",
-      "author": "IT之家",
-      "timestamp": 1753530723.0,
-      "summary": "IT之家 7 月 26 日消息，在今日的 2025 年世界人工智能大会气象专会上，由国家卫星气象中心（国家空间天气监测预警中心）（IT之家注：以下简称“卫星中心”）牵头，联合南昌大学、华为技术有限公司共同参与研发的全球首个空间天气链式人工智能预报模型 ——“风宇”，正式发布。为应对太阳风暴对全球卫星",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "台胞夫妻“扎根”福建漳州深山酿威士忌",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454154.shtml",
-      "date": "2025-07-26 19:46",
-      "author": "中新网社会新闻",
-      "timestamp": 1753530407.0,
-      "summary": "中新网漳州7月26日电 (张金川 廖珍妹)“我看好大陆威士忌前景，决定受邀到大芹山上发展，换个赛道重新出发。”日前，台胞邱正贤向记者分享“登陆”6年来的感悟时表示，在大陆新赛道上开阔眼界、学到酿酒新技能、认识五湖四海热爱威士忌的朋友，“很开心，很值得来。”",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "展示青春风采 “阳光下一代”湖南武搏赛设三大项目",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454166.shtml",
-      "date": "2025-07-26 19:45",
-      "author": "中新网社会新闻",
-      "timestamp": 1753530359.0,
-      "summary": "中新网北京7月26日电 (记者 张素)记者从中国关心下一代工作委员会健康体育发展中心获悉，2025年“阳光下一代”湖南武搏赛项目众多，覆盖广泛年龄层，将于8月8日至12日在湖南宁乡举行。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
     },
     {
       "title": "FFmpeg 8.0 将于 8 月发布 带来诸多强大功能",
@@ -142,46 +432,6 @@
       "category": "Blog"
     },
     {
-      "title": "通讯：煤海之上 “绿” 意浓",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454157.shtml",
-      "date": "2025-07-26 19:42",
-      "author": "中新网社会新闻",
-      "timestamp": 1753530171.0,
-      "summary": "中新网鄂尔多斯7月26日电 题：煤海之上“绿”意浓",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "中国北方多地降雨破极值 气象专家解析极端性显著原因",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454159.shtml",
-      "date": "2025-07-26 19:36",
-      "author": "中新网社会新闻",
-      "timestamp": 1753529803.0,
-      "summary": "中新社北京7月26日电 (记者 陈溯)记者26日从中国气象局获悉，北方多地降雨破极值，极端性显著。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "2025网行者大会在重庆开幕 探索AI赋能出版新生态",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454153.shtml",
-      "date": "2025-07-26 19:35",
-      "author": "中新网社会新闻",
-      "timestamp": 1753529747.0,
-      "summary": "中新网重庆7月26日电(何蓬磊 应佳丽)26日，第33届全国图书交易博览会(书博会)主要活动之一——2025网行者大会在重庆市南岸区开幕。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "中俄图书馆学术研讨会聚焦智慧赋能服务创新",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454151.shtml",
-      "date": "2025-07-26 19:35",
-      "author": "中新网社会新闻",
-      "timestamp": 1753529703.0,
-      "summary": "中新网黑河7月26日电(胡心玥 记者 王琳)26日，“智慧赋能图书馆服务创新”2025年中俄图书馆学术研讨会在黑河市爱辉区图书馆举行，中俄双方20余位图书馆学领域专家学者，以及两国图书馆相关负责人参会。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
       "title": "小米：四年与徕卡合作超20款机型 销量数千万",
       "link": "https://36kr.com/newsflashes/3395703652764040?f=rss",
       "date": "2025-07-26 19:28",
@@ -189,56 +439,6 @@
       "timestamp": 1753529303.0,
       "summary": "36氪获悉，小米徕卡影像大赛特展今天开幕，四届影像大赛的100幅优秀作品参展。小米集团副总裁、首席营销官许斐介绍，小米徕卡影像大赛共收获数百万张参赛作品，真正做到了让影像走向大众。四年来，小米与徕卡推出20余款合作机型，销售数千万台。",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "中国政府倡议成立世界人工智能合作组织，初步考虑总部设在上海",
-      "link": "https://www.ithome.com/0/870/953.htm",
-      "date": "2025-07-26 19:28",
-      "author": "IT之家",
-      "timestamp": 1753529296.0,
-      "summary": "IT之家 7 月 26 日消息，据央视新闻今日报道，中国政府倡议成立世界人工智能合作组织。这是中方坚持践行多边主义、推动共商共建共享全球治理的重要举措，也是中方响应全球南方呼声、助力弥合数字和智能鸿沟、促进人工智能向善普惠发展的实际行动。初步考虑该组织总部设在上海。2025 世界人工智能大会于今日在",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "中俄300辆机车巡游黑河地标",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454150.shtml",
-      "date": "2025-07-26 19:27",
-      "author": "中新网社会新闻",
-      "timestamp": 1753529272.0,
-      "summary": "中新网黑河7月26日电 (记者 王琳)26日，第四届中俄机车文化交流会发车仪式在位于黑龙江省黑河市的瑷珲——腾冲中国人口地理分界线主题公园启幕。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "能抓取黄豆，因时机器人发布第五代 RH56F1 系列仿人五指灵巧手",
-      "link": "https://www.ithome.com/0/870/952.htm",
-      "date": "2025-07-26 19:19",
-      "author": "IT之家",
-      "timestamp": 1753528749.0,
-      "summary": "IT之家 7 月 26 日消息，在今日的 2025 WAIC 世界人工智能大会上，因时机器人发布第五代产品 RH56F1 系列仿人五指灵巧手（IT之家注：以下简称 F1 系列）。F1 系列在结构设计、感知系统、稳定操控与安全防护等多个维度实现全面升级，号称“真正打造出一款更适配当前人形机器人需求的灵",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "（抗战胜利80周年）多国媒体记者走进湖南重温抗战烽火",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454142.shtml",
-      "date": "2025-07-26 19:10",
-      "author": "中新网社会新闻",
-      "timestamp": 1753528213.0,
-      "summary": "中新社长沙7月26日电 (记者 邓霞 徐志雄)2025年是中国人民抗日战争暨世界反法西斯战争胜利80周年。7月25日至26日，来自美国、英国、法国、俄罗斯、日本、新加坡、印度尼西亚等国的媒体记者走进湖南，寻访中国抗日战争遗迹，重温抗战烽火，感受和平文化。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "砺算科技第一代 TrueGPU 系列国产显卡发布：《黑神话：悟空》1080P 高画质 70 帧，9 月启动量产",
-      "link": "https://www.ithome.com/0/870/950.htm",
-      "date": "2025-07-26 19:00",
-      "author": "IT之家",
-      "timestamp": 1753527614.0,
-      "summary": "IT之家 7 月 26 日消息，砺算首款 GPU 芯片“7G100”系列和首款显卡产品 Lisuan eXtreme 系列今日正式发布。砺算 7G100 系列号称是全自研高性能图形 GPU，从指令集到计算核心完全由自主设计，基于自研 TrueGPU 天图架构，并自研指令集、自研软件栈。砺算 7G10",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -252,16 +452,6 @@
       "category": "Blog"
     },
     {
-      "title": "极越汽车致歉：远程车控功能出现短暂异常，目前已全部恢复",
-      "link": "https://www.ithome.com/0/870/949.htm",
-      "date": "2025-07-26 18:46",
-      "author": "IT之家",
-      "timestamp": 1753526782.0,
-      "summary": "IT之家 7 月 26 日消息，极越汽车官微发文称：今日上午 10 时许，少数车辆出现 App 显示离线、远程控制功能暂时不可用的情况。接到反馈后，技术团队第一时间启动应急响应机制，全力开展问题排查与修复工作。目前，相关功能已全部恢复正常，车辆使用不受影响。对于此次短暂异常给各位用户带来的不便，我们",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "挪威电动车占比达97%创全球新纪录 为啥如此之高",
       "link": "https://www.cnbeta.com.tw/articles/tech/1515538.htm",
       "date": "2025-07-26 18:34",
@@ -269,76 +459,6 @@
       "timestamp": 1753526097.0,
       "summary": "据挪威道路联合会（OFV）统计数据显示，6月挪威电动汽车市场份额高达97%，创下全球新纪录。这意味着，在挪威，每卖出100辆新车，就有97辆是电动车。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "比亚迪上市以来最大分红，豪掷 120 亿元回报股东",
-      "link": "https://www.ithome.com/0/870/948.htm",
-      "date": "2025-07-26 18:32",
-      "author": "IT之家",
-      "timestamp": 1753525972.0,
-      "summary": "IT之家 7 月 26 日消息，比亚迪股份有限公司 7 月 21 日发布了 2024 年度利润分配及资本公积金转增股本实施公告，迎来上市以来最大分红，豪掷 120 亿元回报股东。比亚迪 2024 年度权益分派方案为：公司以总股本 3,039,065,855 股为基数（其中 A 股 1,811,265",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "多地暴雨、大暴雨！本轮华北强降水何时结束？",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454139.shtml",
-      "date": "2025-07-26 18:26",
-      "author": "中新网社会新闻",
-      "timestamp": 1753525598.0,
-      "summary": "中新网北京7月26日电(记者 邵萌)7月23日以来，北方多地持续遭受强降水影响，部分地区出现破纪录的强降雨。“河北易县一天下了近一年的雨”“南北方雨连成片了”等话题登上热搜，引发公众热议。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "辛顿、姚期智等专家联名签署“上海共识”，呼吁为 AI 划下“行为红线”",
-      "link": "https://www.ithome.com/0/870/947.htm",
-      "date": "2025-07-26 18:25",
-      "author": "IT之家",
-      "timestamp": 1753525504.0,
-      "summary": "IT之家 7 月 26 日消息，据澎湃新闻报道，7 月 25 日，杰弗里・辛顿、姚期智、约书亚・本吉奥、斯图尔特、罗素等 20 余名行业专家、学者共同签署的 AI 安全国际对话上海共识（IT之家注：下文简称“上海共识”）正式对外公开。“上海共识”指出，当前人类正处于一个关键转折点：AI 系统正迅速接",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "中国冷极村里的“林三代”：“95后”大学生做守风景的人",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454135.shtml",
-      "date": "2025-07-26 18:13",
-      "author": "中新网社会新闻",
-      "timestamp": 1753524838.0,
-      "summary": "中新网内蒙古大兴安岭7月26日电 题：中国冷极村里的“林三代”：“95后”大学生做守风景的人",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "英特尔发布第二代 Wi-Fi 7 无线网卡 BE211（5Gig），支持蓝牙 6.0",
-      "link": "https://www.ithome.com/0/870/942.htm",
-      "date": "2025-07-26 18:11",
-      "author": "IT之家",
-      "timestamp": 1753524692.0,
-      "summary": "IT之家 7 月 26 日消息，当地时间周五，英特尔推出了第二代 Wi-Fi 7 无线网卡 ——BE211（5Gig），采用 M.2（CNVio3）接口，速率可达 5Gbit。BE211NGW：M.2 2230，采用标准 Key E 插槽BE211D2W：M.2 1216，支持优化平台设计，节省主板",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "北京科技大学雄安校区第二组团项目开工",
-      "link": "http://www.chinanews.com/sh/2025/07-26/10454133.shtml",
-      "date": "2025-07-26 18:09",
-      "author": "中新网社会新闻",
-      "timestamp": 1753524575.0,
-      "summary": "中新网雄安7月26日电 (赵丹媚 韩冰)北京科技大学26日消息，北京科技大学雄安校区第二组团项目首个项目——主教学楼及学科用房C、D项目26日正式开工，标志着北京科技大学雄安校区正式进入全面建设阶段。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "阿里为何要做 AI 眼镜：有望成为智能手机后，最重要的个人移动入口",
-      "link": "https://www.ithome.com/0/870/941.htm",
-      "date": "2025-07-26 18:03",
-      "author": "IT之家",
-      "timestamp": 1753524217.0,
-      "summary": "7 月 26 日下午消息，2025 世界人工智能大会（WAIC 2025）于 7 月 26-28 日在上海举办，大会以“智能时代同球共济”为主题，汇聚全球专家、政企代表等，共话 AI 发展新机会。在人工智能终端产业发展论坛上，阿里巴巴智能信息事业群智能终端业务总裁宋刚出席，并正式发布了阿里巴巴首个自",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -362,26 +482,6 @@
       "category": "Blog"
     },
     {
-      "title": "上海发放智能网联汽车示范运营牌照，浦东机场至迪士尼将实现无人驾驶直达",
-      "link": "https://www.ithome.com/0/870/940.htm",
-      "date": "2025-07-26 17:57",
-      "author": "IT之家",
-      "timestamp": 1753523843.0,
-      "summary": "IT之家 7 月 26 日消息，据界面新闻，今天开幕的世界人工智能大会上，上海正式发放智能网联汽车示范运营牌照。届时服务范围将延伸至连接金桥、花木、世博等浦东重要功能片区的中途跨区域接驳网络，用户可体验 Robotaxi 在城市核心板块复杂路况下的中距自主安全通行能力，验证技术在真实城市环境中的应用",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "网易发布“端到端”工程机械具身模型“灵掘”",
-      "link": "https://www.ithome.com/0/870/939.htm",
-      "date": "2025-07-26 17:55",
-      "author": "IT之家",
-      "timestamp": 1753523747.0,
-      "summary": "IT之家 7 月 26 日消息，今日上午，以“智能时代同球共济”为主题的 2025 世界人工智能大会在上海拉开帷幕，将一直持续到 7 月 28 日，IT之家将不断为大家带来相关报道。网易今日在 2025 世界人工智能大会上宣布推出全球首个专为露天矿山挖掘机装车场景打造的具身智能模型 ——“灵掘”，这",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "网易多款AI应用首次亮相人工智能大会，发布具身智能模型“灵掘”",
       "link": "https://36kr.com/newsflashes/3395609466800260?f=rss",
       "date": "2025-07-26 17:52",
@@ -399,16 +499,6 @@
       "timestamp": 1753523192.0,
       "summary": "36氪获悉，7月26日，世界人工智能大会（WAIC 2025）上，XREAL重点展出了最新旗舰产品 XREAL One Pro，还首次面向公众开放了AR+AI主题体验空间，该空间基于XREAL自主研发的6DoF空间定位技术，融合AI大模型，能够实时呈现高精度的三维虚拟内容，实现数字世界与现实场景的无",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "微软 CEO 纳德拉解释公司为何边赚钱边裁员，员工质疑“眼里只有 KPI”",
-      "link": "https://www.ithome.com/0/870/929.htm",
-      "date": "2025-07-26 17:45",
-      "author": "IT之家",
-      "timestamp": 1753523107.0,
-      "summary": "IT之家 7 月 26 日消息，微软 CEO 萨提亚・纳德拉近期撰写了一份备忘录，试图解释在实现巨大利润并在 AI 领域投入数十亿美元的情况下，为何仍然进行裁员。今年，微软已经裁减了数千名员工。过去三个财季中，微软赚取了 750 亿美元（IT之家注：现汇率约合 5373.65 亿元人民币）的利润，并",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -452,16 +542,6 @@
       "category": "Blog"
     },
     {
-      "title": "B站参展2025 WAIC，每月超1.4亿用户观看AI内容",
-      "link": "https://36kr.com/newsflashes/3395562388801668?f=rss",
-      "date": "2025-07-26 17:04",
-      "author": "36氪",
-      "timestamp": 1753520680.0,
-      "summary": "36氪获悉，7月26日-29日，2025世界人工智能大会（WAIC）在上海举办。哔哩哔哩（简称“B站”）今年继续亮相大会，不仅带去了众多站内爆款的AI及机器人主题内容、UP主开发的AI及机器人作品，还综合站内大数据首度发布了“在B站上最受年轻人关注的TOP30 AI应用”，其中，Deepseek、夸",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
       "title": "IBM公布量子计算机进展 预计2023年投入量产商业运用",
       "link": "https://www.cnbeta.com.tw/articles/tech/1515534.htm",
       "date": "2025-07-26 16:22",
@@ -478,86 +558,6 @@
       "author": "cnBeta.COM.TW RSS订阅",
       "timestamp": 1753518075.0,
       "summary": "据报道，AMD正计划凭借其下一代游戏GPU向英伟达发起强有力的挑战，最新传言似乎曝光了AMD Radeon RX 10090 XT的部分核心参数。如果此次爆料属实，那么AMD正在打造一款绝对顶尖的显卡——它将配备高达36GB的GDDR7显存和154个计算单元，相比备受赞誉的Radeon RX 907",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "GPT-5实锤 代号“龙虾”悄悄上线",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1515530.htm",
-      "date": "2025-07-26 16:20",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1753518045.0,
-      "summary": "就在刚刚，GPT-5悄悄身披马甲出道了？一个代号为“Lobster（龙虾）”的神秘模型在WebDev Arena横空出世，轻松吊打Grok-4，网友纷纷猜测：这就是GPT-5本尊！更有提前试用者曝出：GPT-5编程能力惊人，甚至能改屎山代码。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "上海发放新一批智能网联汽车示范运营牌照 小马智行、百度等入围",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1515528.htm",
-      "date": "2025-07-26 16:19",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1753517979.0,
-      "summary": "据财联社消息，在第八届世界人工智能大会（WAIC）上，上海新一批智能网联汽车示范运营牌照于今日正式发放。小马易行科技（上海）有限公司（香港小马智行旗下企业）、百度智行科技（上海）有限公司、赛可智能科技（上海）有限公司等企业成为首批获准企业。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "当你疯狂找遥控器时 有人已经靠它年入千万美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1515526.htm",
-      "date": "2025-07-26 16:18",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1753517906.0,
-      "summary": "电视遥控器，是个很神奇的存在。几十年来，电视从黑白进化到了彩色，从传统电视进化到智能电视，但遥控器一直没变——它总能在你需要时，要么原地消失，要么按键失灵。但你可能想不到，就在你翻沙发找遥控器的那 10 分钟里，有人已经利用它赚了 1000 美元。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "三千万辆中国车利润不如丰田 《经济日报》：不能只看眼前数据",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1515524.htm",
-      "date": "2025-07-26 16:17",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1753517856.0,
-      "summary": "之前有专家抛出“三千万辆中国车利润不如丰田”的言论，这引起了轩然大波，而《经济日报》现在特意撰文回击了这个说法。有专家指出，中国卖出3000万辆汽车的利润总和，不如丰田900多万辆汽车的净利润，制造能力并未转化为利润能力。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "2025日本第一可爱初中生决赛圈选手公布",
-      "link": "https://www.cnbeta.com.tw/articles/movie/1515522.htm",
-      "date": "2025-07-26 14:57",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1753513041.0,
-      "summary": "日本每年都会有多个机构推出各类选美比赛，其中一年一度的“最美初中生大赛”备受瞩目。这项赛事由某知名网站主办，专为初中一年级的学生设置，分男女组，旨在挖掘年轻丽人的潜力。如今决赛圈颜值已经公布，怎么说呢，男女组差距真的越来越大了。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "世界大运会女篮决赛 中国队力压美国队夺得冠军",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1515520.htm",
-      "date": "2025-07-26 14:56",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1753513011.0,
-      "summary": "据新华社报道，当地时间7月25日晚，第32届世界大学生夏季运动会第九个比赛日结束，中国大学生体育代表团单日收获2金6铜。其中，在德国埃森进行的2025年德国莱茵-鲁尔世界大学生夏季运动会女篮决赛中，中国队81比69战胜美国队，成功卫冕。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "家电以旧换新国补第三批资金已下达",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1515518.htm",
-      "date": "2025-07-26 14:54",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1753512892.0,
-      "summary": "从6月开始，很多地区都陆续暂停了国补，主要原因是上半年的资金耗尽，让很多准备购入家电、手机数码等产品的朋友措手不及。根据央视财经最新报道，近期财政部配合国家发展改革委测算确定了各地区2025年资金规模，并下达第三批超长期特别国债资金690亿元，剩余资金将在10月份下达，支持各地做好消费品以旧换新工作",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "全球首款三涵道穿戴式载人飞行器亮相 科幻感十足",
-      "link": "https://www.cnbeta.com.tw/articles/science/1515516.htm",
-      "date": "2025-07-26 14:54",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1753512866.0,
-      "summary": "近期，智元研究院自主研发的全球首款三涵道穿戴式载人飞行器惊艳亮相展会。这款飞行器凭借独特的动力系统布局、控制系统和结构设计，具备“智能化、安全、便捷”三大核心优势。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
@@ -649,16 +649,6 @@
       "timestamp": 1753486200.0,
       "summary": "近年来，全球AI市场迎来爆发式增长，贝恩数据显示，2023年全球人工智能软硬件市场规模已达1,850亿美元，并正以40%-55%的年增速扩张，预计2027年将突破7,800亿-9,900亿美元，其中AI应用市场规模将超4,070亿美元。在这一浪潮下，中国AI应用企业凭借技术代际突破、国内场景创新经验",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "马斯克要和雷军李想玩命",
-      "link": "http://www.huxiu.com/article/4617890.html?f=wangzhan",
-      "date": "2025-07-25 22:08",
-      "author": "虎嗅网",
-      "timestamp": 1753452483.0,
-      "summary": "本文来自微信公众号：字母榜，作者：王子峰，编辑：王靖，题图来自：AI生成7月24日，特斯拉交出2025年Q2成绩单：营收225亿美元同比下滑12%，净利润11.72亿美元缩水16%，全球交付量38.4万辆暴跌13.5%——这是特斯拉连续第二个季度两位数下滑，也是十年来最严重的交付萎缩。财报发布后盘",
-      "source_url": "http://www.huxiu.com",
       "category": "Blog"
     }
   ]
