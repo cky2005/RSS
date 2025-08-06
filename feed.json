@@ -1,6 +1,436 @@
 {
-  "update_time": "2025-08-06",
+  "update_time": "2025-08-07",
   "articles": [
+    {
+      "title": "今日立秋：风吹一片叶，万物已惊秋",
+      "link": "https://www.ithome.com/0/873/571.htm",
+      "date": "2025-08-07 00:00",
+      "author": "IT之家",
+      "timestamp": 1754496000.0,
+      "summary": "IT之家 8 月 7 日消息今天是立秋，是二十四节气中的第十三个节气，也是秋天的第一个节气，时间处在每年的 8 月 7 日至 9 日。立秋，顾名思义，就是暑去秋来，立秋过后，虽然暑热仍然会继续，但天气的整体趋势是慢慢向凉爽过度的，民间也有“一场秋雨一场凉”的说法。立秋时节每年 8 月 7 日或 8",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "华硕第三代猫头鹰联名 RTX 5080 显卡发布：四槽三风扇，加速频率 2730 MHz",
+      "link": "https://www.ithome.com/0/873/570.htm",
+      "date": "2025-08-06 23:42",
+      "author": "IT之家",
+      "timestamp": 1754494942.0,
+      "summary": "IT之家 8 月 6 日消息，华硕今年 5 月在台北电脑展上展示了其第三代采用猫头鹰风扇的联名显卡 ——GeForce RTX 5080 Noctua OC Edition。这款显卡现已上架华硕官网，搭载三颗 NF-A12 120mm“猫扇”，占用近 4 个槽位，这也是目前全球最厚的 RTX 508",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "角川公司注册《只狼》动画域名",
+      "link": "https://www.ithome.com/0/873/569.htm",
+      "date": "2025-08-06 23:04",
+      "author": "IT之家",
+      "timestamp": 1754492672.0,
+      "summary": "IT之家 8 月 6 日消息，自 2023 年以来就有传言称《只狼：影逝二度》和《对马岛之魂》都将获得动画改编。《对马岛之魂》的动画改编已于今年确认，而《只狼：影逝二度》的改编还迟迟没有消息。根据 EuroDNS 网站的信息，一个名为 sekiro-anime.jp 的域名已在 7 月 31 日被角",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "微软 Xbox 手柄设计实验室宣布回归，此前因切换支付平台而下线半年",
+      "link": "https://www.ithome.com/0/873/568.htm",
+      "date": "2025-08-06 23:03",
+      "author": "IT之家",
+      "timestamp": 1754492621.0,
+      "summary": "IT之家 8 月 6 日消息，微软 Xbox Design Lab（Xbox 设计实验室）在下线六个月后，今日官宣回归。此次离线是由于微软“更换支付平台”，目前该平台已在之前所有可用地区恢复服务，并新增了几款新颜色及自定义内容。IT之家注：微软最早于 2016 年推出 Xbox Design Lab",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "号称可以生成录音室级别人声音乐，Eleven Music 文字转音频 AI 模型问世",
+      "link": "https://www.ithome.com/0/873/567.htm",
+      "date": "2025-08-06 22:27",
+      "author": "IT之家",
+      "timestamp": 1754490447.0,
+      "summary": "IT之家 8 月 6 日消息，AI 音频产品公司 ElevenLabs 昨日发布了 Eleven Music 文字转音乐 AI 模型，号称能够生成任意风格的录音室级别音频，其中付费版本支持商用。据介绍，Eleven Music 可以根据用户输入的提示生成各种音乐类型，还可选择音乐中的构成元素（例如是",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "咖啡香里话胞波 中缅青年走读保山共品“友谊豆”",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460549.shtml",
+      "date": "2025-08-06 22:26",
+      "author": "中新网社会新闻",
+      "timestamp": 1754490395.0,
+      "summary": "中新网保山8月6日电(时文枝)“保山咖啡的种类太丰富了，远超我的家乡彬乌伦！”6日，在云南省保山市参加“胞波同行·走读保山”中缅青年新媒体采风活动的缅甸青年周易景告诉记者，他特意选购了一整箱保山精品咖啡，准备带回缅甸与亲友分享这份独特的风味。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "面壁智能开源 MiniCPM-V 4.0 AI 模型：手机 App 就能用，图像理解超 GPT-4.1-mini",
+      "link": "https://www.ithome.com/0/873/566.htm",
+      "date": "2025-08-06 22:26",
+      "author": "IT之家",
+      "timestamp": 1754490390.0,
+      "summary": "IT之家 8 月 6 日消息，面壁智能 8 月 5 日宣布开源 MiniCPM-V 4.0，该模型在图像理解能力上超越了 GPT-4.1-mini-20250414。该模型不仅继承了 MiniCPM-V 2.6 的众多实用特性，还大幅提升了推理效率。面壁智能还同步开源了适用于 iPhone 和 iP",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果被曝将追加 1000 亿美元在美投资，换取印度 iPhone 关税豁免",
+      "link": "https://www.ithome.com/0/873/565.htm",
+      "date": "2025-08-06 22:26",
+      "author": "IT之家",
+      "timestamp": 1754490360.0,
+      "summary": "IT之家 8 月 6 日消息，彭博社刚刚报道称，苹果公司承诺在美追加投资 1000 亿美元（IT之家注：现汇率约合 7188.3 亿元人民币），意味着该公司未来 4 年在美国投资将达到 6000 亿美元，换取对印度组装 iPhone 惩罚性关税的豁免。受此消息影响，苹果股价开盘后迅速走高，目前涨幅",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "巴丹吉林申遗一周年记：近5万平方公里沙漠里的守护与安心",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460547.shtml",
+      "date": "2025-08-06 22:25",
+      "author": "中新网社会新闻",
+      "timestamp": 1754490307.0,
+      "summary": "中新网阿拉善8月6日电 题：巴丹吉林申遗一周年记：近5万平方公里沙漠里的守护与安心",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "两岸媒体浙江采风行启动 回眸抗战史共筑民族魂",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460544.shtml",
+      "date": "2025-08-06 22:22",
+      "author": "中新网社会新闻",
+      "timestamp": 1754490163.0,
+      "summary": "中新网杭州8月6日电 (钱晨菲)6日，“回眸抗战史 共筑民族魂——纪念抗日战争胜利和台湾光复80周年两岸媒体采风行”在浙江杭州启动，20余位来自两岸的记者及台青自媒体人齐聚一堂，开启这段追寻共同历史记忆、凝聚民族情感的精神之旅。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "中新网评：基层减负要见实效，需要划出硬杠杠",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460539.shtml",
+      "date": "2025-08-06 22:10",
+      "author": "中新网社会新闻",
+      "timestamp": 1754489432.0,
+      "summary": "中新网北京8月6日电(记者 袁秀月)8月6日，中办、国办印发了《整治形式主义为基层减负若干规定》(以下简称《若干规定》)，并发出通知，要求各地区各部门认真遵照执行。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "广州滑坡救援现场：被埋9小时后救出第8人",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460537.shtml",
+      "date": "2025-08-06 22:09",
+      "author": "中新网社会新闻",
+      "timestamp": 1754489342.0,
+      "summary": "中新社广州8月6日电 (记者 王坚)6日8时30分许，广州连日大雨致该市大源街大源村黄庄片区山体滑坡，有房屋受损、14人被困，目前已救出8人并送院救治。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "Wintel 联盟牢不可破，报告称 Win10 游戏栏与高端 AMD 锐龙 X3D 处理器存在兼容性问题",
+      "link": "https://www.ithome.com/0/873/563.htm",
+      "date": "2025-08-06 22:08",
+      "author": "IT之家",
+      "timestamp": 1754489334.0,
+      "summary": "IT之家 8 月 6 日消息，德国科技网站 PC Games Hardware（PCGH）报道称，在基于 AMD 锐龙 X3D 高端处理器的电脑上，Windows 10 游戏栏（Game Bar）似乎存在严重 Bug，甚至会影响游戏性能。12/16 核的 X3D 处理器采用双 CCD 设计，但仅有一",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "何小鹏：以前是科技第一现在颜值第一，在上海租了两栋楼给造型团队，要啥给啥",
+      "link": "https://www.ithome.com/0/873/562.htm",
+      "date": "2025-08-06 22:05",
+      "author": "IT之家",
+      "timestamp": 1754489138.0,
+      "summary": "8 月 6 日晚间消息，在今日的全新小鹏 P7 中国首秀发布会上，小鹏汽车董事长、CEO 何小鹏，小鹏汽车 P7 车型产品负责人 Nick，小鹏汽车造型中心总经理王谭与媒体对话。此次全新小鹏 P7 采用了全新的外观设计风格，被问及在设计理念上的变化，何小鹏表示，小鹏以前是科技第一，现在是颜值第一。两",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "李书福是保守，还是行险棋？",
+      "link": "http://www.huxiu.com/article/4662329.html?f=wangzhan",
+      "date": "2025-08-06 22:04",
+      "author": "虎嗅网",
+      "timestamp": 1754489091.0,
+      "summary": "出品丨虎嗅汽车组作者丨肖漫头图丨视觉中国从去年《台州宣言》发布后，吉利一直在调整集团内部研发和组织架构，以期将资源和组织化零为整提高效率。智驾是整个吉利集团调整的重中之重。&nbsp;近期，吉利汽车在智能驾驶研发上又有“大动作”——将旗下多个智驾团队全面整合，并打包注入新成立的千里智驾公司。&nb",
+      "source_url": "http://www.huxiu.com",
+      "category": "Blog"
+    },
+    {
+      "title": "四川宝兴：游客避暑偶遇野生大熊猫外出“溜达”",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460535.shtml",
+      "date": "2025-08-06 22:03",
+      "author": "中新网社会新闻",
+      "timestamp": 1754489030.0,
+      "summary": "中新网雅安8月6日电 (刘刚 王思芦)8月5日，在四川省雅安市宝兴县，前来避暑的外地游客唐女士一家在夹金山公路旁，偶遇一只野生大熊猫外出“溜达”。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "广州滑坡现场已救出8人 搜救仍在进行",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460533.shtml",
+      "date": "2025-08-06 21:59",
+      "author": "中新网社会新闻",
+      "timestamp": 1754488799.0,
+      "summary": "中新网广州8月6日电 (记者 王坚)6日8时30分许，由于广州连日暴雨造成山体滑坡，致广州大源街大源村黄庄片区有房屋受损、人员被困。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "广东受强降雨影响停电的44万户用户超九成已复电",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460527.shtml",
+      "date": "2025-08-06 21:57",
+      "author": "中新网社会新闻",
+      "timestamp": 1754488631.0,
+      "summary": "中新网广州8月6日电(王华 沈甸)截至8月6日15时，南方电网广东电网公司防风防汛Ⅱ级应急响应持续，受强降雨影响停电的44万户用户中超九成已恢复供电。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "电梯广告巨头整合，分众传媒拟 83 亿元购买新潮传媒 100% 股权",
+      "link": "https://www.ithome.com/0/873/561.htm",
+      "date": "2025-08-06 21:55",
+      "author": "IT之家",
+      "timestamp": 1754488551.0,
+      "summary": "IT之家 8 月 6 日消息，分众传媒 8 月 6 日公告，公司拟以发行股份及支付现金的方式购买张继学、重庆京东、百度在线等 50 个交易对方持有的新潮传媒 100% 的股权，交易价格为 83 亿元。本次交易完成后，新潮传媒将成为分众传媒的全资子公司。早在今年 4 月，分众传媒就宣布拟 83 亿元收",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "杭州欧美同学会科技创新工作委员会成立",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460520.shtml",
+      "date": "2025-08-06 21:49",
+      "author": "中新网社会新闻",
+      "timestamp": 1754488182.0,
+      "summary": "中新网杭州8月6日电 (钱晨菲)8月6日，杭州欧美同学会海归高层次人才座谈会暨科技创新工作委员会成立仪式在西湖大学举行。会上，杭州欧美同学会科技创新工作委员会成立。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "沪浙签署长三角船检一体化合作协议",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460518.shtml",
+      "date": "2025-08-06 21:47",
+      "author": "中新网社会新闻",
+      "timestamp": 1754488068.0,
+      "summary": "中新网嘉兴8月6日电(鲍梦妮 吴迪元)据浙江省交通运输厅6日消息，由上海市港航事业发展中心、浙江省港航管理中心联合主办的沪浙船舶检验工作交流会近日在嘉兴举行。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "强降雨致广西2条河流出现超警洪水",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460516.shtml",
+      "date": "2025-08-06 21:47",
+      "author": "中新网社会新闻",
+      "timestamp": 1754488062.0,
+      "summary": "中新网南宁8月6日电(张广权 周也茹)广西壮族自治区水文中心6日提供的消息显示，8月6日8时至20时，广西北海、钦州、梧州、贺州、桂林及柳州等市部分地区降中到大雨，局部暴雨到大暴雨，累计雨量较大的有桂林市永福县广福乡153.0毫米、北海市合浦县乌家镇143.5毫米。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "任天堂明晚举行新一期 Indie World 直面会，多款 Switch 2 独立游戏即将登场",
+      "link": "https://www.ithome.com/0/873/560.htm",
+      "date": "2025-08-06 21:47",
+      "author": "IT之家",
+      "timestamp": 1754488060.0,
+      "summary": "IT之家 8 月 6 日消息，任天堂宣布将于北京时间 8 月 7 日（明天）晚上 21：00 举行新一期 Indie World 独立游戏直面会，此次活动时长约 20 分钟，届时会对即将登陆 Switch 初代和 Switch 2 的独立游戏进行介绍。作为比较，任天堂在本月 1 日已举行一起体量相对",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "公众走近重离子医疗装置：肿瘤细胞如何被精准击破？",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460512.shtml",
+      "date": "2025-08-06 21:47",
+      "author": "中新网社会新闻",
+      "timestamp": 1754488042.0,
+      "summary": "中新网杭州8月6日电(鲍梦妮)8月6日，浙江省科协“走近国之重器”系列科普主题活动在浙江省肿瘤医院举行。公众近距离接触华东地区首台国产重离子医疗装置并对话医疗专家，了解“国之重器”如何精准击破肿瘤细胞。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "一颗表面完整的桃子里惊现一把新鲜碎树叶 这咋回事？",
+      "link": "https://www.cnbeta.com.tw/articles/science/1517544.htm",
+      "date": "2025-08-06 21:44",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1754487845.0,
+      "summary": "近日有位北京女士在吃桃子时，发现一个奇怪的现象：桃子表面完整，但桃核裂开，里面塞着一堆乱七八糟的叶子！这实在令人百思不得其解。显然，桃核可不会这么着急地就开始萌发，即使发芽也不会是这样碎碎的叶片，那这到底是怎么回事呢？ 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "美国计划对台湾征收半导体关税 以鼓励国内生产",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1517542.htm",
+      "date": "2025-08-06 21:41",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1754487690.0,
+      "summary": "美国总统唐纳德·特朗普在CNBC的“财经论坛”（Squawk Box）节目中表示，政府将在“未来一周左右”对半导体和芯片征收新的关税，并解释说，此举旨在将更多制造业带回美国。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果仍在研发包含数据网络的MacBook",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1517540.htm",
+      "date": "2025-08-06 21:39",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1754487594.0,
+      "summary": "最近的报道表明，苹果正在积极考虑最早在明年为 Mac 系列产品引入蜂窝连接功能，但其主要竞争对手微软并没有等待——该公司将于本月推出其首款支持 5G 的 Surface 笔记本电脑。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "全新小鹏 P7 预售 6 分 37 秒，小订突破 1 万台",
+      "link": "https://www.ithome.com/0/873/559.htm",
+      "date": "2025-08-06 21:39",
+      "author": "IT之家",
+      "timestamp": 1754487567.0,
+      "summary": "IT之家 8 月 6 日消息，全新小鹏 P7 今晚迎来中国首秀并开启预售。预售 6 分 37 秒，全新小鹏 P7 小订突破 10000 台。全新小鹏 P7 可选 820km 超长续航版、750km 高性能版、702km 长续航版，全系标配 800V 架构、5C 电池，零百加速 3.7s，没有公布预售",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果公司将向美国制造业投资1000亿美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1517538.htm",
+      "date": "2025-08-06 21:38",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1754487526.0,
+      "summary": "美国总统特朗普今天将宣布苹果将额外投资 1000 亿美元来支持美国制造业（来自彭博社）。据报道，该公告将包括一项新的制造计划，将苹果的更多供应链引入美国。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "受暴雨影响列车逐步恢复开行 粤湘铁路部门力保旅客出行",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460513.shtml",
+      "date": "2025-08-06 21:38",
+      "author": "中新网社会新闻",
+      "timestamp": 1754487504.0,
+      "summary": "中新网广州8月6日电 (郭军 张晓敏 谢志安)中国铁路广州局集团有限公司(以下简称“国铁广州局”)6日消息，随着广东省雨带北移，对铁路运输影响逐渐减弱，铁路部门在全面排查并确保线路设备安全稳定的基础上，正有序推进列车恢复开行工作。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "7nm工艺、IPC性能翻倍 国产开源CPU香山第三代实现商业化",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1517536.htm",
+      "date": "2025-08-06 21:37",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1754487436.0,
+      "summary": "在x86、ARM两大CPU架构之外，RISC-V凭借开放、免费的优势迅速成为第三大CPU指令集，也是国内突围的重要机会，源于中科院的开源RSIC-V处理器香山已经发展出了第三代。这一代的代号为昆明湖，2024年4月份正式发布，随后获得了国内多家单位及企业的认可，并在这一年中开始验证工作，日前已经正式",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "4699元起 大疆首款扫地机器人正式发布",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1517534.htm",
+      "date": "2025-08-06 21:36",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1754487419.0,
+      "summary": "今晚，大疆首款扫地机器人系列DJI ROMO正式发布，包含ROMO P、ROMO A、ROMO S三个型号，其中最入门的DJI ROMO S扫地机器人（水箱版）起售价4699元，支持国补。这款扫地机器人之前被曝光时，就因为独特的透明基站被关注。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "北京市气象台发布雷电蓝色预警信号",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460511.shtml",
+      "date": "2025-08-06 21:35",
+      "author": "中新网社会新闻",
+      "timestamp": 1754487352.0,
+      "summary": "中新网8月6日电 据“气象北京”微博消息，北京市气象台08月06日21时08分发布雷电蓝色预警信号：预计当前至7日02时，北京市朝阳、东城、西城、通州、大兴、海淀、丰台等区有雷阵雨天气，局地短时雨强较大，并伴有7级左右短时大风，请注意防范。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "教用户拍照：谷歌 Pixel 10 系列被曝将推出基于 Gemini 的“相机教练”功能",
+      "link": "https://www.ithome.com/0/873/558.htm",
+      "date": "2025-08-06 21:34",
+      "author": "IT之家",
+      "timestamp": 1754487285.0,
+      "summary": "IT之家 8 月 6 日消息，谷歌在 Pixel 相机系统上一直高度依赖软件优化而非硬件，早些年的时候甚至还会有部分开发者为第三方安卓机型移植适配谷歌 Pixel 系列机型预装的相机 App。AndroidHeadlines 今日报道称，谷歌即将推出的 Pixel 10 系列手机将首发一项基于 Ge",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "（成都世运会）四川青神：2000余个竹编奖牌盒交付完成",
+      "link": "http://www.chinanews.com/sh/2025/08-06/10460508.shtml",
+      "date": "2025-08-06 21:34",
+      "author": "中新网社会新闻",
+      "timestamp": 1754487282.0,
+      "summary": "中新网成都8月6日电 (刘忠俊 余文)四川青神云华竹旅有限公司6日透露，第12届世界运动会(简称：“成都世运会”)2000余个竹编奖牌盒已顺利完成交付。这些承载着非遗技艺魅力的奖牌盒，将给获奖运动员们送上一份独特的荣耀之礼。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "史上最大规模联想创新科技大会定档 CES 2026：球形场馆开讲，揭晓首届 AI 世界杯",
+      "link": "https://www.ithome.com/0/873/557.htm",
+      "date": "2025-08-06 21:29",
+      "author": "IT之家",
+      "timestamp": 1754486947.0,
+      "summary": "IT之家 8 月 6 日消息，联想集团与 Sphere Entertainment Co. 今日联合宣布，联想集团年度全球创新科技大会 Tech World 将首次登陆美国拉斯维加斯 Sphere 场馆，在国际消费电子展 CES 2026 开幕日亮相。联想集团董事长兼 CEO 杨元庆将亲临第十一届",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "2K 210Hz 超频 + 量子点技术，技嘉预热“M27Q2 QD”27 英寸显示器国行即将上市",
+      "link": "https://www.ithome.com/0/873/556.htm",
+      "date": "2025-08-06 21:24",
+      "author": "IT之家",
+      "timestamp": 1754486677.0,
+      "summary": "IT之家 8 月 6 日消息，技嘉现已预热一款型号为“M27Q2 QD”的 27 英寸显示器，该机主打“2K 210Hz”，配备量子点技术，将于近期在国内市场上市。IT之家获悉，这款显示器配备一块 2560x1440 分辨率 210Hz 超频面板，GtG 响应速度 1ms，覆盖 99% DCI-P3",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "零跑汽车外供电池包：做宁王商用车业务的“中间商”｜36氪独家",
+      "link": "https://36kr.com/p/3411369394654855?f=rss",
+      "date": "2025-08-06 21:05",
+      "author": "36氪",
+      "timestamp": 1754485546.0,
+      "summary": "近日，36氪汽车了解到，零跑汽车自研的电池包也已开始外供，其电芯采购自宁德时代及其他电池厂商，电池包则来自零跑。这项业务由零跑旗下，一家专注于电池技术研发的子公司凌骁能源承接。\n  目前这家子公司已接到超过5家新能源商用车客户的订单，同时它也在持续开拓新的客户。犀重新能源就是正与之深入洽谈的商用车企",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "拟通过香港IPO融资3亿美元？爱奇艺：暂时无法提供更多信息",
+      "link": "https://36kr.com/newsflashes/3411364421062017?f=rss",
+      "date": "2025-08-06 20:59",
+      "author": "36氪",
+      "timestamp": 1754485160.0,
+      "summary": "针对爱奇艺寻求通过在香港市场上市融资3亿美元的消息，爱奇艺方面回应称：暂时没有更多信息可以提供。（财联社）",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "汇川技术：正在积极开发人形机器人相关的零部件产品",
+      "link": "https://36kr.com/newsflashes/3411358096887433?f=rss",
+      "date": "2025-08-06 20:52",
+      "author": "36氪",
+      "timestamp": 1754484774.0,
+      "summary": "36氪获悉，汇川技术在互动平台表示，公司正在积极开发人形机器人相关的零部件产品，包括电机、驱动、执行器模组，上肢臂等，今年的进展主要是从预研转向产品化，过程中积极与整机公司和集成商进行沟通合作。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "热门中概股美股盘前多数上涨，爱奇艺涨超6%",
+      "link": "https://36kr.com/newsflashes/3411354357845384?f=rss",
+      "date": "2025-08-06 20:49",
+      "author": "36氪",
+      "timestamp": 1754484546.0,
+      "summary": "36氪获悉，热门中概股美股盘前多数上涨，截至发稿，爱奇艺涨超6%，小鹏汽车涨超2%，蔚来涨2%，B站、阿里巴巴、拼多多、百度涨超1%；理想汽车跌超3%。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "美股大型科技股盘前涨跌不一，苹果涨超1%",
+      "link": "https://36kr.com/newsflashes/3411353200512386?f=rss",
+      "date": "2025-08-06 20:47",
+      "author": "36氪",
+      "timestamp": 1754484475.0,
+      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，苹果涨超1%，亚马逊、微软涨0.52%，Meta涨0.44%，Arm涨0.14%，谷歌涨0.06%；英伟达跌近1%，特斯拉跌0.21%。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "美国白宫国家经济委员会主任哈塞特：可能会听到苹果公司新建工厂的消息",
+      "link": "https://36kr.com/newsflashes/3411336406715777?f=rss",
+      "date": "2025-08-06 20:30",
+      "author": "36氪",
+      "timestamp": 1754483450.0,
+      "summary": "8月6日，据报道，美国白宫国家经济委员会主任哈塞特表示，可能会听到苹果公司新建工厂的消息。另外，在被问及美联储职位相关问题时，哈塞特表示乐于探讨这一挑战。（界面）",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
     {
       "title": "民德电子：股东拟合计减持不超过总股本4%的股份",
       "link": "https://36kr.com/newsflashes/3411326355312259?f=rss",
@@ -8,146 +438,6 @@
       "author": "36氪",
       "timestamp": 1754482837.0,
       "summary": "36氪获悉，民德电子公告，公司控股股东、实际控制人许香灿及董事、副总经理易仰卿计划在未来三个月内，以大宗交易或集中竞价方式减持公司股份，减持数量均不超过339.8万股，即不超过剔除公司回购专用账户股份数量后总股本的2%。减持期间为自公告之日起十五个交易日后的三个月内。减持原因为个人资金需求。",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "何以中国丨津门武韵“牵”起古今 精武长歌“唱”响世界",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460437.shtml",
-      "date": "2025-08-06 20:20",
-      "author": "中新网社会新闻",
-      "timestamp": 1754482823.0,
-      "summary": "央广网天津8月6日消息(记者韩雨晨 实习记者李思睿 王婧瑜)津门故地，尚武之源。天津市西青区精武镇——这片曾走出武术宗师霍元甲的热土，见证了他以精武精神震慑四方，更以“强国强种”的宏愿点燃精武星火的历史壮举。如今，当微风拂过这片土地，精武精神正以崭新的姿态，在时代的长卷上续写传奇。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "“湿地彩虹”彩鹮时隔15年再现衡水湖",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460429.shtml",
-      "date": "2025-08-06 20:18",
-      "author": "中新网社会新闻",
-      "timestamp": 1754482693.0,
-      "summary": "中新社衡水8月6日电 (裴国荣  崔志平  张凯)河北衡水湖国家级自然保护区6日消息，工作人员开展鸟类监测时，收到摄影爱好者提供的珍贵影像，发现1只国家一级保护动物彩鹮。这是2010年以来，该物种再次现身“京津冀最美湿地”衡水湖。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "（乡村行·看振兴）浙江天台：青年入乡打造“避暑经济” 村民家门口增收",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460428.shtml",
-      "date": "2025-08-06 20:17",
-      "author": "中新网社会新闻",
-      "timestamp": 1754482673.0,
-      "summary": "中新网台州8月6日电(傅飞扬 崔旭川)8月5日晚，浙江省台州市天台县石梁镇海拔800米高的山上，26℃的清凉吸引市民游客避暑。“石梁炊烟”青年主理人王一鸣在草坪上确认当晚乐队表演的音响调试。不远处，工作人员忙着摆放篝火晚会的座椅。伴随着歌声，人们度过了一个凉爽的夜晚。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "中老500千伏联网工程配套民生项目开工",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460426.shtml",
-      "date": "2025-08-06 20:17",
-      "author": "中新网社会新闻",
-      "timestamp": 1754482663.0,
-      "summary": "中新网昆明8月6日电 (刘慧萍 张冀)南方电网澜湄国际能源公司6日发布消息称，中老500千伏联网工程配套民生项目——纳莫南村小学5日在老挝乌多姆赛省纳莫县正式开工。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "广东受强降雨影响封闭高速已有10处恢复通行",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460422.shtml",
-      "date": "2025-08-06 20:17",
-      "author": "中新网社会新闻",
-      "timestamp": 1754482643.0,
-      "summary": "中新网广州8月6日电 (记者 蔡敏婕)8月3日0时至8月6日16时，该省高速公路受强降雨影响封闭16处，其中有10处已恢复通行，剩余3处主线双向封闭、2处收费站出入口和1处服务区实施交通管制，均已采取安全防护措施，做好交通疏导分流。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "西双版纳机场口岸首次为老挝旅客签发临时入境许可",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460402.shtml",
-      "date": "2025-08-06 20:16",
-      "author": "中新网社会新闻",
-      "timestamp": 1754482583.0,
-      "summary": "中新网云南西双版纳8月6日电 (岳嘉)西双版纳出入境边防检查站6日通报称，5日10时许，老挝旅客Otkeovoradet Latdaphone、Khammana Viengthe持西双版纳嘎洒国际机场口岸签发的临时入境许可顺利通关。这是西双版纳边检站自1997年担负该口岸出入境边防检查任务以来，首次",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "英国竞争监管机构批准宏盟集团以132.5亿美元收购埃培智集团的交易",
-      "link": "https://36kr.com/newsflashes/3411322086018439?f=rss",
-      "date": "2025-08-06 20:16",
-      "author": "36氪",
-      "timestamp": 1754482576.0,
-      "summary": "英国竞争监管机构周三表示，不会将广告巨头宏盟集团与埃培智集团（Interpublic Group）之间价值132.5亿美元的合并交易提交至深入的第二阶段调查。宏盟集团于去年12月与竞争对手埃培智集团达成全股票交易，旨在组建全球最大的广告代理机构。该交易预计将在今年下半年完成。（新浪财经）",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "“中阿友谊果”椰枣在云南元江成熟",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460398.shtml",
-      "date": "2025-08-06 20:16",
-      "author": "中新网社会新闻",
-      "timestamp": 1754482571.0,
-      "summary": "中新网昆明8月6日电 (罗婕)8月，被称为“中阿友谊果”的椰枣在云南省玉溪市元江哈尼族彝族傣族自治县迎来成熟期。试验种植基地里，一串串椰枣硕果累累，挂满枝头。近日，来自云南、四川、海南等地的椰枣种植领域专家学者及企业代表等共聚于此，参与椰枣引种试种观摩会，见证中国和阿联酋椰枣合作成果落地。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "广州山体滑坡救援最新进展：已营救8人 搜救工作仍在进行",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460432.shtml",
-      "date": "2025-08-06 20:14",
-      "author": "中新网社会新闻",
-      "timestamp": 1754482473.0,
-      "summary": "经记者多方核实确认，今天17时45分左右，山体滑坡救援现场又有1名受困人员被救出。至此，现场共救出8名受困人员。目前现场救援工作仍在持续展开。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "赏金创新高：微软近 12 个月内掏 1700 万美元悬赏漏洞，最高单笔 20 万",
-      "link": "https://www.ithome.com/0/873/543.htm",
-      "date": "2025-08-06 20:14",
-      "author": "IT之家",
-      "timestamp": 1754482457.0,
-      "summary": "IT之家 8 月 6 日消息，当地时间周二，微软宣布该公司过去 12 个月以来已向来自全球 59 个国家的 344 名安全研究人员发放了 1700 万美元（IT之家注：现汇率约合 1.22 亿元人民币），这也是微软赏金计划史上发放的最高数额（去年 1660 万美元）。同期，全球研究者向微软提交了 1",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "广东广西等地持续强降雨 官方启动救灾应急响应",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460395.shtml",
-      "date": "2025-08-06 20:14",
-      "author": "中新网社会新闻",
-      "timestamp": 1754482449.0,
-      "summary": "中新社北京8月6日电 (记者 陈溯)近日，广东、广西等地部分地区出现持续性强降雨天气。6日，国家防灾减灾救灾委员会针对广东省严重暴雨洪涝灾害影响，启动国家四级救灾应急响应。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "投用新机井、开展夜间灌溉……各地多措并举助农稳产保丰收",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460427.shtml",
-      "date": "2025-08-06 20:09",
-      "author": "中新网社会新闻",
-      "timestamp": 1754482196.0,
-      "summary": "央视网消息：在四川巴中，这几天的日气温最高达41.8℃，巴中市平昌县34万亩水稻面临考验。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "大疆首款扫地机器人 ROMO 系列发布：旗舰无人机同款避障、可选透明外壳，4699 元起",
-      "link": "https://www.ithome.com/0/873/541.htm",
-      "date": "2025-08-06 20:08",
-      "author": "IT之家",
-      "timestamp": 1754482089.0,
-      "summary": "IT之家 8 月 6 日消息，大疆今晚发布了旗下首款扫地机器人 ROMO 系列，具备“旗舰无人机的精密感知与机电技术”，还有自清洁功能。大疆 ROMO 系列官方介绍亮点如下：优雅未来感设计，提升家居格调旗舰无人机感知系统，毫米级避障，0 干预通行25000 Pa 绝尘吸力，席卷脏污柔性双机械臂，10",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "潍柴重机：拟4.92亿元收购常州玻璃钢造船厂有限公司100%股权",
-      "link": "https://36kr.com/newsflashes/3411310830472832?f=rss",
-      "date": "2025-08-06 20:04",
-      "author": "36氪",
-      "timestamp": 1754481889.0,
-      "summary": "36氪获悉，潍柴重机公告，公司拟支付现金购买控股股东潍柴控股集团有限公司持有的常州玻璃钢造船厂有限公司100%股权，交易价格为4.92亿元。",
       "source_url": "http://36kr.com",
       "category": "Blog"
     },
@@ -169,26 +459,6 @@
       "timestamp": 1754481685.0,
       "summary": "北京时间8月4日15点57分，SpaceX使用编号B1080.21的二十一手猎鹰9号火箭，又发射了24颗星链V2 Mini卫星。至此，猎鹰9号火箭(严格来说是助推器)的复用次数达到了450次！ 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "一高校两名原副校长，同日被查",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460396.shtml",
-      "date": "2025-08-06 20:01",
-      "author": "中新网社会新闻",
-      "timestamp": 1754481674.0,
-      "summary": "中新网北京8月6日电(记者 邵萌)高校反腐持续发力。8月6日，一高校两名原副校长同日宣布被查。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "光线传媒：公司参与《东极岛》的投资、发行",
-      "link": "https://36kr.com/newsflashes/3411306417212809?f=rss",
-      "date": "2025-08-06 20:00",
-      "author": "36氪",
-      "timestamp": 1754481620.0,
-      "summary": "36氪获悉，光线传媒8月6日在互动平台表示，公司参与《东极岛》的投资、发行。",
-      "source_url": "http://36kr.com",
       "category": "Blog"
     },
     {
@@ -222,16 +492,6 @@
       "category": "Blog"
     },
     {
-      "title": "北京降级发布山洪蓝色预警",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460418.shtml",
-      "date": "2025-08-06 19:59",
-      "author": "中新网社会新闻",
-      "timestamp": 1754481541.0,
-      "summary": "中新网8月6日电 据“气象北京”微博消息，北京市水务局与市气象局8月6日18时30分降级发布山洪灾害蓝色预警。当前北京市山区土壤饱和度较高，发生山洪灾害风险仍较高。密云区发生山洪灾害可能性很大(红色风险)，怀柔区、平谷区可能发生山洪灾害(蓝色风险)，请公众远离山洪沟道，暂停涉山涉水户外活动，防范山洪",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
       "title": "前AMD和英特尔架构师Raja Koduri的初创公司推出用于RISC-V的模型",
       "link": "https://www.cnbeta.com.tw/articles/tech/1517522.htm",
       "date": "2025-08-06 19:58",
@@ -242,16 +502,6 @@
       "category": "Blog"
     },
     {
-      "title": "列车员拎试卷和贴纸上班 高铁车厢化身孩子“移动课堂”",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460416.shtml",
-      "date": "2025-08-06 19:57",
-      "author": "中新网社会新闻",
-      "timestamp": 1754481441.0,
-      "summary": "中新网南宁8月6日电(彭婉云 黎姣)暑期带孩子坐高铁出行，如何让孩子安静乘车，成为家长们面临的难题。近日，在南宁东开往杭州西的G1546次列车上，列车员覃云昊拎着塑料袋在高铁列车上分发试卷的一幕被网友拍下，传上社交平台后收获大量网友点赞。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
       "title": "微软迅速在Windows AI Foundry上部署了OpenAI的全新开源模型",
       "link": "https://www.cnbeta.com.tw/articles/tech/1517520.htm",
       "date": "2025-08-06 19:56",
@@ -259,16 +509,6 @@
       "timestamp": 1754481413.0,
       "summary": "OpenAI 昨天发布了一个可在 PC 上运行的全新免费开放 GPT 模型，现在微软也正在为 Windows 用户提供便捷的体验。轻量级的 gpt-oss-20b 模型现已在 Windows AI Foundry 上线，并将很快登陆 macOS。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "三部门：积极引导农村公路沿线乡镇加快补齐公共充换电基础设施短板",
-      "link": "https://www.ithome.com/0/873/538.htm",
-      "date": "2025-08-06 19:56",
-      "author": "IT之家",
-      "timestamp": 1754481367.0,
-      "summary": "IT之家 8 月 6 日消息，交通运输部、财政部、自然资源部今日发布关于印发《新一轮农村公路提升行动方案》的通知。通知要求，顺应农村发展趋势和农民群众需求，结合人口分布、产业结构、经济社会发展等，因地制宜、科学规划农村公路发展重点和时序，合理确定规模和标准。到 2027 年，全国完成新改建农村公路",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -292,186 +532,6 @@
       "category": "Blog"
     },
     {
-      "title": "台积电2nm工艺突然泄密 内鬼曝光",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1517514.htm",
-      "date": "2025-08-06 19:51",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1754481102.0,
-      "summary": "近日，台积电2nm工艺泄密案引发业内震动。根据最新报道，全球晶圆代工龙头台积电惊传2nm先进制程机密技术外泄事件，泄密对象指向日本企业。报道称，此次事件波及台积电研发中心与新竹宝山Fab20厂区，涉案人员共9人，包括3名2nm试产及6名研发支持部门工程师。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "特朗普声称台积电将在亚利桑那州投资3000亿美元 并承诺征收半导体关税",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1517512.htm",
-      "date": "2025-08-06 19:51",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1754481060.0,
-      "summary": "在iPhone 17发布之际，特朗普威胁要对从印度进口的产品征收更高的关税，现在他声称美国将迎来更多的外国投资以及期待已久的半导体关税公告。特朗普在 CNBC 的“Squawk Box”节目中表示：&nbsp;“你知道，我们拥有世界上最大的工厂，台湾将过来在亚利桑那州投资 3000 亿美元，建造世界",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "爱心驿站、“清凉小摊”……各地推出暖心举措 为户外劳动者送上夏日“清凉礼包”",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460408.shtml",
-      "date": "2025-08-06 19:50",
-      "author": "中新网社会新闻",
-      "timestamp": 1754481007.0,
-      "summary": "央视网消息：各地也推出多项暖心举措，给坚守岗位的劳动者们送去夏日清凉。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "三部门：到2027年全国完成新改建农村公路30万公里",
-      "link": "https://36kr.com/newsflashes/3411295561829760?f=rss",
-      "date": "2025-08-06 19:49",
-      "author": "36氪",
-      "timestamp": 1754480957.0,
-      "summary": "36氪获悉，交通运输部、财政部、自然资源部印发《新一轮农村公路提升行动方案》，到2027年，全国完成新改建农村公路30万公里，便捷高效、普惠公平的农村公路网络基本建成；实施修复性养护工程30万公里，技术状况优良路率保持在70%以上，实施安全生命防护工程15万公里，改造危旧桥梁（含生命通道渡改桥、漫水",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "理想i8碰撞测试事件三方联合声明：规范测试发布 呼吁良性竞争",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1517510.htm",
-      "date": "2025-08-06 19:48",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1754480900.0,
-      "summary": "8月6日，针对近期理想i8与第三方车辆（东风柳汽乘龙品牌）碰撞测试内容传播引发的关注与讨论，理想汽车、中国汽研及东风柳汽三方今日发布联合声明，就事件相关情况及后续行动达成一致。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "塔牌集团：拟5000万元—1亿元回购公司股份",
-      "link": "https://36kr.com/newsflashes/3411293490384261?f=rss",
-      "date": "2025-08-06 19:47",
-      "author": "36氪",
-      "timestamp": 1754480831.0,
-      "summary": "36氪获悉，塔牌集团公告，拟5000万元—1亿元回购公司股份，用于公司实施员工持股计划，回购价格不超过10元/股（含）。",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "讯景 XFX 公布 Radeon AI R9700 显卡：MBA 设计，“即将面向精选系统构建商推出”",
-      "link": "https://www.ithome.com/0/873/536.htm",
-      "date": "2025-08-06 19:44",
-      "author": "IT之家",
-      "timestamp": 1754480659.0,
-      "summary": "IT之家 8 月 6 日消息，AMD 传统 AIB 合作伙伴之一的讯景 XFX 现已上线其 Radeon AI R9700 显卡页面。与蓝宝科技的型号类似，讯景推出的也是采用 MBA“公版”参考设计的产品。该显卡具体型号为 RX-97XPROAIY，采用双滚珠轴承涡轮鼓风风扇散热，配备 12V-2×",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "美团：请所有骑手喝奶茶，请奶茶店员按摩",
-      "link": "https://www.ithome.com/0/873/535.htm",
-      "date": "2025-08-06 19:42",
-      "author": "IT之家",
-      "timestamp": 1754480576.0,
-      "summary": "IT之家 8 月 6 日消息，美团今日宣布“请所有骑手喝奶茶、请奶茶店员按摩”，将在线上线下同步发放 270 万杯新品奶茶券，近期所有跑过单的骑手，都能免费领取。不仅可以自己喝，还可以转赠给亲朋好友。此外，立秋期间，美团将向全国十多个知名茶饮品牌，赠送超万张免费“休闲理疗券”，并根据门店实际情况分配",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "贵州黔西：科学管控水稻孕穗抽穗期  确保水稻稳产丰收",
-      "link": "http://www.chinanews.com/sh/2025/08-06/10460390.shtml",
-      "date": "2025-08-06 19:36",
-      "author": "中新网社会新闻",
-      "timestamp": 1754480180.0,
-      "summary": "中新网黔西8月6日电(卢琼)眼下，贵州省黔西市7万亩水稻正迎来孕穗抽穗期。当地村民抢抓时节，通过科学施肥、科学管水、病虫害绿色防控等田间管护，确保水稻稳产丰收。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "日本民宿老板晒游客退房后 惊现数千张新发行宝可梦卡",
-      "link": "https://www.cnbeta.com.tw/articles/game/1517508.htm",
-      "date": "2025-08-06 19:34",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1754480082.0,
-      "summary": "黄牛到底在哪里秘密活动？日前一位日本民宿老板晒游客退房后，房间一片狼藉， 惊现数千张新发行宝可梦卡，老板表示自己孩子都买不到的卡比比皆是，严重怀疑是被黄牛遗弃。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "理想汽车、中国汽研、东风柳汽发布联合声明",
-      "link": "https://36kr.com/newsflashes/3411276669357701?f=rss",
-      "date": "2025-08-06 19:30",
-      "author": "36氪",
-      "timestamp": 1754479804.0,
-      "summary": "36氪获悉，理想汽车、中国汽研、东风柳汽发布联合声明：三方共同倡议：严守自律底线，共塑良性竞合：呼吁汽车行业严格自律，在产品研发、测试验证及宣传推广中，恪守诚信原则与商业道德，杜绝诸如贬损性对比等任何形式的不当竞争行为。检测认证机构应坚守专业准则，确保测试流程科学严谨，信息发布真实、准确、完整，共同",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "理想汽车、中国汽研、东风柳汽发布关于理想 i8 碰撞测试相关事件的联合声明",
-      "link": "https://www.ithome.com/0/873/533.htm",
-      "date": "2025-08-06 19:24",
-      "author": "IT之家",
-      "timestamp": 1754479457.0,
-      "summary": "IT之家 8 月 6 日消息，理想汽车官方微博今日发布关于理想 i8 碰撞测试相关事件的联合声明。IT之家附声明全文如下：近期，理想 i8 与第三方车辆（东风柳汽乘龙品牌）在碰撞测试中的内容传播引发社会广泛关注，并就汽车产品测试信息发布的规范性、标准执行的透明度以及企业品牌形象保护等议题引发了行业讨",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "上汽通用别克至境 L7 中大型轿车无伪装实车图首曝：无框式车门、前后排配头枕扬声器",
-      "link": "https://www.ithome.com/0/873/532.htm",
-      "date": "2025-08-06 19:24",
-      "author": "IT之家",
-      "timestamp": 1754479447.0,
-      "summary": "IT之家 8 月 6 日消息，上汽通用别克至境 L7 无伪装实车图现已曝光，显示该车提供四门无框式车门，前后排四个座位配备头枕扬声器，有望于年内上市。参考实车照及海报，该车前脸使用封闭式设计风格，搭配 L 形前灯组，前保险杠配备四颗超声波雷达、车顶配备激光雷达，车身提供隐藏式门把手，提供后排隐私玻璃",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "华为鸿蒙座舱加持：全新岚图知音车型 8 月 13 日预售",
-      "link": "https://www.ithome.com/0/873/531.htm",
-      "date": "2025-08-06 19:14",
-      "author": "IT之家",
-      "timestamp": 1754478867.0,
-      "summary": "IT之家 8 月 6 日消息，岚图汽车宣布旗下岚图知音将于 8 月 13 日开启预售，该车将对外观及内饰设计进行调整，提供鲲鹏版和乾崑版两种版本车型，全系基于 800 伏高压碳化硅平台打造，售价有望为 25 万元级别。外观方面，该车使用星伴时光美学设计，提供杜若白、玄英黑、宸星灰、风暴粉、香槟金以及",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "华硕推出燕麦白配色 ProArt 创意国度 PA401 机箱，699~749 元",
-      "link": "https://www.ithome.com/0/873/530.htm",
-      "date": "2025-08-06 19:13",
-      "author": "IT之家",
-      "timestamp": 1754478809.0,
-      "summary": "IT之家 8 月 6 日消息，华硕现已在电商平台正式上架了创意国度 ProArt PA401 燕麦白木艺机箱。这批机箱根据左侧板属性分为 MESH 网孔、铁韵封闭、玻璃侧透三个版本，售价分别为 699 元/ 699 元 / 749 元。ProArt PA401 燕麦白木艺机箱以米色为主题，标配的三颗",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "消息称爱奇艺拟赴港上市融资 3 亿美元，美股盘前涨近 6%",
-      "link": "https://www.ithome.com/0/873/529.htm",
-      "date": "2025-08-06 19:11",
-      "author": "IT之家",
-      "timestamp": 1754478700.0,
-      "summary": "IT之家 8 月 6 日消息，据彭博社今日报道，爱奇艺计划今年在香港上市，筹集 3 亿美元（IT之家注：现汇率约合 21.56 亿元人民币）。该媒体援引知情人士消息称，爱奇艺已开始与全球的银行就香港的二次上市进行讨论。围绕上市谈判仍在进行中，爱奇艺可能仍会重新考虑。当彭博社联系到该公司发言人时，对方",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "微软新协议 NLWeb 被曝出严重安全漏洞：可致 API 密钥泄露，已修复",
-      "link": "https://www.ithome.com/0/873/528.htm",
-      "date": "2025-08-06 19:05",
-      "author": "IT之家",
-      "timestamp": 1754478334.0,
-      "summary": "IT之家 8 月 6 日消息，微软今年 5 月在 Build 大会上推出了全新 NLWeb 协议，号称“Agentic Web 的 HTML”，旨在为任何网站或应用提供类似 ChatGPT 的搜索功能。不过，现有研究人员发现 NLWeb 存在一个严重安全漏洞，允许任何远程用户读取敏感文件，包括系统配",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "微信支付生活缴费现已全面适配 iOS 和安卓屏幕朗读，还支持字体放大",
-      "link": "https://www.ithome.com/0/873/527.htm",
-      "date": "2025-08-06 19:00",
-      "author": "IT之家",
-      "timestamp": 1754478007.0,
-      "summary": "IT之家 8 月 6 日消息，微信支付生活缴费今日宣布无障碍体验全面升级，现已全面适配 iOS 和安卓屏幕朗读，让超 1700 万视障朋友，“听一听”就能搞定生活缴费。无论是 iOS 的旁白，还是安卓的 TalkBack，账单、缴费流程都有语音指引。微信支付官方表示，每次缴费的操作时间，比以前快了整",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "空间美学升级，催生家居情绪消费｜世研消费指数品牌榜Vol.58",
       "link": "https://36kr.com/p/3411199501929860?f=rss",
       "date": "2025-08-06 18:58",
@@ -479,56 +539,6 @@
       "timestamp": 1754477891.0,
       "summary": "本次监测周期内，公牛、林氏家居和喜临门分别以1.79、1.67和1.56的综合热度位列榜单综合热度前三。\n  \n  图源：世研指数\n  场景技术重构生活体验，“无感化品质”催生智能家居信任闭环\n  从品牌分布来看，以恒洁、凯迪仕、德施曼、东芝为代表的智能科技先锋品牌通过场景化技术重构生活体验，精准捕",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "任天堂前员工认为Switch美国涨价是为Switch 2铺路",
-      "link": "https://www.cnbeta.com.tw/articles/game/1517506.htm",
-      "date": "2025-08-06 18:55",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1754477746.0,
-      "summary": "任天堂近日宣布对美国市场的Switch主机进行调价。据该公司前高级公关经理兼营销总监Ellis分析，这一举措将为Switch2乃至整个任天堂带来积极影响。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "AI 编程助手令 Python 更受欢迎：TIOBE 指数 2025 年 8 月排行榜公布",
-      "link": "https://www.ithome.com/0/873/525.htm",
-      "date": "2025-08-06 18:47",
-      "author": "IT之家",
-      "timestamp": 1754477234.0,
-      "summary": "IT之家 8 月 6 日消息，TIOBE 编程社区指数是一个衡量编程语言受欢迎程度的指标，评判的依据来自世界范围内的工程师、课程、供应商及搜索引擎，目前 TIOBE 官网公布了 2025 年 8 月的编程语言排行榜，IT之家整理如下：Python 排行第一：占比 26.14%，本月上升 8.10%C",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "小红书首个多模态 AI 大模型 dots.vlm1 发布并开源，基于 DeepSeek V3 LLM",
-      "link": "https://www.ithome.com/0/873/524.htm",
-      "date": "2025-08-06 18:36",
-      "author": "IT之家",
-      "timestamp": 1754476587.0,
-      "summary": "IT之家 8 月 6 日消息，小红书 hi lab 研发并开源的首个多模态大模型 dots.vlm1 今日正式发布，借助一个从零训练的 12 亿参数视觉编码器以及基于 DeepSeek V3 LLM 构建。小红书 hi lab 表示，dots.vlm1 在大部分多模态评测集上接近闭源 SoTA 模型",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "“松绑”市场低空经济：美国当局拟放宽商用无人机超视距飞行限制",
-      "link": "https://www.ithome.com/0/873/523.htm",
-      "date": "2025-08-06 18:27",
-      "author": "IT之家",
-      "timestamp": 1754476045.0,
-      "summary": "IT之家 8 月 6 日消息，美国交通部长肖恩・派崔克・达菲于当地时间周二提议修订现行无人机法规，拟结束目前美国联邦政府对远程无人机飞行“逐案审批”的做法，允许更多商用无人机超视距飞行 (BVLOS)，此举对于 Alphabet 旗下 Wing 等的无人机配送企业来说可谓重大利好。作为比较，在美国当",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "Intel 3D缓存绝地反击 两组总容量超200MB",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1517504.htm",
-      "date": "2025-08-06 16:57",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1754470642.0,
-      "summary": "AMD X3D系列处理器大杀四方，Intel自然不能坐视不理，据说也在开发自己的3D缓存方案，有望在下代桌面级产品Nova Lake中首次看到。根据最新确切消息，Intel路线图上已经增加了一款新型号，配备两组BLLC，也就是“大容量三级缓存”(Big Last Level Cache)，使得总缓存",
-      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
@@ -600,16 +610,6 @@
       "summary": "当大模型从技术奇点跃迁为产业基座，当智能体从实验室走进产线诊室，人工智能的第三次浪潮正以前所未有的锐度重构全球经济肌理。\n  中国在这场变革中展现出双重禀赋：既是拥有超大规模应用场景的试炼场，又在芯片突围、算法开源等深水区发起攻坚。从单点技术破壁到生态级创新，从效率工具到新质生产力引擎，一条具",
       "source_url": "http://36kr.com",
       "category": "Blog"
-    },
-    {
-      "title": "“高频、面广、问题多”：国务院的“一件事”清单",
-      "link": "https://www.infzm.com/contents/299826",
-      "date": "2025-08-06 14:00",
-      "author": "南方周末-新闻",
-      "timestamp": 1754460000.0,
-      "summary": "“高频、面广、问题多”是国办发布首批“高效办成一件事”清单时，对“一件事”特征的总结。\n\n国务院明确提出要围绕新生儿出生、教育、入学、退休、残疾人服务、企业信息变更等，对群众、企业来说是“一件事”，但需要多个政府部门乃至多个层级审批、管理的业务进行改革。\n\n当单一事项改无可改时，将多个相关事项集成为",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
     },
     {
       "title": "JetBrains推出基于AI的无代码平台Kineto 帮助用户轻松构建网站和应用程序",
@@ -722,16 +722,6 @@
       "category": "Blog"
     },
     {
-      "title": "内蒙古率先宣告，退出债务高风险省份",
-      "link": "https://www.infzm.com/contents/299816",
-      "date": "2025-08-06 10:00",
-      "author": "南方周末-新闻",
-      "timestamp": 1754445600.0,
-      "summary": "债务高风险地区涵盖天津、内蒙古、辽宁、吉林、黑龙江、广西、重庆、贵州、云南、甘肃、青海和宁夏等12个省份。\n\n高风险省份，会严控新建政府投资项目，在建项目视情况缓建或停建。\n\n为获得更多的化债资源，部分债务负担较重的地级市，也希望被纳入高风险名单。",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
       "title": "又一个刚入华的时尚品牌盯上了中女们的钱包",
       "link": "https://36kr.com/p/3409749283851653?f=rss",
       "date": "2025-08-06 08:27",
@@ -749,26 +739,6 @@
       "timestamp": 1754438807.0,
       "summary": "TOP3大新闻\n  国办：免除公办幼儿园学前一年保教费\n  日前，国务院办公厅印发《关于逐步推行免费学前教育的意见》。《意见》明确，从2025年秋季学期起，免除公办幼儿园学前一年在园儿童保育教育费。\n  免保育教育费标准按照县级以上地方人民政府及其教育、价格主管部门批准的公办幼儿园保育教育费收费标准",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "听劝后改价，理想重回性价比",
-      "link": "http://www.huxiu.com/article/4657771.html?f=wangzhan",
-      "date": "2025-08-05 21:10",
-      "author": "虎嗅网",
-      "timestamp": 1754399436.0,
-      "summary": "理想汽车的产品竞争力是什么？&nbsp;在7月29日的理想i8上市发布会上，这一问题并未得到完美解答。核心问题在于配置：理想i8刚上市时分为Pro、Max和Ultra三个版本，覆盖了32.18万元到36.98万元的售价区间。&nbsp;这虽是理想一以贯之的定价逻辑，用“中杯、大杯和超大杯”的组合来",
-      "source_url": "http://www.huxiu.com",
-      "category": "Blog"
-    },
-    {
-      "title": "特斯拉正在发生哪些转变？",
-      "link": "http://www.huxiu.com/article/4657247.html?f=wangzhan",
-      "date": "2025-08-05 20:28",
-      "author": "虎嗅网",
-      "timestamp": 1754396880.0,
-      "summary": "本文来自微信公众号：硅兔君，作者：硅兔君，原文标题：《特斯拉Q2财报解读：当市场聚焦“卖了多少车”，我们在硅谷一线听到了什么？》，头图来自：AI生成近日，特斯拉 (TSLA) 发布了其2025年第二季度财报。如果只看表面数据，这无疑是一份令多头失望的答卷：总营收 $225亿，同比下滑12%；汽车业",
-      "source_url": "http://www.huxiu.com",
       "category": "Blog"
     }
   ]
