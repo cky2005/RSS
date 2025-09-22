@@ -1,105 +1,455 @@
 {
-  "update_time": "2025-09-22",
+  "update_time": "2025-09-23",
   "articles": [
     {
-      "title": "全新梅赛德斯-AMG GT 50 双门跑车上市：99.8 万元，内置“地表最强量产四缸机”",
-      "link": "https://www.ithome.com/0/884/925.htm",
-      "date": "2025-09-22 20:24",
+      "title": "Facebook将推出AI约会助手",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1526484.htm",
+      "date": "2025-09-23 05:28",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1758576499.0,
+      "summary": "Meta于周一宣布，将为 Facebook Dating（Facebook约会功能）接入一款人工智能助手。这款聊天机器人旨在帮助用户找到更符合自身需求的匹配对象。例如，Meta 可能会建议用户让其寻找 “布鲁克林的科技行业女性”，用户也可借助该人工智能优化自己的个人资料。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "iPhone Air拆解揭示易于维修特性及一处巧妙设计",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1526482.htm",
+      "date": "2025-09-23 03:40",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1758570055.0,
+      "summary": "苹果公司首款新型手机——iPhone Air，自发布以来引发了广泛关注。除了耐弯折测试表现优异外，大家也非常好奇其内部构造。近日，专业拆解机构iFixit对iPhone Air进行了拆机，并发现了两项重要且令人惊喜的内容。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "特朗普H-1B新规加剧美印关系恶化 贸易谈判蒙上阴影",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1526480.htm",
+      "date": "2025-09-23 03:38",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1758569887.0,
+      "summary": "特朗普对技术移民签证的打击给本已脆弱的美印关系再添一记重击，贸易谈判面临更多障碍。特朗普政府要求新的H-1B签证申请需支付10万美元，这一举措将主要影响印度申请者，因为过去H-1B签证持有者超过70%为印度人。此举震动了印度总值2800亿美元的科技服务行业，也威胁到其外包业务模式，使数千个岗位面临风",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "起飞前突闻H-1B惊雷 乘客起身踱步要求离机 阿联酋航空一航班陷混乱",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1526478.htm",
+      "date": "2025-09-23 02:41",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1758566468.0,
+      "summary": "9月19日，一架阿联酋航空航班即将从旧金山飞往迪拜之际，客舱内的乘客突然听闻美国总统特朗普决定对H-1B签证收取10万美元申请费的消息。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "汽车制造巨头Stellantis称客户个人数据在数据泄露中被窃取",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1526476.htm",
+      "date": "2025-09-23 02:40",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1758566400.0,
+      "summary": "由克莱斯勒（Chrysler）、菲亚特（Fiat）、吉普（Jeep）、道奇（Dodge）、Ram及其他品牌组成的汽车制造巨头Stellantis证实，其客户的个人信息在一次数据泄露事件中遭到窃取。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "NVIDIA与OpenAI CEO回应H-1B签证政策调整：“我们需要最聪明的人”",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1526474.htm",
+      "date": "2025-09-23 02:39",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1758566356.0,
+      "summary": "美国总统特朗普近日宣布，H-1B签证费用将大幅提高至10万美元，引发众多企业周末紧急应对。对此，NVIDIA首席执行官黄仁勋（Jensen Huang）表示，他很高兴政府在移民政策上有所行动，但强调移民对于美国吸引“最聪明的人才”至关重要。OpenAI首席执行官萨姆·阿尔特曼（Sam Altman）",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "甲骨文换帅：云基础设施总裁和行业总裁接任联席CEO",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1526472.htm",
+      "date": "2025-09-23 01:30",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1758562251.0,
+      "summary": "云服务供应商甲骨文（Oracle）突然宣布换帅，云基础设施总裁和行业业务总裁将担任联席CEO。当地时间9月22日，甲骨文宣布，将提拔其云基础设施总裁克莱·马古伊尔克（Clay Magouyrk）和行业总裁迈克·西西里亚（Mike Sicilia）为联席CEO。连续担任了11年CEO的萨弗拉·卡兹（S",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Gemini AI助手已正式登陆Google TV智能电视平台",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1526470.htm",
+      "date": "2025-09-23 01:26",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1758562000.0,
+      "summary": "Google宣布旗下Gemini AI助手已正式登陆Google TV智能电视平台，首批支持设备为TCL新发布的QM9K系列电视，后续年内将扩展至更多搭载Google TV系统的电视和流媒体盒。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "iPhone 17发售后 苹果股价年内转涨",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1526468.htm",
+      "date": "2025-09-23 01:23",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1758561792.0,
+      "summary": "自苹果公司发售新款iPhone以来，两个交易日内其股价持续上涨，目前已抹去2025年以来的跌幅。周一苹果股价上涨4%，至此其年内涨幅略超2%。苹果是最后一家实现年内股价转涨的科技巨头公司。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 watchOS 26.1 开发者预览版 Beta 发布",
+      "link": "https://www.ithome.com/0/884/952.htm",
+      "date": "2025-09-23 01:12",
       "author": "IT之家",
-      "timestamp": 1758543872.0,
-      "summary": "IT之家 9 月 22 日消息，全新梅赛德斯-AMG GT 50 双门跑车今晚正式上市，指导价 99.8 万元。新车搭载号称“地表最强四缸量产发动机”的 M139，也是全球首款配备电动废气涡轮增压器的量产发动机。其技术与梅赛德斯- AMG 马石油 F1 车队的赛车同源，可爆发出 310kW（421",
+      "timestamp": 1758561125.0,
+      "summary": "【点此直达升级教程】  IT之家 9 月 23 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.1 开发者预览版 Beta 更新（内部版本号：23S5002i），本次更新距离上次发布 Beta/RC 间隔 13 天。  如何升级 iOS / iPadOS / watc",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
-      "title": "蔚来发布全新 ES8 预计交付时间说明：明天上午 8 点前在 App 展示",
-      "link": "https://www.ithome.com/0/884/924.htm",
-      "date": "2025-09-22 20:21",
+      "title": "苹果 visionOS 26.1 开发者预览版 Beta 发布",
+      "link": "https://www.ithome.com/0/884/951.htm",
+      "date": "2025-09-23 01:12",
       "author": "IT之家",
-      "timestamp": 1758543704.0,
-      "summary": "IT之家 9 月 22 日消息，蔚来今晚发布了全新 ES8 预计交付时间说明。蔚来称，9 月 20 日全新 ES8 正式上市后，锁单数量超过预期。针对大家关心的爱车提车时间，蔚来将在 9 月 23 日上午 8 点前展示。用户可打开蔚来 App，进入“爱车”页面，了解预计提车时间。IT之家注意到，9",
+      "timestamp": 1758561125.0,
+      "summary": "IT之家 9 月 23 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.1 开发者预览版 Beta 更新（内部版本号：23N5013j），本次更新距离上次发布 Beta/RC 间隔 13 天。  需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
-      "title": "科学家发现地球“类卫星”2025 PN7已伴随人类约60年",
-      "link": "https://www.cnbeta.com.tw/articles/science/1526432.htm",
-      "date": "2025-09-22 20:20",
+      "title": "苹果 macOS 26.1 开发者预览版 Beta 发布",
+      "link": "https://www.ithome.com/0/884/950.htm",
+      "date": "2025-09-23 01:12",
+      "author": "IT之家",
+      "timestamp": 1758561124.0,
+      "summary": "IT之家 9 月 23 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.1 开发者预览版 Beta 更新（内部版本号：25B5042k），本次更新距离上次发布 Beta/RC 间隔 13 天。  如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 iOS/iPadOS 26.1 开发者预览版 Beta 发布",
+      "link": "https://www.ithome.com/0/884/949.htm",
+      "date": "2025-09-23 01:12",
+      "author": "IT之家",
+      "timestamp": 1758561124.0,
+      "summary": "【点此直达升级教程】  IT之家 9 月 23 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.1 开发者预览版 Beta 更新（内部版本号：23B5044l），本次更新距离上次发布 Beta/RC 间隔 16 天。  如何升级 iOS / iPadOS /",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "英伟达与OpenAI达成战略合作 推动算力与资金支持",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1526466.htm",
+      "date": "2025-09-23 00:39",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758543640.0,
-      "summary": "据最新研究，天文学家在近地轨道发现了一颗此前未知的“类卫星”，这块小型太空岩石被命名为2025 PN7。据研究人员分析，它可能已在地球周围存在长达60年，却未被望远镜发现。 阅读全文",
+      "timestamp": 1758559197.0,
+      "summary": "OpenAI宣布与英伟达达成战略合作，将在“通往超级智能”研发之路上获得更多算力与资金支持。根据周一公布的协议，OpenAI将利用英伟达的系统“建设并部署至少10千兆瓦规模的AI数据中心”，这意味着数百万颗GPU将为OpenAI的新模型提供强劲动力。除了新建数据中心和扩充算力外，英伟达还承诺“随着每",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
-      "title": "美凯龙：云南省监察委员会已对公司总经理车建兴解除留置措施",
-      "link": "https://36kr.com/newsflashes/3477831014898057?f=rss",
-      "date": "2025-09-22 20:20",
-      "author": "36氪",
-      "timestamp": 1758543636.0,
-      "summary": "36氪获悉，美凯龙公告，公司于2025年5月14日披露了《关于董事兼总经理被留置的公告》，车建兴被云南省监察委员会立案调查并实施留置措施。9月22日，公司收到红星美凯龙控股集团有限公司（简称“红星控股”）发来的通知，红星控股接到云南省监察委员会作出的《解除留置通知书》，云南省监察委员会已经对车建兴解",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "英国银行仍在运行超过60年前编写的软件代码",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1526430.htm",
-      "date": "2025-09-22 20:20",
+      "title": "时隔快一百年 胖东来又把自有品牌带火了",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1526464.htm",
+      "date": "2025-09-23 00:28",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758543603.0,
-      "summary": "根据最新调查，超过半数的英国银行仍依赖于上世纪六七十年代编写的计算机代码，而这些代码现在只有极少数员工能够理解。本次由管理咨询公司Baringa发起的调查覆盖了200家英国银行，受访对象均为具备技术背景的高管。结果显示，16%的银行仍在使用1960年代的软件，近40%则维护着1970年代的代码。 阅",
+      "timestamp": 1758558532.0,
+      "summary": "100 年前，连锁超市的老祖宗 A&amp;P 收购了一批面包店、罐头厂之类的上游加工厂，开发自有产品。通过自制造，A&amp;P 获得了巨大价格优势，打的传统夫妻式杂货店毫无招架之力，统治了美国零售业近 40 年。也许没人能想到，一个世纪后，自有品牌会再一次成为商超博弈的关键筹码。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
-      "title": "DeepSeek线上模型升级：当前版本号 DeepSeek-V3.1-Terminus",
-      "link": "https://36kr.com/newsflashes/3477857691572617?f=rss",
-      "date": "2025-09-22 20:19",
-      "author": "36氪",
-      "timestamp": 1758543587.0,
-      "summary": "DeepSeek线上模型已升级，当前版本号 DeepSeek-V3.1-Terminus。 (澎湃)",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "超强台风“桦加沙”达17级以上 台风的强度是怎么测算的？",
-      "link": "https://www.cnbeta.com.tw/articles/science/1526428.htm",
-      "date": "2025-09-22 20:19",
+      "title": "蓝色起源赢得NASA合同 将VIPER月球车运送至月球南极",
+      "link": "https://www.cnbeta.com.tw/articles/science/1526462.htm",
+      "date": "2025-09-23 00:13",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758543575.0,
-      "summary": "今天14时，超强台风“桦加沙”中心附近最大风速达62米/秒，强度超17级。那么台风的强度是怎么来的？又是由谁来确定的？对此，中央气象台进行了科普。原来，台风强度的核心判定指标是近地面中心最大平均风速或最低海平面气压，获取方式分为直接观测与卫星估算两类。 阅读全文",
+      "timestamp": 1758557613.0,
+      "summary": "美国太空探索公司蓝色起源（Blue Origin）于上周五获得美国国家航空航天局（NASA）一项重要合同，将负责把VIPER（月球极地探测车）送往月球。这不仅彰显了NASA对“蓝月”（Blue Moon）着陆器及人类未来月球探索的信心，也为VIPER项目重新赋予了新生。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
-      "title": "世界最大浮空风电装置戈壁试飞成功：长60米 外形酷似飞艇",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1526426.htm",
-      "date": "2025-09-22 20:18",
+      "title": "今日秋分：云清月秀，罗衫怯怯风露凉",
+      "link": "https://www.ithome.com/0/884/948.htm",
+      "date": "2025-09-23 00:01",
+      "author": "IT之家",
+      "timestamp": 1758556860.0,
+      "summary": "IT之家 9 月 23 日消息今天是农历二十四节气中的秋分，秋分之“分”为“半”之意，这是昼夜在春分之后又一次平分。阴阳相半，昼夜均衡，冷暖相宜，天气给人的感觉是比较舒适的。①秋分时阳光几乎直射赤道，昼夜等长；秋分后，北半球开始昼短夜长；②冷空气日渐活跃，应随时注意衣物增减；③早睡早起、多食新鲜果蔬",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "部分 iPhone 17、17 Pro 与 iPhone Air 用户遭遇间歇性 Wi-Fi 断连问题",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1526460.htm",
+      "date": "2025-09-22 23:47",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758543482.0,
-      "summary": "北京临一云川能源技术有限公司宣布，其自主研制的S1500型浮空风力发电系统，在新疆哈密淖毛湖基地顺利完成戈壁工况全科目试飞。这个长60米、宽40米、高40米，外形酷似飞艇的“空中电站”，以1兆瓦的设计功率成为目前世界最大浮空风电装置。 阅读全文",
+      "timestamp": 1758556079.0,
+      "summary": "苹果最新款 iPhone 于上周五正式发布，部分早期用户反映设备存在间歇性 Wi-Fi 连接问题。不少 iPhone 17、iPhone 17 Pro、iPhone 17 Pro Max 及 iPhone Air 用户在 MacRumors 论坛、Reddit 以及 Apple Support Co",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
-      "title": "两连板德明利：控股股东、实际控制人李虎、田华本减持计划已实施完毕",
-      "link": "https://36kr.com/newsflashes/3477854943582851?f=rss",
-      "date": "2025-09-22 20:16",
+      "title": "GPT-5 编程测评“表面不及格”：实际 63.1% 的任务没交卷，全算上成绩比 Claude 高一倍",
+      "link": "https://www.ithome.com/0/884/947.htm",
+      "date": "2025-09-22 23:43",
+      "author": "IT之家",
+      "timestamp": 1758555786.0,
+      "summary": "Scale AI 的新软件工程基准 SWE-BENCH PRO，出现反转！表面上看，“御三家”集体翻车，没一家的解决率超过 25%：GPT-5、Claude Opus 4.1、Gemini 2.5 分别以 23.3%、22.7%、13.5% 的解决率“荣”登前三。但深入数据背后，则暗藏玄机。前 Op",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "奥尔特曼预告 ChatGPT 新产品：Pro 会员也要额外收费，这次不计成本投入算力",
+      "link": "https://www.ithome.com/0/884/946.htm",
+      "date": "2025-09-22 23:33",
+      "author": "IT之家",
+      "timestamp": 1758555213.0,
+      "summary": "奥尔特曼真・算力氪金玩家。OpenAI 已经花了 160 亿美元（约人民币 1138 亿）租用计算资源。相当于每天一睁眼，就有几千万花出去租服务器。但这还不是最夸张的。据 The Information 消息，OpenAI 计划在未来五年额外支出约 1000 亿美元，用于从云服务提供商处租用备用服务",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "超强台风“桦加沙”向华南沿海靠近，威力或与“山竹”相当",
+      "link": "http://www.chinanews.com/sh/2025/09-22/10487227.shtml",
+      "date": "2025-09-22 23:22",
+      "author": "中新网社会新闻",
+      "timestamp": 1758554532.0,
+      "summary": "中新网北京9月22日电(记者 邵萌)今年第18号台风“桦加沙”(超强台风级)正向华南沿海靠近。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "又一欧洲车企选择放缓电动化，宾利确认未来仍将推出燃油新车",
+      "link": "https://www.ithome.com/0/884/945.htm",
+      "date": "2025-09-22 23:21",
+      "author": "IT之家",
+      "timestamp": 1758554506.0,
+      "summary": "IT之家 9 月 22 日消息，据外媒 Autocar 今晚报道，宾利计划推出纯燃油版的添越、欧陆 GT 和飞驰继任车型。此举标志着其“只有电动车”战略的逆转，其来源便是保时捷上周末的重大调整。根据 Beyond100 战略，宾利原计划到 2035 年全面淘汰燃油发动机。但随着大众集团旗下保时捷重申",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "60岁的基努·里维斯已悄然结婚 和对方交往5年",
+      "link": "https://www.cnbeta.com.tw/articles/movie/1526458.htm",
+      "date": "2025-09-22 23:21",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1758554499.0,
+      "summary": "据外媒报道，60岁的好莱坞演员基努·里维斯已与交往5年的艺术家亚历山德拉·格兰特悄然结婚。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "电影《曼达洛人与古古》首支预告 2026年上映",
+      "link": "https://www.cnbeta.com.tw/articles/movie/1526456.htm",
+      "date": "2025-09-22 23:16",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1758554198.0,
+      "summary": "电影《曼达洛人与古古》首支预告曝光！电影2026年全球献映，大银幕敬请期待。《曼达洛人与古古》电影由大热剧集《曼达洛人》原班人马打造，银河系最强赏金猎人+神秘的大眼萌宝古古，一场意想不到的星际冒险即将启程。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "iPhone 17 系列 / Air 搭载自研 N1 无线联网芯片，苹果高管详解其独特优势",
+      "link": "https://www.ithome.com/0/884/944.htm",
+      "date": "2025-09-22 23:16",
+      "author": "IT之家",
+      "timestamp": 1758554195.0,
+      "summary": "IT之家 9 月 22 日消息，苹果公司最新的 iPhone 17 全系列机型与 iPhone Air 均配备了自研的全新 N1 无线联网芯片。在接受 CNBC 的最新采访中，苹果对 N1 芯片的独特优势进行了较以往更为深入的解读。苹果最新 iPhone 机型共有的核心配置之一便是 N1 无线联网芯",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "项目遭微软取消后，Xbox 第一方游戏《完美黑暗》重启版概念图及玩法曝光",
+      "link": "https://www.ithome.com/0/884/943.htm",
+      "date": "2025-09-22 23:00",
+      "author": "IT之家",
+      "timestamp": 1758553217.0,
+      "summary": "IT之家 9 月 22 日消息，Xbox 取消的《完美黑暗》重启版相关新信息和概念图现已在网上曝光，当地时间 21 日，外媒 MP1st 获得的内部文件显示了游戏部分场景的概念艺术图，并披露了玩法细节。文件中提到“无情系统”和“奖励系统”等设计概念，对“肾上腺素系统”描述更为详细。该系统设定肾上腺素",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "奔驰拟开发全新入门紧凑车型：面向更广泛客户群体，弱化“豪华”属性",
+      "link": "https://www.ithome.com/0/884/942.htm",
+      "date": "2025-09-22 22:48",
+      "author": "IT之家",
+      "timestamp": 1758552516.0,
+      "summary": "IT之家 9 月 22 日消息，据外媒 Carscoops 今晚报道，奔驰再度调整战略，宣布将开发一款全新入门紧凑车型。这款尚未命名的新车定位在 CLA 之下，并在 A-Class 于 2028 年停产后接替其市场位置。最初，奔驰计划精简小型车阵容，将 CLA 定为品牌入门车型。基于全新 MMA 平",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "科乐美《寂静岭 f》游戏获 IGN 7 分：场景故事优秀、解谜晦涩、近战不佳",
+      "link": "https://www.ithome.com/0/884/941.htm",
+      "date": "2025-09-22 22:33",
+      "author": "IT之家",
+      "timestamp": 1758551615.0,
+      "summary": "IT之家 9 月 22 日消息，科乐美《寂静岭 f》游戏将于 9 月 25 日正式开售，预购了豪华版的玩家可在明天提前开玩，目前游戏在 Metacritic 上 PC 版评分为 86 分（由 26 家媒体打出）、PS5 版评分为 85 分（由 69 家媒体打出）。IGN 给予本作 7 分，认为本作故",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Plaud 正式进驻中国大陆，Plaud Note Pro 等三款 AI 录音硬件全面发售",
+      "link": "https://www.ithome.com/0/884/940.htm",
+      "date": "2025-09-22 22:13",
+      "author": "IT之家",
+      "timestamp": 1758550381.0,
+      "summary": "IT之家 9 月 22 日消息，2025 年 9 月 22 日，全球 AI 纪要产品 Plaud 正式进入中国大陆市场。Plaud 曾推出全球首款且销量第一的卡片式 AI 纪要产品 Plaud Note 以及可穿戴式产品 Plaud NotePin。随着此次 Plaud 正式进入国内市场，升级后的",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "开源媒体播放器 VLC 更新 3.0.22 RC1：正式支持 Win11 Arm，修复 WinXP SP3 兼容性",
+      "link": "https://www.ithome.com/0/884/939.htm",
+      "date": "2025-09-22 22:08",
+      "author": "IT之家",
+      "timestamp": 1758550090.0,
+      "summary": "IT之家 9 月 22 日消息，据外媒 Windows Central 今晚报道，在 Nightly 测试版中测试了一年多时间后，开源媒体播放器 VLC 稳定版终于正式支持 Windows 11 on Arm PC。VLC 发布了新的候选版本 3.0.22 RC1，带来原生 Arm64 支持和多项改",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "世界最大浮空风电装置试飞成功：长 60 米，外形酷似飞艇",
+      "link": "https://www.ithome.com/0/884/938.htm",
+      "date": "2025-09-22 22:01",
+      "author": "IT之家",
+      "timestamp": 1758549688.0,
+      "summary": "IT之家 9 月 22 日消息，北京临一云川能源技术有限公司宣布，9 月 19 日至 21 日，其自主研制的 S1500 型浮空风力发电系统（SAWES），在新疆哈密淖毛湖基地顺利完成了戈壁工况总装、构形保压测试、昼夜强风放收等一系列预定试验科目，标志着全球首台兆瓦级商用空中风力发电系统首次试飞成功",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "台风“桦加沙”来袭 莆田边检全力保障口岸安全",
+      "link": "http://www.chinanews.com/sh/2025/09-22/10487198.shtml",
+      "date": "2025-09-22 21:56",
+      "author": "中新网社会新闻",
+      "timestamp": 1758549412.0,
+      "summary": "中新网莆田9月22日电 (闫旭 吴志)22日12时许，为规避超强台风“桦加沙”来袭风险，利比里亚籍“粉色沙滩”轮办理好出港边检手续后，紧急驶离福建省莆田市东吴港区罗屿作业区。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "白家犯罪集团主案一审开庭",
+      "link": "http://www.chinanews.com/sh/2025/09-22/10487182.shtml",
+      "date": "2025-09-22 21:48",
+      "author": "中新网社会新闻",
+      "timestamp": 1758548908.0,
+      "summary": "中新社深圳9月22日电 (记者 索有为)9月19日至22日，广东省深圳市中级人民法院一审公开开庭审理了白所成、白应苍等21名被告人诈骗、故意杀人、故意伤害、绑架、敲诈勒索、开设赌场、组织、强迫卖淫、非法拘禁、组织他人偷越国(边)境、偷越国(边)境、走私、贩卖、运输、制造毒品、帮助毁灭、伪造证据一案。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "镜头为媒架友谊之桥 中外青年用影像讲述云南故事",
+      "link": "http://www.chinanews.com/sh/2025/09-22/10487181.shtml",
+      "date": "2025-09-22 21:42",
+      "author": "中新网社会新闻",
+      "timestamp": 1758548561.0,
+      "summary": "中新网普洱9月22日电 (陆希成 黄兴鸿)“YUNNAN IN MY LENS”创拍营活动22日在云南省普洱市收官。来自澜湄六国及南亚等国的70余名青年学子在3天时间里创作出近百部短视频，以青春视角聚焦“有一种叫云南的生活”。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "台风“桦加沙”快速趋近 广东紧急通知：全面迅速进入临战状态",
+      "link": "http://www.chinanews.com/sh/2025/09-22/10487180.shtml",
+      "date": "2025-09-22 21:34",
+      "author": "中新网社会新闻",
+      "timestamp": 1758548049.0,
+      "summary": "广东紧急通知：全面迅速进入临战状态",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "小米汽车的“必修课”迎来大考",
+      "link": "http://www.huxiu.com/article/4783464.html?f=wangzhan",
+      "date": "2025-09-22 21:34",
+      "author": "虎嗅网",
+      "timestamp": 1758548043.0,
+      "summary": "本文来自微信公众号：最话 FunTalk，作者：林书，编辑：刘宇翔，题图来自：视觉中国小米汽车迎来“大考”。9月19日，小米汽车科技有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。决定自即日起，召回2024年2月6日至20",
+      "source_url": "http://www.huxiu.com",
+      "category": "Blog"
+    },
+    {
+      "title": "（乡村行·看振兴）山西屯留：金秋好“丰”景 玉米采收忙",
+      "link": "http://www.chinanews.com/sh/2025/09-22/10487169.shtml",
+      "date": "2025-09-22 21:31",
+      "author": "中新网社会新闻",
+      "timestamp": 1758547885.0,
+      "summary": "中新网长治9月22日电 (高雨晴 李佳 高艾亮)金秋时节，山西省长治市屯留区上村镇玉米种植基地迎来采收季。大型玉米联合收割机在田间灵活穿梭，精准地切割着玉米秸秆，一幅生机勃勃的丰收画卷缓缓展开。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "上海第48届世界技能大赛事务执行局揭牌 赛事准备工作正全力推进",
+      "link": "http://www.chinanews.com/sh/2025/09-22/10487166.shtml",
+      "date": "2025-09-22 21:30",
+      "author": "中新网社会新闻",
+      "timestamp": 1758547839.0,
+      "summary": "中新网上海9月22日电 (记者 许婧)上海第48届世界技能大赛倒计时一周年活动22日在上海展览中心友谊会堂举行。活动上，上海第48届世界技能大赛事务执行局揭牌，志愿者招募启动，四大国家战略赞助商服务发布，技能梦想大使亮相，彰显中国以技能为媒、连接世界的决心。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "消息人士称：SAP提出让步，试图解决欧盟反垄断担忧",
+      "link": "https://36kr.com/newsflashes/3477891289832070?f=rss",
+      "date": "2025-09-22 20:59",
       "author": "36氪",
-      "timestamp": 1758543419.0,
-      "summary": "36氪获悉，德明利发布股票交易异常波动公告，经核查，公司控股股东、实际控制人李虎在公司股票交易异常波动期间的2025年9月19日通过大宗交易的方式减持了公司股票22.43万股。公司同日披露《关于控股股东、实际控制人减持计划实施完毕的公告》，李虎本次合计减持公司股份417.65万股，田华通过银程源合计",
+      "timestamp": 1758545996.0,
+      "summary": "据直接了解此事的消息人士透露，欧洲最大的软件制造商 SAP已提出让步，以解决欧盟对其商业行为的反垄断担忧。目前SAP正试图避免面临调查及可能的罚款。（新浪财经）",
       "source_url": "http://36kr.com",
       "category": "Blog"
     },
     {
-      "title": "开润股份：全资子公司拟2.8亿元收购上海嘉乐20%股份",
-      "link": "https://36kr.com/newsflashes/3477830205151878?f=rss",
-      "date": "2025-09-22 20:14",
+      "title": "隆基绿能：HPBC 2.0电池产线良率稳定在97%以上",
+      "link": "https://36kr.com/newsflashes/3477892327348613?f=rss",
+      "date": "2025-09-22 20:55",
       "author": "36氪",
-      "timestamp": 1758543283.0,
-      "summary": "36氪获悉，开润股份公告，公司全资子公司滁州米润拟以自有资金或自筹资金2.8亿元收购淮安玖安创业投资合伙企业持有的上海嘉乐股份有限公司20%股份。交易完成后，滁州米润将持有上海嘉乐71.8480%股份。该交易已通过董事会审批，不构成关联交易，不构成重大资产重组。",
+      "timestamp": 1758545701.0,
+      "summary": "36氪获悉，隆基绿能在互动平台表示，公司目前已经投产的HPBC 2.0 电池产线良率稳定在97%以上。 公司针对HPBC 2.0产品已制定清晰的降本计划和目标，降本进度基本符合公司预期。公司HIBC组件产品于2025年5月正式发布，组件效率超过25%，已经逐步推向国内外分布式市场。",
       "source_url": "http://36kr.com",
       "category": "Blog"
+    },
+    {
+      "title": "台风“桦加沙”携强风雨袭华南 中国多方严阵以待",
+      "link": "http://www.chinanews.com/sh/2025/09-22/10487088.shtml",
+      "date": "2025-09-22 20:53",
+      "author": "中新网社会新闻",
+      "timestamp": 1758545590.0,
+      "summary": "中新社北京9月22日电 (记者 陈溯)记者22日从中国气象局获悉，当天14时，今年第18号台风“桦加沙”移入巴士海峡，中心附近最大风力17级以上，预计将以每小时20公里至25公里的速度向偏西方向移动，24日可能以强台风级或超强台风级在广东惠州到海南文昌一带沿海登陆。受其影响，华南地区将有强风雨。中国",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "甲骨文任命内部人士克雷・马古约克与迈克・西西利亚为联合首席执行官",
+      "link": "https://36kr.com/newsflashes/3477889724701315?f=rss",
+      "date": "2025-09-22 20:52",
+      "author": "36氪",
+      "timestamp": 1758545542.0,
+      "summary": "甲骨文公司于周一宣布，任命公司内部人士克雷・马古约克（Clay Magouyrk）与迈克・西西利亚（Mike Sicilia）担任联合首席执行官（co-CEO），现任公司首席执行官萨夫拉・卡茨（Safra Catz）将被任命为董事会执行副主席。（新浪财经）",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "热门中概股美股盘前多数下跌，百度涨超2%",
+      "link": "https://36kr.com/newsflashes/3477889017715332?f=rss",
+      "date": "2025-09-22 20:51",
+      "author": "36氪",
+      "timestamp": 1758545499.0,
+      "summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，京东跌0.91%，拼多多跌0.87%，蔚来跌0.54%，小鹏汽车跌0.51%，理想汽车跌0.19%；百度涨超2%，阿里巴巴涨0.73%。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "美股大型科技股盘前涨跌不一，特斯拉涨超1%",
+      "link": "https://36kr.com/newsflashes/3477885096270468?f=rss",
+      "date": "2025-09-22 20:47",
+      "author": "36氪",
+      "timestamp": 1758545260.0,
+      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，特斯拉涨超1%，苹果涨0.88%，Meta涨0.09%；微软跌0.57%，谷歌跌0.55%，英伟达跌0.52%，亚马逊跌0.24%。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "福建海事局启动防台风二级应急响应 52条客渡运航线停航",
+      "link": "http://www.chinanews.com/sh/2025/09-22/10487071.shtml",
+      "date": "2025-09-22 20:30",
+      "author": "中新网社会新闻",
+      "timestamp": 1758544235.0,
+      "summary": "中新网福州9月22日电 (记者 龙敏)9月22日，超强台风“桦加沙”最大风力达17级以上，福建沿海出现7到9级大风，阵风可达10到11级。台风叠加天文大潮等因素，对福建海上交通产生较大影响。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
     },
     {
       "title": "福建提升防台风应急响应为Ⅲ级",
@@ -122,46 +472,6 @@
       "category": "News"
     },
     {
-      "title": "安卓版谷歌 Chrome 浏览器“朗读”功能升级：可收听播客式 AI 音频摘要",
-      "link": "https://www.ithome.com/0/884/923.htm",
-      "date": "2025-09-22 20:10",
-      "author": "IT之家",
-      "timestamp": 1758543003.0,
-      "summary": "IT之家 9 月 22 日消息，安卓版 Chrome 浏览器的“朗读”（Read Aloud）功能迎来全新 AI 驱动的升级，现在浏览器不再局限于逐字朗读网页全文，而是可借助 AI 为内容生成“音频摘要”（Audio Overview），其呈现形式类似播客节目。外媒 Android Authorit",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "雅运股份：通过浙江容腾间接持有宇树科技0.0110％股权",
-      "link": "https://36kr.com/newsflashes/3477829336766849?f=rss",
-      "date": "2025-09-22 20:08",
-      "author": "36氪",
-      "timestamp": 1758542926.0,
-      "summary": "36氪获悉，雅运股份发布投资者关系活动记录表，2025年3月公司受让浙江容腾创业投资合伙企业0.8333%财产份额，根据公开资料，浙江容腾持有杭州宇树科技股份有限公司1.3217％股权，公司通过浙江容腾间接持有宇树科技0.0110％股权，占比极小，且基金的投资运作受诸多因素的影响收益存在不确定性，敬",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "Meta 开源 MobileLLM-R1 系列小语言 AI 模型：参数量不到 10 亿、专攻数学编程科学问题",
-      "link": "https://www.ithome.com/0/884/922.htm",
-      "date": "2025-09-22 20:04",
-      "author": "IT之家",
-      "timestamp": 1758542690.0,
-      "summary": "IT之家 9 月 22 日消息，Meta 现已公布了 MobileLLM-R1 系列小语言模型，分别提供 1.4 亿、3.6 亿和 9.5 亿不同参数版本，强调能够在本地移动平台等轻量级设备上运行。Meta 表示，MobileLLM-R1 并不是面向聊天机器人的通用模型，而是经过监督式微调（SFT）",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "DeepSeek 线上模型升级至 V3.1-Terminus 版本，改进语言一致性及 Agent 能力",
-      "link": "https://www.ithome.com/0/884/921.htm",
-      "date": "2025-09-22 20:03",
-      "author": "IT之家",
-      "timestamp": 1758542582.0,
-      "summary": "9 月 22 日晚间消息，DeepSeek 今晚宣布线上模型完成升级，当前版本号 DeepSeek-V3.1-Terminus，包含思考模型和非思考模式两个版本，上下文度均为 128k，用户可以在线体验。IT之家从官方更新日志获悉，deepseek-chat 和 deepseek-reasoner",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "白家犯罪集团主案一审开庭",
       "link": "http://www.chinanews.com/sh/2025/09-22/10487085.shtml",
       "date": "2025-09-22 20:02",
@@ -172,33 +482,13 @@
       "category": "News"
     },
     {
-      "title": "欧盟委员会拟修改隐私规则，终结“同意 cookies”弹窗骚扰",
-      "link": "https://www.ithome.com/0/884/919.htm",
-      "date": "2025-09-22 19:56",
-      "author": "IT之家",
-      "timestamp": 1758542208.0,
-      "summary": "IT之家 9 月 22 日消息，据 POLITICO 今日报道，为了简化监管，欧盟委员会计划废除被诟病已久的《电子隐私指令》。自 2009 年起，该法规让用户在网上不断看到要求同意 cookies 的弹窗。这项举措得到不少欧洲民众的支持。cookies 是互联网运行的关键，网站借此收集用户信息：包括",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "smart 首款插混车型“精灵#5 EHD”将于 9 月 28 日开启预售，目前在售纯电款 23.99 万元起",
-      "link": "https://www.ithome.com/0/884/918.htm",
-      "date": "2025-09-22 19:44",
-      "author": "IT之家",
-      "timestamp": 1758541447.0,
-      "summary": "IT之家 9 月 22 日消息，smart 透露旗下首款插混车型 ——smart 精灵#5 EHD 车型将于 9 月 28 日开启预售，随后将于 10 月正式上市，该车采用 EHD 超级电混技术，其动力系统由 1.5T 发动机和驱动电机组成，CLTC 纯电续航里程最高 252 公里，作为比较，目前在",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "Meta CTO 揭秘新眼镜发布会现场演示连环翻车原因：不是 Wi-Fi 的锅",
-      "link": "https://www.ithome.com/0/884/917.htm",
-      "date": "2025-09-22 19:41",
-      "author": "IT之家",
-      "timestamp": 1758541318.0,
-      "summary": "IT之家 9 月 22 日消息，Meta 首席技术官安德鲁・博斯沃思（Andrew Bosworth）通过个人 Instagram 账号，从技术角度解释了为何在上周举行的公司开发者大会 Meta Connect 上，Meta 新款智能眼镜技术的多场演示均以失败告终。上周三，Meta 推出了三款全新智",
-      "source_url": "https://www.ithome.com/",
+      "title": "如果她成为日本新首相，对我们是好事还是坏事？",
+      "link": "http://www.huxiu.com/article/4782879.html?f=wangzhan",
+      "date": "2025-09-22 20:00",
+      "author": "虎嗅网",
+      "timestamp": 1758542429.0,
+      "summary": "支持军事扩张、厕所拜鬼、窜访湾湾......如果她成为日本新首相，对中国是好事还是坏事？今天咱们就从政治主张、成长轨迹、背后势力三个维度系统聊聊这位我们未来可能的对手——高市早苗。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "source_url": "http://www.huxiu.com",
       "category": "Blog"
     },
     {
@@ -232,26 +522,6 @@
       "category": "Blog"
     },
     {
-      "title": "广汽埃安 AION RT 焕新款上市：最高续航 650 公里，综合补贴价 8.58 万元起",
-      "link": "https://www.ithome.com/0/884/914.htm",
-      "date": "2025-09-22 19:23",
-      "author": "IT之家",
-      "timestamp": 1758540211.0,
-      "summary": "IT之家 9 月 22 日消息，广汽埃安旗下 AION RT 焕新款已上市，新车共推出 4 款车型，官方售价区间为 9.98-12.38 万元，综合补贴后价格为 8.58-10.98 万元。IT之家注意到，新车在外观设计上延续了埃安家族式的设计语言，整车采用递进式黄金比例设计，成为品牌首款兼顾低风阻",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "消息称新款极氪 001 将于明天预售：搭 Thor-U 芯片、10 月中旬上市",
-      "link": "https://www.ithome.com/0/884/913.htm",
-      "date": "2025-09-22 19:14",
-      "author": "IT之家",
-      "timestamp": 1758539659.0,
-      "summary": "IT之家 9 月 22 日消息，据懂车帝报道，极氪透露旗下新款极氪 ZEEKR 001 将于 9 月 23 日（明天）开启预售，并计划于 10 月中旬正式上市。据介绍，该车主要升级 Thor-U 芯片和 900 伏高压系统，并对内外饰细节微调，提供容量为 95 千瓦时和 103 千瓦时的电池组，续航",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "台风橙色预警：“桦加沙”将于24日在广东深圳到徐闻一带沿海登陆",
       "link": "http://www.chinanews.com/sh/2025/09-22/10487036.shtml",
       "date": "2025-09-22 19:10",
@@ -260,66 +530,6 @@
       "summary": "中新网9月22日电 据中央气象台网站消息，中央气象台9月22日18时继续发布台风橙色预警：今年第18号台风“桦加沙”(超强台风级)的中心今天(22日)下午5点钟位于广东省阳江市东偏南方向约990公里的巴士海峡海面上，就是北纬19.5度、东经121.2度，中心附近最大风力有17级(60米/秒)，中心最",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "两部门：加强屋顶光伏、分散式风电、多元储能、充电桩等新能源基础设施开发利用",
-      "link": "https://www.ithome.com/0/884/911.htm",
-      "date": "2025-09-22 19:10",
-      "author": "IT之家",
-      "timestamp": 1758539403.0,
-      "summary": "IT之家 9 月 22 日消息，工业和信息化部、国家发展改革委发布关于印发《工业园区高质量发展指引》的通知。IT之家注意到，其中提出，加快园区绿色设施建设。加强屋顶光伏、分散式风电、多元储能、充电桩等新能源基础设施的开发利用，探索构建工业绿色微电网、零碳能源供给系统和园区级数字化能碳管理中心。重点加",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "“3×8”还是“8×3” ：一道小学数学题 80后90后让家长吵翻了",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1526424.htm",
-      "date": "2025-09-22 19:06",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758539216.0,
-      "summary": "最近，一道小学二年级的数学题在网上火了，还让不少80、90后家长犯了难。题目是“有3个盘子，每盘8个水果，一共有多少个水果？”，有学生列式写了“3×8”，却被老师判错。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "谷歌反垄断案开庭：美国司法部要求强制出售其广告交易平台 AdX",
-      "link": "https://www.ithome.com/0/884/910.htm",
-      "date": "2025-09-22 19:06",
-      "author": "IT之家",
-      "timestamp": 1758539190.0,
-      "summary": "IT之家 9 月 22 日消息，据路透社报道，美国弗吉尼亚州亚历山大市联邦法院于本周一开庭审理谷歌反垄断案，谷歌母公司 Alphabet 将在此次庭审中与美国反垄断执法机构展开最新对抗，核心目标是阻止其在线广告业务部分资产被强制出售。据IT之家了解，此次庭审是美国政府遏制谷歌垄断势力的又一重要举措。",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "Meta的人工智能系统Llama获准供美国政府机构使用",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1526422.htm",
-      "date": "2025-09-22 19:05",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758539116.0,
-      "summary": "Meta平台公司开发的人工智能系统Llama已获美国政府批准，可供各联邦机构使用。美国政府正推动将商业AI工具纳入政府运作，一名高级官员透露，美国总务管理局（GSA）已将Llama列入联邦机构可选用的AI工具清单。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "白宫披露拯救TikTok协议最新细节：算法租赁模式存在争议",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1526420.htm",
-      "date": "2025-09-22 19:04",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758539075.0,
-      "summary": "据白宫一位高级官员披露，TikTok美国新实体将根据美中拟定协议条款，从中国母公司字节跳动租赁算法，而非出售。这一方案的出台，源于2024年美国立法要求TikTok必须由美国掌控，否则将面临全面禁令。在协议磋商初期，曾有声音认为字节跳动需彻底出售算法，以符合法律要求。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "三星Galaxy影像规格停滞甚至开倒车 网友请愿要负责人下台",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1526418.htm",
-      "date": "2025-09-22 19:02",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758538966.0,
-      "summary": "三星Galaxy S Ultra系列此前一直拥有着强大的影像能力，但近几年却呈现自废武功与表现停滞的状态。面对三星如此的不思进取，在线签名平台出现一份“要求紧急更换三星相机部门负责人”的请愿书。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "四问今年来全球风王：“桦加沙”为何这么猛 哪里将承接最强风雨？",
@@ -332,86 +542,6 @@
       "category": "News"
     },
     {
-      "title": "京东工业港股IPO获证监会备案 刘强东的第6家上市公司",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1526416.htm",
-      "date": "2025-09-22 19:01",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758538894.0,
-      "summary": "继京东集团、京东物流、京东健康、达达集团、德邦物流登陆资本市场后，刘强东的第6家上市公司也快来了。今日，中国证监会发布公告，已向京东工业股份有限公司（简称：京东工业）下发境外发行上市备案通知书，确认其通过境内运营实体北京京东数智工业科技有限公司提交的备案材料已收悉。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "深圳机场自9月23日20时起暂停航班运行",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1526414.htm",
-      "date": "2025-09-22 18:59",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758538795.0,
-      "summary": "9月22日，据深圳发布消息，根据台风“桦加沙”影响评估，预计9月23日夜间至24日白天为台风对深圳机场运行影响最强时段。为确保航班运行和旅客出行安全，深圳机场将于9月23日20时起暂停航班运行，恢复运行时间将根据台风动态和影响情况而定，具体航班调整情况，请联系购票航空公司查询了解。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "未使用任何编程技能，20 岁黑客骗取美国电信运营商客户 SIM 卡数据",
-      "link": "https://www.ithome.com/0/884/909.htm",
-      "date": "2025-09-22 18:55",
-      "author": "IT之家",
-      "timestamp": 1758538543.0,
-      "summary": "IT之家 9 月 22 日消息，据彭博社上周（9 月 19 日）报道，20 岁黑客 Noah Michael Urban 因针对美国电信运营商 T-Mobile、AT&amp;T 发起多项网络攻击，于今年 8 月被判处 10 年监禁，他在攻击过程中没写任何代码，纯靠社会工程学手段劫持了大量 SIM",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "海南省启动防汛防风Ⅳ级应急响应",
-      "link": "http://www.chinanews.com/sh/2025/09-22/10486948.shtml",
-      "date": "2025-09-22 18:51",
-      "author": "中新网社会新闻",
-      "timestamp": 1758538310.0,
-      "summary": "记者从海南省应急管理厅了解到，根据气象预报，今年第18号台风“桦加沙”(超强台风级)，2025年9月22日15时中心位于北纬19.4度、东经121.6度，也就是在广东省湛江市东南方向约1170公里的巴士海峡海面上，中心附近最大风力17级以上(62米/秒)，七级风圈半径340～480公里，十级风圈半径",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "美团客服回应“App 崩了”：已全部恢复，可以正常下单",
-      "link": "https://www.ithome.com/0/884/906.htm",
-      "date": "2025-09-22 18:50",
-      "author": "IT之家",
-      "timestamp": 1758538221.0,
-      "summary": "IT之家 9 月 22 日消息，今天中午至下午有不少用户反馈美团平台无法加载商家详情页或下单，点击店家出现“访问出错”、“系统繁忙”等问题，随后“美团崩了”相关话题登上热搜。对此，美团回应“新浪科技”称，下午平台的确出现短暂异常，目前已全部恢复，可以正常下单。IT之家注意到，此前 7 月 5 日，美",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "海浪橙色警报发布 广东、福建近岸海域将有大到巨浪区",
-      "link": "http://www.chinanews.com/sh/2025/09-22/10487017.shtml",
-      "date": "2025-09-22 18:45",
-      "author": "中新网社会新闻",
-      "timestamp": 1758537958.0,
-      "summary": "记者从自然资源部了解到，受今年第18号台风“桦加沙”影响，广东、福建近岸海域将有大到巨浪区，同时，福建宁德到广东汕尾将出现50到120厘米的风暴增水。对此，国家海洋预报台继续发布海浪橙色警报，并将风暴潮警报升级为橙色。请在上述海域作业的船只注意安全，沿海各有关单位提前采取防浪避浪措施。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "受台风“桦加沙”影响 海南铁路进出岛列车将停运",
-      "link": "http://www.chinanews.com/sh/2025/09-22/10486998.shtml",
-      "date": "2025-09-22 18:33",
-      "author": "中新网社会新闻",
-      "timestamp": 1758537237.0,
-      "summary": "中新网海口9月22日电(王羽晴 唐璐璐)海南铁路海口车务段22日通告，受今年18号台风“桦加沙”影响，铁路部门对进出岛列车运行计划进行调整：",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "长安启源 Q07 将新增“激光雷达版”车型：现款售 12.98 万元起、搭天枢辅助驾驶系统",
-      "link": "https://www.ithome.com/0/884/903.htm",
-      "date": "2025-09-22 18:33",
-      "author": "IT之家",
-      "timestamp": 1758537192.0,
-      "summary": "IT之家 9 月 22 日消息，长安汽车透露旗下长安启源 Q07 将推出激光雷达版车型（非官方命名），预计其辅助驾驶功能将有所提升。作为比较，目前在售的长安启源 Q07 全系已经标配自动变道辅助和全速自适应巡航等功能，支持 L2 级辅助驾驶，官方指导价为 12.98 万元起。回顾在售车型，系列车型前",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "独立演讲：全球视野，本地深耕：消费投资的“Glocal”之道｜2025年36氪产业未来大会",
       "link": "https://36kr.com/p/3477407891052932?f=rss",
       "date": "2025-09-22 18:24",
@@ -422,96 +552,6 @@
       "category": "Blog"
     },
     {
-      "title": "河套平原荒滩“披绿生金” 塞北乡村庭院“花果富民”",
-      "link": "http://www.chinanews.com/sh/2025/09-22/10486995.shtml",
-      "date": "2025-09-22 18:22",
-      "author": "中新网社会新闻",
-      "timestamp": 1758536541.0,
-      "summary": "中新网巴彦淖尔9月22日电 题：河套平原荒滩“披绿生金” 塞北乡村庭院“花果富民”",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "全球导助航领域精英齐聚浙江温州 推动国际航标建设",
-      "link": "http://www.chinanews.com/sh/2025/09-22/10486988.shtml",
-      "date": "2025-09-22 18:19",
-      "author": "中新网社会新闻",
-      "timestamp": 1758536383.0,
-      "summary": "中新网温州9月22日电(周健)“这既是一次与国际权威面对面交流的珍贵机会，也是一个促进专业对话、建立国际合作网络的重要平台。”9月22日，2025年国际海上导助航专家培训班在浙江温州开班，东海航海保障中心副主任林新宇在活动致辞时说。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "上海野生动物园龙凤胎大熊猫宝宝满月 体重均为1300克左右",
-      "link": "http://www.chinanews.com/sh/2025/09-22/10486974.shtml",
-      "date": "2025-09-22 18:09",
-      "author": "中新网社会新闻",
-      "timestamp": 1758535776.0,
-      "summary": "中新网上海9月22日电(陈静 倪丽)上海野生动物园里，大熊猫“芊金”产下的龙凤胎幼崽22日满月。这对小国宝在妈妈“芊金”与保育团队的悉心照料下，正在茁壮成长。当日，园方特别举办满月庆活动，与游客共同见证。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "奥特曼预告ChatGPT新产品 Pro会员也要额外收费 不计成本投算力",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1526412.htm",
-      "date": "2025-09-22 18:07",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758535675.0,
-      "summary": "奥特曼真·算力氪金玩家。OpenAI已经花了160亿美元（约人民币1138亿）租用计算资源。相当于每天一睁眼，就有几千万花出去租服务器。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "“桦加沙”来袭 海南多地消防救援部门做防御准备",
-      "link": "http://www.chinanews.com/sh/2025/09-22/10486971.shtml",
-      "date": "2025-09-22 18:03",
-      "author": "中新网社会新闻",
-      "timestamp": 1758535390.0,
-      "summary": "中新网海口9月22日电 (记者 王子谦)今年第18号台风“桦加沙”正朝华南沿海逼近，预计将给海南岛带来严重风雨影响。为应对极端天气下的抢险救援任务需求，海南多地消防救援部门提前部署、严阵以待，确保各类救援装备处于战备状态。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "受台风影响，海口“三港”9月23日18时起停运",
-      "link": "http://www.chinanews.com/sh/2025/09-22/10486965.shtml",
-      "date": "2025-09-22 18:00",
-      "author": "中新网社会新闻",
-      "timestamp": 1758535254.0,
-      "summary": "中新网海口9月22日电(记者 王子谦)海口市交通运输和港航管理局22日17时发布通告：受今年第18号台风“桦加沙”影响，海口新海港、秀英港和铁路南港将于9月23日18时起停运(指最后发船时间，请至少提前1至2小时到港检票)。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "官方通报习水发生食用“三明治”糕点出现不适症状事件：排除人为投毒可能",
-      "link": "http://www.chinanews.com/sh/2025/09-22/10486963.shtml",
-      "date": "2025-09-22 17:58",
-      "author": "中新网社会新闻",
-      "timestamp": 1758535115.0,
-      "summary": "中新网贵阳9月22日电 (记者 瞿宏伦)贵州省遵义市食品药品安全委员会办公室22日发布通报称，近日食用过“三明治”糕点的187人中，有136人住院观察治疗，经市县联合医疗专家组临床诊断，患者病症为沙门氏菌感染急性胃肠炎——普通型。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "《寂静岭f》实体典藏版预览：封面女主面目全非 还有怪异面具",
-      "link": "https://www.cnbeta.com.tw/articles/game/1526410.htm",
-      "date": "2025-09-22 17:57",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758535038.0,
-      "summary": "拥有195万粉丝的游戏Youtuber GameRiot分享了自己收到的来自科乐美的礼物，是《寂静岭f》的实体典藏版。封面采用极具冲击力的视觉风格，清纯女高面目全非。还有一张恐怖面具，契合本作和风恐怖的主题。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "曝苹果40W充电器“烧接头” 329元的快充头用一次就变黑",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1526408.htm",
-      "date": "2025-09-22 17:55",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758534906.0,
-      "summary": "苹果今年给iPhone 17升级了快充，从上一代27W升级到了40W，最快20分钟能充至50%电量。同时，上架了匹配的快充头“40W动态电源适配器（最高60W）”，售价是329元。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "大健康即时零售竞速，双节悦己消费｜世研消费指数品牌榜Vol.71",
       "link": "https://36kr.com/p/3477687407368582?f=rss",
       "date": "2025-09-22 17:32",
@@ -519,26 +559,6 @@
       "timestamp": 1758533549.0,
       "summary": "本次监测周期内，鱼跃、杜蕾斯、诺特兰德分别以1.93、1.81、1.77的综合热度位列榜单前三，与后面品牌拉开差距。\n  \n  图源：世研大消费指数\n  “即时零售”驱动品牌快速提供健康解决方案，时效成渠道端竞争核心\n  从细分品牌来看，鱼跃、欧姆龙、三诺和瑞迈特等医疗器械品牌仍持续霸榜，从品牌在即",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "牙齿上刻字成新玄学 专家：不建议用此法“发财”“上岸”",
-      "link": "https://www.cnbeta.com.tw/articles/science/1526406.htm",
-      "date": "2025-09-22 16:54",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758531247.0,
-      "summary": "近日，据报道，现在的年轻人厌倦了在皮肤上刻字刻画，将目标转向自己的牙齿，开始流行一种新的潮流——牙齿“文身”。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "台风“桦加沙”强度已达17级以上",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1526404.htm",
-      "date": "2025-09-22 16:52",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1758531167.0,
-      "summary": "据央视新闻报道，今年第18号台风“桦加沙”（超强台风级）的中心今天上午8时位于东沙岛东偏南方向约670公里的西北太平洋洋面上，中心附近最大风力有17级以上（62米/秒）。中央气象台9月22日10时继续发布台风黄色预警，预计，“桦加沙”将以每小时20公里左右的速度向偏西方向移动，强度变化不大，穿过巴士",
-      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
@@ -612,12 +632,22 @@
       "category": "News"
     },
     {
+      "title": "西贝1.8万人竟不敌一个罗永浩？如何三句话反杀？",
+      "link": "http://www.huxiu.com/article/4782605.html?f=wangzhan",
+      "date": "2025-09-22 12:05",
+      "author": "虎嗅网",
+      "timestamp": 1758513941.0,
+      "summary": "假如你是西贝的老板，遇到罗永浩指着你的鼻子开团，你真就不能还嘴吗？西贝在这场攻坚战里真的没有翻盘的余地吗？上期视频我给了一个结论：任何品牌、任何公司都绝对不能开团罗永浩，好像无论打假西门子还是手撕王自如，再加上这次的暴打西贝，罗永浩在公关场上一直处于一个不败之地。老罗为什么可以金身不败？一个已经解",
+      "source_url": "http://www.huxiu.com",
+      "category": "Blog"
+    },
+    {
       "title": "燃！好燃的AI芯片盛会，大模型时代国产化希望丛生",
       "link": "https://36kr.com/p/3477355243707016?f=rss",
       "date": "2025-09-22 12:03",
       "author": "36氪",
       "timestamp": 1758513820.0,
-      "summary": "芯东西9月17日报道，今日，2025全球AI芯片峰会在上海举行，来自AI芯片领域的42位产学研专家及创业先锋代表，畅谈对大模型下半场中国AI芯片创新、落地、生存、破局的最新观察与思考。\n  \n  一如既往，大会将国产AI芯片新老势力、核心生态链企业、投资机构代表汇聚一堂，集中输出技术��产业干",
+      "summary": "芯东西9月17日报道，今日，2025全球AI芯片峰会在上海举行，来自AI芯片领域的42位产学研专家及创业先锋代表，畅谈对大模型下半场中国AI芯片创新、落地、生存、破局的最新观察与思考。\n  \n  一如既往，大会将国产AI芯片新老势力、核心生态链企业、投资机构代表汇聚一堂，集中输出技术及产业干货",
       "source_url": "http://36kr.com",
       "category": "Blog"
     },
@@ -690,16 +720,6 @@
       "summary": "今日热点导览\n  罗永浩再谈预制菜\n  西贝否认存在“采购总监张明华”预制菜相关微信对话\n  多家快递将上调上海收件价格\n  国内车主起诉特斯拉欺诈获立案\n  巴黎圣母院塔楼重新对外开放\n  微软再次上调Xbox游戏机美国售价\n  TOP3大新闻\n  始祖鸟海内外道歉内容不一致，外网道歉被指甩锅中国",
       "source_url": "http://36kr.com",
       "category": "Blog"
-    },
-    {
-      "title": "AI是人类的集体无意识，我们是AI眼前的一条河",
-      "link": "https://www.infzm.com/contents/303331",
-      "date": "2025-09-21 22:00",
-      "author": "南方周末-新闻",
-      "timestamp": 1758463200.0,
-      "summary": "身体与AI结合，界限模糊；记忆被AI生成，真假难辨……\n\n（本文首发于南方人物周刊）\n                \n                \n                                        南方人物周刊记者 李乃清",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
     }
   ]
 }
