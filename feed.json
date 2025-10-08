@@ -1,63 +1,463 @@
 {
-  "update_time": "2025-10-08",
+  "update_time": "2025-10-09",
   "articles": [
     {
-      "title": "英伟达 CEO 黄仁勋称已投资 XAI，希望参与马斯克所有涉足领域",
-      "link": "https://www.ithome.com/0/888/044.htm",
-      "date": "2025-10-08 20:21",
-      "author": "IT之家",
-      "timestamp": 1759926115.0,
-      "summary": "IT之家 10 月 8 日消息，彭博社今日报道称，英伟达将对马斯克的 AI 初创公司 xAI 投资 20 亿美元（IT之家注：现汇率约合 142.69 亿元人民币），将通过债务和股权相结合的结构为 Colossus 2 超级计算机的 GPU 提供资金。刚刚，英伟达 CEO 黄仁勋在接受 CNBC 采",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "国庆中秋假期迎返程客流高峰 铁路公安紧盯一线确保平稳有序",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495261.shtml",
-      "date": "2025-10-08 20:08",
-      "author": "中新网社会新闻",
-      "timestamp": 1759925312.0,
-      "summary": "中新网北京10月8日电 (郭超凯 梁西征)国庆中秋假期接近尾声，全国铁路迎来返程客流高峰。10月7日以来，各地铁路公安机关密切关注客流及天气变化，科学调配警力，强化巡逻检查，积极维护良好治安秩序，全力确保返程客流平稳。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "IBM 宣布 AI 推理加速器 Spyre 本季度正式商业可用",
-      "link": "https://www.ithome.com/0/888/042.htm",
-      "date": "2025-10-08 20:06",
-      "author": "IT之家",
-      "timestamp": 1759925207.0,
-      "summary": "IT之家 10 月 8 日消息，IBM 当地时间 7 日宣布其 AI 推理加速器 Spyre 将在本季度正式商业可用，其中 z17 和 LinuxONE 5 将在 10 月 28 日支持 Spyre，而 Power11 则将在 12 月初支持这一附加组件。IT之家了解到，Spyre 加速器采用 PC",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果调整店内MagSafe支架设计 防止iPhone 17出现划痕",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1529556.htm",
-      "date": "2025-10-08 19:53",
+      "title": "与OpenAI达成合作后AMD股价持续上涨 本周迄今涨幅已达43%",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1529612.htm",
+      "date": "2025-10-09 05:45",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759924380.0,
-      "summary": "苹果公司近日悄然在其零售店内的MagSafe充电支架上添加了一圈保护性硅胶环，以应对部分iPhone 17系列展示机出现的痕迹问题。据法媒Consomac报道，这一举措是在上月苹果官方确认零售店内磨损的MagSafe充电器导致iPhone 17 Pro及iPhone 17 Pro Max出现类似划痕",
+      "timestamp": 1759959914.0,
+      "summary": "周三，AMD 股价上涨 11%。自本周早些时候 OpenAI 宣布计划从该芯片制造商采购数十亿美元 AI 设备以来，AMD 股价便持续大幅走高。周一，ChatGPT 母公司 OpenAI 与 AMD 达成一项协议：根据 AMD 股价及合作里程碑，OpenAI 有望获得 AMD 10% 的股权。 阅读",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
-      "title": "接待游客超70万人次 江南名楼滕王阁解锁文旅新玩法",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495249.shtml",
-      "date": "2025-10-08 19:39",
+      "title": "美国司法部称加州纵火嫌疑人使用ChatGPT生成了一座燃烧城市的图像",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1529610.htm",
+      "date": "2025-10-09 05:44",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759959889.0,
+      "summary": "美国联邦执法部门近日逮捕了一名涉嫌引发加利福尼亚州Palisades山火的嫌疑人。据指控，嫌疑人在案发前几个月，通过ChatGPT生成了一张燃烧城市的AI图像，成为案件证据之一。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果公司神秘邀请网红前往科罗拉多 原因尚未公布",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1529608.htm",
+      "date": "2025-10-09 05:43",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759959818.0,
+      "summary": "苹果公司对自己的动向一贯以保密著称，往往让人既期待又充满疑问。近日他们神秘地邀请了一名以摄影和科技评测闻名的社交媒体网红前往科罗拉多，除了赠送装有旅行必备用品的背包外，并未透露其他细节。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "用户声音最终改变政策  群晖就NAS系统非认证硬盘政策“急转弯”",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1529606.htm",
+      "date": "2025-10-09 03:37",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759952247.0,
+      "summary": "知名存储设备厂商Synology（群晖）近日宣布，经过用户广泛反馈后，公司决定撤销此前强制要求NAS设备仅使用“认证”硬盘的新政策。然而群晖的硬盘认证计划本身暂时仍将保留。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "博彩市场胜算第二 特朗普能获得他心心念念的诺贝尔和平奖吗？",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1529604.htm",
+      "date": "2025-10-09 02:57",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759949842.0,
+      "summary": "美国总统特朗普多年来一直明确表示他希望获得诺贝尔和平奖。自今年1月重返白宫以来，他加大了争取力度，无论台前幕后都不惜大力游说。“人人都说我应该获得诺贝尔和平奖，” 他9月对联合国大会如是说。同月，他又声称，不授予他这一荣誉就是对美国的“极大侮辱”。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Sora登陆美国iOS平台的首周表现几乎与ChatGPT不相上下",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1529602.htm",
+      "date": "2025-10-09 02:39",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759948791.0,
+      "summary": "根据应用情报机构Appfigures最新数据显示，OpenAI旗下视频生成应用Sora在美国iOS平台上线首周，下载量几乎追平去年同期的ChatGPT。数据显示，Sora在上线七天内实现了62.7万次iOS下载，而ChatGPT首周iOS下载量为60.6万次。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "微软发布 OneDrive 照片体验重大更新",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1529600.htm",
+      "date": "2025-10-09 02:39",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759948768.0,
+      "summary": "10月8日，在 Copilot + OneDrive 数字活动上，微软宣布了 OneDrive 照片体验的重大更新。新版 OneDrive Photos 应用将在 Windows 平台发布，相关消息此前已提前泄露。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Google 为 Gemini CLI 带来扩展功能",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1529598.htm",
+      "date": "2025-10-09 02:36",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759948606.0,
+      "summary": "Google 的 Gemini CLI 正在获得“扩展”，该公司表示，这项新功能允许您“连接您最喜欢的工具并个性化您的 AI 驱动的命令行”。这些扩展程序托管在公共 GitHub 代码库中，这意味着任何人都可以发布扩展程序，无需 Google 的直接批准。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "随着《使命召唤》回归Xbox 索尼开始砸重金宣传《战地6》",
+      "link": "https://www.cnbeta.com.tw/articles/game/1529596.htm",
+      "date": "2025-10-09 02:33",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759948394.0,
+      "summary": "在历史上，《使命召唤》系列独占权益偏向Xbox，从2015开始，索尼和动视签署了新的独占协议，《使命召唤》系列独占权益偏向PlayStation，这包括提前参加多人Beta测试，独占DLC和内容，营销与推广支持。但随着Xbox收购动视暴雪，《使命召唤》重新回到了Xbox阵营。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "前高管回忆：索尼差点收购Bullfrog和FIFA授权",
+      "link": "https://www.cnbeta.com.tw/articles/game/1529594.htm",
+      "date": "2025-10-09 02:33",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759948384.0,
+      "summary": "索尼在成长为如今的电子游戏巨头的过程中，曾面临无数个关键十字路口：早年与任天堂的合作谈判、PlayStation 3最初的“回旋镖”手柄设计，而如今又有新爆料——该公司在90年代中期差点同时拿下FIFA授权与英国标志性工作室Bullfrog。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "调查发现美国每月都买新游戏的玩家只有14%",
+      "link": "https://www.cnbeta.com.tw/articles/game/1529592.htm",
+      "date": "2025-10-09 02:32",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759948376.0,
+      "summary": "一项调查发现，大多数美国游戏玩家每年仅购买一两款游戏。市场研究公司Circana高级总监Mat Piscatella分享了其《2025年第三季度电子游戏未来趋势》调查数据，特别是美国玩家的购买频率数据。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "《羊蹄山之魂》发售后热度迅速下降 玩家推测销量很差",
+      "link": "https://www.cnbeta.com.tw/articles/game/1529590.htm",
+      "date": "2025-10-09 02:32",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759948360.0,
+      "summary": "Sucker Punch的新作《羊蹄山之魂》于10月2日正式发售，但索尼至今都没有官宣该作的销量表现。对比而言，前作《对马岛之鬼》，SIE在发售三天就官宣了240万套销量，成为PS4上销售速度最快的原创IP。有玩家根据第三方的统计推测，《羊蹄山之魂》表现实际上“相当糟糕”。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "微信发布国庆中秋数据报告 重庆消费金额、笔数全国第一",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1529588.htm",
+      "date": "2025-10-09 02:31",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759948304.0,
+      "summary": "10月8日，微信国庆中秋数据报告发布。报告提到，新一线城市与县域市场消费总额对比五一增幅达到10%。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "思科推出新型芯片 旨在实现远距离人工智能数据中心互联",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1529586.htm",
+      "date": "2025-10-09 02:30",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759948256.0,
+      "summary": "思科系统公司（CSCO）于周三推出一款新型网络芯片，该芯片专为人工智能（AI）数据中心互联设计，微软（MSFT）与阿里巴巴（BABA）的云计算部门已成为该芯片的首批客户。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "OpenAI与英伟达领头织出循环投资网 万亿美元的AI市场是不是人造热潮",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1529584.htm",
+      "date": "2025-10-09 02:27",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1759948079.0,
+      "summary": "两周前，英伟达同意向OpenAI投资至多1000亿美元，帮助这家头部人工智能初创公司筹建一个庞大的数据中心 —— 规模之大足以为一座大城市供电。OpenAI则承诺在这些数据中心部署数百万块英伟达芯片。这种“循环”安排很快招来批评。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "《王者荣耀》服务器故障致玩家信誉分、排位星、巅峰分被扣，腾讯官方已修复并承诺恢复积分",
+      "link": "https://www.ithome.com/0/888/063.htm",
+      "date": "2025-10-08 23:56",
+      "author": "IT之家",
+      "timestamp": 1759938974.0,
+      "summary": "IT之家 10 月 8 日消息，今天 15:00 后，大量《王者荣耀》玩家反馈称游戏服务器出现 Bug，在对局中显示游戏资源损坏，重启无效。由于此次故障触发系统误判玩家“恶意挂机”，导致部分玩家信誉分被扣（5-12 分不等）、巅峰积分被扣（最高达 36 分）。《王者荣耀》官方今晚发布公告，确认已修复",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "AMD CEO 苏姿丰聊人工智能泡沫，称看衰 AI 者眼光狭隘、热潮仍处早期",
+      "link": "https://www.ithome.com/0/888/062.htm",
+      "date": "2025-10-08 23:53",
+      "author": "IT之家",
+      "timestamp": 1759938791.0,
+      "summary": "IT之家 10 月 8 日消息，AMD CEO 苏姿丰昨天接受雅虎财经栏目采访，聊及她对 AI 领域的独到思考。节目中主持人首先复述了某些媒体关于“大规模 AI 投资过于超前，AI 泡沫即将戳破”的担忧，苏姿丰对此认为：“我认为这些想法过于狭隘，我们必须真正考虑 AI 技术能够为世人带来何种力量”。",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "微软 Xbox 宣布《忍者龙剑传 4》《霍格沃茨之遗》《博德之门》将加入 Game Pass",
+      "link": "https://www.ithome.com/0/888/061.htm",
+      "date": "2025-10-08 23:37",
+      "author": "IT之家",
+      "timestamp": 1759937866.0,
+      "summary": "IT之家 10 月 8 日消息，微软今晚公布了最新的 2025 年 10 月 Xbox Game Pass 新入库游戏列表，其中包括《忍者龙剑传 4》《霍格沃茨之遗》《博德之门》等作品。IT之家整理如下：《霍格沃茨之遗》（云、主机和 PC）：现已推出，Game Pass Ultimate、Game",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "亚马逊贝索斯的“蓝色起源”公司再发射可回收火箭，送 6 名乘客到亚轨道太空飞行",
+      "link": "https://www.ithome.com/0/888/060.htm",
+      "date": "2025-10-08 23:29",
+      "author": "IT之家",
+      "timestamp": 1759937374.0,
+      "summary": "IT之家 10 月 8 日消息，据 Space.com 今天报道，亚马逊创始人杰夫・贝索斯创办的“蓝色起源”公司今天举行了其第 15 次太空飞行活动，将 6 名乘客短暂送上太空，其中有一名神秘乘客直到飞行结束才公开身份。▲ 图源蓝色起源官网，下同蓝色起源公司的新谢泼德火箭在美东时间上午 9 点 40",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "已知宇宙中“最原始恒星”亮相，金属丰度创历史新低",
+      "link": "https://www.ithome.com/0/888/059.htm",
+      "date": "2025-10-08 23:13",
+      "author": "IT之家",
+      "timestamp": 1759936412.0,
+      "summary": "IT之家 10 月 8 日消息，众所周知，宇宙正以超光速膨胀中，人类只靠光 / 电磁波来观测是远远无法看到宇宙边缘的，当前可观测宇宙（又称哈勃体积，受光速限制并随宇宙年龄动态扩展）直径约为 930 亿光年（可能只占宇宙很小一部分），但这已经是目前人类所能够探测到的最大范围了。由芝加哥大学 Alexa",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "索尼 Icon Blue 特别版 DualSense 手柄亮相：分层蓝色调设计，售 84.99 美元",
+      "link": "https://www.ithome.com/0/888/058.htm",
+      "date": "2025-10-08 23:07",
+      "author": "IT之家",
+      "timestamp": 1759936047.0,
+      "summary": "IT之家 10 月 8 日消息，索尼 Icon Blue 特别版 DualSense 手柄昨天亮相官网，整体采用纯蓝色分层设计，售价 84.99 美元（现汇率约合 606.3 元人民币）。据介绍，这款手柄的灵感源自 PlayStation 主机标志性的那一抹蓝色，在 PS4 时代，每当玩家拿起 DS",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "相爱相杀？消息称苹果、Meta 已与欧盟接触，即将就《数字市场法》达成和解",
+      "link": "https://www.ithome.com/0/888/057.htm",
+      "date": "2025-10-08 22:47",
+      "author": "IT之家",
+      "timestamp": 1759934865.0,
+      "summary": "IT之家 10 月 8 日消息，据英媒《金融时报》今天报道，苹果、Meta 等软硬件巨头正与欧盟进行私下谈判，双方已接近达成协议，此前苹果曾因违反《数字市场法》，被欧盟总计罚款 7 亿欧元。知情人士透露，两家巨头公司正在欧盟监管机构就一系列商业行为进行最终协议谈判，相关谈判目前没有最终结果，双方仍在",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "群晖 NAS 暂时开放对第三方硬盘支持，正与合作厂商加快“认证”中",
+      "link": "https://www.ithome.com/0/888/056.htm",
+      "date": "2025-10-08 22:43",
+      "author": "IT之家",
+      "timestamp": 1759934597.0,
+      "summary": "IT之家 10 月 8 日消息，今年 4 月，群晖对 2025 款 NAS 产品新增软件限制，仅允许安装群晖“认证硬盘”，引发用户广泛批评和争议。六个月后，群晖决定暂时服软。群晖今日宣布推出最新的 DiskStation Manager（DSM）7.3 系统，并将暂时允许用户在 2025 款群晖 N",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "从江面到低空，看南京如何“翼”护母亲河！",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495311.shtml",
+      "date": "2025-10-08 22:30",
       "author": "中新网社会新闻",
-      "timestamp": 1759923580.0,
-      "summary": "中新网南昌10月8日电(卢梦梦)国庆中秋“双节”期间，位于江西南昌东湖区的滕王阁旅游区游人如织、气氛热烈。连日来，该旅游区围绕“盛世滕阁·礼赞华诞”及《滕王阁序》问世1350周年主题推出的系列文旅活动，吸引全国各地的游客纷至沓来。截至目前，滕王阁旅游区累计接待游客超70万人次，其中核心景区超11万人",
+      "timestamp": 1759933837.0,
+      "summary": "青春华章｜【小苏说·家乡水】从江面到低空，看南京如何“翼”护母亲河！",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
     {
-      "title": "南铁迎来国庆中秋假期运输返程客流最高峰 预计发送旅客170万人次",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495243.shtml",
-      "date": "2025-10-08 19:33",
+      "title": "51.2Tbps：思科推出全新 Silicon One P200 自研芯片与 8223 路由系统，强化 AI 网络连接",
+      "link": "https://www.ithome.com/0/888/055.htm",
+      "date": "2025-10-08 22:25",
+      "author": "IT之家",
+      "timestamp": 1759933535.0,
+      "summary": "IT之家 10 月 8 日消息，思科今晚发布公告，宣布推出新一代路由系统 Cisco 8223，这是一款面向人工智能（AI）工作负载的高效、安全数据中心互联设备，其核心采用全新的 Silicon One P200 芯片，具备每秒 51.2 太比特（Tbps）的以太网处理能力，专为应对 AI 时代跨数",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "西藏定日县嘎玛沟最后一批徒步游客安全抵达曲当镇",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495310.shtml",
+      "date": "2025-10-08 22:23",
       "author": "中新网社会新闻",
-      "timestamp": 1759923201.0,
-      "summary": "中新网南昌10月8日电 (刘力鑫 李翔)记者从中国铁路南昌局集团有限公司(以下简称南铁)获悉，8日，南铁迎来国庆中秋假期运输返程客流最高峰，预计发送旅客170万人次。9月29日至10月8日，铁路国庆中秋假期运输以来，南铁累计发送旅客1343.2万人次，连续9天单日旅客发送量突破百万人次。",
+      "timestamp": 1759933430.0,
+      "summary": "记者从西藏日喀则市定日县了解到，截至10月8日19时，定日县嘎玛沟最后一批15名徒步游客在携带食品药品、取暖供氧设备、保暖防寒衣物的定日县救援力量的引导帮助下，安全抵达曲当镇接应点。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "《光与影：33 号远征队》游戏销量突破 500 万份，官方正打造全平台免费更新",
+      "link": "https://www.ithome.com/0/888/054.htm",
+      "date": "2025-10-08 22:20",
+      "author": "IT之家",
+      "timestamp": 1759933255.0,
+      "summary": "IT之家 10 月 8 日消息，开发商 Sandfall Interactive 今天在 X 平台宣布，《光与影：33 号远征队》游戏销量已突破 500 万份，将在后续推出全平台免费更新回馈玩家。Sandfall Interactive 官方在新闻稿中透露，该游戏的原声带累计播放量已突破 3.33",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "我的铁路风景｜钢轨上的童年",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495309.shtml",
+      "date": "2025-10-08 22:15",
+      "author": "中新网社会新闻",
+      "timestamp": 1759932928.0,
+      "summary": "窗外是流动的画卷",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "水运江苏 向智向新",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495308.shtml",
+      "date": "2025-10-08 22:11",
+      "author": "中新网社会新闻",
+      "timestamp": 1759932702.0,
+      "summary": "青春华章｜水运江苏 向智向新",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "《剪刀手爱德华》推出 4K UHD 蓝光 35 周年纪念版，亚马逊售价 39.99 美元",
+      "link": "https://www.ithome.com/0/888/053.htm",
+      "date": "2025-10-08 22:06",
+      "author": "IT之家",
+      "timestamp": 1759932387.0,
+      "summary": "IT之家 10 月 8 日消息，随着万圣节临近，20 世纪影业宣布推出蒂姆・伯顿执导、约翰尼・德普主演的影视经典《剪刀手爱德华》35 周年纪念版。这款 4K UHD + 蓝光 + 数字版限量铁盒套装将于 10 月 28 日正式发行，目前已在亚马逊开启预购，售价 39.99 美元（IT之家注：现汇率约",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "ChatGPT 向你推荐专属新口味音乐，OpenAI 与流媒体音乐平台 Spotify 达成合作",
+      "link": "https://www.ithome.com/0/888/052.htm",
+      "date": "2025-10-08 22:00",
+      "author": "IT之家",
+      "timestamp": 1759932013.0,
+      "summary": "IT之家 10 月 8 日消息，OpenAI 现已与流媒体音乐平台 Spotify 正式达成合作，用户可用 ChatGPT 获取个性化的音乐和播客推荐，让 AI 推荐新口味音乐。IT之家在此援引新闻稿介绍，该功能的使用方法非常简单，只需要在 ChatGPT 网页版 / 移动端中开始对话并提到 Spo",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "下水两年半，美国最先进核潜艇“马萨诸塞号”刚通过初步测试",
+      "link": "https://www.ithome.com/0/888/050.htm",
+      "date": "2025-10-08 21:49",
+      "author": "IT之家",
+      "timestamp": 1759931397.0,
+      "summary": "IT之家 10 月 8 日消息，美国亨廷顿・英格尔斯工业公司（Huntington Ingalls Industries，简称 HII）于当地时间周二宣布，其纽波特纽斯造船厂已完成弗吉尼亚级攻击型核潜艇“马萨诸塞号”（USS Massachusetts，SSN 798）的首次海上试航，包括潜艇的首次",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "“丰收消费”打造农文旅融合新场景、新业态 打开田间地头增收新空间",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495302.shtml",
+      "date": "2025-10-08 21:46",
+      "author": "中新网社会新闻",
+      "timestamp": 1759931162.0,
+      "summary": "央视网消息：国庆中秋假期，恰逢金秋丰收季。中国旅游研究院最新调度显示，全国多地推出“丰收体验游”，预计带动乡村旅游人次大幅增长，不断上新的新场景、新业态，打开田间地头增收新空间。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "稻菽飘香、果实累累 希望的田野上唱响金秋丰收“欢歌”",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495301.shtml",
+      "date": "2025-10-08 21:39",
+      "author": "中新网社会新闻",
+      "timestamp": 1759930771.0,
+      "summary": "央视网消息：眼下，正是金秋丰收季。在江西九江，近日，德安县吴山镇的稻鳖综合种养示范田的水稻到了收获期，“稻鳖共养”的新模式让稻田收益翻番。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“智慧医疗” 打造便民惠民医疗新模式",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495300.shtml",
+      "date": "2025-10-08 21:36",
+      "author": "中新网社会新闻",
+      "timestamp": 1759930603.0,
+      "summary": "决胜“十四五”·民生幸福｜“智慧医疗” 打造便民惠民医疗新模式",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "消息称三星 One UI 8.5 系统 11 月底开启测试，Galaxy S25 系列手机有望入首发测试清单",
+      "link": "https://www.ithome.com/0/888/049.htm",
+      "date": "2025-10-08 21:31",
+      "author": "IT之家",
+      "timestamp": 1759930287.0,
+      "summary": "IT之家 10 月 8 日消息，据科技媒体 Sammobile 今天报道，尽管三星的 One UI 8 系统姗姗来迟且处于初期阶段，但这家公司已经准备好开启测试 One UI 8.5 系统，预计将带来诸多界面、操作变化。知情人士透露，三星 One UI 8.5 系统将在 11 月 24 日启动测试，",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "地外来客：三颗彗星正接近地球，还有哈雷彗星留下的猎户座流星雨",
+      "link": "https://www.ithome.com/0/888/047.htm",
+      "date": "2025-10-08 21:26",
+      "author": "IT之家",
+      "timestamp": 1759930007.0,
+      "summary": "IT之家 10 月 8 日消息，如果你的梦想是亲眼看见一颗彗星，那么可能就在这个月！2025 年 10 月，两颗彗星可以通过双筒望远镜轻松观测，而且其中 C/2025 R2 SWAN 很可能肉眼可见。▲ 图源：Vito Technology（Starwalk），下同其中，彗星 C/2025 K1（A",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "国庆中秋假期湖南接待游客近4000万人次",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495295.shtml",
+      "date": "2025-10-08 21:01",
+      "author": "中新网社会新闻",
+      "timestamp": 1759928511.0,
+      "summary": "中新网长沙10月8日电 (记者 邓霞)今年国庆中秋假日，在超长假期、宜游天气与惠民政策等多重利好叠加下，湖南文旅市场人气高涨，多地热度“沸腾”，呈现出生机勃勃、量质齐升的良好态势。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "一文读懂：世界变局下的中国突围，新疆为何成破局关键?",
+      "link": "http://www.huxiu.com/article/4788316.html?f=wangzhan",
+      "date": "2025-10-08 21:00",
+      "author": "虎嗅网",
+      "timestamp": 1759928443.0,
+      "summary": "新疆到底发生了什么，突然成了香饽饽？国家砸3.47万亿，资本扎堆儿过去，重点项目500来个，超级工程数不胜数。新疆最近的热度就像三伏天的吐鲁番火焰山，那叫一个热辣滚烫。这事儿可不简单，咱们今天就来聊聊。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "source_url": "http://www.huxiu.com",
+      "category": "Blog"
+    },
+    {
+      "title": "“十一”假期湖北A级景区迎客逾2036万人次",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495293.shtml",
+      "date": "2025-10-08 20:57",
+      "author": "中新网社会新闻",
+      "timestamp": 1759928278.0,
+      "summary": "中新网武汉10月8日电 (记者 梁婷)记者8日从湖北省文旅厅获悉，“十一”假期，湖北推出涵盖旅游全链条的消费新场景、新业态，成为国内热门旅游目的地。截至8日，全省A级旅游景区共接待游客2036.34万人次，同比增长12.9%，星级饭店平均出租率69.7%(出租客房数/可出租客房数)，同比增长6.5个",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "（走进中国乡村）传统梯田邂逅“520” 厝角自然村业态“热”起来",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495290.shtml",
+      "date": "2025-10-08 20:56",
+      "author": "中新网社会新闻",
+      "timestamp": 1759928202.0,
+      "summary": "中新社福建南平10月8日电 题：传统梯田邂逅“520”  厝角自然村业态“热”起来",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "国庆中秋假期广州边检总站出入境人员同比增长约12%",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495289.shtml",
+      "date": "2025-10-08 20:56",
+      "author": "中新网社会新闻",
+      "timestamp": 1759928174.0,
+      "summary": "中新社广州10月8日电 (方伟彬 史雪晴)广州出入境边防检查总站(下称“广州边检总站”)8日发布消息，今年国庆中秋假期(10月1日0时至10月8日12时)期间，经该总站下辖口岸出入境人员超37.4万人次，较去年同期增长约12%。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "广东消防救援力量全力推动湛江灾后城市功能恢复",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495273.shtml",
+      "date": "2025-10-08 20:41",
+      "author": "中新网社会新闻",
+      "timestamp": 1759927316.0,
+      "summary": "中新网湛江10月8日电 (梁盛 王维爽)强台风“麦德姆”5日正面袭击广东湛江市，给当地造成严重影响。连日来，广东消防救援机动总队筹备组派出的多支队伍奋战在灾后恢复一线，8日起，救援工作由前期的分区域作业转为集中攻坚，绝大部分救援力量集结至湛江市赤坎区，在海田公园、海田中心客运站、海田路、步行街、沿河",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "累计发送16.9万人次 黄浦江核心区水域“双节”迎大客流",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495274.shtml",
+      "date": "2025-10-08 20:40",
+      "author": "中新网社会新闻",
+      "timestamp": 1759927238.0,
+      "summary": "中新网上海10月8日电 (谢梦圆)中秋、国庆“双节”假期接近尾声，上海黄浦江核心区客流持续保持高位态势。截至10月6日，黄浦江核心区客运船舶共开航7518班次，载客71余万人次。其中，游览船共开航899班次，累计发送游客达16.9万人次，同比增长9.2%，游客出行需求旺盛。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "国庆中秋假期昆明机场口岸出入境旅客同比增长逾19%",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495276.shtml",
+      "date": "2025-10-08 20:39",
+      "author": "中新网社会新闻",
+      "timestamp": 1759927167.0,
+      "summary": "中新网昆明10月8日电 (毕琦媛 杨畅)昆明出入境边防检查站10月8日通报称，今年国庆中秋假期(10月1日0时至10月8日18时)，昆明长水国际机场口岸出入境旅客7万余人次，同比增长19.47%，其中10月1日出入境旅客达1.06万人次。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "国庆中秋假期海南出入境客流同比增长15.1%",
+      "link": "http://www.chinanews.com/sh/2025/10-08/10495277.shtml",
+      "date": "2025-10-08 20:38",
+      "author": "中新网社会新闻",
+      "timestamp": 1759927129.0,
+      "summary": "中新网海口10月8日电 (朱晨鹏 陈奕樽)今年国庆中秋假期，海南迎来出入境旅游客流高峰。据海口出入境边防检查总站消息，10月1日至8日16时，海南共验放出入境交通工具430余架(艘)次、出入境人员达5.51万余人次，较去年同期增长15.1%。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
@@ -69,396 +469,6 @@
       "timestamp": 1759923126.0,
       "summary": "#网络设备 群晖发布 DSM 7.3 版不再强制要求用户必须使用经过群晖认证的机械硬盘，但如果使用纯 SSD 建立存储池则仍然需要使用认证 SSD。群晖从 4 月份开始要求所有 2025 款机型必须使用群晖认证硬盘，否则将限制功能并弹出警告，此举被认为是群晖推销自家硬盘的措施，但遭到大量批评。查看全",
       "source_url": "https://www.landiannews.com",
-      "category": "Blog"
-    },
-    {
-      "title": "卢沟晓月中秋文化节落幕 红色地标掀起文旅热潮",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495241.shtml",
-      "date": "2025-10-08 19:32",
-      "author": "中新网社会新闻",
-      "timestamp": 1759923125.0,
-      "summary": "中新网北京10月8日电  2025卢沟晓月中秋文化节落下帷幕。从9月26日“卢沟晓月”诗会启幕开始，“卢沟晓月”中秋文化节横跨国庆、中秋，围绕“月照卢沟山河永定”主题，通过光影秀等“文化+科技”方式，以百场民俗演出串联城墙参观、多样化展览、非遗市集、互动打卡等多元体验，吸引大量市民游客参与。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "无人机 10 分钟空投急救包：高速交警用无人机救援低血糖女子",
-      "link": "https://www.ithome.com/0/888/040.htm",
-      "date": "2025-10-08 19:31",
-      "author": "IT之家",
-      "timestamp": 1759923075.0,
-      "summary": "IT之家 10 月 8 日消息，据央视今日报道，京港澳高速邯郸方向，一名女性驾驶员在行驶途中突发严重低血糖，出现头晕、手颤、四肢无力等症状，被迫将车辆停靠应急车道报警求助。然而假期车流量大，巡逻车无法第一时间赶到。河北省公安厅交管局高速交警六支队指挥中心接警后立即启动应急救援预案，直接启用警用无人机",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "科技巨头联手成功说服特朗普保留英特尔CEO陈立武职位",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1529554.htm",
-      "date": "2025-10-08 19:24",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759922653.0,
-      "summary": "在英特尔新任首席执行官陈立武（Lip-Bu Tan）面临白宫施压威胁时，科技行业的多位重量级领袖悄然出手相助。微软CEO萨提亚·纳德拉、英伟达CEO黄仁勋及戴尔创始人迈克尔·戴尔，皆亲自致信或联系美国总统特朗普及其高级幕僚，为陈立武的领导力及其对美国的忠诚力陈情。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "Firefox正改进配置文件功能 用于分离浏览会话",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1529552.htm",
-      "date": "2025-10-08 19:23",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759922598.0,
-      "summary": "Mozilla宣布将为其Firefox浏览器引入“浏览器配置文件”功能，以帮助用户分隔和管理不同的在线活动。该更新将于2025年10月14日开始陆续推出，届时用户可以创建专属的浏览空间，每个空间都能独立保存书签、登录信息、浏览历史记录、扩展插件和主题设置。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "“潮”玩国庆长假  绛州古城非遗展演“火”出圈",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495238.shtml",
-      "date": "2025-10-08 19:15",
-      "author": "中新网社会新闻",
-      "timestamp": 1759922158.0,
-      "summary": "中新网运城10月8日电 (陆祁国 卫世新)国庆长假期间，山西省新绛县组织了贯穿假期全程、形式多样的非物质文化遗产集中展示活动，通过“动态表演、互动体验、静态展示”三大板块，将古老的非遗技艺从“深闺”推向公众视野，实现了文化传承与旅游发展的双向赋能。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "腾讯《三角洲行动》紧急更新引玩家不满，官方致歉并公布补偿措施",
-      "link": "https://www.ithome.com/0/888/039.htm",
-      "date": "2025-10-08 19:15",
-      "author": "IT之家",
-      "timestamp": 1759922142.0,
-      "summary": "IT之家 10 月 8 日消息，《三角洲行动》上周日紧急发布烽火地带平衡性更新，部分撤离点增加超载机制，深蓝再次削弱。此次调整在网上引起玩家热议。今日中午，《三角洲行动》官方发布致歉公告，承认近期更新引发大规模玩家不满，并宣布优化及补偿措施。IT之家附原文如下：关于烽火地带平衡性调整的专项沟通与致歉",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "2025年国庆、中秋假期成都航空口岸14.3万余人次出入境",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495237.shtml",
-      "date": "2025-10-08 19:15",
-      "author": "中新网社会新闻",
-      "timestamp": 1759922126.0,
-      "summary": "中新网成都10月8日电 (岳依桐 代超)2025年国庆、中秋假期接近尾声，据成都出入境边防检查站(下称成都边检站)消息，截至8日16时，该站共查验出入境人员14.3万余人次，同比增长18.2%，查验出入境航班1041余架次，同比增长7.4%。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "谷歌正升级安卓版 Chrome 浏览器，三星 DeX 等桌面模式下可默认调用 PC 端网页",
-      "link": "https://www.ithome.com/0/888/038.htm",
-      "date": "2025-10-08 19:09",
-      "author": "IT之家",
-      "timestamp": 1759921782.0,
-      "summary": "IT之家 10 月 8 日消息，据科技媒体 Android Authority 今天报道，谷歌正在为安卓版 Chrome 浏览器升级一项小功能，可让用户在使用 DeX 等桌面模式时默认调用 PC 端网页，使大屏体验更佳。安卓系统的“桌面模式”概念由摩托罗拉 Atrix 4G 手机首次呈现，当时这台手",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "文化观察：“天下第一潮”何以申遗？",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495234.shtml",
-      "date": "2025-10-08 19:08",
-      "author": "中新网社会新闻",
-      "timestamp": 1759921732.0,
-      "summary": "中新网杭州10月8日电(林波 陈胜伟)“八月十八潮，壮观天下无。”钱塘江大潮素有“天下第一潮”之誉，每年无数游人都会慕名而来，一睹“海阔天空浪若雷”的壮丽奇观。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "述评：博物馆到底要不要收费？",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495233.shtml",
-      "date": "2025-10-08 19:07",
-      "author": "中新网社会新闻",
-      "timestamp": 1759921626.0,
-      "summary": "中新网杭州10月8日电 题：述评：博物馆到底要不要收费？",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "冀云长图 | 暴雨来袭，假期返程要注意",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495231.shtml",
-      "date": "2025-10-08 18:51",
-      "author": "中新网社会新闻",
-      "timestamp": 1759920668.0,
-      "summary": "来源：长城网",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "亚马逊药房推出药物自助取药亭 医生办公室可即时取药",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1529550.htm",
-      "date": "2025-10-08 18:39",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759919999.0,
-      "summary": "亚马逊正在拉近医生办公室与药房之间的距离，推出全新的亚马逊药房自助取药亭。患者在就诊后可直接通过这些取药亭快速领取药物，无需再前往外部药房或排队等候。这种自助取药亭将首先部署在洛杉矶地区的One Medical（亚马逊旗下初级医疗公司）诊所，并计划随后扩展到更多One Medical门店以及其它地点",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "ASML股价因美众议院指责其助力中国半导体产业而下跌",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1529548.htm",
-      "date": "2025-10-08 18:36",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759919773.0,
-      "summary": "荷兰半导体设备制造商ASML Holding NV因美国国会议员指控其推动中国芯片产业发展，股价下跌，此举加剧了美国进一步限制ASML光刻机出口的担忧。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "特斯拉Model 3/Y标准版Autopilot砍掉“自动辅助转向”功能 倒逼用户花钱选装FSD",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1529546.htm",
-      "date": "2025-10-08 18:35",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759919714.0,
-      "summary": "特斯拉Model 3与Model Y的新款“平价版本”已正式亮相，新车以更低售价降低购车门槛，但配置同步大幅精简。其中，最令人意外的是，特斯拉Autopilot自动驾驶辅助系统中一项至关重要的功能被彻底移除。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "宝马新一代X7曝光：首推iX7纯电版 燃油、纯电双线杀 最快明年亮相",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1529544.htm",
-      "date": "2025-10-08 18:35",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759919705.0,
-      "summary": "汽车媒体CarScoops近日发布博文称，宝马品牌旗下旗舰全尺寸 SUV——X7即将迎来史上最重要迭代，新一代车型代号G67，不仅在设计语言与核心技术上实现全面升级，更将首次推出纯电动衍生版iX7。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "应对返程客流高峰 8日中国铁路加开旅客列车2189列",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495223.shtml",
-      "date": "2025-10-08 18:34",
-      "author": "中新网社会新闻",
-      "timestamp": 1759919668.0,
-      "summary": "中新社北京10月8日电 (记者 刘文文)记者从中国国家铁路集团有限公司获悉，8日，全国铁路迎来返程客流高峰，预计发送旅客2175万人次，计划加开旅客列车2189列。7日，全国铁路发送旅客1933.2万人次，运输安全平稳有序。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "2025年诺贝尔化学奖揭晓",
-      "link": "https://www.cnbeta.com.tw/articles/science/1529542.htm",
-      "date": "2025-10-08 18:33",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759919624.0,
-      "summary": "当地时间10月8日，瑞典皇家科学院决定将2025年诺贝尔化学奖授予北川进（Susumu Kitagawa）、理查德·罗布森（Richard Robson）以及奥马尔·M·亚吉（Omar M. Yaghi）三位科学家，以表彰其在金属有机骨架开发领域的贡献。获奖者将平分1100万瑞典克朗（约合836万元",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "铃木 Vision e-Sky 五门纯电概念 K-Car 小车亮相：双联屏座舱、续航超 270 公里",
-      "link": "https://www.ithome.com/0/888/037.htm",
-      "date": "2025-10-08 18:31",
-      "author": "IT之家",
-      "timestamp": 1759919507.0,
-      "summary": "IT之家 10 月 8 日消息，铃木 Vision e-Sky 五门纯电概念 K-Car 现已亮相 2025 日本移动出行展，主打日常通勤与周末短途出行，采用多种流行设计，预计将在明年量产。据介绍，这辆小车采用了“独特、智能”的设计理念，意在营造愉悦氛围，采用五门设计，前脸使用了当下微型车流行的短小",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "00后高位截瘫女孩徒手登顶泰山 用时55小时",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1529540.htm",
-      "date": "2025-10-08 18:27",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759919223.0,
-      "summary": "7日晚，经过55小时的艰难攀爬，00后青岛残障女孩李子萱靠双手支撑身体，全程爬完每一级台阶，成功登顶泰山，成为国内首位独立爬上泰山的高位截瘫女孩。此次登顶并非一帆风顺，李子萱曾在今年7月向泰山发起过一次挑战。7月28日至30日，她与姐姐一同尝试徒手攀登，三天三夜的攀爬中，她的双手磨出密密麻麻的血泡，",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "“80后”台青融两岸元素塑新式沙县小吃",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495220.shtml",
-      "date": "2025-10-08 18:25",
-      "author": "中新网社会新闻",
-      "timestamp": 1759919141.0,
-      "summary": "中新社福建三明10月8日电 题：“80后”台青融两岸元素塑新式沙县小吃",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "叉车司机彩票中奖近千万后辞职  不分昼夜放纵 乐极生悲进了医院",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1529538.htm",
-      "date": "2025-10-08 18:25",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759919128.0,
-      "summary": "英国39岁男子亚当・洛佩兹，今年7月因一张刮刮乐彩票改变生活。据报道，他从账户仅12.4英镑（约119元人民币）的叉车司机，一跃成为手握100万英镑（约960万元人民币）的百万富翁。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "南北方剧烈反差！北方连绵降雨湿冷像初冬，南方炎热高温如同穿越回大暑",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495230.shtml",
-      "date": "2025-10-08 18:23",
-      "author": "中新网社会新闻",
-      "timestamp": 1759919031.0,
-      "summary": "今天，现实版“你在北方裹着袄，我在南方露着腰”上演了。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "曝苹果欲斥资 1.4 亿美元拿下 F1 美国转播权，有望下周公布结果",
-      "link": "https://www.ithome.com/0/888/036.htm",
-      "date": "2025-10-08 18:07",
-      "author": "IT之家",
-      "timestamp": 1759918073.0,
-      "summary": "IT之家 10 月 8 日消息，据体育媒体 Puck 前天报道，继成为《F1：狂飙飞车》电影投资商后，苹果正希望获得美国奥斯汀 F1 大奖赛的独家 / 主要转播权，相关接洽事宜已接近尾声，预计将在下周公布结果。消息人士表示，这项转播权每年需要耗资 1.4 亿美元（现汇率约合 9.99 亿元人民币），",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "假日餐饮“新锅气” 杭州菜市“现炒”受欢迎",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495218.shtml",
-      "date": "2025-10-08 18:01",
-      "author": "中新网社会新闻",
-      "timestamp": 1759917662.0,
-      "summary": "中新社杭州10月8日电 (蓝伊旎)国庆中秋假期，杭州文二菜市长廊两侧饮食店的灶台前升起腾腾热气。住在附近的年轻居民、“图个方便”的一家三口、体验本地生活的外地游客纷纷把刚买的鲜蔬肉禽拿来这里加工。厨师应声开火，洗切翻炒，不过十来分钟菜便上了桌。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "国庆7天浙江水上出行旅客超190万人次 同比增长72%",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495215.shtml",
-      "date": "2025-10-08 18:00",
-      "author": "中新网社会新闻",
-      "timestamp": 1759917614.0,
-      "summary": "10月7日，乘客有序登船往返栈台-大鹿岛两地。臧羿岚 摄\n\n　　中新网杭州10月8日电(记者 王逸飞)记者8日从浙江海事局了解到，今年国庆中秋假期，浙江水路出行人数持续高位，1-7日该省水上发送旅客191.85万人次，比去年国庆7天假期增长72%。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "国庆中秋假期北京市属公园接待游客超461万人次",
-      "link": "http://www.chinanews.com/sh/2025/10-08/10495213.shtml",
-      "date": "2025-10-08 17:59",
-      "author": "中新网社会新闻",
-      "timestamp": 1759917581.0,
-      "summary": "中新网北京10月8日电(记者 徐婧)北京市公园管理中心8日发布的数据显示，今年国庆中秋假期，北京市属公园共接待游客461.23万人次，排名前三的是天坛公园、颐和园、北海公园。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "英特尔锐炫显卡驱动更新至 8136 版本，支持《战地 6》《2XKO》《小小梦魇 3》",
-      "link": "https://www.ithome.com/0/888/035.htm",
-      "date": "2025-10-08 17:52",
-      "author": "IT之家",
-      "timestamp": 1759917172.0,
-      "summary": "IT之家 10 月 8 日消息，英特尔当地时间 7 日发布了锐炫显卡驱动程序的 32.0.101.8136 版本。这一版本属于非 WHQL 认证的 Game On 驱动，为三款游戏新作提供支持。具体来看，32.0.101.8136 版本新支持：《战地风云 6》，北京时间 10 月 10 日正式上线；",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "英伟达 CEO 黄仁勋谈英特尔：我们是恋人，不是对手",
-      "link": "https://www.ithome.com/0/888/033.htm",
-      "date": "2025-10-08 17:43",
-      "author": "IT之家",
-      "timestamp": 1759916600.0,
-      "summary": "IT之家 10 月 8 日消息，英伟达创始人兼 CEO 黄仁勋前天登上美国 CNBC 电视台《Mad Money》栏目，与主持人 Jim Cramer 对谈对手英特尔。节目中黄仁勋首先回顾了英伟达与英特尔之间漫长的竞争历史，并开玩笑地说道：“他们（英特尔）花了 33 年时间试图杀死我们”。不过这两家",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "腾讯《王者荣耀》：对局内可能出现数据资源损坏异常，将尽快修复上线",
-      "link": "https://www.ithome.com/0/888/031.htm",
-      "date": "2025-10-08 17:37",
-      "author": "IT之家",
-      "timestamp": 1759916238.0,
-      "summary": "IT之家 10 月 8 日消息，今天 15:00 后，大量《王者荣耀》玩家反馈称游戏服务器出现 Bug，在对局中显示游戏资源损坏，重启无效。对此，《王者荣耀》官方发布声明：亲爱的召唤师：我们收到反馈，对局内可能出现数据资源损坏异常，我们正在定位中，将尽快修复上线。非常抱歉给各位玩家带来不便，感谢您对",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "北汽蓝谷：北京新能源 9 月销量 20539 辆同比增长 30.15%，今年累计 111501 辆同比增长 64.34%",
-      "link": "https://www.ithome.com/0/888/030.htm",
-      "date": "2025-10-08 17:32",
-      "author": "IT之家",
-      "timestamp": 1759915942.0,
-      "summary": "IT之家 10 月 8 日消息，北汽蓝谷今日发布最新的 9 月份产销快报，子公司北京新能源汽车股份有限公司 9 月份销售 20539 辆，同比增长 30.15%；今年累计销售 111501 辆，同比增长 64.34%。IT之家注意到，北京新能源汽车股份有限公司 9 月份生产新车 20045 辆，同比",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "AMD CEO 苏姿丰确认 Instinct MI450 加速器将采用 2nm 制程工艺",
-      "link": "https://www.ithome.com/0/888/029.htm",
-      "date": "2025-10-08 17:29",
-      "author": "IT之家",
-      "timestamp": 1759915763.0,
-      "summary": "IT之家 10 月 8 日消息，AMD 首席执行官苏姿丰在与 OpenAI 达成重磅交易后接受了外媒雅虎财经的连线，她在采访中提到 Instinct MI450 显卡加速器将采用 2nm 先进制程。根据消息人士 @Kepler_L2 今日的进一步解释，Instinct MI450 将配备台积电 N2",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "赛力斯 9 月汽车销售 48286 辆，同比增长 8.33%",
-      "link": "https://www.ithome.com/0/888/028.htm",
-      "date": "2025-10-08 17:27",
-      "author": "IT之家",
-      "timestamp": 1759915623.0,
-      "summary": "IT之家 10 月 8 日消息，赛力斯刚刚发布了最新的 2025 年 9 月产销快报，本月总销售 48286 辆，同比增长 8.33%；本年累计销售 340,650 辆，同比下降 7.79%。产量方面，赛力斯集团 9 月生产 49,247 辆，同比增长 12.51%；本年累计销售 345,449 辆",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "麻省理工学院与哈佛大学联合打造“隐形”免疫细胞 彻底消灭癌细胞",
-      "link": "https://www.cnbeta.com.tw/articles/science/1529536.htm",
-      "date": "2025-10-08 17:19",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759915183.0,
-      "summary": "10月8日，美国麻省理工学院（MIT）与哈佛医学院近日联合发布突破性研究成果，成功研发出可“隐形”的工程化CAR-NK天然杀伤细胞。这种细胞能够有效躲避免疫排斥反应，同时加强对肿瘤的杀伤力，在具有类人免疫系统的老鼠模型中实现了癌症的几乎完全清除。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "廉价版特斯拉Model Y实拍 二排杯架活久见",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1529534.htm",
-      "date": "2025-10-08 17:19",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759915150.0,
-      "summary": "期待已久的廉价版特斯拉Model Y终于在美国市场发布了，但便宜5000美元的代价就是，把毛坯房变成了茅草房。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "be quiet!\t德商德静界推出 Light Base 500 系列机箱：可选 ARGB / 无光版，支持背插主板",
-      "link": "https://www.ithome.com/0/888/026.htm",
-      "date": "2025-10-08 17:12",
-      "author": "IT之家",
-      "timestamp": 1759914741.0,
-      "summary": "IT之家 10 月 8 日消息，be quiet! 德商德静界现已正式推出 Light Base 500、500 LX 机箱，主打简约外观、增强气道及灵活散热方案，支持多种尺寸主板，适配游戏玩家、专业创作者客群。据介绍，该系列机箱专为追求性能与美感的硬件爱好者设计，配备“海景房”玻璃正、侧透面板，可",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "2026 款吉利星愿车型 10 月 10 日上市，张柏芝代言",
-      "link": "https://www.ithome.com/0/888/025.htm",
-      "date": "2025-10-08 17:01",
-      "author": "IT之家",
-      "timestamp": 1759914065.0,
-      "summary": "IT之家 10 月 8 日消息，吉利汽车宣布将于 10 月 10 日在杭州举行 2025 吉利汽车用户大会，届时 2026 款吉利星愿于将迎来上市。9 月 30 日，吉利汽车宣布张柏芝成为吉利星愿全球代言人，届时有望出席 2025 吉利汽车用户大会。 在此之前，2026 款吉利星愿已经出现在工信部备",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "美政府停摆第7天航空危机爆发：空管员短缺 多地航班延误",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1529532.htm",
-      "date": "2025-10-08 16:34",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759912483.0,
-      "summary": "美国联邦航空管理局（FAA）发出警告，当地时间周二晚间芝加哥奥黑尔国际机场的塔台将出现空中交通管制员人手不足的情况；在纳什维尔，因大量空管员请假，负责引导飞机起降的空管设施已宣布关闭。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "多款App无法完全适配？ 华为鸿蒙5惹争议 回应：有些群体别升级",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1529530.htm",
-      "date": "2025-10-08 16:33",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759912409.0,
-      "summary": "近日，有自称华为老粉的博主王晓东在社交媒体吐槽华为鸿蒙5.1系统，称自己从鸿蒙4.3升级至鸿蒙5.1后遭遇微信、抖音等主流应用无法“完全兼容适配”，部分功能无法正常使用，在亲自跑到华为售后门店“刷机”回退此前版本后，却也浪费了大量时间，且遭遇“部分数据丢失”。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "森海塞尔发布HDB 630高端耳机",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1529528.htm",
-      "date": "2025-10-08 16:22",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1759911755.0,
-      "summary": "森海塞尔（Sennheiser）今日正式发布HDB 630耳机，其配备了一系列注重音频保真度的特色功能、先进调音技术和现代化移动使用体验。HDB 630专为追求高性能的音频爱好者设计，沿用畅销款MOMENTUM 4机型的外壳设计，并集成独有的声学系统，支持有线或无线使用。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
