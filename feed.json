@@ -1,15 +1,285 @@
 {
-  "update_time": "2025-11-08",
+  "update_time": "2025-11-09",
   "articles": [
     {
-      "title": "13211MT/s，DDR5 内存超频世界纪录不到一周又被打破",
-      "link": "https://www.ithome.com/0/895/945.htm",
-      "date": "2025-11-08 20:18",
+      "title": "NHL教练面对颓势 借助ChatGPT寻找卡尔加里火焰队的困境出路",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1535178.htm",
+      "date": "2025-11-09 02:51",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1762627907.0,
+      "summary": "卡尔加里火焰队在新赛季遭遇罕见低谷，已进行的14场NHL比赛仅取得3场胜利，在积分榜垫底徘徊，全队上下都在寻找破局之法。主教练瑞安·胡斯卡（Ryan Huska）最近想出了一个意料之外的新主意——向人工智能聊天机器人ChatGPT寻求建议。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "福特或将终止曾被寄予“改变一切”厚望的F-150 Lightning电动皮卡项目",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1535176.htm",
+      "date": "2025-11-09 02:51",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1762627883.0,
+      "summary": "福特公司正考虑是否放弃其畅销车型F-150的纯电版Lightning。如果这一决定最终敲定，将标志着主流电动皮卡首次退出美国市场。曾被视作推动电动化盈利的“捷径”，如今这一转变凸显出重型车辆始终是电动化进程中最难攻克的难关。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "来自5万亿美元巨头的夸赞 黄仁勋：没有台积电就没有NVIDIA",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1535174.htm",
+      "date": "2025-11-09 02:37",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1762627022.0,
+      "summary": "NVIDIA成为全球第一个5万亿美元市值的公司，只用了短短两三年时间，这一切都要靠AI的爆发，但在黄仁勋看来，功臣还有一个。那就是台积电，今天黄仁勋又一次闪电访问台积电，行程只有22小时，这是今年来的第四次了，而且每次来访都不是大事——至少表面上没有什么正式活动，而是来跟台积电公司打起人情牌，这次来",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "AMD 2nm Zen6处理器确认明年问世 但桌面版还得等等",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1535172.htm",
+      "date": "2025-11-09 02:36",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1762627005.0,
+      "summary": "AMD日前发布的Q3季度财报很亮眼，不仅AI营收爆发，游戏和处理器业务也是大幅增长。CEO苏姿丰还预告了好消息，那就是明年Zen6就要来了，EPYC下一代产品代号Venice，将采用Zen6架构及台积电2nm工艺，搭配下一代AI显卡MI400系列，目前正按计划在2026年正式发布。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "iPhone 18 系列据称将配备 2400 万像素前置摄像头",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1535170.htm",
+      "date": "2025-11-09 02:34",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1762626874.0,
+      "summary": "据 MacRumors 报道，苹果下一代旗舰机型 iPhone 18 系列的所有机型都将配备 2400 万像素的前置摄像头，相较 iPhone 17 系列的 1800 万像素有明显提升。该消息来自摩根大通最新的投资研究报告。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "传《GTA6》跳票是为了修bug 内容早已制作好",
+      "link": "https://www.cnbeta.com.tw/articles/game/1535168.htm",
+      "date": "2025-11-09 01:16",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1762622192.0,
+      "summary": "根据知名舅舅Tom Henderson爆料，《GTA6》内容已经准备好，而最近的延期纯粹是为了打磨，所以他相信《GTA6》绝不会再次跳票。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "前微软工程师普拉默建议 Windows 推出“硬核模式”，让用户能禁用花哨功能",
+      "link": "https://www.ithome.com/0/895/968.htm",
+      "date": "2025-11-08 23:46",
       "author": "IT之家",
-      "timestamp": 1762604321.0,
-      "summary": "IT之家 11 月 8 日消息，不到一周前，DDR5 内存超频世界纪录刚刚诞生 ——13153 MT/s。然而，另一位超频玩家 AiMax 迅速打破了这个纪录，将主流平台的 DDR5 内存速度再次推向新高。据外媒 Wccftech 今晚报道，AiMax 在 HWBot 网站提交了最新的测试结果，CP",
+      "timestamp": 1762616811.0,
+      "summary": "IT之家 11 月 8 日消息，据外媒 The Register 当地时间 11 月 7 日报道，退休微软工程师戴夫・普拉默就 Windows 存在的一些问题发表了自己的看法，并建议操作系统可能需要一个“硬核模式”，以去掉部分冗余功能，让系统更直接高效。IT之家从报道中获悉，普拉默曾参与到 Wind",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
+    },
+    {
+      "title": "曝三星 Galaxy S27 Ultra 手机主摄规格由苹果 iPhone 18 Pro Max 决定，“绝不在硬件上多花一分钱”",
+      "link": "https://www.ithome.com/0/895/967.htm",
+      "date": "2025-11-08 23:26",
+      "author": "IT之家",
+      "timestamp": 1762615611.0,
+      "summary": "IT之家 11 月 8 日消息，博主 @i冰宇宙 今天在微博发文称，三星 Galaxy S27 Ultra 手机的主摄规格将由苹果 iPhone 18 Pro Max 决定。博主表示，如果 iPhone 18 Pro Max 采用 1/1.14 英寸大底 CMOS，那 S27 Ultra 就会用 2",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "谷歌招募万名 Pixel Watch 用户，目标使手表提前发现慢性高血压风险",
+      "link": "https://www.ithome.com/0/895/966.htm",
+      "date": "2025-11-08 23:20",
+      "author": "IT之家",
+      "timestamp": 1762615225.0,
+      "summary": "IT之家 11 月 8 日消息，据外媒 Android Central 今晚报道，谷歌正在招募多达 10000 名 Pixel Watch 用户，旨在通过推进研究来实现帮助用户采取积极措施来改善心脏健康的目标。这些志愿者需要佩戴 Pixel Watch 3 长达 180 天，以便研究用户数据中是否存",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "62196 人到场，腾讯《王者荣耀》2025 年 KPL 年度总决赛打破吉尼斯世界纪录",
+      "link": "https://www.ithome.com/0/895/965.htm",
+      "date": "2025-11-08 23:11",
+      "author": "IT之家",
+      "timestamp": 1762614682.0,
+      "summary": "IT之家 11 月 8 日消息，腾讯《王者荣耀》2025 年 KPL 年度总决赛今晚在北京国家体育场（鸟巢）举行，成都 AG 超玩会与重庆狼队登上大舞台，展开对决。根据 KPL 官方微博及现场直播消息，2025 年 KPL 年度总决赛打破了吉尼斯世界纪录，到场人数 62196 人，成为现场观众人数最",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "美国多所学校部署监控工具，实时监测学生与聊天机器人对话以预防心理问题",
+      "link": "https://www.ithome.com/0/895/964.htm",
+      "date": "2025-11-08 23:06",
+      "author": "IT之家",
+      "timestamp": 1762614393.0,
+      "summary": "IT之家 11 月 8 日消息，据彭博社 11 月 7 日报道，新学年开始前，一些科技公司向美国教育工作者发出严肃警告：在课堂中使用人工智能聊天机器人可能危及学生安全，甚至引发自残。保持警惕被强调为首要任务。譬如，一家公司表示：“学生使用 AI 的风险可能致命。”另一家公司称：“学生的生命取决于‘它",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "中央宣讲团来了 | 时政周报",
+      "link": "https://www.infzm.com/contents/306909",
+      "date": "2025-11-08 23:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1762614000.0,
+      "summary": "中央纪委国家监委年内公开通报52名中管干部落马。\n\n司法部发布《行政执法人员行为准则》，严禁临时工执法。\n\n国家医保局确定在7省市试点医保经办全流程智能审核。\n\n重庆调整部分行政区划，设立两江新区。\n\n一周时政新闻回顾（2025年11月1日-7日）",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "三菱推出 Eclipse 跨界纯电汽车：“智能装甲”设计语言、谷歌车联生态，续航超 600 公里",
+      "link": "https://www.ithome.com/0/895/963.htm",
+      "date": "2025-11-08 22:55",
+      "author": "IT之家",
+      "timestamp": 1762613711.0,
+      "summary": "IT之家 11 月 8 日消息，据汽车媒体 electrek 今天报道，三菱现已推出 Eclipse 跨界纯电汽车，是日产-三菱-雷诺联盟旗下首批以三菱品牌推出的纯电车之一，目前已在法国的雷诺 ElectriCity Douai 工厂投产。据介绍，这辆车采用“智能装甲”（IT之家注：Smart Ar",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "三星 Galaxy S26 标准版手机线稿曝光：6.9mm 厚度，比 S25 更薄",
+      "link": "https://www.ithome.com/0/895/962.htm",
+      "date": "2025-11-08 22:37",
+      "author": "IT之家",
+      "timestamp": 1762612674.0,
+      "summary": "IT之家 11 月 8 日消息，消息人士 UniverseIce 今天在 X 平台发文，曝光三星 Galaxy S26 标准版手机的线稿。根据他的说法，这台手机的厚度是 6.9mm，相比 Galaxy S25 的 7.2mm 薄约 4%，同时根据他发布的线稿图来看，这台手机的整体外观较为硬朗，四边",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "伦敦政经学院最新研究：“10 后”进入职场将告别键盘，全面用语音沟通工作",
+      "link": "https://www.ithome.com/0/895/961.htm",
+      "date": "2025-11-08 22:33",
+      "author": "IT之家",
+      "timestamp": 1762612434.0,
+      "summary": "IT之家 11 月 8 日消息，据《财富》杂志 11 月 7 日报道，伦敦政治经济学院最新研究指出，“键盘时代”即将面临终结。该学院与 Jabra 联合研究了语音技术对未来工作的影响，科学家预测到 2028 年，语音 AI 将成为主要工作方式。研究显示，未来几年，由于 AI 迅速发展，员工将更多地通",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "美国 UPS、联邦快递停飞所有麦道 MD-11 飞机，本周货机坠毁事件已导致十余人遇难",
+      "link": "https://www.ithome.com/0/895/958.htm",
+      "date": "2025-11-08 22:17",
+      "author": "IT之家",
+      "timestamp": 1762611474.0,
+      "summary": "IT之家 11 月 8 日消息，据路透社昨天报道，UPS 与联邦快递（FedEx）宣布，出于高度谨慎的考虑，两家公司决定停飞所有麦道 MD-11 飞机，11 月 5 日发生的空难已造成至少 14 人遇难。据报道，UPS 机队中共有 27 架 MD-11 飞机，而联邦快递共拥有 28 架 MD-11，",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "加快阿尔忒弥斯登月计划，SpaceX 公布简化版登月舱方案",
+      "link": "https://www.ithome.com/0/895/957.htm",
+      "date": "2025-11-08 22:02",
+      "author": "IT之家",
+      "timestamp": 1762610527.0,
+      "summary": "IT之家 11 月 8 日消息，据外媒 New Altas 今天报道，在 NASA 的强烈催促下，SpaceX 公布了全新简化版登月舱方案，以加快阿尔忒弥斯登月计划。SpaceX 最初计划使用仍处于试验阶段的“星舰”打造登月舱，其整体就是一艘完整的火箭，包含气动翼、隔热盾等。不过 NASA 并不满意",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "坚持 30 年，Netflix 联创马克・兰道夫每周二下午 5 点停止工作以保持“理智”",
+      "link": "https://www.ithome.com/0/895/956.htm",
+      "date": "2025-11-08 21:52",
+      "author": "IT之家",
+      "timestamp": 1762609946.0,
+      "summary": "IT之家 11 月 8 日消息，商业领袖们经常讨论工作与生活平衡的“神话”，Netflix 联合创始人马克・兰道夫则有自己的简单原则：每周二下午 5 点，无论发生什么，他都会准时离开办公室。据《财富》杂志网站 7 日报道，兰道夫曾在一则领英帖子里写道，“在我的整个职业生涯中，我一直努力保持生活与工作",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "科学家发现多数大语言模型测试标准存在缺陷，无法客观给出评分",
+      "link": "https://www.ithome.com/0/895/954.htm",
+      "date": "2025-11-08 21:30",
+      "author": "IT之家",
+      "timestamp": 1762608657.0,
+      "summary": "IT之家 11 月 8 日消息，据科技媒体 the decoder 今天报道，一项由牛津大学、华盛顿大学等机构发表的国际研究指出，目前大多数大语言模型（LLM）的测试标准存在严重方法论问题，使人们很难真正客观地衡量 AI 的进步。科学家们翻阅了顶级 AI 学术会议（IT之家注：涵盖 ICML、ICL",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "牛津、斯坦福大学新研究：能“思考”的 AI 推理模型更易受到越狱攻击",
+      "link": "https://www.ithome.com/0/895/953.htm",
+      "date": "2025-11-08 21:30",
+      "author": "IT之家",
+      "timestamp": 1762608638.0,
+      "summary": "IT之家 11 月 8 日消息，据《财富》杂志网站 11 月 7 日报道，最新研究显示，先进人工智能模型比人们之前想象的更容易被入侵，使部分已被企业和消费者使用的主流 AI 模型安全性受到关注。Anthropic、牛津大学和斯坦福大学联合进行的研究表明，模型推理（即“思考”用户请求）能力越强，并不意",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "AI 六巨头罕见同台！李飞飞激辩 LeCun，黄仁勋却说“你们都错了”",
+      "link": "https://www.ithome.com/0/895/951.htm",
+      "date": "2025-11-08 21:09",
+      "author": "IT之家",
+      "timestamp": 1762607379.0,
+      "summary": "AI 革命真实不虚，但通往终局的地图，连绘制它的人都一无所知。近日，Yann LeCun、李飞飞、黄仁勋、Geoffrey Hinton、Bill Dally，以及 Yoshua Bengio 六位 AI 领域的顶尖人物，因共获伊丽莎白女王工程奖而齐聚一堂，展开了一场关于人工智能的巅峰对话。人类群星",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Haven Demo 为建设首个私人拥有的空间站奠定了基础",
+      "link": "https://www.cnbeta.com.tw/articles/science/1535166.htm",
+      "date": "2025-11-08 21:06",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1762607180.0,
+      "summary": "Vast公司所建的Haven Demo是一颗重约1100磅（500千克）的无人飞行器最近发射升空，标志着人类迈向首个商业空间站进程的重要一步。这颗卫星于2025年11月1日搭载SpaceX的猎鹰9号火箭升空，是Bandwagon-4任务中18个合作载荷之一。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "网易《逆水寒》手游国际服上线，登顶多国免费榜",
+      "link": "https://www.ithome.com/0/895/950.htm",
+      "date": "2025-11-08 21:05",
+      "author": "IT之家",
+      "timestamp": 1762607158.0,
+      "summary": "IT之家 11 月 8 日消息，网易旗下《逆水寒》手游国际服 11 月 7 日正式全球上线，随后登顶日本、马来西亚、泰国、越南、柬埔寨、文莱等多个国家和地区的 App Store 免费榜。官网数据显示，游戏上线前全球预约量已突破 1000 万。在今年 9 月的东京电玩展上，《逆水寒》手游便搭建了国风",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "中外学者谈苏东坡全球圈粉：跨时空点化日常生活",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-08/10512424.shtml",
+      "date": "2025-11-08 20:54",
+      "author": "中新网社会新闻",
+      "timestamp": 1762606490.0,
+      "summary": "视频：苏东坡何以全球“圈粉”？中外学者：他能化解“躺平”“内卷”等现代焦虑来源：中国新闻网",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "黑龙江：“立冬”刚过寒潮来了 局地最低温下降12℃",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-08/10512413.shtml",
+      "date": "2025-11-08 20:50",
+      "author": "中新网社会新闻",
+      "timestamp": 1762606236.0,
+      "summary": "中新网哈尔滨11月8日电 (记者 姜辉)立冬节气刚过，8日，黑龙江省气象台发布寒潮预报，预计48小时内，伊春、绥化东部、哈尔滨、鹤岗、佳木斯西部、双鸭山、七台河、鸡西、牡丹江最低气温下降8℃至10℃，其中哈尔滨东部、牡丹江西部局地下降10℃至12℃。请提前做好防寒保暖准备。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "2025藏医药康体文化之旅推介会在拉萨推荐西藏两大康体旅游产品",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-08/10512391.shtml",
+      "date": "2025-11-08 20:47",
+      "author": "中新网社会新闻",
+      "timestamp": 1762606047.0,
+      "summary": "中新网拉萨11月8日电 (记者 赵朗)由西藏自治区文旅厅主办的2025藏医药康体文化之旅推介会8日在拉萨举行，活动旨在深度推介融合藏医药养生智慧与西藏壮美风光的特色旅游产品，为追求健康生活品质的人们提供全新的旅行选择。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“千年瓷都”景德镇举办非遗市集 受年轻人追捧",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-08/10512407.shtml",
+      "date": "2025-11-08 20:30",
+      "author": "中新网社会新闻",
+      "timestamp": 1762605006.0,
+      "summary": "中新网景德镇11月8日电 (记者 吴鹏泉)11月7日至9日，“千年瓷都”江西景德镇举办“淘宝·中国宝贝”非遗市集，上万件淘宝的手作宝贝在这里精彩亮相。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "2025年陕西无人机公开赛在西安举办",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-08/10512402.shtml",
+      "date": "2025-11-08 20:28",
+      "author": "中新网社会新闻",
+      "timestamp": 1762604882.0,
+      "summary": "中新网西安11月8日电 (记者 党田野)“全民健身 运动三秦”2025年陕西无人机公开赛暨陕西低空经济体育嘉年华8日在西安航天基地通用机场正式拉开帷幕。本次比赛吸引来自全国各地的127支劲旅、700余名飞手同台竞技。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
     },
     {
       "title": "北方在过冬天，华南热到开空调？接下来气温多波动！台风“凤凰”或带来明显风雨影响",
@@ -62,26 +332,6 @@
       "category": "News"
     },
     {
-      "title": "无视反作弊，玩家成功在 12 年前的 AMD FX-9590 设备上流畅运行《战地 6》",
-      "link": "https://www.ithome.com/0/895/944.htm",
-      "date": "2025-11-08 19:37",
-      "author": "IT之家",
-      "timestamp": 1762601837.0,
-      "summary": "IT之家 11 月 8 日消息，YouTube 创作者 Fully Buffered 发布视频，展示了如何成功让《战地 6》在一款搭载 AMD FX-9590 CPU 的设备上运行的过程。 该处理器来自 AMD 的 Bulldozer 架构，2013 年发布，并且未启用 TPM。作为 FX-9000",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "“双 11”期间淘宝霸屏广告频现，杭州市监部门称已展开调查",
-      "link": "https://www.ithome.com/0/895/943.htm",
-      "date": "2025-11-08 19:17",
-      "author": "IT之家",
-      "timestamp": 1762600627.0,
-      "summary": "IT之家 11 月 8 日消息，据《大众日报》11 月 6 日消息，针对淘宝“双 11”期间霸屏广告乱象，杭州市余杭区市场监督管理局证实已收到相关举报，目前已交由网监分局展开调查。此前有用户反映称，打开多款手机 App 时，在手指触碰相关页面或机身晃动的情况下，即被强制跳转至淘宝会场，严重影响使用体",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "肺癌关注月：精准治疗+MDT 为肺癌患者“生命加时”",
       "link": "https://www.chinanews.com.cn/sh/2025/11-08/10512333.shtml",
       "date": "2025-11-08 19:06",
@@ -92,26 +342,6 @@
       "category": "News"
     },
     {
-      "title": "曝 Meta 产品经理已用“氛围编程”（Vibe Coding）快速制作 App 原型，可直接展示给 CEO 扎克伯格",
-      "link": "https://www.ithome.com/0/895/941.htm",
-      "date": "2025-11-08 19:06",
-      "author": "IT之家",
-      "timestamp": 1762599989.0,
-      "summary": "IT之家 11 月 8 日消息，据《商业内幕》今天报道，Meta 内部的产品经理已使用“氛围编程”（Vibe Coding）快速制作 App 原型，无需手下辅助就能直接做出可用的 App 产品，直接拿给 CEO 扎克伯格展示。Meta 超级智能实验室产品总监 Joseph Spisak 最近表示，公",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "曝英伟达 GeForce RTX 50 显卡 SUPER 中期更新“延期”至 2026 年第三季度",
-      "link": "https://www.ithome.com/0/895/940.htm",
-      "date": "2025-11-08 18:50",
-      "author": "IT之家",
-      "timestamp": 1762599006.0,
-      "summary": "IT之家 11 月 8 日消息，消息人士 MEGAsizeGPU (@Zed__Wang) 北京时间今日凌晨就 24Gb (3GB) GDDR7 显存短缺可能导致英伟达 GeForce RTX 50 系列显卡 SUPER 更新计划变动的传闻表示，\"Blackwell\" 的 SUPER 更新没有取消，",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "古建新生 回龙观菩萨庙活化升级为年轻态公共文化空间",
       "link": "https://www.chinanews.com.cn/sh/2025/11-08/10512332.shtml",
       "date": "2025-11-08 18:45",
@@ -120,16 +350,6 @@
       "summary": "中新网北京11月8日电 (记者 应妮)古琴声声传递悠远意境，太极和长拳皆是力与美的交响，街舞的动感节拍演绎着自由奔放，电吉他奏响当年青年的生活宣言……庙趣·回龙观城市岛屿(一期)开馆仪式7日在京举行，古建新生，一座清代菩萨庙升级为一处年轻态公共文化空间。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "机器人训练，北京男大有了技能玩法",
-      "link": "https://www.ithome.com/0/895/938.htm",
-      "date": "2025-11-08 18:37",
-      "author": "IT之家",
-      "timestamp": 1762598277.0,
-      "summary": "还得是大学生会玩啊（doge）！网上正高速冲浪中，结果意外发现：有男大竟找了个机器人队友？而且机器人还相当黏人（bushi~）白天超市打工它要跟着，一看东西装好就立马乐颠颠帮忙拉小推车，上楼下楼忙个不停：等到中午去食堂兼职，它也自告奋勇帮忙推餐车，而且指哪打哪（拍拍头就知道你想让它停下）：甚至，一天",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
     },
     {
       "title": "T2高管信誓旦旦：《GTA6》这次的发售日期没问题",
@@ -162,16 +382,6 @@
       "category": "News"
     },
     {
-      "title": "苹果就 App Store 前端代码泄露问题向微软 GitHub 发通知函，清理 8270 个仓库",
-      "link": "https://www.ithome.com/0/895/930.htm",
-      "date": "2025-11-08 18:18",
-      "author": "IT之家",
-      "timestamp": 1762597138.0,
-      "summary": "IT之家 11 月 8 日消息，苹果曾在 11 月 5 日发生了一次罕见的技术失误，在新版网页端 App Store 上线数小时后导致其完整的前端源码意外泄露。而根据科技媒体 PiunkiaWeb 今天报道，苹果已在最近向微软 GitHub 平台发送通知函，要求依照 DMCA（IT之家注：数字千年版",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "武汉双年展最大“设计展品”蔡甸沉湖国际小镇亮相",
       "link": "https://www.chinanews.com.cn/sh/2025/11-08/10512312.shtml",
       "date": "2025-11-08 18:18",
@@ -180,16 +390,6 @@
       "summary": "中新网武汉11月8日电 (卢琪 刘芬 李江萍)作为第八届武汉设计双年展最大的、可体验的“设计展品”，位于武汉市蔡甸区的沉湖国际小镇8日面向全球正式亮相。当日，2场学术会议、2场设计展览在此举办，国内外专家学者共话生态设计。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "马斯克：AI 将像超音速海啸一样，迅速取代数字导向型办公室工作",
-      "link": "https://www.ithome.com/0/895/927.htm",
-      "date": "2025-11-08 18:16",
-      "author": "IT之家",
-      "timestamp": 1762597009.0,
-      "summary": "IT之家 11 月 8 日消息，据《商业内幕》今日报道，马斯克在接受乔・罗根播客采访时放出豪言：AI 将使办公室工作变得像计算机时代之前人们手动计算一样过时。马斯克表示，AI 正在迅速取代那些以数字化为导向的办公室工作，且这种变化将继续加速。“这一切都在发生，就像我说的，AI 就像是超音速的海啸。”",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
     },
     {
       "title": "安徽肥西探索“科技+文旅”发展新路径",
@@ -209,26 +409,6 @@
       "timestamp": 1762596214.0,
       "summary": "《科创板日报》11月8日，在2025年世界互联网大会·乌镇峰会前沿人工智能模型论坛上，蚂蚁集团平台技术事业群总裁骆骥表示，在算力方面，蚂蚁已部署万卡规模的国产算力集群，适配自研与各主流开源模型，训练任务稳定性超过98%，训练与推理性能可媲美国际算力集群，并全面应用于安全风控领域的大模型训练与推理服务",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "AMD“Zen 7”处理器新爆料：含 8 核 / 16 核版本台积电 A14 制程 CCD",
-      "link": "https://www.ithome.com/0/895/919.htm",
-      "date": "2025-11-08 17:58",
-      "author": "IT之家",
-      "timestamp": 1762595900.0,
-      "summary": "IT之家 11 月 8 日消息，爆料人士 MLID (Moore's Law Is Dead) 在北京时间今日的新视频中分享了更多有关 AMD \"Zen 7\" 世代处理器的信息，宣称该世代产品阵容将包含两颗采用台积电 A14 制程、分别为 8 核与 16 核的 CCD。IT之家注：考虑到 MLID",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "对标苹果 Apple Card？消息称三星欲与巴克莱银行合作，在美发行联名信用卡",
-      "link": "https://www.ithome.com/0/895/918.htm",
-      "date": "2025-11-08 17:54",
-      "author": "IT之家",
-      "timestamp": 1762595687.0,
-      "summary": "IT之家 11 月 8 日消息，据《华尔街日报》昨天报道，三星已与巴克莱银行展开洽谈，讨论在美国推出联名信用卡产品。据报道，三星还考虑在美国推出高息储蓄账户、数字预付账户及“先买后付”产品，其中部分产品将联合巴克莱银行推出。谈判文件显示，三星计划让这款信用卡拥有多种返现方式，其中消费后的返现将会存入",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -252,56 +432,6 @@
       "category": "Blog"
     },
     {
-      "title": "浙江宁波雪窦山：“生态+体验”赋能入境游",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-08/10512298.shtml",
-      "date": "2025-11-08 17:50",
-      "author": "中新网社会新闻",
-      "timestamp": 1762595430.0,
-      "summary": "中新网宁波11月8日电 (张斌)“这就是雪窦山的瀑布，太震撼啦！”前不久，在浙江宁波奉化区雪窦山徐凫岩景区，俄罗斯“网红”德米日腰间系着安全绳，在绝壁上攀爬，脚下瀑布奔涌，浙东山水的壮阔之美尽收眼底。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "（乡村行·看振兴）福建华安梯田庆丰收：赏丰景 乐农耕",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-08/10512296.shtml",
-      "date": "2025-11-08 17:49",
-      "author": "中新网社会新闻",
-      "timestamp": 1762595376.0,
-      "summary": "中新网福建华安11月8日电 (陈蕾)11月8日，“天梯纳福丰景华安”——2025年华安县千亩梯田丰收季活动在福建省漳州市华安县湖林乡石井村欢乐启幕。据主办方介绍，活动依托当地独特的千亩梯田景观与丰收盛况，集中展现了华安县推动农旅融合、促进乡村振兴的最新成果。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "青年“造梦”雪窦山",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-08/10512291.shtml",
-      "date": "2025-11-08 17:47",
-      "author": "中新网社会新闻",
-      "timestamp": 1762595270.0,
-      "summary": "中新网宁波11月8日电 题：青年“造梦”雪窦山",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "从木塔到彩塑壁画 海外博主山西探寻千年文脉",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-08/10512290.shtml",
-      "date": "2025-11-08 17:47",
-      "author": "中新网社会新闻",
-      "timestamp": 1762595242.0,
-      "summary": "中新社山西朔州11月8日电 (范丽芳 秦瑜)“木塔之下，仿佛能听见历史的回响。”站在有着近千年历史的应县木塔前，韩国博主金载玹(KIM JAEHYUN)仰首赞叹，“我不仅看到建筑的宏伟，更感受到中国人‘以柔克刚’的营造哲学。”",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "阿拉伯国家媒体重庆采风 多维度感知科技魅力",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-08/10512289.shtml",
-      "date": "2025-11-08 17:46",
-      "author": "中新网社会新闻",
-      "timestamp": 1762595192.0,
-      "summary": "中新社重庆11月8日电 (记者 钟旖)在重庆永川科技片场，看着LED巨屏上的山水风光瞬间切换成广袤沙漠，阿拉伯国家广播联盟媒体与通讯官伊梅德·克塔塔对中国的“虚拟拍摄技术”发展有了更直观的感受。他表示，先进技术为创作提供了丰富可能，也为阿拉伯国家和中国未来的影视领域合作打开了新大门。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
       "title": "联合国人口基金驻华代表：中国银发市场潜力巨大",
       "link": "https://36kr.com/newsflashes/3544196278349698?f=rss",
       "date": "2025-11-08 17:38",
@@ -312,26 +442,6 @@
       "category": "Blog"
     },
     {
-      "title": "比亚迪李慧：我们的超级跑车腾势 Z 正在跑纽北赛道，是一款顶级作品",
-      "link": "https://www.ithome.com/0/895/911.htm",
-      "date": "2025-11-08 17:29",
-      "author": "IT之家",
-      "timestamp": 1762594155.0,
-      "summary": "IT之家 11 月 8 日消息，今天下午，比亚迪腾势汽车总经理李慧在微博发文预告自家的最新车型 —— 腾势 Z。他表示：“我们的超级跑车腾势 Z 目前正在欧洲跑纽北赛道，很多腾势的势友们都很关心，作为一款超级炫酷的高性能超级跑车，腾势 Z 凝聚了几千名工程师多年的用心设计和精心打造，是一款顶级的作品",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "西风显卡就部分 RTX 5070 Ti 深渊 Pro Max 显卡“货不对板”致歉，提供三种解决方案",
-      "link": "https://www.ithome.com/0/895/910.htm",
-      "date": "2025-11-08 17:26",
-      "author": "IT之家",
-      "timestamp": 1762593964.0,
-      "summary": "IT之家 11 月 8 日消息，显卡制造商西风泽弗 (ZEPHYR ZEFU) 本月 6 日就部分 RTX 5070 Ti 深渊 Pro Max 显卡“货不对板”问题（原详情页面厚度为 60mm，部分买家实际收货 50mm 厚度 S 款）致歉，并提供三种解决方案。西风显卡表示，该型号的生产制造环节由",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "京东全球购宣布未来一年新增50个国家馆",
       "link": "https://36kr.com/newsflashes/3544195168284553?f=rss",
       "date": "2025-11-08 17:25",
@@ -339,26 +449,6 @@
       "timestamp": 1762593930.0,
       "summary": "36氪获悉，据京东黑板报消息，11月7日，“驻华使节中国行・走进京东——进博之夜・全球好物享购中国”活动在京东集团全球总部举行。来自阿根廷、阿塞拜疆、比利时、柬埔寨、加拿大、克罗地亚、捷克、芬兰、法国、匈牙利、意大利、日本、哈萨克斯坦、马来西亚、马尔代夫、纳米比亚、巴拿马、新加坡17国驻华使节出席，",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "万亿美元薪酬方案获批后，马斯克誓言特斯拉 Optimus 机器人将“消除贫困”",
-      "link": "https://www.ithome.com/0/895/908.htm",
-      "date": "2025-11-08 17:18",
-      "author": "IT之家",
-      "timestamp": 1762593539.0,
-      "summary": "IT之家 11 月 8 日消息，据《商业内幕》今日报道，马斯克在特斯拉股东大会上放出豪言：“人们常说要消除贫困，为每个人提供卓越的医疗保障。实际上，只有一种方法可以做到，那就是通过 Optimus 机器人。Optimus 将真正消除贫困！”在立下这番豪言壮语之前，马斯克的 1 万亿美元（IT之家注：",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "显卡做的滑板：玩家将华硕 ROG 夜神 RTX 5080 装上滑轮，全程没有断裂",
-      "link": "https://www.ithome.com/0/895/907.htm",
-      "date": "2025-11-08 17:17",
-      "author": "IT之家",
-      "timestamp": 1762593457.0,
-      "summary": "IT之家 11 月 8 日消息，网友 ashleysaidwhat 前天在 Reddit 论坛发文，展示他用华硕 ROG 夜神 RTX 5080 显卡改装的“滑板”。这名玩家发布的视频显示，这张显卡下面确实有四个滑轮，并且真的能踩上去、滑起来，在 10 秒的视频中也没有断裂，充分说明这张显卡散热器的",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -379,16 +469,6 @@
       "timestamp": 1762592820.0,
       "summary": "11月8日，世界互联网大会乌镇峰会发布“2025年度中国互联网企业创新发展十大典型案例”，蚂蚁集团自主研发的“医疗AI驱动的全流程健康管理平台”获选，是其中唯一专业级AI健康产品，目前已应用于蚂蚁集团旗下AI健康应用AQ及其合作伙伴。据介绍，AQ是蚂蚁集团新成立健康事业群的核心产品。上线4个月，AQ",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "微信 Windows / macOS 4.1.4 正式版发布：朋友圈评论可发表情和图片",
-      "link": "https://www.ithome.com/0/895/906.htm",
-      "date": "2025-11-08 17:04",
-      "author": "IT之家",
-      "timestamp": 1762592699.0,
-      "summary": "IT之家 11 月 8 日消息，微信团队昨日发布了最新的 8.0.65 安卓正式版、Windows / macOS 4.1.4 正式版。根据微信团队官方介绍，Windows / macOS 4.1.4 版的新增功能只有一句话 —— 朋友圈评论可发表情和图片。不过，之前发布的 4.1.4 测试版还支持",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -452,16 +532,6 @@
       "category": "Blog"
     },
     {
-      "title": "中国电信Apple Watch一号双终端eSIM业务复通：iPhone必须iOS 26.1以上",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1535148.htm",
-      "date": "2025-11-08 16:52",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1762591935.0,
-      "summary": "据上海电信、南京电信等官方号介绍，中国电信已在全国恢复开通Apple Watch的一号双终端eSIM业务，其他品牌的eSIM手表仍需等待后续通知。一号双终端业务是指用户可以在自己手机号码（主号码）的账户和套餐下，添加手表作为eSIM附属设备（副卡），使手机和手表共用一个号码，共享号码、套餐通话和流量",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "Metsera：接受辉瑞100亿美元收购要约",
       "link": "https://36kr.com/newsflashes/3544133320929158?f=rss",
       "date": "2025-11-08 16:46",
@@ -469,66 +539,6 @@
       "timestamp": 1762591599.0,
       "summary": "美国生物制药企业Metsera当地时间11月7日公告称，已与辉瑞公司达成修订后的合并协议。根据协议，辉瑞将以每股最高86.25美元的价格收购Metsera，其中包含每股65.60美元现金及一项或有价值权（CVR），该权利可使持有人获得每股最高20.65美元的额外现金支付。公告显示，Metsera已接",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "荷兰首相：中国已同意恢复安世芯片供应",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1535146.htm",
-      "date": "2025-11-08 16:42",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1762591348.0,
-      "summary": "荷兰首相Dick Schoof表示，中国已同意恢复从中国工厂交付Nexperia（安世半导体）芯片。Schoof在巴西贝伦举行的气候峰会间隙接受采访时表示：“中国通知我们，他们将允许安世半导体从中国工厂恢复供应。” 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "博主称找到让新能源绿牌没那么丑的方法 网友质疑是否合法",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1535144.htm",
-      "date": "2025-11-08 16:41",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1762591269.0,
-      "summary": "我国现行的新能源车牌没少被吐槽丑，近日有博主称自己找到了让它看起来没那么丑的办法。其实很简单，就是通过3D打印，让车牌上汉字、字母和数字变得立体起来，并粘贴到原车牌上，如此看起来就会有种浮雕的视觉效果，博主形容有点“港澳车牌的感觉”。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "20世纪最具影响力的科学家之一 DNA之父詹姆斯沃森去世：享年97岁",
-      "link": "https://www.cnbeta.com.tw/articles/science/1535142.htm",
-      "date": "2025-11-08 16:36",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1762591014.0,
-      "summary": "据美国冷泉港实验室消息，20世纪最具影响力的科学家之一、DNA双螺旋结构共同发现者、诺贝尔生理学或医学奖得主詹姆斯·沃森（James Dewey Watson）于当地时间11月6日逝世，享年97岁。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "电商128元买128GB内存 真有这种好事吗？",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1535140.htm",
-      "date": "2025-11-08 16:36",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1762591005.0,
-      "summary": "最近内存和固态硬盘的涨价闹得沸沸扬扬，相信大家也在寻找低价的内存。在搜索内存的时候，我们会在某宝/某鱼看到价格低到惊人的128元买128GB的内存，而且还是英特尔大品牌，那为什么说这种内存不能买呢？ 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "澳洲一特斯拉自动驾驶中疑被陨石砸中 挡风玻璃有熔化痕迹",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1535138.htm",
-      "date": "2025-11-08 16:35",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1762590945.0,
-      "summary": "当地时间10月19日晚9时许，澳大利亚南澳州兽医安德鲁·梅尔维尔·史密斯 (Andrew Melville-Smith) 驾驶新买的特斯拉Model Y在高速上行驶时，挡风玻璃突然被一神秘物体猛烈撞击。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "全国50强城市又变了 进前20 GDP必过万亿",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1535136.htm",
-      "date": "2025-11-08 16:34",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1762590856.0,
-      "summary": "全国前50强的城市排名又变化了，不过上海、北京、深圳依然稳居前三，这些城市成为人工智能、新能源汽车最大受益城市。2025年前三季度GDP数据揭示城市经济新格局：京沪深领跑高新产业，广州企稳回升，宁波、青岛挑战传统强市。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
@@ -630,36 +640,6 @@
       "summary": "生活不在别处，美景亦在当下。\n                \n                \n                                        南方周末研究员 李婧",
       "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
-    },
-    {
-      "title": "打破边界！琴澳双城的理想生活图鉴",
-      "link": "https://www.infzm.com/contents/306777",
-      "date": "2025-11-07 23:00",
-      "author": "南方周末-新闻",
-      "timestamp": 1762527600.0,
-      "summary": "赖倩童\n                    \n                    \n                                        责任编辑：戴春晨",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
-      "title": "小马、文远同时回港上市，但自动驾驶还没赢家",
-      "link": "http://www.huxiu.com/article/4802073.html?f=wangzhan",
-      "date": "2025-11-07 22:00",
-      "author": "虎嗅网",
-      "timestamp": 1762524003.0,
-      "summary": "本文来自微信公众号：划重点KeyPoints，作者：常远，编辑：重点君，原文标题：《小马、文远同时回港上市，但楼天成和韩旭都还没赢》，题图来自：视觉中国（文远知行CEO韩旭在港交所庆祝挂牌）划重点：1. 文远知行与小马智行虽成功在港股上市，但商业模式尚未跑通，营收依赖项目订单而非可持续的C端服务。",
-      "source_url": "http://www.huxiu.com",
-      "category": "Blog"
-    },
-    {
-      "title": "我们为什么总在社交平台，看到相亲极品？",
-      "link": "http://www.huxiu.com/article/4799774.html?f=wangzhan",
-      "date": "2025-11-07 20:30",
-      "author": "虎嗅网",
-      "timestamp": 1762518600.0,
-      "summary": "为什么相亲的奇葩越来越多？为什么我们总能刷到那些让人尬到抠脚的相亲极品？下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "source_url": "http://www.huxiu.com",
-      "category": "Blog"
     }
   ]
 }
