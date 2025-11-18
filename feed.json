@@ -2,6 +2,486 @@
   "update_time": "2025-11-18",
   "articles": [
     {
+      "title": "微博自研VibeThinker开源模型，训练成本仅7800美元",
+      "link": "https://36kr.com/newsflashes/3558029845658501?f=rss",
+      "date": "2025-11-18 11:35",
+      "author": "36氪",
+      "timestamp": 1763436907.0,
+      "summary": "36氪获悉，近日，微博正式发布首个自研开源大模型VibeThinker。据介绍，该模型拥有15亿参数，单次“后训练”的成本仅7800美元。该模型在国际数学竞赛基准测试上击败了DeepSeek R1模型。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "三个月暴涨超 3 倍：三星 16GB DDR5 内存价格在韩国失控",
+      "link": "https://www.ithome.com/0/898/226.htm",
+      "date": "2025-11-18 11:34",
+      "author": "IT之家",
+      "timestamp": 1763436847.0,
+      "summary": "IT之家 11 月 18 日消息，科技媒体 Wccftech 昨日（11 月 17 日）发布博文，报道称受全球 DRAM（动态随机存取存储器）短缺及 AI 热潮影响，内存市场价格持续飙升。而在所有地区中，韩国 DIY 市场的价格上涨尤为迅猛。根据韩国电商价格追踪网站 Danawa 的数据，三星电子旗",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "A股三大指数午间休盘集体下跌，AI应用概念大涨",
+      "link": "https://36kr.com/newsflashes/3558027014749318?f=rss",
+      "date": "2025-11-18 11:32",
+      "author": "36氪",
+      "timestamp": 1763436734.0,
+      "summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.56%，深成指跌0.43%，创业板指跌0.43%；AI应用概念大涨，值得买、浪潮软件、视觉中国等多股涨停，中文在线涨超6%；半导体板块走强，龙讯股份、大为股份涨停；锂电、储能概念跌幅居前，华盛锂电跌超13%，璞泰来、多氟多跌超8%。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "（乡村行·看振兴）“中国薏米之乡”点米成“金”",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517477.shtml",
+      "date": "2025-11-18 11:32",
+      "author": "中新网社会新闻",
+      "timestamp": 1763436727.0,
+      "summary": "中新网福建宁化11月18日电 (雷露微)近日，在福建省宁化县石壁镇禾口村薏米展示示范片里，一排排饱满的薏米穗随风摇曳，农户们抢抓农时忙着采收，田间地头处处洋溢着丰收的喜悦。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“汾河滩”变“后花园” 山西静乐绘就生态富民新图景",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517478.shtml",
+      "date": "2025-11-18 11:31",
+      "author": "中新网社会新闻",
+      "timestamp": 1763436719.0,
+      "summary": "中新网忻州11月18日电 题：“汾河滩”变“后花园” 山西静乐绘就生态富民新图景",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "闲鱼线下循环商店加速落地：武汉、苏州、无锡首店相继开业，年内覆盖 6 省 9 城",
+      "link": "https://www.ithome.com/0/898/225.htm",
+      "date": "2025-11-18 11:31",
+      "author": "IT之家",
+      "timestamp": 1763436665.0,
+      "summary": "IT之家 11 月 18 日消息，据电商派报道，闲鱼循环商店华中首店于今日在湖北武汉江岸区后湖大道新荣天街开业，这是继华东、华南之后的又一区域中心店。今年下半年以来，闲鱼循环商店加速推进线下布局，除了 8 月开业的深圳 Apark 店、此次新开的武汉店外，还在苏州无锡 2 地落地城市首店，预计到 1",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "零跑 A10 海苔绿、橡果棕外观公布，11 月 21 日广州车展全球首秀",
+      "link": "https://www.ithome.com/0/898/224.htm",
+      "date": "2025-11-18 11:28",
+      "author": "IT之家",
+      "timestamp": 1763436531.0,
+      "summary": "IT之家 11 月 18 日消息，零跑 A10 将于 11 月 21 日开幕的 2025 广州车展迎来全球首秀，官方今日公布新车的两款配色 —— 海苔绿、橡果棕。目前尚不清楚这款新车的具体配置以及售价信息。据IT之家此前报道，在今年 10 月的零跑汽车媒体沟通会上，零跑汽车 CEO 朱江明透露：零跑",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "比特币价格七个月来首次跌破9万美元关口",
+      "link": "https://36kr.com/newsflashes/3558022991821704?f=rss",
+      "date": "2025-11-18 11:28",
+      "author": "36氪",
+      "timestamp": 1763436489.0,
+      "summary": "36氪获悉，比特币价格七个月来首次跌破9万美元关口。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "宁夏最低气温降至零下14℃",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517473.shtml",
+      "date": "2025-11-18 11:25",
+      "author": "中新网社会新闻",
+      "timestamp": 1763436359.0,
+      "summary": "中新网银川11月18日电 (记者 杨迪)受寒潮天气影响，18日宁夏最低气温降至-14℃，迎来今年下半年以来的“最冷早晨”。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "《尼尔》制作人横尾太郎打破沉默：不是我懒，是游戏项目都被砍了",
+      "link": "https://www.ithome.com/0/898/221.htm",
+      "date": "2025-11-18 11:25",
+      "author": "IT之家",
+      "timestamp": 1763436348.0,
+      "summary": "IT之家 11 月 18 日消息，日媒 4Gamer 于 11 月 14 日发布博文，报道称《尼尔：自动人形》（NieR:Automata）制作人横尾太郎回应了粉丝关于他自 2017 年后便“无所事事”的疑问。他澄清，自己实际参与了多个游戏项目的开发工作，但这些项目均因故在开发中途被取消，最终未能面",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Databricks正洽谈新一轮融资，估值有望超1300亿美元",
+      "link": "https://36kr.com/newsflashes/3558011710372997?f=rss",
+      "date": "2025-11-18 11:22",
+      "author": "36氪",
+      "timestamp": 1763436161.0,
+      "summary": "11月18日，据报道，美国数据与人工智能公司Databricks正在洽谈新一轮融资，估值有望超过1300亿美元，较两个月前的上一轮融资高出约30%。（界面）",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果在iOS 26.2中测试隔空投送PIN码配对 经过配对后30天内免认证即可快速连接",
+      "link": "https://www.landiannews.com/archives/111163.html",
+      "date": "2025-11-18 11:21",
+      "author": "蓝点网",
+      "timestamp": 1763436079.0,
+      "summary": "#系统资讯 苹果在 iOS 26.2 测试版新增隔空投送 PIN 码配对，经过配对后 30 天内免认证即可快速连接并分享内容。PIN 码配对是解决非联系人传送问题，目前 AirDrop 默认只能联系人分享内容，否则用户需要手动开启接收共享，10 分钟后自动关闭陌生人共享。查看全文：https://o",
+      "source_url": "https://www.landiannews.com",
+      "category": "Blog"
+    },
+    {
+      "title": "酷态科三体联名充电宝亮相：基于 10 号超级电能棒打造，水滴图案",
+      "link": "https://www.ithome.com/0/898/214.htm",
+      "date": "2025-11-18 11:18",
+      "author": "IT之家",
+      "timestamp": 1763435887.0,
+      "summary": "IT之家 11 月 18 日消息，小米生态链品牌酷态科今日官宣，将推一款三体联名充电宝新品。酷态科表示：“如果丁仪和汪淼入职酷态科，他会出什么样的充电宝？”从海报可以看到，这款充电宝标有数字 10，有望基于 10 号超级电能棒打造，印有三体标志、水滴图案，官方暂未透露更多信息。作为参考，酷态科 10",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "瑞银：预计明年中国股市将迎来又一个丰年",
+      "link": "https://36kr.com/newsflashes/3558011241282691?f=rss",
+      "date": "2025-11-18 11:16",
+      "author": "36氪",
+      "timestamp": 1763435772.0,
+      "summary": "瑞银投资银行中国股票策略研究主管王宗豪在2026年展望报告中指出，预计中国股市将迎来又一个丰年，因包括创新领域发展等许多有利的驱动因素将继续支撑市场。MSCI中国指数明年末目标位为100，较当前有14%的上涨空间。（财联社）",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "高盛资管最新研判：美联储在2026年可能降息两次",
+      "link": "https://36kr.com/newsflashes/3558005944761224?f=rss",
+      "date": "2025-11-18 11:10",
+      "author": "36氪",
+      "timestamp": 1763435448.0,
+      "summary": "11月18日，高盛资产管理发布了2026年投资展望报告。其中提到，各主要市场的央行政策或走向分化。鉴于劳动力市场疲软，高盛资产管理预计美联储在2026年可能降息两次。欧洲央行在可预见的未来可能维持利率不变，而英国央行可能在通胀改善、劳动力市场相对乏力、潜在加税的情况下于12月恢复降息。日本通胀高企且",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "MONTECH 推出 NX600 风冷散热器：双塔双风扇，六热管铜底",
+      "link": "https://www.ithome.com/0/898/213.htm",
+      "date": "2025-11-18 11:09",
+      "author": "IT之家",
+      "timestamp": 1763435396.0,
+      "summary": "IT之家 11 月 18 日消息，MONTECH 君主科技昨日宣布推出 NX600 系列风冷散热器。其采用双塔双风扇 + 六热管铜底的整体设计，包含黑白两种配色，均可选标准无光和 ARGB 版本。MONTECH NX600 拥有 2 组 52 片鳍片堆栈，搭载 12028 尺寸风扇，高度为 160m",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "PS4 模拟器 ShadPS4 发布 0.12.6 版，《血源诅咒》游戏部分场景帧率翻倍",
+      "link": "https://www.ithome.com/0/898/212.htm",
+      "date": "2025-11-18 11:09",
+      "author": "IT之家",
+      "timestamp": 1763435363.0,
+      "summary": "IT之家 11 月 18 日消息，科技媒体 Wccftech 昨日（11 月 17 日）发布博文，报道称 PS4 模拟器 ShadPS4 最新发布 0.12.6 新版，提升《血源诅咒》和《战神 3 重制版》等多款 PS4 独占游戏性能。IT之家援引博文介绍，其中热门游戏《血源诅咒》受益最大，根据 Y",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "星河动力智神星一号火箭主发动机完成深度变推力试车，突破多项关键技术",
+      "link": "https://www.ithome.com/0/898/210.htm",
+      "date": "2025-11-18 11:07",
+      "author": "IT之家",
+      "timestamp": 1763435279.0,
+      "summary": "IT之家 11 月 18 日消息，星河动力航天宣布，近日，公司顺利完成智神星一号运载火箭主发动机 —— 苍穹-50（CQ-50）液氧 / 煤油发动机变推力试车。苍穹系列发动机采用星河动力航天自研的针栓推力室方案，该方案燃烧效率高，自适应性强，生产成本低，结构易于迭代优化，且在各种工况下都具有燃烧稳定",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "应对强降温 农技专家深入田间守护蔬菜过寒冬",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517459.shtml",
+      "date": "2025-11-18 11:05",
+      "author": "中新网社会新闻",
+      "timestamp": 1763435150.0,
+      "summary": "今明两天，寒潮继续给我国中东部带来大风、降温天气，中央气象台今天继续发布寒潮蓝色预警和大风蓝色预警。气温将自北向南陆续跌入低谷，并且会大面积创下半年来新低。从降温进程来看，今天，寒潮大举南下，将直抵华南，其中黄淮南部到长江中下游沿线为降温核心区。明天，云南至华南一带气温还会继续下滑。黑龙江、陕西、四",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "埃隆马斯克的人工智能公司xAI推出Grok 4.1版 显著降低幻觉并且模型可以免费使用",
+      "link": "https://www.landiannews.com/archives/111162.html",
+      "date": "2025-11-18 11:03",
+      "author": "蓝点网",
+      "timestamp": 1763434995.0,
+      "summary": "#人工智能 埃隆马斯克的人工智能公司 xAI 推出 Grok 4.1，分为 Grok 4.1 和 Grok 4.1 Thinking，两个模型都显著降低了幻觉，在 Text Arena 测试中取得前二的好成绩。Grok 4.1 目前可以限制配额免费使用，而 SuperGrok 订阅用户则可以获得更高",
+      "source_url": "https://www.landiannews.com",
+      "category": "Blog"
+    },
+    {
+      "title": "高盛资管：2026年各股票市场差异或将扩大 倾向多元化配置",
+      "link": "https://36kr.com/newsflashes/3557995829361545?f=rss",
+      "date": "2025-11-18 11:00",
+      "author": "36氪",
+      "timestamp": 1763434831.0,
+      "summary": "11月18日，高盛资产管理发布了2026年投资展望报告。其中就公开市场主题，该报告认为，各股票市场差异或将扩大，倾向全球股票多元化配置、基本面与量化策略结合。固定收益强调久期和战略性曲线仓位的多元配置，以应对复杂的宏观信号。证券化、高收益及新兴市场信用产品可能出现良机。私募市场维度，高盛资产管理判断",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "预售 1449 元，华为 FreeBuds Pro 5 悦彰耳机完整规格公布",
+      "link": "https://www.ithome.com/0/898/209.htm",
+      "date": "2025-11-18 10:57",
+      "author": "IT之家",
+      "timestamp": 1763434676.0,
+      "summary": "IT之家 11 月 18 日消息，华为 FreeBuds Pro 5 悦彰耳机今日开启预售，建议零售价 1499 元，到手价 1449 元，将于 11 月 25 日 10:08 开启首销。这款新品的完整规格现已公布。IT之家从商品页面获悉，该耳机采用全新悦彰星环设计，提供四款不同尺寸的硅胶耳塞；充电",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "我国首个采用冷却塔的“华龙一号”核电站正式开建",
+      "link": "https://www.ithome.com/0/898/208.htm",
+      "date": "2025-11-18 10:55",
+      "author": "IT之家",
+      "timestamp": 1763434504.0,
+      "summary": "IT之家 11 月 18 日消息，山东招远核电有限公司的中广核招远核电 1 号机组今日进行核反应堆主厂房第一罐混凝土浇筑（FCD），这也是我国首个采用冷却塔的“华龙一号”核电站，标志着山东招远核电基地建设全面启动。山东招远核电项目位于山东省烟台市招远市张星镇，是中广核在山东落地的首个核电项目，也是中",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "一加李杰透露 Ace 6T 搭载 8 开头大电池 + 100W 快充，将会是唯一一款",
+      "link": "https://www.ithome.com/0/898/207.htm",
+      "date": "2025-11-18 10:52",
+      "author": "IT之家",
+      "timestamp": 1763434366.0,
+      "summary": "IT之家 11 月 18 日消息，一加 Ace 6T 手机将于本月发布，号称「性能旗舰新选择」，全球首发搭载高通年度旗舰芯片 —— 第五代骁龙 8，搭载风驰游戏内核，配备 8000 毫安时以上电池。一加中国区总裁李杰今日透露，一加 Ace6T 支持 100W 超级闪充，8 开头大电池 +100W 充",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "DRAM 现货价年涨 170% 催生魔幻操作，有分销商要求内存和主板 1:1 搭售",
+      "link": "https://www.ithome.com/0/898/206.htm",
+      "date": "2025-11-18 10:52",
+      "author": "IT之家",
+      "timestamp": 1763434328.0,
+      "summary": "IT之家 11 月 18 日消息，科技媒体 Wccftech 昨日（11 月 17 日）发布博文，报道称，全球内存市场因供应严重短缺，已进入“恐慌性抢购”阶段。供应链中的部分分销商为攫（IT之家注读音：jué）取额外利润，开始采取强制捆绑销售策略，要求消费者在购买 DDR5 等内存条时，必须同时购买",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "哈曼 Ready Display 车用显示屏率先获得 HDR10+ Automotive 认证",
+      "link": "https://www.ithome.com/0/898/205.htm",
+      "date": "2025-11-18 10:48",
+      "author": "IT之家",
+      "timestamp": 1763434086.0,
+      "summary": "IT之家 11 月 18 日消息，三星电子旗下 HARMAN 哈曼美国当地时间 12 日宣布，其 Ready Display 车用显示屏成为业内首款获得 HDR10+ Automotive 认证的产品。HDR10+ Automotive 这项车规级 HDR10+ 技术规范由哈曼、三星、松下三方共同制",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "火狐浏览器每夜构建版新增自定义快捷键功能 这也是众多用户自2004年开始呼吁的功能",
+      "link": "https://www.landiannews.com/archives/111161.html",
+      "date": "2025-11-18 10:39",
+      "author": "蓝点网",
+      "timestamp": 1763433562.0,
+      "summary": "#软件资讯 火狐浏览器每夜构建版开始新增自定义快捷键功能，这也是众多用户自 2004 年就开始呼吁的功能 (Firefox 1.0 就是在 2004 年发布的)。目前在每夜构建版中用户可以自定义多种快捷键，用户可以根据自己习惯进行调整以提高操作效率。最近两年火狐浏览器新功能更新频率明显提升，这应该也",
+      "source_url": "https://www.landiannews.com",
+      "category": "Blog"
+    },
+    {
+      "title": "被历史雪藏的芯片先驱：世界首款微处理器 MP944 揭秘，比英特尔 4004 早 1 年问世",
+      "link": "https://www.ithome.com/0/898/204.htm",
+      "date": "2025-11-18 10:38",
+      "author": "IT之家",
+      "timestamp": 1763433530.0,
+      "summary": "IT之家 11 月 18 日消息，科技媒体 Tom's Hardware 于 11 月 16 日发布博文，报道称长期以来，公众普遍认为英特尔 4004 是世界首款微处理器，这一成就奠定了个人电脑产业的基础。然而，真正的“世界第一”另有其主，它就是 MP944 芯片。图源：Public DomainI",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "巩立姣：临别拥抱，是纪念也是希冀",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517441.shtml",
+      "date": "2025-11-18 10:36",
+      "author": "中新网社会新闻",
+      "timestamp": 1763433376.0,
+      "summary": "临别拥抱，是纪念也是希冀(全运与我)",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "飞傲 CD 随身听 DM15 R2R 上市：模拟传统音色、HiFi 级 USB 声卡，1699 元",
+      "link": "https://www.ithome.com/0/898/202.htm",
+      "date": "2025-11-18 10:34",
+      "author": "IT之家",
+      "timestamp": 1763433279.0,
+      "summary": "IT之家 11 月 18 日消息，飞傲全新 CD 随身听 DM15 R2R 今日正式上市，官方零售价 1699 元。DM15 R2R 实现了更小体积、更强配置，随身尺寸中采用五核心设计，CD 伺服、USB DAC、R2R 模组、蓝牙模组，最终由独立的 MCU 控制协调；单端输出功率提升 66% 至",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "X/Twitter将打击使用VPN等工具伪造地区 检测到VPN时将不会显示具体国家或地区",
+      "link": "https://www.landiannews.com/archives/111160.html",
+      "date": "2025-11-18 10:23",
+      "author": "蓝点网",
+      "timestamp": 1763432597.0,
+      "summary": "#软件资讯 社交媒体平台 X/Twitter 将打击使用 VPN 或代理工具伪造地区的行为，检测到 VPN 时将不显示具体的国家或地区。这个功能对普通用户没有影响，普通用户即便使用 VPN 或代理也无所谓，主要打击对象还是那些冒充特定国家或地区的人的账户，以及打击水军。查看全文：https://ou",
+      "source_url": "https://www.landiannews.com",
+      "category": "Blog"
+    },
+    {
+      "title": "比特币已跌至91,000美元 抹平2025年涨幅的同时造成高达45亿美元(含其他币种)的清算",
+      "link": "https://www.landiannews.com/archives/111159.html",
+      "date": "2025-11-18 10:10",
+      "author": "蓝点网",
+      "timestamp": 1763431837.0,
+      "summary": "#加密货币 比特币已跌至 91,000 美元，抹平 2025 年涨幅的同时造成高达 45 亿美元 (含其他币种) 的清算，杠杆多头损失极其惨重。截止至本文发布时比特币跌至 91,500 美元，相当于回到 2024 年 11 月的价格，较高峰期的 12 万美元下跌 30%。查看全文：https://o",
+      "source_url": "https://www.landiannews.com",
+      "category": "Blog"
+    },
+    {
+      "title": "珠海警方通报男子持小刀伤人：2人被划伤送医",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517402.shtml",
+      "date": "2025-11-18 10:06",
+      "author": "中新网社会新闻",
+      "timestamp": 1763431572.0,
+      "summary": "中新网11月18日电 珠海市公安局拱北口岸公安局18日发布警情通报：2025年11月17日20时29分，我局接群众报警称，一男子在香洲区迎宾南路附近持小刀伤人。接报后，民警立即到场处置，迅速控制犯罪嫌疑人林某(男，48岁)。现场有2人被划伤，均伤势轻微，已及时送医治疗。经查，林某曾有多次精神类疾病就",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "两岸作家相聚武夷山市采风",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517410.shtml",
+      "date": "2025-11-18 10:03",
+      "author": "中新网社会新闻",
+      "timestamp": 1763431406.0,
+      "summary": "中新网福建南平11月18日电 (彭小斌)以“茶香两岸·文脉相连”为主题的两岸文艺工作者交流采风暨创作研讨会15日至16日在福建武夷山市举办。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "屏幕补光灯：微软计划通过PowerToys提供屏幕虚拟光环 帮助用户视频通话时提高亮度",
+      "link": "https://www.landiannews.com/archives/111145.html",
+      "date": "2025-11-18 09:50",
+      "author": "蓝点网",
+      "timestamp": 1763430641.0,
+      "summary": "#软件资讯 屏幕补光灯：微软计划通过 PowerToys 提供屏幕虚拟光环，帮助用户视频通话时提高亮度从而改善图像质量。 这个功能将通过 Windows Edge Light 开源工具实现，该工具主要功能就是在屏幕四周显示白色光条，这样可以照亮用户面部。查看全文：https://ourl.co/11",
+      "source_url": "https://www.landiannews.com",
+      "category": "Blog"
+    },
+    {
+      "title": "微软推出Windows 11 25H2新预览版 修复任务管理器产生大量进程无法正常退出的问题",
+      "link": "https://www.landiannews.com/archives/111144.html",
+      "date": "2025-11-18 09:37",
+      "author": "蓝点网",
+      "timestamp": 1763429858.0,
+      "summary": "#系统资讯 微软推出 Windows 11 25H2 新预览版，修复任务管理器产生大量进程无法正常退出的问题。这个问题是早前更新引起的，当用户打开任务管理器并正常关闭后，任务管理器进程还会保留，每次打开 / 关闭都会产生 1 个进程，这些进程会在后台持续消耗内存和 CPU 资源。查看全文：https",
+      "source_url": "https://www.landiannews.com",
+      "category": "Blog"
+    },
+    {
+      "title": "得一次就能终身免疫？这些和流感有关的说法可信吗",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517373.shtml",
+      "date": "2025-11-18 09:33",
+      "author": "中新网社会新闻",
+      "timestamp": 1763429596.0,
+      "summary": "这些和流感有关的说法可信吗",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "为了让你吃上现炒，老乡鸡们开始用机器人颠勺了",
+      "link": "https://36kr.com/p/3552378855242628?f=rss",
+      "date": "2025-11-18 09:30",
+      "author": "36氪",
+      "timestamp": 1763429400.0,
+      "summary": "作者｜黄楠\n  编辑｜袁斯来\n  “西贝莜面村”风波后，预制菜这三个字都成了禁忌。所以，连锁餐厅后厨，出现了一道奇观：数台炒菜机器人整齐排列。高峰期也只有几个工作人员，他们做的，就是按照菜谱切配好的食材倒入锅中。\n  两分钟不到，机器人就完成出餐。取餐后，机器人又自动进入清洁程环节，为下一份订单的烹",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "宁波市卫健委通报一患儿不幸离世：已成立调查组",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517366.shtml",
+      "date": "2025-11-18 09:25",
+      "author": "中新网社会新闻",
+      "timestamp": 1763429103.0,
+      "summary": "中新网11月18日电 据宁波市卫生健康委微信公众号“健康宁波”消息，11月17日晚，宁波市卫生健康委发布情况通报：近日，宁波大学附属妇女儿童医院一医疗纠纷事件引发关注，对患儿的不幸离世，宁波市卫生健康委深感痛心。目前，宁波市卫生健康委已成立调查组，本着实事求是、客观公正的原则，对该事件进行彻查，依法",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "寒潮南下冰冻线将抵达江苏湖北等地 我国大部进入晴朗干燥模式",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517364.shtml",
+      "date": "2025-11-18 09:13",
+      "author": "中新网社会新闻",
+      "timestamp": 1763428390.0,
+      "summary": "中国天气网讯 下半年首场寒潮影响尚未结束，南方多地气温今天(11月18日)将继续下滑，最低温度0℃线将南压到苏皖南部至湖北中部一带，而北方气温会开始回升。同时，今天全国降水将明显减少，转为晴朗干燥模式。预计未来一周，全国大部晴多雨少、天气干燥，需注意补水。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "健身房成“流量素材” 直播顾客锻炼已成普遍现象",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517359.shtml",
+      "date": "2025-11-18 09:09",
+      "author": "中新网社会新闻",
+      "timestamp": 1763428190.0,
+      "summary": "在杠铃区做动作被怼脸拍！ 健身房直播顾客锻炼已成普遍现象",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "企业可与哪些人签订竞业限制协议？人社部解答",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517355.shtml",
+      "date": "2025-11-18 09:07",
+      "author": "中新网社会新闻",
+      "timestamp": 1763428028.0,
+      "summary": "中新网11月18日电 企业可与哪些人签订竞业限制协议？人社部11月18日通过官方微信公众号作出解答。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "寒潮抵达华南 寒潮和大风预警继续发布",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517352.shtml",
+      "date": "2025-11-18 09:03",
+      "author": "中新网社会新闻",
+      "timestamp": 1763427796.0,
+      "summary": "中新网11月18日电 据中央气象台网站消息，受寒潮影响，今晨，黄淮东部、江淮、江汉、江南北部和西部及贵州东部、广西中北部、黑龙江东部等地出现6～10℃降温，局地降温幅度超过12℃。同时，黑龙江东部、内蒙古中东部、河北北部、北京西部、河南西部、湖北东部、安徽西南部、湖南北部和东部、江西北部以及新疆北部",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "中央气象台：寒潮继续影响江南华南等地",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517333.shtml",
+      "date": "2025-11-18 09:02",
+      "author": "中新网社会新闻",
+      "timestamp": 1763427772.0,
+      "summary": "中新网11月18日电 据中央气象台网站消息，昨日，黄淮及以南出现大风降温，黑龙江、吉林、陕西等地出现降雪。预计18日，寒潮将继续影响华南等地，关注大风降温对能源供应、人体健康、农牧业等的影响；东部和南部海区关注海上大风危害。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "充电需求大幅攀升 充电服务能力如何“倍增”",
+      "link": "https://www.chinanews.com.cn/sh/2025/11-18/10517346.shtml",
+      "date": "2025-11-18 08:29",
+      "author": "中新网社会新闻",
+      "timestamp": 1763425796.0,
+      "summary": "到2027年底满足超8000万辆电动汽车充电需求",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "8点1氪丨无需结婚证，多省实现生育津贴直发个人；刘强东承诺京东点评“永不商业化”；网红酸奶Blueglass部分产品降价60%",
+      "link": "https://36kr.com/p/3557820671589510?f=rss",
+      "date": "2025-11-18 08:04",
+      "author": "36氪",
+      "timestamp": 1763424245.0,
+      "summary": "今日热点导览\n  京东正式推出旗下现制饮品品牌“七鲜咖啡”\n  盒马创始人今 年2月创 立的“派特鲜生”，12月中旬将全部关闭\n  奔驰CEO：欧洲2035年后全面淘汰燃油新车不再可行\n  华为：于11月25日举行新品发布会，将发布华为Mate 80系列等新品\n  NBA调查赌球：要求至少10名湖人",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "强制性国标征求意见，新能源汽车不得“狂飙”？",
+      "link": "https://www.infzm.com/contents/307724",
+      "date": "2025-11-18 08:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1763424000.0,
+      "summary": "标准起草工作组提到，近年来，纯电动汽车、插电式混合动力汽车启动加速失控事故多发，其多是由于驾驶人对高加速模式的驾驶准备和操控能力不足。\n\n2025年7月，最高人民法院发布三起涉机动车环境监管典型案例，涉及OBD检测造假。\n\n过去“手部脱离”和“视线脱离”检测都有人钻空子，现在新规要把两个识别组合使用",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "Google推出全新AI气象模型 天气预报效率与准确性大幅提升",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1536758.htm",
+      "date": "2025-11-18 06:42",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1763419334.0,
+      "summary": "Google于11月17日宣布全面升级其天气预报服务，采用最新研发的AI气象模型“WeatherNext 2”。这一新模型将被整合到Google多款热门产品中，包括搜索、Gemini及Pixel手机。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
       "title": "谷歌在全球推出人工智能“航班优惠”工具",
       "link": "https://www.cnbeta.com.tw/articles/tech/1536756.htm",
       "date": "2025-11-18 04:26",
@@ -22,56 +502,6 @@
       "category": "Blog"
     },
     {
-      "title": "TGA 2025 颁奖礼提名名单揭晓，六款游戏角逐年度大奖",
-      "link": "https://www.ithome.com/0/898/138.htm",
-      "date": "2025-11-18 02:53",
-      "author": "IT之家",
-      "timestamp": 1763405591.0,
-      "summary": "IT之家 11 月 18 日消息，The Game Awards（TGA）是由加拿大籍游戏媒体人杰夫吉斯利主办并主持的电子游戏奖项，以表彰全球过去一年内发售的优秀电子游戏，其顾问委员会成员包括索尼、微软、任天堂、苹果等。TGA 2025 提名名单已经全部揭晓，IT之家附名单如下：年度游戏《光与影：3",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果 watchOS 26.2 开发者预览版 Beta 3 发布",
-      "link": "https://www.ithome.com/0/898/137.htm",
-      "date": "2025-11-18 02:10",
-      "author": "IT之家",
-      "timestamp": 1763403012.0,
-      "summary": "【点此直达升级教程】  IT之家 11 月 18 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.2 开发者预览版 Beta 3 更新（内部版本号：23S5297b），本次更新距离上次发布 Beta/RC 间隔 5 天。  如何升级 iOS / iPadOS / wa",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果 macOS 26.2 开发者预览版 Beta 3 发布",
-      "link": "https://www.ithome.com/0/898/136.htm",
-      "date": "2025-11-18 02:10",
-      "author": "IT之家",
-      "timestamp": 1763403012.0,
-      "summary": "IT之家 11 月 18 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.2 开发者预览版 Beta 3 更新（内部版本号：25C5048a），本次更新距离上次发布 Beta/RC 间隔 5 天。  如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果 iOS/iPadOS 26.2 开发者预览版 Beta 3 发布",
-      "link": "https://www.ithome.com/0/898/135.htm",
-      "date": "2025-11-18 02:10",
-      "author": "IT之家",
-      "timestamp": 1763403011.0,
-      "summary": "【点此直达升级教程】  IT之家 11 月 18 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.2 开发者预览版 Beta 3 更新（内部版本号：23C5044b），本次更新距离上次发布 Beta/RC 间隔 5 天。  如何升级 iOS / iPadOS",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "巨石强森主演：迪士尼《海洋奇缘：启航》真人电影首支预告发布，北美明年 7 月 10 日上映",
-      "link": "https://www.ithome.com/0/898/134.htm",
-      "date": "2025-11-18 01:51",
-      "author": "IT之家",
-      "timestamp": 1763401890.0,
-      "summary": "IT之家 11 月 18 日消息，迪士尼电影官方今日发布了《海洋奇缘》真人电影《海洋奇缘：启航》（暂译）首支预告，影片将于 2026 年暑期即将全球献映（2026 年 7 月 10 日在北美地区上映）。IT之家查询获悉，澳大利亚女演员 Catherine Laga'aia（凯瑟琳・拉加艾亚）饰莫阿娜",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "2025年全球新增用电需求可全部由太阳能和风能覆盖",
       "link": "https://www.cnbeta.com.tw/articles/tech/1536752.htm",
       "date": "2025-11-18 01:33",
@@ -79,106 +509,6 @@
       "timestamp": 1763400817.0,
       "summary": "根据独立能源智库Ember最新数据，2025年前三季度，太阳能和风能的快速增长已满足全球新增电力需求，这是化石能源发电自疫情以来首次没有增长。Ember预计，今年全年化石能源发电将首次出现零增长。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "TGA 2025 年度游戏提名公布：《光与影：33 号远征队》以 12 项提名位列榜首",
-      "link": "https://www.ithome.com/0/898/133.htm",
-      "date": "2025-11-18 01:32",
-      "author": "IT之家",
-      "timestamp": 1763400730.0,
-      "summary": "IT之家 11 月 18 日消息，TGA 2025 提名现已正式公布，共有 29 个常规奖项，其中 6 款游戏获得年度游戏提名，将角逐今年 TGA 最高荣耀：《光与影：33 号远征队》《死亡搁浅 2：冥滩之上》《咚奇刚：蕉力全开》《黑帝斯 2》《空洞骑士：丝之歌》《天国：拯救 2》IT之家注意到，游",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "金士顿推出双接口便携式固态硬盘：U 盘型外观，SSD 级性能",
-      "link": "https://www.ithome.com/0/898/132.htm",
-      "date": "2025-11-18 00:15",
-      "author": "IT之家",
-      "timestamp": 1763396139.0,
-      "summary": "IT之家 11 月 18 日消息，金士顿 Kingston 美国当地时间 17 日宣布推出双接口便携式固态硬盘。这一型号外观上看似传统 U 盘，却能提供 SSD 级的 USB 3.2 Gen 2 (10Gbps) 性能。金士顿双接口便携式固态硬盘三维 71.85mm × 21.1mm × 8.6mm",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "电影《阿凡达 3：火与烬》正片片段首曝，内地定档 12 月 19 日上映",
-      "link": "https://www.ithome.com/0/898/131.htm",
-      "date": "2025-11-18 00:09",
-      "author": "IT之家",
-      "timestamp": 1763395793.0,
-      "summary": "IT之家 11 月 18 日消息，电影《阿凡达 3：火与烬》发布了首支正片先行片段，讲述了灰烬族抓捕杰克家人的情节，本片已定档 12 月 19 日在中国内地上映。IT之家注意到，《阿凡达 3：火与烬》还发布了 IMAX、杜比、RealD 3D、Fandango、4DX、ScreenX 等制式海报。I",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "铭瑄 AMD B850 / X870 主板新品确认对未来处理器支持",
-      "link": "https://www.ithome.com/0/898/130.htm",
-      "date": "2025-11-18 00:05",
-      "author": "IT之家",
-      "timestamp": 1763395543.0,
-      "summary": "IT之家 11 月 18 日消息，铭瑄近来在中英文官网上线了多款 AMD AM5 主板新品，包括其首款 X870 主板 MS-iCraft X870M 和采用二次元风格设计的 MS-iCraft B850 AIGA、MS-iCraft B850M CROSS，这些主板均在产品介绍中提到了对未来处理器",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "消息称华为 Mate 80 Pro 手机尺寸很友好，与 70 标准版相近",
-      "link": "https://www.ithome.com/0/898/129.htm",
-      "date": "2025-11-17 23:57",
-      "author": "IT之家",
-      "timestamp": 1763395048.0,
-      "summary": "IT之家 11 月 17 日消息，博主 @熠熠玩数码 发文透露，称华为 Mate 80 Pro 系列手机尺寸很友好，大致如下：80 Pro ≈ 70 标准版80 Pro Max ≈ 70 Pro / Pro＋博主暂未透露他所指的 70 系列机型具体所指，但预计为 Mate 70 系列手机。IT之家附",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "太空竞赛应比接人回家的速度：央媒“玉渊谭天”揭秘中国如何做到三位航天员 9 天平安落地",
-      "link": "https://www.ithome.com/0/898/128.htm",
-      "date": "2025-11-17 23:44",
-      "author": "IT之家",
-      "timestamp": 1763394291.0,
-      "summary": "IT之家 11 月 17 日消息，北京时间 2025 年 11 月 14 日 16 时 40 分，载着神舟二十号航天员乘组（陈冬、陈中瑞、王杰）的神舟二十一号载人飞船返回舱在东风着陆场成功着陆，累计在轨飞行 204 天。从神舟二十号飞船决定推迟返航任务到中间确定方案，再到三位航天员平安落地，一共花费",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "双 USB Type-C 设计、搭载全尺寸 HDMI 接口？索尼 Alpha 7 V 相机最新谍照曝光",
-      "link": "https://www.ithome.com/0/898/127.htm",
-      "date": "2025-11-17 23:32",
-      "author": "IT之家",
-      "timestamp": 1763393546.0,
-      "summary": "IT之家 11 月 17 日消息，消息源 Sony Alpha Rumors 今天发布索尼 Alpha 7 V 相机的最新谍照，显示这款相机将采用双 USB Type-C 接口设计。据报道，消息源最初将该谍照误读为 Alpha 7 V 相机取消 Micro-HDMI 接口，不过根据文章后续更新，“取",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "消息称奥迪将推出美国市场专属增程 SUV，对标路虎卫士",
-      "link": "https://www.ithome.com/0/898/126.htm",
-      "date": "2025-11-17 23:19",
-      "author": "IT之家",
-      "timestamp": 1763392779.0,
-      "summary": "IT之家 11 月 17 日消息，据汽车媒体 CarCoops 今天报道，奥迪将在美国市场打造一款对标路虎卫士的 SUV 车型，预计将交由 Scout 代工，搭载增程动力系统。据报道，这款秘密研发的 SUV 将是一款增程混动车，专为美国市场打造，并将在美国本地生产，但奥迪自身并不会在美国建立自家新工",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "中芯国际：存储器价格过高导致客户远期观望，高价位态势预计将持续",
-      "link": "https://www.ithome.com/0/898/125.htm",
-      "date": "2025-11-17 23:17",
-      "author": "IT之家",
-      "timestamp": 1763392639.0,
-      "summary": "IT之家 11 月 17 日消息，中芯国际第四季度营收指引环比持平至增长 2%，远低于市场预期，公司管理层将增长乏力归因于存储器供应紧缺及价格飙升导致客户对明年前景保持谨慎。今日，中芯国际在投资者关系活动记录表中称，公司的产线实际上非常满，三季度产能利用率都到 95.8% 了，这说明订单很多，产线是",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "任天堂《塞尔达传说》真人电影现场剧照公布，2027 年 5 月 7 日首映",
-      "link": "https://www.ithome.com/0/898/124.htm",
-      "date": "2025-11-17 23:16",
-      "author": "IT之家",
-      "timestamp": 1763392587.0,
-      "summary": "IT之家 11 月 17 日消息，任天堂在“Nintendo Today!”App 上宣布，真人版《塞尔达传说》开始拍摄，并公布了几张剧照，包括由博・布拉加森（Bo Bragason）所饰演的塞尔达公主和本杰明・埃文・安斯沃思（Benjamin Evan Ainsworth）饰演的林克。真人版《塞尔",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -222,26 +552,6 @@
       "category": "Blog"
     },
     {
-      "title": "2025年青海省海西州文化走亲活动温州落幕",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517285.shtml",
-      "date": "2025-11-17 21:59",
-      "author": "中新网社会新闻",
-      "timestamp": 1763387987.0,
-      "summary": "中新网西宁11月17日电 (张红梅 王岳 孙睿)11月17日，以“浙青共绘同心圆·山海和鸣新篇章”为主题的2025年青海省海西州文化走亲暨文旅推介活动在浙江温州落幕。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "诺贝尔物理学奖得主迪迪埃·奎洛兹：探索系外行星是为了在地球上和平生活",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517281.shtml",
-      "date": "2025-11-17 21:54",
-      "author": "中新网社会新闻",
-      "timestamp": 1763387689.0,
-      "summary": "中新网上海11月17日电 (记者 陈静)第十三期“浦江科学大师讲坛”17日在复旦大学相辉堂举行。诺贝尔物理学奖得主、瑞士物理学家迪迪埃·奎洛兹(Didier Queloz)以“系外行星革命及其对宇宙生命的影响”为题，与上海市高校及中学师生代表面对面畅谈，带领大家开启一场关于天体物理学的奇妙之旅。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
       "title": "俄罗斯对归国旅客实施24小时手机数据封禁 以防止无人机威胁",
       "link": "https://www.cnbeta.com.tw/articles/tech/1536742.htm",
       "date": "2025-11-17 21:41",
@@ -250,26 +560,6 @@
       "summary": "俄罗斯政府近日采取新措施，针对从国外返回的移动用户实施最长24小时的移动互联网访问封锁。官方称，此举旨在防止乌克兰无人机利用俄罗斯SIM卡进行导航。据俄罗斯数字发展部介绍，SIM卡若在连接国外网络后再次接入俄罗斯本地网络，会被自动禁用，直至用户确认其属于真实用户、而非无人设备。用户可通过验证码认证或",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
-    },
-    {
-      "title": "多国使节武夷山品茗话发展",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517265.shtml",
-      "date": "2025-11-17 21:38",
-      "author": "中新网社会新闻",
-      "timestamp": 1763386716.0,
-      "summary": "中新社福建武夷山11月17日电 (记者 张丽君)第十七届海峡两岸茶业博览会系列活动之“外交官看武夷”活动17日在福建省武夷山举行。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "从一场交流会说起，江西如何打破国际教育“单向引进”？",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517264.shtml",
-      "date": "2025-11-17 21:37",
-      "author": "中新网社会新闻",
-      "timestamp": 1763386640.0,
-      "summary": "中新网南昌11月17日电 题：从一场交流会说起，江西如何打破国际教育“单向引进”？",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
     },
     {
       "title": "杰夫·贝索斯将出任AI创业公司联合首席执行官",
@@ -292,16 +582,6 @@
       "category": "Blog"
     },
     {
-      "title": "侧记：大盘山寻药，记录一场青春与百草的对话",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517247.shtml",
-      "date": "2025-11-17 21:19",
-      "author": "中新网社会新闻",
-      "timestamp": 1763385557.0,
-      "summary": "中新网磐安11月17日电 题：侧记：大盘山寻药，记录一场青春与百草的对话",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
       "title": "一个电话被骗走100万积蓄 影视飓风员工回应被电诈细节",
       "link": "https://www.cnbeta.com.tw/articles/tech/1536736.htm",
       "date": "2025-11-17 21:15",
@@ -310,66 +590,6 @@
       "summary": "近日影视飓风的一期节目中，Tim透露：“员工益君这辈子所有的积蓄被骗走了。”视频中，益君表示：“当时接到那个诈骗电话（机票改签）的时候，我还一直问人家，你是不是诈骗公司，但是我的手指就是不知道为什么，就是不听劝，跟着他一步一步操作的，然后我的钱就被骗走。” 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
-    },
-    {
-      "title": "浙江：法治“她力量”遇见AI 护航民营经济新发展",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517229.shtml",
-      "date": "2025-11-17 21:14",
-      "author": "中新网社会新闻",
-      "timestamp": 1763385269.0,
-      "summary": "中新网温州11月17日电(张煜欢)数字时代，浙江正在探索一条AI技术与法治“她力量”融合、刚柔并济的护航民营经济发展的新路径。11月17日，浙江省第三届巾帼法助营商活动在浙江温州瑞安举行。活动汇集浙江全省女法官、女检察官、女律师、女企业家、女科技工作者等120余名巾帼代表，共同探索法治护航民营经济的",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "广东受强冷空气影响 将有大风降温天气",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517230.shtml",
-      "date": "2025-11-17 21:14",
-      "author": "中新网社会新闻",
-      "timestamp": 1763385263.0,
-      "summary": "中新网广州11月17日电 (记者 王坚)据广东省气象局17日消息，受强冷空气影响，预计18至19日，全省各地气温将较17日明显下降，其中粤北市县下降幅度8至10℃，中南部市县下降幅度6至8℃，届时广州的最低气温或将降至10℃。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "美团旅行：“18会员惊喜日”上线滑雪专场，黑钻黑金会员可享专属雪场休息室",
-      "link": "https://36kr.com/newsflashes/3557183504120709?f=rss",
-      "date": "2025-11-17 21:14",
-      "author": "36氪",
-      "timestamp": 1763385250.0,
-      "summary": "大风降温催热冰雪游。美团旅行宣布，本月“18会员惊喜日”将上线滑雪专场，并推出188元滑雪神券、滑雪门票早鸟价等福利。美团黑钻会员可领50元大额券。美团黑金、黑钻会员还可不限次使用张家口富龙滑雪场、张家口万龙滑雪场、广州热雪奇迹、北京军都山滑雪场的“会员专属免费雪场休息室”。美团旅行数据显示，滑雪热",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "中国科学家牵头系统绘制非人灵长类多器官衰老分子图谱",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517232.shtml",
-      "date": "2025-11-17 21:13",
-      "author": "中新网社会新闻",
-      "timestamp": 1763385239.0,
-      "summary": "中新社昆明11月17日电 (记者 韩帅南)记者17日从中国科学院昆明动物研究所获悉，近期，该所牵头系统绘制非人灵长类多器官衰老分子图谱，并揭示器官衰老呈显著异步等重要分子特征，为理解非人灵长类以及人类的器官衰老模式和可能机制提供新的研究和认识框架。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "户籍人口“三人行有一老” 上海连续多年监测养老机构服务质量",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517233.shtml",
-      "date": "2025-11-17 21:13",
-      "author": "中新网社会新闻",
-      "timestamp": 1763385197.0,
-      "summary": "中新社上海11月17日电 (记者 郑莹莹)上海市民政部门17日发布2025年上海养老机构监测结果：平均得分为84.5分，总体处于良好水平。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "关于网传“免费采捡白菜”事件调查处理情况的通报",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517241.shtml",
-      "date": "2025-11-17 21:11",
-      "author": "中新网社会新闻",
-      "timestamp": 1763385081.0,
-      "summary": "近日，部分网络平台账号发布信息反映松山区“免费采捡白菜”引发社会关注。松山区随即成立了由区委宣传部、区委政法委、区公安分局、区农牧局等有关部门组成的联合调查组，通过走访询问、调取视频、筛查人员、核查数据等方式，查源头、查动机、查责任，对此事进行全面核实处理。现将有关情况通报如下。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
     },
     {
       "title": "中国联通 App 将取消积分全额抵话费",
@@ -392,56 +612,6 @@
       "category": "Blog"
     },
     {
-      "title": "182支代表队在京角逐大学生计算机应用大赛",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517223.shtml",
-      "date": "2025-11-17 20:58",
-      "author": "中新网社会新闻",
-      "timestamp": 1763384297.0,
-      "summary": "中新网北京11月17日电  “2025年‘典育高科杯’华北五省(市、自治区)及港澳台大学生计算机应用大赛”总决赛日前在北京联合大学举行。本届比赛吸引118所高校的934支代表队、共计4000余名学子报名参赛，参赛规模创历届新高。经过各赛区预赛选拔，最终来自65所学校的182支代表队进入总决赛答辩环节",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "诺和诺德：在美推出低于礼来的肥胖症药物定价",
-      "link": "https://36kr.com/newsflashes/3557166476770440?f=rss",
-      "date": "2025-11-17 20:56",
-      "author": "36氪",
-      "timestamp": 1763384211.0,
-      "summary": "诺和诺德针对自费患者推出低于礼来的肥胖症药物定价。诺和诺德将以每月349美元价格在美国销售司美格鲁肽口服制剂（Wegovy）和司美格鲁肽注射液（Ozempic）。（财联社）",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "热门中概股美股盘前多数上涨，小鹏汽车跌超3%",
-      "link": "https://36kr.com/newsflashes/3557163966446472?f=rss",
-      "date": "2025-11-17 20:54",
-      "author": "36氪",
-      "timestamp": 1763384058.0,
-      "summary": "36氪获悉，热门中概股美股盘前多数上涨，截至发稿，阿里巴巴、富途控股涨超2%，拼多多、老虎证券涨超1%，京东涨0.85%，蔚来涨0.02%；小鹏汽车跌超3%，理想汽车跌超1%。",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "美股大型科技股盘前多数下跌，苹果跌超1%",
-      "link": "https://36kr.com/newsflashes/3557159318584199?f=rss",
-      "date": "2025-11-17 20:49",
-      "author": "36氪",
-      "timestamp": 1763383774.0,
-      "summary": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，英伟达、苹果跌超1%，特斯拉跌0.92%，微软、奈飞跌0.25%，Meta跌0.24%；谷歌涨超3%，亚马逊涨0.58%。",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "法国道达尔能源首席执行官：仍在推进收购德国天然气发电厂的事宜",
-      "link": "https://36kr.com/newsflashes/3557153842543497?f=rss",
-      "date": "2025-11-17 20:44",
-      "author": "36氪",
-      "timestamp": 1763383440.0,
-      "summary": "法国道达尔能源首席执行官表示，仍在推进收购德国天然气发电厂的事宜。（财联社）",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
       "title": "台积电不再是唯一：苹果、高通评估Intel先进封装替代",
       "link": "https://www.cnbeta.com.tw/articles/tech/1536730.htm",
       "date": "2025-11-17 20:43",
@@ -450,56 +620,6 @@
       "summary": "随着全球对AI和高性能计算芯片需求的增长，先进封装技术的需求持续升温，市场对台积电CoWoS产线的依赖也达到了高峰。由于台积电的CoWoS产能目前主要被NVIDIA、AMD以及大型云端客户承包，留给新客户的排程弹性和空间非常有限。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
-    },
-    {
-      "title": "黄仁勋预言未来AI颠覆性能力：人类可直接与蛋白质“对话”",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1536728.htm",
-      "date": "2025-11-17 20:39",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1763383144.0,
-      "summary": "近日英伟达创始人黄仁勋荣获霍金奖学金，并在剑桥大学接受了专访。在访谈中，他大胆预言，未来人类将能直接与蛋白质等复杂对象“对话”，就如同当下与图片对话生成视频那般自然。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "十余国青年沉浸式体验昆明风物 用镜头讲述春城之美",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517203.shtml",
-      "date": "2025-11-17 20:24",
-      "author": "中新网社会新闻",
-      "timestamp": 1763382276.0,
-      "summary": "中新网昆明11月17日电 (陆希成 刘冉阳)“YUNNAN IN MY LENS”创拍营活动第四期17日在昆明收官。来自中国、俄罗斯、老挝、泰国、巴基斯坦、吉尔吉斯斯坦等10余个国家的60余名昆明理工大学青年学生创作出100余部兼具地域特色与国际视角的短视频作品，用镜头向世界展示春城的生态之美与文化",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "医疗人才“组团式”援藏十年：从“输血”到“造血”的跨越式发展",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517205.shtml",
-      "date": "2025-11-17 20:24",
-      "author": "中新网社会新闻",
-      "timestamp": 1763382240.0,
-      "summary": "中新网拉萨11月17日电 题：医疗人才“组团式”援藏十年：从“输血”到“造血”的跨越式发展",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "浙江杭嘉湖三市经历最短秋季",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517194.shtml",
-      "date": "2025-11-17 20:06",
-      "author": "中新网社会新闻",
-      "timestamp": 1763381183.0,
-      "summary": "杭州西湖景区。(资料图)王刚 摄\n\n　　中新网杭州11月17日电(记者 王逸飞)17日，寒潮自北而南影响浙江，该省多地迎来“隔天如隔季”的体验。据浙江省气象台消息，这股寒潮将浙江北部的杭州、嘉兴、湖州推入冬天的“大门”，三地今年秋季仅30天，均成为当地历史最短秋季。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "兰州：黄河安澜映 “天蓝” 立体绿化绘生态新图景",
-      "link": "https://www.chinanews.com.cn/sh/2025/11-17/10517174.shtml",
-      "date": "2025-11-17 19:49",
-      "author": "中新网社会新闻",
-      "timestamp": 1763380187.0,
-      "summary": "中新网兰州11月17日电 (王牧雨 史静静)“五年来，黄河兰州段干支流水质连续100%达标；今年以来空气优良率达到85.9%，创有监测记录以来同期最优水平；城市绿地率达到40.76%，森林覆盖率从8.3%提升至10.6%。”17日，在甘肃省政府新闻办举行的“决胜收官‘十四五’　 争先进位话发展”主题",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
     },
     {
       "title": "专访繁荣学社创始人陈蓉：未来企业最大的增长红利，就藏在创始人自己身上",
@@ -638,106 +758,6 @@
       "author": "虎嗅网",
       "timestamp": 1763350921.0,
       "summary": "在新能源引领的时代，比亚迪为什么还要造一台稀有的水平对置发动机？冰箱彩电大沙发不是捷径，或许中国汽车高端化从来没有捷径可走。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "source_url": "http://www.huxiu.com",
-      "category": "Blog"
-    },
-    {
-      "title": "大疆前激光雷达业务负责人洪小平创业，他说想用科技重塑出行尊严｜36氪专访",
-      "link": "https://36kr.com/p/3556597847899266?f=rss",
-      "date": "2025-11-17 11:20",
-      "author": "36氪",
-      "timestamp": 1763349638.0,
-      "summary": "作者&nbsp;|&nbsp;张子怡\n  编辑&nbsp;|&nbsp;袁斯来\n  洪小平离开南方科技大学决定创业，是2023年。\n  那是创投的低谷。全球初创企业投资额较2022年下降了38%，投资人和创业者都在观望。\n  但新的火星点燃了。ChatGPT已经出现，人工智能展现出前所未有的进化速度",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "一期视频带你了解Web3的全貌与未来方向",
-      "link": "http://www.huxiu.com/article/4805702.html?f=wangzhan",
-      "date": "2025-11-17 11:00",
-      "author": "虎嗅网",
-      "timestamp": 1763348400.0,
-      "summary": "我们这期视频来讲讲几个关于Web3相关的常见问题：Web2和Web3到底差别在哪里？是不是所有Web2公司都会被取代？普通人还能不能靠Web3暴富？做Web3开发的门槛高不高、收入怎么样？以及Web3目前到底发展到哪一步？下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活",
-      "source_url": "http://www.huxiu.com",
-      "category": "Blog"
-    },
-    {
-      "title": "逐梦岭南，相约十五运会",
-      "link": "https://www.infzm.com/contents/295341",
-      "date": "2025-11-17 11:00",
-      "author": "南方周末-新闻",
-      "timestamp": 1763348400.0,
-      "summary": "",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
-      "title": "“千问”正式上线，阿里要认真做一款AI应用了",
-      "link": "https://36kr.com/p/3556545531771779?f=rss",
-      "date": "2025-11-17 10:26",
-      "author": "36氪",
-      "timestamp": 1763346360.0,
-      "summary": "文｜邓咏仪\n  编辑｜苏建勋\n  《智能涌现》获悉，11月17日，阿里巴巴正式宣布“千问”项目，千问APP公测版已上线。\n  阿里将此举视为“AI时代的未来之战”，要用最先进的模型，打造“会聊天能办事的个人AI助手”，战略目标是打造未来的AI生活入口。\n  这也是阿里全力进军AI To C市场，统一",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "是时候清仓“英伟达”了吗？",
-      "link": "https://36kr.com/p/3556543940443016?f=rss",
-      "date": "2025-11-17 10:23",
-      "author": "36氪",
-      "timestamp": 1763346233.0,
-      "summary": "“透视图”是36氪新推出的轻量化数据图文栏目——以数据透视趋势，以图片呈现要点。\n   \"Talk is Cheap. Show me the data.\"\n  \n  作者丨范亮\n  近期，AI板块利空不断。“大空头”原型Michael Burry三季度大举做空AI巨头Palantir和英伟",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "“十五五”规划建议：绘就重要时间窗口的“第二增长曲线” | 时务观察",
-      "link": "https://www.infzm.com/contents/307617",
-      "date": "2025-11-17 10:00",
-      "author": "南方周末-新闻",
-      "timestamp": 1763344800.0,
-      "summary": "未来五年，我们不仅需要答好“发展题”，也要答好“改革题”，最重要的是统筹有效市场和有为政府相结合。 \n\n只有在“第一曲线”还在上升的时候，就未雨绸缪，抓住时间窗口，着眼于长期价值，提前谋划发展的“第二增长曲线”，主动实施战略性创新，善于对旧曲线进行某种“破坏”或“扬弃”，企业才能实现永续经营。",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
-      "title": "「商汤医疗」再获数亿元战略融资，A轮投后估值超30亿元 | 36氪独家",
-      "link": "https://36kr.com/p/3552301218249600?f=rss",
-      "date": "2025-11-17 09:27",
-      "author": "36氪",
-      "timestamp": 1763342861.0,
-      "summary": "36氪独家获悉，「商汤医疗」近日完成数亿元Pre-A+轮战略融资，投资方包括联想创投、联创资本、九弦资本、申冉投资等。今年年初，商汤医疗已获得美的系盈峰控股、人民卫生出版社集团旗下人卫科发等产业资本的上亿元投资。\n  据商汤医疗介绍，当前公司已启动A轮融资，投后估值超30亿元，本轮融资认购金额已超5",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "谷歌美国虚拟号码Google Voice推出订阅服务 每月支付10美元可以不回收号码",
-      "link": "https://www.landiannews.com/archives/111143.html",
-      "date": "2025-11-17 09:12",
-      "author": "蓝点网",
-      "timestamp": 1763341953.0,
-      "summary": "#软件资讯 谷歌美国虚拟号码服务 Google Voice 推出订阅服务，每月 10 美元可以换取不回收号码。这项订阅服务包含转移合并通话录音、客服支持、911 救援支持、座机号码支持，不过对非美国用户来说最重要的可能就是号码不被回收，但为了不被回收 10 美元 / 月完全不值得，还是每个月发个短信",
-      "source_url": "https://www.landiannews.com",
-      "category": "Blog"
-    },
-    {
-      "title": "特朗普要搞核试验，他是认真的吗？丨军事",
-      "link": "https://www.infzm.com/contents/307570",
-      "date": "2025-11-17 09:00",
-      "author": "南方周末-新闻",
-      "timestamp": 1763341200.0,
-      "summary": "（本文首发于南方人物周刊）\n                \n                \n                                        南方人物周刊特约撰稿 朱江明",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
-      "title": "绝杀：蔚来如何挥出“起死回生”的一击",
-      "link": "http://www.huxiu.com/article/4804404.html?f=wangzhan",
-      "date": "2025-11-17 06:55",
-      "author": "虎嗅网",
-      "timestamp": 1763333700.0,
-      "summary": "出品丨虎嗅汽车组头图丨视觉中国注：本文由编辑李赓根据蔚来内部材料撰写让我们先来回顾一下2025年上半年蔚来的生存境况。那半年，蔚来销量虽仍有增长，但增速持续放缓，乐道L60销量一度“哑火”，第三品牌萤火虫也普遍不被看好。销量承压下，蔚来财务状况愈发严峻：上半年净亏损虽同比收窄15.9%，仍高达12",
       "source_url": "http://www.huxiu.com",
       "category": "Blog"
     }
