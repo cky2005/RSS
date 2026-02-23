@@ -1,63 +1,443 @@
 {
-  "update_time": "2026-02-23",
+  "update_time": "2026-02-24",
   "articles": [
     {
-      "title": "因需求不足、功能受限，宝马暂时放弃 7 系 L3 辅助驾驶",
-      "link": "https://www.ithome.com/0/922/982.htm",
-      "date": "2026-02-23 20:38",
+      "title": "COBOL分析改造工作受Anthropic威胁 IBM股价暴跌11%",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1550922.htm",
+      "date": "2026-02-24 04:50",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771879825.0,
+      "summary": "受 Anthropic 旗下 Claude 宣布支持 COBOL 相关能力影响，国际商业机器公司（IBM）成为 AI 技术快速迭代下的最新受害者，股价遭遇重挫。周一下午交易中，IBM 股价大跌 11%。此前，Anthropic 公布了其 Claude Code 产品的一项新应用场景：自动完成 COB",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Anthropic指控多家中国公司滥用Claude训练AI模型",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1550920.htm",
+      "date": "2026-02-24 04:41",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771879282.0,
+      "summary": "Anthropic 近日公开指控中国 AI 公司 DeepSeek、MiniMax 与 Moonshot 大规模滥用其大模型 Claude，用于提升自身产品能力，并将这一行为定义为“工业化规模的滥用活动”。 公司在周一发布的声明中称，这些活动涉及约 2.4 万个伪造账号，以及与 Claude 之间超",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "NVIDIA Arm架构的Copilot+笔记本将于2026年上半年亮相",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1550918.htm",
+      "date": "2026-02-24 04:18",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771877885.0,
+      "summary": "多家主流 PC 厂商正计划推出搭载英伟达 Arm 架构处理器的 Copilot+ 笔记本，新产品预计将在 2026 年上半年上市，有望正面挑战采用高通平台的 Copilot+ 设备，以及基于英特尔和 AMD x86 架构的主流笔记本市场。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "兰博基尼放弃推出电动跑车的计划",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1550916.htm",
+      "date": "2026-02-24 04:04",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771877099.0,
+      "summary": "兰博基尼（Lamborghini）表示，该公司已放弃打造纯电动跑车的计划，转而优先发展混合动力汽车，成为最新一家在电动汽车需求弱于预期的情况下调整电动汽车策略的汽车制造商。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 watchOS 26.4 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/923/010.htm",
+      "date": "2026-02-24 02:16",
       "author": "IT之家",
-      "timestamp": 1771850303.0,
-      "summary": "IT之家 2 月 23 日消息，宝马发言人今天向德媒《Automobilwoche》证实，该公司将在今年 4 月推出改款升级版 7 系车型，届时不再提供 Personal Pilot L3 辅助驾驶系统。宝马对此解释，砍掉这一功能的原因是市场需求不足、客户受益有限。作为参考，宝马在 2023 年 7",
+      "timestamp": 1771870565.0,
+      "summary": "【点此直达升级教程】  IT之家 2 月 24 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.4 开发者预览版 Beta 2 更新（内部版本号：23T5221e），本次更新距离上次发布 Beta/RC 间隔 7 天。    如何升级 iOS / iPadOS / w",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
-      "title": "阿联酋挫败针对关键部门的 AI 驱动有组织恐怖主义性质网络攻击",
-      "link": "https://www.ithome.com/0/922/981.htm",
-      "date": "2026-02-23 20:29",
+      "title": "苹果 visionOS 26.4 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/923/009.htm",
+      "date": "2026-02-24 02:16",
       "author": "IT之家",
-      "timestamp": 1771849791.0,
-      "summary": "IT之家 2 月 23 日消息，阿联酋网络安全委员会当地时间 21 日宣布，该国网络系统成功挫败了一起针对国家数字基础设施和关键部门的有组织恐怖主义性质网络攻击。图源：Pexels委员会指出，此次攻击意图破坏阿联酋国家稳定并瘫痪重要服务，综合采用了网络渗透、勒索软件部署、系统性网络钓鱼等攻击手段。I",
+      "timestamp": 1771870564.0,
+      "summary": "IT之家 2 月 24 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.4 开发者预览版 Beta 2 更新（内部版本号：23O5220e），本次更新距离上次发布 Beta/RC 间隔 7 天。    需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
-      "title": "（新春走基层）“鹰眼”坚守护春运",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575529.shtml",
-      "date": "2026-02-23 20:25",
+      "title": "苹果 macOS 26.4 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/923/008.htm",
+      "date": "2026-02-24 02:16",
+      "author": "IT之家",
+      "timestamp": 1771870564.0,
+      "summary": "IT之家 2 月 24 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.4 开发者预览版 Beta 2 更新（内部版本号：25E5218f），本次更新距离上次发布 Beta/RC 间隔 7 天。    如何升级 iOS / iPadOS / watchOS / macOS 开发版和公",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 iOS / iPadOS 26.4 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/923/007.htm",
+      "date": "2026-02-24 02:16",
+      "author": "IT之家",
+      "timestamp": 1771870563.0,
+      "summary": "【点此直达升级教程】IT之家 2 月 24 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 26.4 开发者预览版 Beta 2 更新（内部版本号：23E5218e），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "PlayStation申请“软暂停”专利 按下暂停键不会完全停止游戏",
+      "link": "https://www.cnbeta.com.tw/articles/game/1550914.htm",
+      "date": "2026-02-24 01:40",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771868420.0,
+      "summary": "索尼旗下PlayStation部门近期申请了一项名为“软暂停（Soft Pause）”系统专利。这项技术的核心理念是：游戏不中断，但节奏自动放缓，让玩家在处理现实事务时不必完全退出游戏。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "特朗普声称对在贸易协议中“耍花样”的国家加征更高关税",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1550912.htm",
+      "date": "2026-02-24 01:39",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771868382.0,
+      "summary": "在最高法院废除其全球关税计划后，特朗普威胁将对那些在现有美国贸易协议上“耍花样”的国家征收更高关税。“任何想拿最高法院荒谬的裁决‘耍花样’的国家，尤其是那些多年来、甚至数十年来一直“盘剥”美国的，都将迎头遭受比它们不久前刚同意的水平高得多而且更糟糕的关税。后果自负！！！”特朗普周一在社交媒体上发帖称",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Anthropic CEO将与美国防部长会面 讨论AI模型在国防部的使用",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1550910.htm",
+      "date": "2026-02-24 01:39",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771868371.0,
+      "summary": "据美国国防部一名高级官员透露，Anthropic 首席执行官达里奥・阿莫迪将于周二上午在五角大楼与国防部长皮特・赫格塞斯会面，讨论军方如何使用这家初创公司的人工智能模型。最近几周，Anthropic 与美国国防部的谈判陷入僵局，双方在该公司技术的使用条款上存在分歧。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Mozilla Firefox 148.0 正式发布：新增“一键关闭AI”开关并修复拖放等问题",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1550908.htm",
+      "date": "2026-02-24 00:43",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771865007.0,
+      "summary": "Mozilla 今日面向正式版用户推送了 Firefox 148.0 更新，为浏览器带来了此前承诺的 AI 控制功能，以及一系列备份、无障碍与拖放相关修复。这次更新尤其针对不希望在浏览器中看到任何 AI 相关体验的用户，提供了集中管理与一键关闭的选项。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "ChatGPT Pro Lite套餐曝光 或推新100美元中端订阅方案",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1550906.htm",
+      "date": "2026-02-24 00:42",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771864977.0,
+      "summary": "OpenAI 正在为 ChatGPT 准备一档全新的中端订阅方案，月费为 100 美元，定位介于目前的 Plus 与 Pro 两档付费计划之间。 目前，ChatGPT 已提供免费版（有使用配额限制）以及月费 200 美元的 Pro 版，后者可完整使用该聊天机器人最先进的功能。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "谷歌计划为全美 600 万名教师免费提供 Gemini AI 培训",
+      "link": "https://www.ithome.com/0/923/006.htm",
+      "date": "2026-02-23 23:23",
+      "author": "IT之家",
+      "timestamp": 1771860220.0,
+      "summary": "IT之家 2 月 23 日消息，谷歌今天联合教育组织 ISTE 与 ASCD 推出一项计划，为全美 600 万名教师提供免费的 Gemini AI 培训。▲ 图源：谷歌IT之家在此援引谷歌新闻稿，培训课程涵盖如何使用谷歌自家的 AI 产品 Gemini 和 NotebookLM，旨在帮助教师自身及",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "阿斯麦 ASML 公布 EUV 光源技术突破，2030 年芯片产能有望提升 50%",
+      "link": "https://www.ithome.com/0/923/005.htm",
+      "date": "2026-02-23 23:16",
+      "author": "IT之家",
+      "timestamp": 1771859784.0,
+      "summary": "IT之家 2 月 23 日消息，据路透社今日报道，阿斯麦（ASML）的研究人员表示，他们已找到提升关键芯片制造设备光源功率的方法，到 2030 年可将芯片产量提高多达 50%。IT之家注意到，阿斯麦极紫外（EUV）光源首席技术官迈克尔・珀维斯（Michael Purvis）在接受采访时表示：“这不是",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "小米 17 Ultra 海外徕卡版“LEITZPHONE”手机外观曝光：Logo 位置不同，香槟金色边框",
+      "link": "https://www.ithome.com/0/923/004.htm",
+      "date": "2026-02-23 23:12",
+      "author": "IT之家",
+      "timestamp": 1771859552.0,
+      "summary": "IT之家 2 月 23 日消息，消息源 Frank 今天在 X 平台发文，分享小米 17 Ultra 海外徕卡版“LEITZPHONE”的实拍照片。IT之家从这名消息人士拍摄的照片中观察到，这台“LEITZPHONE”与国内版小米 17 Ultra 徕卡版在外观上有所不同，徕卡 Logo 采用竖向摆",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Intel未来CPU架构被曝又要回归统一架构",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1550904.htm",
+      "date": "2026-02-23 23:07",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771859250.0,
+      "summary": "2021年发布的Alder Lake架构12代酷睿上，Intel正式在x86架构中引入了P性能核、E效能核两种架构，然而未来的CPU架构又要回归统一，不再区分P、E核心。从领英上的招聘页面来看，Intel招聘的高级CPU验证工程师内容中提到了统一核心团队（Unified Core team），招聘的",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Steam 新品节 2026 年 2 月版正式启动，截至 3 月 2 日 23:00",
+      "link": "https://www.ithome.com/0/923/003.htm",
+      "date": "2026-02-23 23:00",
+      "author": "IT之家",
+      "timestamp": 1771858800.0,
+      "summary": "IT之家 2 月 23 日消息，Steam 新品节 2026 年 2 月版已于北京时间今日 23:00 正式启动。在截至 3 月 2 日 23:00 的未来一周时间内，玩家可在 Steam 平台免费畅玩尚未推出的游戏的试用版。各位玩家将有机会探索各个类型即将推出的作品，与幕后开发者互动，并将最爱加入",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "因车轮可能意外脱落，本田在英国召回 46152 辆思域",
+      "link": "https://www.ithome.com/0/923/002.htm",
+      "date": "2026-02-23 22:55",
+      "author": "IT之家",
+      "timestamp": 1771858546.0,
+      "summary": "IT之家 2 月 23 日消息，据汽车媒体 AutoCar 今天报道，本田已确认在英国召回 46152 辆 2017-2021 款思域。IT之家在此援引 AutoCar，据欧盟委员会披露，本次召回主要是因为部分车轮未被充分紧固，可能导致车轮的螺母在行驶过程中松动，最坏的情况下可能存在“车轮脱落的风险",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "空中客车：2025 年收入 734 亿欧元同比增长 6%，民用飞机储备订单 8754 架创纪录",
+      "link": "https://www.ithome.com/0/923/001.htm",
+      "date": "2026-02-23 22:55",
+      "author": "IT之家",
+      "timestamp": 1771858515.0,
+      "summary": "IT之家 2 月 23 日消息，空中客车今日发布 2025 年全年合并财务业绩报告，并为 2026 年提供了指导目标。2025 年，空中客车共获得 1000 架民用飞机订单（IT之家注：2024 年 878 架），其中净订单 889 架（2024 年 826 架）。截至 2025 年底，民用飞机储备",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "森养光学 20-50mm f/2.0 等新品镜头曝光，CP+ 2026 亮相",
+      "link": "https://www.ithome.com/0/923/000.htm",
+      "date": "2026-02-23 22:41",
+      "author": "IT之家",
+      "timestamp": 1771857691.0,
+      "summary": "IT之家 2 月 23 日消息，消息源 SonyAlpha Rumors 今天发文称，森养光学（IT之家注：Samyang）将在 CP+ 2026 摄影展会上展示多款全新镜头。据介绍，森养将在展会上展示 20-50mm f/2.0 FE、200mm f/1.8 FE 以及 400mm f/4.0 F",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Rivian 推出 Apple Watch 版应用程序，无需手机即可控制电动汽车",
+      "link": "https://www.ithome.com/0/922/999.htm",
+      "date": "2026-02-23 22:23",
+      "author": "IT之家",
+      "timestamp": 1771856597.0,
+      "summary": "IT之家 2 月 23 日消息，美国“造车新势力”Rivian 当地时间 19 日宣布推出 Apple Watch 版应用程序。用户如今无需携带智能手机，仅凭一块智能手表即可访问车辆的各项重要功能。得益于该应用，Rivian 车主仅需轻点腕上设备的屏幕即可锁定 / 解锁车门、调节车窗通风、发出警报。",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "按“暂停”键不会完全停止游戏，索尼 PS 新专利曝光",
+      "link": "https://www.ithome.com/0/922/998.htm",
+      "date": "2026-02-23 22:22",
+      "author": "IT之家",
+      "timestamp": 1771856556.0,
+      "summary": "IT之家 2 月 23 日消息，据科技媒体 Tbreak 今天报道，索尼 PlayStation 提交了一项名为“软暂停”（Soft Pause）的专利，允许游戏在按下“暂停”键时不完全停止游戏。索尼在专利描述中详细讲述了这项功能的用途：“将电子游戏的执行模式从正常模式切换为软暂停模式，该模式下游戏",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "《新世纪福音战士》动画官宣全新系列作品制作启动",
+      "link": "https://www.ithome.com/0/922/997.htm",
+      "date": "2026-02-23 22:21",
+      "author": "IT之家",
+      "timestamp": 1771856478.0,
+      "summary": "IT之家 2 月 23 日消息，今日，新世界福音战士中国官博宣布，《新世纪福音战士》完全新作系列制作启动。【特报】《新世纪福音战士》全新系列作品制作启动！系列构成・剧本：横尾太郎导演：鶴巻和哉、谷田部透湖音乐：冈部启一制作：凯乐工作室 × CloverWorks敬请期待！！IT之家注意到，为纪念《新",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "公安部：春节期间全国社会大局稳定治安秩序良好",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575571.shtml",
+      "date": "2026-02-23 22:08",
       "author": "中新网社会新闻",
-      "timestamp": 1771849538.0,
-      "summary": "中新网广州2月23日电 题：“鹰眼”坚守护春运",
+      "timestamp": 1771855729.0,
+      "summary": "中新网2月23日电 据公安部微信公众号消息，春节期间，全国公安机关全面强化各项安保维稳措施，确保人民群众在平安祥和氛围中欢度新春佳节。截至2月23日17时，全国社会大局稳定、治安秩序良好，刑事警情同比下降12.1%，5440余场大型活动安全顺利，道路交通安全形势平稳有序，旅游景区秩序井然。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
     {
-      "title": "“看喜剧、品东北幽默”成为春节来辽宁旅游新标配",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575523.shtml",
-      "date": "2026-02-23 20:24",
-      "author": "中新网社会新闻",
-      "timestamp": 1771849456.0,
-      "summary": "中新网沈阳2月23日电 (记者 韩宏)记者23日从辽宁省文化和旅游厅获悉，截至2月23日15时，春节九天假期，辽宁省累计接待游客人次按可比口径同比增长11.86%；累计实现旅游综合收入按可比口径同比增长12.18%。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "荣耀 Magic V6 电池容量曝光：北斗版 7150mAh，常规版 6850mAh",
-      "link": "https://www.ithome.com/0/922/980.htm",
-      "date": "2026-02-23 20:24",
+      "title": "RTS 游戏《奇点灰烬 II》开启 Demo 免费试玩，持续至 3 月 3 日",
+      "link": "https://www.ithome.com/0/922/996.htm",
+      "date": "2026-02-23 22:07",
       "author": "IT之家",
-      "timestamp": 1771849440.0,
-      "summary": "IT之家 2 月 23 日消息，博主 @体验more 前天在微博透露，荣耀 Magic V6 的 7150mAh 电池和北斗短信不会与 16GB+1TB 版本绑定，12GB+256GB 也可选北斗。博主表示，这台手机的北斗短信版本将搭载 7150mAh 青海湖刀片电池；而常规版则是 80W+6850",
+      "timestamp": 1771855633.0,
+      "summary": "IT之家 2 月 23 日消息，游戏《奇点灰烬 II》(Ashes of the Singularity II) 的 Demo 版本现已在 Steam 平台上开启免费试玩。此次试玩 Demo 包含这一注重策略而非 APM 的大规模 RTS 作品的部分内容，包括单人战役在内的剩余部分则将在正式版中推出",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
-      "title": "铁路节后返程高峰持续 广州站枢纽多措并举应对",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575521.shtml",
-      "date": "2026-02-23 20:19",
+      "title": "28台经典计算机系统“复活” 临时计算机博物馆打造在线交互展厅",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1550902.htm",
+      "date": "2026-02-23 21:38",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771853914.0,
+      "summary": "通过临时计算机博物馆（Interim Computer Museum，ICM）与 SDF.org 的合作，28 套经典计算机系统近日被整体搬上互联网，向公众免费开放在线使用。用户不仅可以远程登录这些老系统，还能在浏览器中直接体验几十年前的操作系统、架构与软件环境。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "海南自贸港封关后首个春节假期出入境客流量同比增长43.3%",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575567.shtml",
+      "date": "2026-02-23 21:30",
       "author": "中新网社会新闻",
-      "timestamp": 1771849152.0,
-      "summary": "中新网广州2月23日电 (郭军 刘建军 徐峰)2026年春运节后返程高峰持续。随着务工流、学生流、商务流叠加，广州作为华南地区综合交通枢纽，再次迎来客流“大考”。2月22日，广州站枢纽(含广州站、广州东站、广州白云站)旅客到发总量保持高位运行，运输组织整体安全有序，展现出现代化综合交通枢纽的硬核实力",
+      "timestamp": 1771853456.0,
+      "summary": "中新社海口2月23日电 (陈奕樽 郭芮辰)海南自贸港封关后的首个春节假期里，出入境客流量大幅增长。海口出入境边防检查总站23日披露，截至当日17时，今年春节假期海南边检机关共验放出入境人员8.6万余人次，客流量较去年春节假期增长43.3%。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "（新春走基层）广西瑶乡新春“打火球”推动民俗体育从乡野走向舞台",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575566.shtml",
+      "date": "2026-02-23 21:27",
+      "author": "中新网社会新闻",
+      "timestamp": 1771853224.0,
+      "summary": "中新网广西河池2月23日电 题：广西瑶乡新春“打火球”推动民俗体育从乡野走向舞台",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "闽北古村游烛桥闹新春",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575564.shtml",
+      "date": "2026-02-23 21:25",
+      "author": "中新网社会新闻",
+      "timestamp": 1771853114.0,
+      "summary": "中新网南平2月23日电(张丽君 李子涵 李鹏磊)正月初七晚，福建省南平市顺昌县大历镇田后村传统民俗游烛桥活动热闹上演，流光溢彩的灯火点亮乡村夜色，村民与游客共庆新春佳节。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "春节假期湖北A级旅游景区揽客逾2280万人次",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575561.shtml",
+      "date": "2026-02-23 21:11",
+      "author": "中新网社会新闻",
+      "timestamp": 1771852293.0,
+      "summary": "中新网武汉2月23日电 (记者 梁婷)记者23日从湖北省文旅厅获悉，春节假期，湖北文旅市场呈现“全程皆精彩”的良好态势。该省A级旅游景区共接待游客2280.06万人次。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "iPhone 18 Pro进入量产测试阶段 今年秋季发布",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1550900.htm",
+      "date": "2026-02-23 21:10",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771852217.0,
+      "summary": "苹果即将推出的 iPhone 18 Pro 已经进入量产测试阶段，为今年晚些时候的发布做准备。该爆料来自微博账号“定焦数码”，其称 iPhone 18 Pro 系列机型已经开始“量产测试”，这很可能指的是在正式量产前的后期制造验证环节，为预计在 9 月的发布做铺垫。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "世界最高教堂外立面完工 圣家堂144年工期基本收官",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1550898.htm",
+      "date": "2026-02-23 21:10",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771852211.0,
+      "summary": "上周五，历经144年漫长建设的巴塞罗那标志性建筑——圣家堂（官方全称为“赎罪圣殿圣家堂”）终于完成全部外部结构施工，彻底告别长期伴随其天际线的施工吊塔，宣告这座世界最高教堂在形体上基本定型。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "春节期间广东刑事治安警情、交通事故数“双下降”",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575560.shtml",
+      "date": "2026-02-23 21:07",
+      "author": "中新网社会新闻",
+      "timestamp": 1771852063.0,
+      "summary": "中新网广州2月23日电 (记者 方伟彬)广东省公安厅23日晚间发布消息，春节期间，该省刑事治安警情、刑事立案同比分别下降3.2%、34.8%，交通事故数、亡人数同比分别下降56.7%、18.6%。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "（新春走基层）南方“玩雪”热度不减 浙江多地冰雪经济“马力全开”",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575559.shtml",
+      "date": "2026-02-23 21:01",
+      "author": "中新网社会新闻",
+      "timestamp": 1771851665.0,
+      "summary": "中新网杭州2月23日电 题：南方“玩雪”热度不减 浙江多地冰雪经济“马力全开”",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "（新春走基层）广西万村篮球赛成新春人气文体盛会",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575558.shtml",
+      "date": "2026-02-23 20:59",
+      "author": "中新网社会新闻",
+      "timestamp": 1771851584.0,
+      "summary": "中新网南宁2月23日电 (黄令妍)马年新春，壮乡大地年味与活力交织。“体彩杯”第九届广西万村篮球赛以“全民健身大拜年”为主题火热开赛，以“草根赛事、全民参与”的鲜明特质，深度融合广西各地民俗，成为八桂新春最具人气的文体盛会。春节期间，广西各地组织举办篮球赛8000余场，吸引超过1000万人次观众现场",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "（新春走基层）春节假期天津邮轮游火热 家庭出行占比超八成",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575556.shtml",
+      "date": "2026-02-23 20:58",
+      "author": "中新网社会新闻",
+      "timestamp": 1771851508.0,
+      "summary": "中新网天津2月23日电 (记者 周亚强)2026年春节假期落幕，天津邮轮旅游市场数据亮眼。记者从天津东疆边检站获悉，春节假期期间，天津邮轮口岸累计验放出入境邮轮4艘次，出入境人员近9000人次。邮轮出行成为越来越多民众“海上过大年”的热门选择，热度持续攀升。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "（新春走基层）杭州西湖新春纪事：超500万人次寻“春”千年湖山",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575551.shtml",
+      "date": "2026-02-23 20:52",
+      "author": "中新网社会新闻",
+      "timestamp": 1771851170.0,
+      "summary": "中新网杭州2月23日电(林波)“我们就住在西湖边的一家酒店，每天醒来的第一件事就是沿着湖边走一走，天气好的时候还能和年轻人一起看日出。”来自沈阳的游客王梅兰正拿着手机，对着湖面悠闲拍照。镜头里，几只鸳鸯正在春水中嬉戏，身后是刚刚吐绿的柳枝。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "述评：流量何以“破圈”？真诚永远是必杀技",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575542.shtml",
+      "date": "2026-02-23 20:50",
+      "author": "中新网社会新闻",
+      "timestamp": 1771851042.0,
+      "summary": "中新网杭州2月23日电 (王潇婧)“为你写诗”的吴克群，最近“为你卖菜”了。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "海南封关看变化：春节假期出入境客流同比增长43.3%",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575535.shtml",
+      "date": "2026-02-23 20:48",
+      "author": "中新网社会新闻",
+      "timestamp": 1771850930.0,
+      "summary": "中新网海口2月23日电 (陈奕樽 郭芮辰)海南自贸港迎来全岛封关后首个春节假期，入境旅游市场持续升温。海口出入境边防检查总站23日披露，截至当日17时，春节假期海南边检机关共验放出入境人员8.6万余人次，客流量较去年春节假期增长43.3%。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“高原守岁人”：以尽职尽责，成就更动人的“团圆”",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575550.shtml",
+      "date": "2026-02-23 20:48",
+      "author": "中新网社会新闻",
+      "timestamp": 1771850924.0,
+      "summary": "新年至，昌都大地处处灯笼高挂、流光溢彩，年味正浓。在这万家团圆的日子里，总有一群人选择坚守岗位，用默默付出守护一方安宁与温暖。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "甘肃兰州：铁路地勤机械师精检细修 细节中守护春运归途",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575538.shtml",
+      "date": "2026-02-23 20:46",
+      "author": "中新网社会新闻",
+      "timestamp": 1771850802.0,
+      "summary": "中新网兰州2月23日电(王光辉 任祎 落生祥)2月22日，大年初六，甘肃兰州年味正浓，兰州铁路局兰州车辆段兰州西动车所内依旧灯火通明，地勤机械师们坚守岗位、细致检修，以一丝不苟的作业守护动车组运行安全，为春运旅客的平安归途保驾护航。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "Taara推出基于不可见光束的25Gbps城市宽带方案",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1550896.htm",
+      "date": "2026-02-23 20:45",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1771850753.0,
+      "summary": "光通信互联网公司 Taara 推出了全新“Taara Beam”设备，能够通过不可见光束在城市内部提供高达 25Gbps 的数据连接，同时具备极低时延。该公司去年刚从 Alphabet 的“登月计划”孵化器中独立出来，此次新品主打城市“中继干线”（middle‑mile）连接场景。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "“马”力全开 新疆春节消费市场活力迸发",
+      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575549.shtml",
+      "date": "2026-02-23 20:44",
+      "author": "中新网社会新闻",
+      "timestamp": 1771850683.0,
+      "summary": "石榴云/新疆日报讯(记者 黑宏伟报道)2月23日，记者从自治区商务厅获悉：2026年春节假期，新疆消费市场供应充裕，活力迸发，商务部门重点监测的零售、餐饮企业销售额与去年同期相比增长6.1%，全区消费市场呈现“供应充裕、价格平稳、安全有序”态势。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
@@ -72,156 +452,6 @@
       "category": "Blog"
     },
     {
-      "title": "马年春节假期三星堆博物馆累计接待游客近20万人次",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575515.shtml",
-      "date": "2026-02-23 20:10",
-      "author": "中新网社会新闻",
-      "timestamp": 1771848654.0,
-      "summary": "中新网成都2月23日电 (记者 岳依桐)记者23日从三星堆博物馆获悉，马年春节假期，三星堆博物馆以“三星堆里过大年 古蜀圣地祈新福”为主题，打造了一场融千年文明与新春民俗的文化盛宴，累计接待游客近20万人次。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "春节假期最后一天国铁广州局迎返程客流最高峰",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575509.shtml",
-      "date": "2026-02-23 20:10",
-      "author": "中新网社会新闻",
-      "timestamp": 1771848620.0,
-      "summary": "中新网广州2月23日电 (郭军 侯钰婷 陈怡霏)2月23日，农历大年初七，是今年春节假期的最后一天。随着春节假期进入尾声，探亲流、务工流、旅游流高度叠加，国铁广州局当日预计发送旅客259.7万人次，同比增长15.4%；湖南地区预计发送旅客81.5万人次，同比增长6.1%，迎来春运返程客流最高峰。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "米哈游《原神》「月之五」更新引入语音功能，玩家可自由开麦协作",
-      "link": "https://www.ithome.com/0/922/979.htm",
-      "date": "2026-02-23 20:10",
-      "author": "IT之家",
-      "timestamp": 1771848611.0,
-      "summary": "IT之家 2 月 23 日消息，据“原神”公众号今日发文，米哈游《原神》游戏“千星奇域”即将迎来语音功能，支持自由开麦。据介绍，语音功能将在即将到来的“月之五”更新中上线，官方鼓励玩家在语音交流中：（一）携手协作，友好互动专注于玩法交流、战术配合、关卡提示等良性互动，保持积极友好的交流心态，让语音成",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "（新春走基层）春节假期世界自然遗产地梵净山游人如织",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575507.shtml",
-      "date": "2026-02-23 20:08",
-      "author": "中新网社会新闻",
-      "timestamp": 1771848527.0,
-      "summary": "中新网贵州铜仁2月23日电(朱子立 舒红)2026年春节假期，位于贵州省铜仁市境内的世界自然遗产地梵净山迎来旅游高峰，全国各地游客齐聚山间，以登高赏景、祈福迎新的方式欢度新春。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "（新春走基层）千年莒文化揉进璀璨灯火 日照莒国古城春节纳客破百万",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575514.shtml",
-      "date": "2026-02-23 20:03",
-      "author": "中新网社会新闻",
-      "timestamp": 1771848235.0,
-      "summary": "中新网日照2月23日电(记者 赵晓)今年春节，一场名为“千灯之约·醉莒年”的新春游园灯会，将千年莒文化揉进璀璨灯火，让日照莒国古城火爆“出圈”。数据显示，正月初一至初五，莒国古城累计接待游客突破100万人次。八方来客在光影交错间触摸历史温度，感受新春热烈氛围。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "东风日产春季发布会明日举行，开年连发四款新车",
-      "link": "https://www.ithome.com/0/922/978.htm",
-      "date": "2026-02-23 20:01",
-      "author": "IT之家",
-      "timestamp": 1771848101.0,
-      "summary": "IT之家 2 月 23 日消息，东风日产今日官宣春季发布会将于 2 月 24 日 15:00 举行，号称“开年王炸四连发”。除了已经曝光的全新日产轩逸，天籁、N6 和 N7 有望推出新版本。IT之家注意到，全新日产轩逸已经公布官图。该车换装了日产品牌最新的家族式前脸设计风格，全新的 L 形前灯组与前",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "福建宁化：非遗闹春添年味 新春民俗引客来",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575512.shtml",
-      "date": "2026-02-23 20:00",
-      "author": "中新网社会新闻",
-      "timestamp": 1771848025.0,
-      "summary": "中新网福建宁化2月23日电 (黄尉峰)2月23日正月初七，客家祖地福建省宁化县石壁镇陈塘村张灯结彩、鼓乐齐鸣，“非遗闹春 马上有福”2026年石壁镇陈塘村非遗闹春暨“传陈工坊”开园仪式在此盛大举行。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "曝腾讯关闭天美蒙特利尔工作室，曾计划制作“3A 开放世界游戏”",
-      "link": "https://www.ithome.com/0/922/977.htm",
-      "date": "2026-02-23 19:53",
-      "author": "IT之家",
-      "timestamp": 1771847605.0,
-      "summary": "IT之家 2 月 23 日消息，据游戏媒体 IGN 今天报道，腾讯现已关闭天美蒙特利尔（TiMi Montréal）工作室。据报道，这家工作室曾雇佣前育碧创意总监 Ashraf Ismail，他担任过《刺客信条：起源》《刺客信条：黑旗》《刺客信条：英灵殿》等游戏的创意总监，但在 2020 年因不当行",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "（新春见闻）马年云南寻“名马”：倾听跨越千年的蹄音",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575504.shtml",
-      "date": "2026-02-23 19:50",
-      "author": "中新网社会新闻",
-      "timestamp": 1771847442.0,
-      "summary": "中新社昆明2月23日电 题：马年云南寻“名马”：倾听跨越千年的蹄音",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "SK 会长崔泰源承诺海力士扩产 HBM，指出 AI 为市场带来极大不确定性",
-      "link": "https://www.ithome.com/0/922/975.htm",
-      "date": "2026-02-23 19:33",
-      "author": "IT之家",
-      "timestamp": 1771846381.0,
-      "summary": "IT之家 2 月 23 日消息，SK 集团会长崔泰源在美国当地时间 20 日出席会议活动时表示，（SK 旗下的海力士）必须大幅提高 HBM 等在 AI 产业中发挥关键作用的“怪兽芯片”的产能，如今这些“怪兽芯片”才是真正能为企业带来巨额利润的产品。不过，HBM 需求导致的产能重分配也在内存市场引发扭",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "消息称荣耀将推出首款人形机器人",
-      "link": "https://www.ithome.com/0/922/974.htm",
-      "date": "2026-02-23 19:27",
-      "author": "IT之家",
-      "timestamp": 1771846056.0,
-      "summary": "IT之家 2 月 23 日消息，据《科创板日报》今日报道，荣耀将在 2026 年巴塞罗那移动通信展（MWC 2026 ）期间推出其首款人形机器人，聚焦消费市场，成为全球第一家入局人形机器人的手机公司。IT之家注意到，荣耀手机今日早些时候已经宣布 MWC 2026 全球发布会 3 月 1 日正式启幕。",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "CINNO Research：淡季叠加成本高企，2 月手机面板价格全线下行",
-      "link": "https://www.ithome.com/0/922/973.htm",
-      "date": "2026-02-23 19:18",
-      "author": "IT之家",
-      "timestamp": 1771845525.0,
-      "summary": "IT之家 2 月 23 日消息，据 CINNO Research 最新报告，受春节假期及传统淡季影响，2026 年 2 月手机市场整体表现低迷。与此同时，上游存储器价格持续大幅上涨，显著推高整机 BOM 成本，终端品牌纷纷下调出货目标以控制成本。在此背景下，手机面板市场延续疲软态势，各技术类型的手机",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "（新春走基层）闽东乡村戏韵悠扬 小戏台“唱”出大民生",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575491.shtml",
-      "date": "2026-02-23 19:14",
-      "author": "中新网社会新闻",
-      "timestamp": 1771845284.0,
-      "summary": "中新网宁德2月23日电(记者 吕巧琴 叶茂)锣鼓铿锵，唱腔悠扬。马年春节期间，福建省宁德市多地乡村延续众筹请戏、户户参与的传统，一台台乡土大戏不仅唱热了年味，更成为联结乡情、滋养身心的文化纽带，并以“小投入”撬动“大消费”，激活乡村经济，丰富民众节日生活。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "广州南等多座高铁大站开启 24 小时营业模式，应对春运返程高峰",
-      "link": "https://www.ithome.com/0/922/972.htm",
-      "date": "2026-02-23 19:13",
-      "author": "IT之家",
-      "timestamp": 1771845234.0,
-      "summary": "IT之家 2 月 23 日消息，据中国铁路公众号，为应对持续攀升的返程客流，中国铁路广州局集团有限公司多措并举，提升运能，于 2 月 21 日至 28 日、3 月 5 日至 6 日加开夜间高铁列车，覆盖京广、广深港、杭深、贵广、南广高铁等热门高铁线路，全力满足旅客出行需求。IT之家从文中获悉，加开夜",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "日产 2026 年将不在美国推出第三代 LEAF 聆风电动汽车的入门款配置",
-      "link": "https://www.ithome.com/0/922/971.htm",
-      "date": "2026-02-23 19:13",
-      "author": "IT之家",
-      "timestamp": 1771845211.0,
-      "summary": "IT之家 2 月 23 日消息，日产发言人美东时间 20 日向外媒 InsideEVs 确认，由于市场环境的变化，第三代 LEAF 聆风电动汽车的入门款配置今年将不会在美国市场推出。这一入门配置代号 LEAF S，拥有 52kWh 的电池和 174 马力的动力系统。作为参考，2026 款 Leaf",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "亲历动荡后的伊朗：在内忧外患中稳住阵脚丨智库视点",
       "link": "https://www.infzm.com/contents/315412",
       "date": "2026-02-23 19:00",
@@ -230,126 +460,6 @@
       "summary": "对伊朗而言，只有国内稳定，才谈得上对外周旋；一旦内乱失控，所有筹码都会迅速丧失。\n                \n                \n                                        南方防务智库特约研究员 曾涛 何乐星",
       "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
-    },
-    {
-      "title": "返工首周遇天气“考验”，南方一周三轮降雨“全勤”",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575489.shtml",
-      "date": "2026-02-23 18:46",
-      "author": "中新网社会新闻",
-      "timestamp": 1771843590.0,
-      "summary": "中国天气网讯 为期9天的超长春节假期正式收官，返工模式即将全面开启！可是返工首周就遇到天气“搞事情”——南方开启多雨周，北方气温反复横跳。不管是春运返程路还是开工通勤路，都可能受到天气的“考验”。赶紧将这份节后返工天气指南转发到你的“相亲相爱一家人”，助力家人平安返程、顺利开工！",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "微软《极限竞速：地平线 6》实机演示公布：550 辆车，带有季节系统",
-      "link": "https://www.ithome.com/0/922/970.htm",
-      "date": "2026-02-23 18:33",
-      "author": "IT之家",
-      "timestamp": 1771842828.0,
-      "summary": "IT之家 2 月 23 日消息，微软昨天发布了《极限竞速：地平线 6》游戏的最新实机演示预告片，主题是“探索日本”。 IT之家了解到，《极限竞速：地平线 6》最初公布于去年的东京电玩展，拥有系列最大地图，玩家可在东京驾驶汽车，地图内的城市规模是之前的五倍。游戏中的东京被划分为卫星城、市中心、码头和工",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "（新春走基层）378.57万人次“春节来浙江义乌嬉”",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575481.shtml",
-      "date": "2026-02-23 18:29",
-      "author": "中新网社会新闻",
-      "timestamp": 1771842541.0,
-      "summary": "中新网义乌2月23日电(董易鑫 朱翔)浙江义乌官方2月23日公布一组数据：春节以来，该市累计接待全域旅游人数378.57万人次，同比增长34.5%；实现全域旅游综合收入34.07亿元，同比增长32.05%。一组跃动的数据，勾勒出“春节来浙江义乌嬉”的火热图景。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "（新春走基层）一家儿童福利院“开门办院”背后：让折翼天使飞向春天",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575473.shtml",
-      "date": "2026-02-23 18:27",
-      "author": "中新网社会新闻",
-      "timestamp": 1771842439.0,
-      "summary": "中新网杭州2月23日电(张煜欢)新春佳节，杭州市儿童福利院里年味颇浓。孩子们忙着学包饺子，贴春联，处处笑语不断。走进一间教室，小女孩沐晨正坐在轮椅上专注地吹奏葫芦丝。一曲终了，老师向她竖起大拇指：“很棒，比上次又进步了，下次可以去学校登台表演了。”",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "（新春见闻）新疆小曲子推陈出新 展现当代人生活风貌",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575471.shtml",
-      "date": "2026-02-23 18:26",
-      "author": "中新网社会新闻",
-      "timestamp": 1771842383.0,
-      "summary": "中新社新疆五家渠2月23日电 题：新疆小曲子推陈出新 展现当代人生活风貌",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "西安机场“以雪为令”保返程",
-      "link": "https://www.chinanews.com.cn/sh/2026/02-23/10575479.shtml",
-      "date": "2026-02-23 18:26",
-      "author": "中新网社会新闻",
-      "timestamp": 1771842381.0,
-      "summary": "中新网西安2月23日电 (阿琳娜 陈帅)23日，正值春节假期返程高峰，西安地区突降降雪。西安机场迅速启动冰雪天气运行三级响应机制，联动多方力量筑牢春运返程保障防线，最大程度降低降雪对旅客出行的影响。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "曝英特尔计划回归统一核心设计，不再搞大小核异构",
-      "link": "https://www.ithome.com/0/922/969.htm",
-      "date": "2026-02-23 18:21",
-      "author": "IT之家",
-      "timestamp": 1771842072.0,
-      "summary": "IT之家 2 月 23 日消息，英特尔官方前天在领英平台发布招聘告示，显示该公司正在组建一支“统一核心”（Unified Core）设计团队，负责开发下一代 CPU 的全新微架构。作为参考，英特尔从 12 代“Alder Lake”架构就推出了大小核异构处理器，将 Golden Cove 性能核（I",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "爆料称《使命召唤》系列 Switch 2 移植版内部测试进展良好",
-      "link": "https://www.ithome.com/0/922/968.htm",
-      "date": "2026-02-23 18:05",
-      "author": "IT之家",
-      "timestamp": 1771841105.0,
-      "summary": "IT之家 2 月 23 日消息，科技媒体 Windows Central 编辑 Jez Corden 昨天出席《The XB2》视频博客，谈及微软 Xbox 新 CEO 以及工作室最新动向。IT之家在此援引 Jez Corden 表述，微软仍然受到收购合同约束，必须将《使命召唤》系列游戏带到任天堂平",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "荣耀 MWC 2026 全球发布会定档 3 月 1 日：Magic V6 折叠屏手机首发，ROBOT PHONE 前瞻亮相",
-      "link": "https://www.ithome.com/0/922/966.htm",
-      "date": "2026-02-23 17:48",
-      "author": "IT之家",
-      "timestamp": 1771840097.0,
-      "summary": "IT之家 2 月 23 日消息，荣耀手机今日宣布，荣耀 MWC 2026 全球发布会 3 月 1 日正式启幕。荣耀 Magic V6 旗舰折叠屏手机全球首发，荣耀 ROBOT PHONE 前瞻亮相，更有众多新品与前沿科技重磅登场。此外，荣耀还发布了 ROBOT PHONE 的预热视频，其配备“旋转小",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "星门项目停滞 OpenAI 紧急争抢算力：内部困境全曝光",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1550892.htm",
-      "date": "2026-02-23 17:46",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771840011.0,
-      "summary": "当年特朗普总统在 2025 年 1 月宣布耗资 5000 亿美元的星门 AI 数据中心项目时，负责开发的三家企业曾承诺以闪电般速度推进 —— 立刻投入 1000 亿美元，新建总算力达 10 吉瓦的数据中心。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "1986年的苹果巨无霸Mac电脑亮相 这键盘太狂了",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1550890.htm",
-      "date": "2026-02-23 17:27",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771838830.0,
-      "summary": "近日，加州山景城计算机历史博物馆正式预告了一款特殊展品——被称为“巨无霸”（Big Mac）的超大尺寸Macintosh Plus电脑（复制品）。这款复刻自1986年的经典苹果机型，凭借夸张到近乎滑稽的键盘设计迅速出圈，成为复古科技爱好者关注的焦点，也为即将到来的苹果50周年庆典预热。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "年入十几万不如流水线？起点万订作者被父母要求进厂",
-      "link": "https://www.cnbeta.com.tw/articles/movie/1550888.htm",
-      "date": "2026-02-23 17:26",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771838799.0,
-      "summary": "这个春节，一则消息在网文圈引发震动：起点万订作者吴三醒在回老家过年期间，被父母反复劝说放弃网文写作，最终妥协——初七进厂打工。这位曾写出《迪迦：从哥尔赞开始的无限进化》（万订徽章作品）的奥特曼同人文作者，在最新小说章节中无奈宣布：“以后就偶尔更新吧，唉。” 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "ST京蓝：如未来公司股票价格进一步异常上涨 可能申请停牌核查",
@@ -372,46 +482,6 @@
       "category": "Blog"
     },
     {
-      "title": "微软Xbox更换掌门人之后或迎来史上规模最大裁员",
-      "link": "https://www.cnbeta.com.tw/articles/game/1550886.htm",
-      "date": "2026-02-23 16:42",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771836153.0,
-      "summary": "微软Xbox部门或将在新任领导层的执掌下，以“业务重组”的名义，迎来其史上规模最大的一轮裁员之一。知名业内爆料人SneakerSO在NeoGAF论坛发文称，Xbox近期的高层人事变动，可能导致该部门在新任领导层治下，以“业务重组”为名迎来史上规模最大的一轮裁员之一。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "《林中之夜》发行商控诉TikTok用AI篡改其作品",
-      "link": "https://www.cnbeta.com.tw/articles/game/1550884.htm",
-      "date": "2026-02-23 16:42",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771836136.0,
-      "summary": "曾发行《林中之夜》与《Tunic》的游戏发行商Finji表示，TikTok未经其许可，擅自使用旗下游戏的角色与美术素材，投放经生成式AI“优化”的冒犯性广告。据游戏媒体IGN报道，Finji首席执行官丽贝卡·萨尔茨曼已于2月5日在社交平台Bluesky发布帖子，公开曝光了这一问题。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "美国海关机构将于周二停止征收最高法院认定为非法的关税",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1550882.htm",
-      "date": "2026-02-23 16:41",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771836095.0,
-      "summary": "美国海关与边境保护局（CBP）宣布，将于美国东部时间周二凌晨0点01分（格林威治标准时间0501），停止征收依据《国际紧急经济权力法》（IEEPA）征收的关税。此举距美国最高法院裁定此类关税非法已过去逾三天。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "“没有一万块，我从三亚回不来”",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1550880.htm",
-      "date": "2026-02-23 16:40",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771836044.0,
-      "summary": "今年是海南自贸港封关运作后的首个春运。封关政策红利持续释放，叠加免税新政扩容，使得海南冬季旅游热度持续攀升。而让旅游者痛苦的是回程。今天是春节最后一日假期，查询多家在线旅游平台后发现，从三亚飞往北京、上海等核心城市的直飞航班经济舱全部售罄，仅剩的公务舱票价普遍在9900元左右——逼近万元大关，部分中",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "千问：春节期间，用户在千问上“一句话下单”近2亿次",
       "link": "https://36kr.com/newsflashes/3695640934494081?f=rss",
       "date": "2026-02-23 16:40",
@@ -429,16 +499,6 @@
       "timestamp": 1771835987.0,
       "summary": "36氪获悉，Kimi旗下K2.5大模型发布不到一个月，Kimi近20天累计收入已超过2025年全年总收入，增长主要受全球付费用户及API调用量大涨共同推动，其中海外付费用户数快速增长，OpenRouter数据显示，Kimi K2.5调用量持续保持领先。\n\n在连续融资超12亿美元后，Kimi最新估值达",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "印度“光辉”战机第三次发生坠毁事故",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1550878.htm",
-      "date": "2026-02-23 16:34",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771835644.0,
-      "summary": "“光辉”战机，又又又摔了。据印媒23日报道，印空军一架“光辉”战斗机在训练任务结束后着陆时坠毁。飞行员安全弹射，但飞机严重受损。消息人士称，当时这架战斗机正在结束训练飞行后降落，飞机在事故中损毁严重，很可能报废，但飞行员幸免于难，未受重伤。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
@@ -472,16 +532,6 @@
       "category": "Blog"
     },
     {
-      "title": "戴尔PC出奇招：锁死显卡12V-2x6 16针供电接口",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1550876.htm",
-      "date": "2026-02-23 15:59",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771833561.0,
-      "summary": "12V-2x6 16针供电接口问题频发，不管是设计缺陷，还是怪罪用户操作错误，都改变不了它难伺候的本质，逼得厂商也想尽各种办法。日本网站Chimolog拆解体验了一台戴尔商用主机TowerPlus EBT2250，关于显卡供电接口就有了特别的发现。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "2026春节档总票房破55亿",
       "link": "https://36kr.com/newsflashes/3695595583876740?f=rss",
       "date": "2026-02-23 15:54",
@@ -499,26 +549,6 @@
       "timestamp": 1771832375.0,
       "summary": "2月22日，上海口岸单日查验出入境人员数量创下历史新高，超16万人次。其中，浦东、虹桥两大国际机场出入境人员13.3万人次，邮轮口岸迎来双船同靠，出入境人员2.6万人次。（央视新闻）",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "高速免费今天24点截止 可就近驶离",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1550874.htm",
-      "date": "2026-02-23 15:16",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771830983.0,
-      "summary": "今年春节假期从2月15日到2月23日，足足有9天，是史上最长春节假期。今天假期已经进入尾声，高速免费也将在今天24点截止，央视专门发文提醒大家，千万别为了赶免费而超速。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "小米Tag追踪器官宣2月28日发布：兼容安卓、iOS",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1550872.htm",
-      "date": "2026-02-23 15:13",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771830828.0,
-      "summary": "小米海外官方账号发文宣布，小米Tag追踪器将于2月28日发布，与小米17系列等同台在海外登场。官方介绍，小米Tag重量仅有10g，可以让用户在几秒钟内找到想找的东西。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
@@ -572,36 +602,6 @@
       "category": "Blog"
     },
     {
-      "title": "隐私研究员质疑微软Edge免费“VPN”宣传 更像代理而非真正VPN ​",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1550870.htm",
-      "date": "2026-02-23 13:59",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771826393.0,
-      "summary": "微软近日在社交平台 X 上推广 Edge 内置的 Edge Secure Network“VPN”功能，强调这是一个无需额外应用或订阅的免费隐私工具，可以在浏览网页时提供额外保护，尤其适用于公共 Wi‑Fi 场景，并鼓励用户直接在 Edge 设置中开启该功能。 微软宣称，这一功能以“VPN 技术”为",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "微软在营销资料中奖Copilot列为“头号生产力应用”",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1550868.htm",
-      "date": "2026-02-23 13:58",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771826299.0,
-      "summary": "在持续加码 AI 电脑概念之际，微软近日在一份全新的 Windows 11 市场宣传资料中，将自家的 Copilot 明确标记为“Windows 11 上排名第一的生产力应用”，位置甚至排在文件资源管理器和截图工具之前，引发关注与质疑。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果或将在今年的新品发布上采用全新形式",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1550866.htm",
-      "date": "2026-02-23 13:54",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1771826094.0,
-      "summary": "苹果已向科技媒体发出邀请，将于当地时间3月4日举办一场主题为“特别的 Apple 体验”（special Apple experience）的活动，不过这一次的新品发布形式，可能会与以往惯常的大型发布会有所不同。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "花旗韩国宣布在芝加哥推出其全新的花旗韩国交易台",
       "link": "https://36kr.com/newsflashes/3695345938165377?f=rss",
       "date": "2026-02-23 13:52",
@@ -637,7 +637,7 @@
       "date": "2026-02-23 13:30",
       "author": "36氪",
       "timestamp": 1771824627.0,
-      "summary": "五粮液(000858)2月23日在互动平台表示，���司近五年累计分红已超768亿元，2024年度分红率提升至70%。（人民财讯）",
+      "summary": "五粮液(000858)2月23日在互动平台表示，公司近五年累计分红已超768亿元，2024年度分红率提升至70%。（人民财讯）",
       "source_url": "http://36kr.com",
       "category": "Blog"
     },
