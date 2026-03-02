@@ -1,434 +1,584 @@
 {
-  "update_time": "2026-03-02",
+  "update_time": "2026-03-03",
   "articles": [
     {
-      "title": "黑石集团旗下BREIT基金自2022年以来首次实现资金净流入",
-      "link": "https://36kr.com/newsflashes/3705780325790081?f=rss",
-      "date": "2026-03-02 20:34",
-      "author": "36氪",
-      "timestamp": 1772454881.0,
-      "summary": "黑石集团旗下BREIT基金自2022年以来首次实现资金净流入。（新浪财经）",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "杭州高新：拟向公司控股股东定增募资不超2亿元",
-      "link": "https://36kr.com/newsflashes/3705776827674752?f=rss",
-      "date": "2026-03-02 20:31",
-      "author": "36氪",
-      "timestamp": 1772454667.0,
-      "summary": "36氪获悉，杭州高新公告，拟向公司控股股东巨融伟业定增募资不超2亿元，用于偿还借款及补充流动资金。",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "艾迪药业：拟定增募资不超12.77亿元，实控人傅和亮参与认购",
-      "link": "https://36kr.com/newsflashes/3705771146539394?f=rss",
-      "date": "2026-03-02 20:25",
-      "author": "36氪",
-      "timestamp": 1772454320.0,
-      "summary": "36氪获悉，艾迪药业公告，公司董事会决定终止2026年度以简易程序向特定对象发行A股股票事项。为更好地匹配公司未来发展规划，公司拟向包括公司实控人之一傅和亮在内的不超过35名（含）投资者，定增募资不超（含）12.77亿元，募资净额将用于新型HIV整合酶抑制剂（INSTI）全球临床开发项目、向少数股东",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "古尔曼：苹果仍在积极研发折叠屏 iPad，预计 2029 年上线、有望挑战 iPad / Mac 界限",
-      "link": "https://www.ithome.com/0/925/182.htm",
-      "date": "2026-03-02 20:24",
-      "author": "IT之家",
-      "timestamp": 1772454282.0,
-      "summary": "IT之家 3 月 2 日消息，彭博社记者马克 · 古尔曼昨天在新一期《Power On》通讯中表示，苹果仍在积极研发一款大尺寸折叠屏 iPad。古尔曼透露，这款折叠屏 iPad 将挑战苹果长期以来将 iPad 和 Mac 泾渭分明、井水不犯河水的产品策略，有人将其称为“折叠 iPad”，也有人称之为",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "小米 Xiaomi Tag 追踪器国内发售：提供 BLE / UWB 版本可选、支持苹果“查找”网络，69 元起",
-      "link": "https://www.ithome.com/0/925/181.htm",
-      "date": "2026-03-02 20:23",
-      "author": "IT之家",
-      "timestamp": 1772454189.0,
-      "summary": "IT之家 3 月 2 日消息，小米 Xiaomi Tag 现已在国内市场发售，BLE 蓝牙版本定价 69 元，UWB 版本定价为 129 元，IT之家附有品地址（点此访问）。据介绍，该设备重量仅 10 克，厚度 7.2 毫米，小巧轻薄，支持 IP67 级防尘防水，内置 CR2032 纽扣电池，官方标",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "中国磷复肥工业协会倡议：磷铵生产企业要全力生产和发运，保障磷铵供应、稳定磷铵价格",
-      "link": "https://36kr.com/newsflashes/3705766701953413?f=rss",
-      "date": "2026-03-02 20:20",
-      "author": "36氪",
-      "timestamp": 1772454049.0,
-      "summary": "36氪获悉，中国磷复肥工业协会发文称，为维护磷肥市场秩序，保障农业用肥需求，中国磷复肥工业协会与中国农业生产资料流通协会倡议全行业履行保供稳价责任，接受社会监督，磷铵生产企业要全力生产和发运，保障磷铵供应、稳定磷铵价格；化肥流通企业要坚持平价销售，做好采购、调运与储备，及时下摆到基层经销网点。如发现",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "宁夏启动29个项目守护居民用水",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579606.shtml",
-      "date": "2026-03-02 20:18",
+      "title": "“21天长假”为什么刷屏？",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-03/10579718.shtml",
+      "date": "2026-03-03 05:54",
       "author": "中新网社会新闻",
-      "timestamp": 1772453903.0,
-      "summary": "中新网银川3月2日电 (记者 于晶)3月2日，记者从宁夏水务集团获悉，2026年该集团启动总投资近10亿元的29项重点水务工程项目，其中新建3项、技术改造14项、续建12项，兼顾民生保障、水资源集约利用与产业赋能，同步服务国家“东数西算”战略与乡村全面振兴。",
+      "timestamp": 1772488480.0,
+      "summary": "前不久，河南洛阳一家水厂的放假通知火了，春节连休21天，并明文要求“禁止加班、禁止值班、禁止打扰同事，请将手机静音”。水厂老板杨先生说：“9天是标配，21天才是过年。”这句大白话，让不少人留言刷屏。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
     {
-      "title": "第十一批国家集采中选结果落地宁夏 55种药品大幅降价惠及百姓",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579604.shtml",
-      "date": "2026-03-02 20:17",
+      "title": "警惕辅助驾驶化身马路杀手",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-03/10579717.shtml",
+      "date": "2026-03-03 05:54",
       "author": "中新网社会新闻",
-      "timestamp": 1772453873.0,
-      "summary": "中新网银川3月2日电 (记者 于晶)3月2日，记者从宁夏回族自治区医疗保障局获悉，第十一批国家组织药品集中采购的中选结果正式在宁夏落地执行。此次集采共有55个品种、593个品规的药品迎来大幅降价，将有效减轻群众就医购药的经济负担。",
+      "timestamp": 1772488456.0,
+      "summary": "道路交通安全不仅关乎个人安危，更维系着千家万户的幸福安宁。身下的座驾或许搭载了先进的辅助驾驶，但请务必知晓，它并不是“全自动”的代驾。别让辅助驾驶的光环迷惑了双眼，变成失控的“马路杀手”。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
     {
-      "title": "元宵民俗活动登场 约200名“老广”启程游湛江和海南",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579603.shtml",
-      "date": "2026-03-02 20:16",
+      "title": "推进“午睡工程”、食堂后厨全透明 全国中小学新学期有了新变化",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-03/10579715.shtml",
+      "date": "2026-03-03 05:48",
       "author": "中新网社会新闻",
-      "timestamp": 1772453809.0,
-      "summary": "中新网广州3月2日电 (程景伟 詹小澜)春节过后，元宵节民俗活动登场，成为撬动旅游市场的又一重要支点，带动节后新一轮出游热潮。约200名游客2日在广州搭乘广湛高铁“岭南号”主题专列前往湛江遂溪、吴川、海南等地，沉浸式体验正月民俗节庆氛围。",
+      "timestamp": 1772488105.0,
+      "summary": "全国中小学陆续迎来春季新学期，健康午休、校园餐饮、校园安全等方面也迎来多项新政策、新变化，全方位守护学生成长。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
     {
-      "title": "院士专家献智助力广州南沙高质量发展",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579600.shtml",
-      "date": "2026-03-02 20:15",
-      "author": "中新网社会新闻",
-      "timestamp": 1772453749.0,
-      "summary": "中新网广州3月2日电 题：院士专家献智助力广州南沙高质量发展",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "浙江省再添两款“人工智能+应急管理”应用",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579586.shtml",
-      "date": "2026-03-02 20:15",
-      "author": "中新网社会新闻",
-      "timestamp": 1772453719.0,
-      "summary": "中新网杭州3月2日电(吴怡欣)3月2日，浙江省应急管理厅举行“AI+工业企业火情预警”(火眼哨兵)、“AI+烟花爆竹监管”(烟花卫士)应用上线发布仪式。此前，浙江省应急管理厅已发布一款“AI+基层应消”应用，持续以人工智能技术守护安全防线。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "北元集团：恒源投资拟减持公司不超2%股份",
-      "link": "https://36kr.com/newsflashes/3705761077883266?f=rss",
-      "date": "2026-03-02 20:15",
-      "author": "36氪",
-      "timestamp": 1772453706.0,
-      "summary": "36氪获悉，北元集团公告，公司持股24.65%的股东恒源投资根据自身发展需要，计划以大宗交易方式减持不超过7944.44万股公司股份，即不超过公司总股本的2%。",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "（新春走基层）走进伞头秧歌：听伞头孟庆华来“唱伞”",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579599.shtml",
-      "date": "2026-03-02 20:14",
-      "author": "中新网社会新闻",
-      "timestamp": 1772453677.0,
-      "summary": "中新网赤峰3月2日电 题：走进伞头秧歌：听伞头孟庆华来“唱伞”",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "水陆一体 厦门园博苑灯会跻身2026全国新春灯会人气前三",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579596.shtml",
-      "date": "2026-03-02 20:13",
-      "author": "中新网社会新闻",
-      "timestamp": 1772453617.0,
-      "summary": "中新网厦门3月2日电 近日，2026全国新春灯会人气 TOP10榜单发布，行业评价由侧重规模转向综合体验。欢乐光域·厦门园博苑灯会新晋入选并位列第三，被认为系南方滨海城市夜游创新之作。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "古尔曼：2027 款苹果 iPad Pro 有望引入 VC 均热板散热",
-      "link": "https://www.ithome.com/0/925/180.htm",
-      "date": "2026-03-02 20:12",
-      "author": "IT之家",
-      "timestamp": 1772453533.0,
-      "summary": "IT之家 3 月 2 日消息，据彭博社记者马克 · 古尔曼（Mark Gurman）消息，苹果最快将于明年为 iPad Pro 配备均热板散热系统。IT之家注意到，古尔曼在其最新一期《Power On》通讯中表示，苹果一直在为超薄 iPad Pro 研发类似 iPhone 17 Pro 的均热板散热",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "传苹果将于2028年推出首款OLED屏幕MacBook Air",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551874.htm",
-      "date": "2026-03-02 20:10",
+      "title": "iPad Air换用“缩水版”M4芯片 多核与图形性能不及iPad Pro",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1551916.htm",
+      "date": "2026-03-03 04:03",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772453428.0,
-      "summary": "彭博社记者马克·古尔曼最新一期“Power On”专栏指出，苹果计划在2028年更新的那一代MacBook Air上，首次采用OLED显示屏，从目前的LCD面板全面转向OLED。 阅读全文",
+      "timestamp": 1772481793.0,
+      "summary": "苹果最新发布的iPad Air虽然同样打上了“M4”的芯片标签，但其实际硬件规格与此前用于iPad Pro的M4存在明显差异，多核与图形性能都有所下调。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
-      "title": "美国拟限制行政机构采购中芯国际、长江、长鑫等中国芯片",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551872.htm",
-      "date": "2026-03-02 20:09",
+      "title": "美国最高法院拒绝受理案件 纯AI生成作品被确认无版权保护",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1551914.htm",
+      "date": "2026-03-03 03:38",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772453374.0,
-      "summary": "美国正计划进一步收紧对中国半导体产品的采购限制，拟限制政府机构采购使用中芯国际或长鑫存储、长江存储生产的半导体产品与服务。据法律信息平台Lexology披露，美国联邦采购规则委员会（FAR Council）已于2月17日发布《拟议规则制定通知》。 阅读全文",
+      "timestamp": 1772480281.0,
+      "summary": "美国联邦最高法院当地时间周一作出决定，拒绝受理一宗关于“人工智能生成艺术作品能否获得版权保护”的上诉案件，从而维持了下级法院此前作出的裁决：AI 生成的作品不符合版权保护条件。这一决定意味着，在现行美国法律框架下，完全由人工智能系统生成、缺乏人类创作参与的艺术作品，将无法获得版权登记和保护。 阅读全",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
-      "title": "（新春走基层）从“支前路”到“竹林戏”，沂南沉浸式文旅让游客当主角",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579593.shtml",
-      "date": "2026-03-02 20:08",
-      "author": "中新网社会新闻",
-      "timestamp": 1772453326.0,
-      "summary": "中新网山东沂南3月2日电 (李嘉茵)新春的沂蒙山区冬意尚存，景区里却热气升腾。在山东省临沂市沂南县，游客不再是寻常的看客——他们或肩扛红旗“支援前线”，或手持水枪嬉闹泉边，成为一幕幕“开放剧场”里的主角。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "云南省红河州2025年逾52万民众在家门口端稳“饭碗”",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579589.shtml",
-      "date": "2026-03-02 20:08",
-      "author": "中新网社会新闻",
-      "timestamp": 1772453308.0,
-      "summary": "中新网云南红河3月2日电 (刘彦林)红河哈尼族彝族自治州人力资源和社会保障局2日消息，近年来，该州通过做实调查摸底、创新招聘模式、深化劳务协作等务实举措，全力保障返乡民众“回得来、留得住、能就业、稳增收”。2025年，全州52.51万人实现县域内就地就近就业，真正做到“务工不出村、增收不离家”。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "消息称 OLED 版苹果 MacBook Air 有望 2028 年上市，预计搭载 M7 芯片",
-      "link": "https://www.ithome.com/0/925/178.htm",
-      "date": "2026-03-02 20:06",
-      "author": "IT之家",
-      "timestamp": 1772453166.0,
-      "summary": "IT之家 3 月 2 日消息，彭博社记者马克 · 古尔曼昨天在最新一期《Power On》通讯中透露，苹果计划为 2028 款 MacBook Air 笔记本配备 OLED 屏幕。古尔曼对此表示，苹果计划让旗舰级 iPad 以及 MacBook 产品线全面转向 OLED，涵盖 iPad mini、M",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "安克推出 250W 六口桌面充：4C+2A，支持小米 120W / 华为 66W 协议，849 元",
-      "link": "https://www.ithome.com/0/925/177.htm",
-      "date": "2026-03-02 20:05",
-      "author": "IT之家",
-      "timestamp": 1772453141.0,
-      "summary": "IT之家 3 月 2 日消息，安克现已在京东上架一款 250W“桌面充 Pro+”桌充产品，该机提供 4C+2A 规格，同时支持小米 120W / 华为 66W 协议，定价为 849 元。该产品正面提供 2.26 英寸 LCD 显示面板，可显示接口功率信息，显示面板下方为 4 个 USB-C 接口。",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "本周雨雪收敛，但湿冷不减！这些地方气温将持续偏低！",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579587.shtml",
-      "date": "2026-03-02 20:02",
-      "author": "中新网社会新闻",
-      "timestamp": 1772452920.0,
-      "summary": "中国天气网讯 本周开场，中东部的雨雪天气仍较频繁亮相。但是，降水的强度、范围总体都比上周有所收敛。本周后期，进入惊蛰节气后，北方的冷空气还将活跃，但暖湿气流整体不强，目前预报来看将没有大范围雨雪过程。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "广汽埃安 i60 国民增程 210 马到成功版上市，售价 10.28 万元",
-      "link": "https://www.ithome.com/0/925/176.htm",
-      "date": "2026-03-02 20:01",
-      "author": "IT之家",
-      "timestamp": 1772452863.0,
-      "summary": "IT之家 3 月 2 日消息，广汽埃安旗下紧凑型纯电 SUV AION i60 产品线今日迎来新成员，国民增程 210 马到成功版已上市，新车售价 10.28 万元。该车型在保持原有配置体验的基础上，通过优化配置组合进一步降低价格门槛，旨在提升产品市场竞争力。原 AION i60 在售版本，可享限时",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "荣耀手表 X5i 上架：1.97 英寸 AMOLED 屏、28g 重量、10.9mm 厚度",
-      "link": "https://www.ithome.com/0/925/174.htm",
-      "date": "2026-03-02 19:53",
-      "author": "IT之家",
-      "timestamp": 1772452398.0,
-      "summary": "IT之家 3 月 2 日消息，荣耀手表 X5i 现已在京东上架，将于 3 月 10 日开启预售，目前尚未公布价格。该手表可选幻夜黑、星光白两种配色，其整体重量为 28g，厚度 10.9mm，配备 1.97 英寸 60Hz AMOLED 面板。该机内置 420mAh 电池，支持支付宝微信离线支付，支持",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "面临近 20 亿英镑罚款，索尼因向 PS 用户收取过高游戏费用在英国遭集体诉讼",
-      "link": "https://www.ithome.com/0/925/173.htm",
-      "date": "2026-03-02 19:51",
-      "author": "IT之家",
-      "timestamp": 1772452304.0,
-      "summary": "IT之家 3 月 2 日消息，英国又发起了一起重大反垄断诉讼，此次的被告是索尼，该公司可能因向 PlayStation 用户过度收费，面临近 20 亿英镑（IT之家注：现汇率约合 184.53 亿元人民币）的罚款。这起涉及约 1220 万用户的集体诉讼指控称：索尼在 PlayStation 游戏及游",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "（全国两会）全国人大代表杨其峰：建议乳腺健康管理关口前移",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579576.shtml",
-      "date": "2026-03-02 19:48",
-      "author": "中新网社会新闻",
-      "timestamp": 1772452133.0,
-      "summary": "中新网济南3月2日电 题：全国人大代表杨其峰：为女性乳腺健康献策发声",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "太湖水质稳定保持Ⅲ类 新一轮综合治理成效显著",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579577.shtml",
-      "date": "2026-03-02 19:47",
-      "author": "中新网社会新闻",
-      "timestamp": 1772452047.0,
-      "summary": "中新网南京3月2日电 (记者 徐珊珊)江苏省政府2日召开新闻发布会，通报新一轮太湖综合治理成效。记者从会上获悉，2025年太湖湖体总磷、总氮浓度同比分别下降8%和23.3%，综合营养状态指数同比下降1.8，均创有监测记录以来最优水平。太湖已成为国家重点治理三大湖泊中首个水质达到Ⅲ类、连续两年保持良好",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "杭州推出“春之序曲+元宵灯火”限定灯光秀",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579574.shtml",
-      "date": "2026-03-02 19:46",
-      "author": "中新网社会新闻",
-      "timestamp": 1772452011.0,
-      "summary": "中新网杭州3月2日电(鲍梦妮 沈文琴)据杭州市综合行政执法局(杭州市城市管理局)3月2日消息，元宵节(3月3日)当日，杭州钱塘江两岸将于18:30、19:30各播放1场元宵节及“春”主题灯光秀。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "广西岑溪举办第40届抢花炮活动 130支队伍田野竞逐",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579572.shtml",
-      "date": "2026-03-02 19:46",
-      "author": "中新网社会新闻",
-      "timestamp": 1772451987.0,
-      "summary": "中新网梧州3月2日电(张广权 庞广蛟)3月1日，广西梧州岑溪市糯垌镇第40届传统抢花炮民俗文化活动在该镇举行。来自岑溪、藤县、龙圩区等地的130支队伍、近2000名运动员同场竞技，吸引近万名观众到场观赛。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "南粤大地上一座名山和一座名校的百年情谊",
-      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579567.shtml",
-      "date": "2026-03-02 19:44",
-      "author": "中新网社会新闻",
-      "timestamp": 1772451851.0,
-      "summary": "中新网韶关3月2日电 题：南粤大地上一座名山和一座名校的百年情谊",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "传音 Tecno Camon 50 Ultra 5G 手机发布，6500mAh 电池、IP69K 防护",
-      "link": "https://www.ithome.com/0/925/172.htm",
-      "date": "2026-03-02 19:38",
-      "author": "IT之家",
-      "timestamp": 1772451539.0,
-      "summary": "IT之家 3 月 2 日消息，传音 Tecno Camon 50 Ultra 5G 手机现已发布，该机搭载 6500mAh 超大电池、后置三摄系统，防护性能较 Pro 版本进一步升级。该机配备 6.78 英寸 AMOLED 显示屏，分辨率为 1.5K，刷新率 144Hz，支持 HDR10 显示，屏幕",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "微信打击利用 AI 仿冒名人进行引流，1.3 万条内容与 1200 个账号被处置",
-      "link": "https://www.ithome.com/0/925/171.htm",
-      "date": "2026-03-02 19:28",
-      "author": "IT之家",
-      "timestamp": 1772450914.0,
-      "summary": "IT之家 3 月 2 日消息，微信珊瑚安全公众号今日发布《关于打击利用 AI 仿冒名人进行引流虚假宣传的公告》，IT之家附全文如下：微信始终致力于为用户打造安全、健康、绿色的平台生态环境。近期，平台发现部分违规账号利用 AI 技术仿冒名人，通过伪造其形象、声音进行违规引流或虚假宣传。此类行为不仅严重",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "明年新款 iPad Pro 或将采用均热板散热系统",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551870.htm",
-      "date": "2026-03-02 19:25",
+      "title": "Anthropic的Claude及相关应用服务一度中断 公司称过去一周需求“空前”",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1551912.htm",
+      "date": "2026-03-03 03:32",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772450707.0,
-      "summary": "据彭博社记者马克·古尔曼（Mark Gurman）消息，苹果计划最快于明年为 iPad Pro 引入全新的热管散热系统，以应对日益增强的性能需求。 古尔曼在其最新一期 Power On 通讯中表示，这一方案将参考 iPhone 17 Pro 上采用的热管设计，是苹果为超薄机身 iPad Pro 打造",
+      "timestamp": 1772479924.0,
+      "summary": "Anthropic PBC的人工智能聊天机器人Claude及相关面向消费者的应用在周一早晨一度出现服务中断，这家初创公司称过去一周其忙于应对对其服务的“空前需求”。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
-      "title": "万志强：不想说再见 但魅族23与市场无缘了",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551868.htm",
-      "date": "2026-03-02 19:24",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772450689.0,
-      "summary": "星纪魅族集团中国区CMO万志强在直播中透露，虽然魅族23这款产品确实存在，但遗憾的是它可能最终不会被推向市场。这意味着这款备受期待的旗舰机型，或许将成为魅族手机史上的一个句点。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "特斯拉推出 2026.2.9 软件更新，移除“Autopilot”名称",
-      "link": "https://www.ithome.com/0/925/169.htm",
-      "date": "2026-03-02 19:11",
+      "title": "苹果 watchOS 26.4 开发者预览版 Beta 3 发布",
+      "link": "https://www.ithome.com/0/925/214.htm",
+      "date": "2026-03-03 02:41",
       "author": "IT之家",
-      "timestamp": 1772449885.0,
-      "summary": "IT之家 3 月 2 日消息，据 Not a Tesla App 报道，特斯拉正与其最知名（也最具争议）的品牌名称划清界限。随着今日早些时候 2026.2.9 版本软件更新的推送，该公司已开始对其驾驶辅助系统中的多项核心功能进行重命名。根据官方更新说明，此次“Autopilot 命名更新”本质上仅为",
+      "timestamp": 1772476873.0,
+      "summary": "【点此直达升级教程】  IT之家 3 月 3 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 26.4 开发者预览版 Beta 3 更新（内部版本号：23T5226e），本次更新距离上次发布 Beta/RC 间隔 7 天。    如何升级 iOS / iPadOS / wa",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
-      "title": "后哈梅内伊时代，谁来接管伊朗权力？",
-      "link": "https://www.infzm.com/contents/315902",
-      "date": "2026-03-02 19:00",
+      "title": "苹果 visionOS 26.4 开发者预览版 Beta 3 发布",
+      "link": "https://www.ithome.com/0/925/213.htm",
+      "date": "2026-03-03 02:41",
+      "author": "IT之家",
+      "timestamp": 1772476872.0,
+      "summary": "IT之家 3 月 3 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 26.4 开发者预览版 Beta 3 更新（内部版本号：23O5225f），本次更新距离上次发布 Beta/RC 间隔 7 天。    需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 iOS/iPadOS 26.4 开发者预览版 Beta 3 发布",
+      "link": "https://www.ithome.com/0/925/212.htm",
+      "date": "2026-03-03 02:41",
+      "author": "IT之家",
+      "timestamp": 1772476872.0,
+      "summary": "【点此直达升级教程】  IT之家 3 月 3 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.4 开发者预览版 Beta 3 更新（内部版本号：23E5223f），本次更新距离上次发布 Beta/RC 间隔 7 天。    如何升级 iOS / iPadOS",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "2026年竟还有60Hz手机 iPhone 17e被吐槽除了处理器一无是处",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1551910.htm",
+      "date": "2026-03-03 00:21",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1772468497.0,
+      "summary": "苹果官网正式上架了全新的iPhone 17e，起售价定为4499元。作为该系列的新一代入门机型，它在核心配置上进行了针对性的调整。对比前代产品iPhone 16e，新款机型主要带来了四大核心变化。首先是性能核心的跃升，处理器升级到了最新的A19芯片。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "美国三架F-15E战斗机遭科威特防空系统误击后坠毁 六名机组安全逃生",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1551908.htm",
+      "date": "2026-03-03 00:09",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1772467753.0,
+      "summary": "美国三架战斗机周一遭科威特防空系统误击后坠毁，恐成为同类事件中涉及美军的最严重事故之一。美国中央司令部在社交平台X发文称，这三架支援“史诗狂怒”行动的美军F-15E“攻击鹰”战斗机在科威特上空坠落。官员表示，机上6名机组人员均安全弹射，已被救起，状况稳定。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "高通X105 5G调制解调器发布：下行速率达14.8Gbps 领先行业",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1551906.htm",
+      "date": "2026-03-02 23:56",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1772466993.0,
+      "summary": "今日晚间，高通公司正式发布高通X105 5G调制解调器及射频系统，这是全球领先的5G Advanced平台，配备行业首款面向3GPP Release 19就绪的调制解调器，为6G的开发与测试奠定基础。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Beats苹果iPhone 17e专用手机壳首发399元 内置磁体 超细纤维内衬",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1551904.htm",
+      "date": "2026-03-02 23:42",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1772466176.0,
+      "summary": "Beats推出了一款兼容MagSafe的iPhone 17e专用保护壳，提供磐岩蓝和浅岩灰两种配色可选，售价为399元。在功能方面，这款保护壳内置磁体，可与iPhone 17e精准对齐，实现与MagSafe配件的无缝配合。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "任天堂明天举行新一期 Switch 迷你直面会，主要展示独立游戏",
+      "link": "https://www.ithome.com/0/925/211.htm",
+      "date": "2026-03-02 23:34",
+      "author": "IT之家",
+      "timestamp": 1772465651.0,
+      "summary": "IT之家 3 月 2 日消息，任天堂将于太平洋时间 3 月 3 日上午 6 点（IT之家注：北京时间当天晚上 10 点整）举行新一期 Switch 迷你直面会，带来新一批独立游戏。结合游戏媒体 Kotaku 今天报道，《铲子骑士》开发商 Shovel Knight 将在本次直面会中带来旗下最新作《M",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "三星钱包将新增 Aliro 智能门禁标准支持：兼容 NFC、UWB 两种技术，支持 Aqara 等品牌",
+      "link": "https://www.ithome.com/0/925/210.htm",
+      "date": "2026-03-02 23:25",
+      "author": "IT之家",
+      "timestamp": 1772465137.0,
+      "summary": "IT之家 3 月 2 日消息，据科技媒体 Sammobile 今天报道，三星今天在 MWC 2026 展会上宣布旗下钱包应用（Samsung Wallet）将支持 Aliro 智能门禁标准，本月晚些时候在部分地区市场上线。据报道，Aliro 标准由 CSA（IT之家注：连接标准联盟）制定，旨在为智能",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "科大讯飞 AI 眼镜亮相：支持多模态同传翻译，仅重 40 克",
+      "link": "https://www.ithome.com/0/925/209.htm",
+      "date": "2026-03-02 23:23",
+      "author": "IT之家",
+      "timestamp": 1772464990.0,
+      "summary": "IT之家 3 月 2 日消息，在 2026 年世界移动通信大会（MWC 2026）上，科大讯飞首次展出了讯飞 AI 眼镜。该眼镜专为面对面交流设计，对方讲话后，翻译字幕可在镜片上实时呈现，并通过内置扬声器播放译文，实现所见即所得的自然沟通。据IT之家了解，该款眼镜集多模态同传翻译与极致轻量化设计于一",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Starlink将与德国电信合作在欧洲推出卫星移动服务",
+      "link": "https://www.cnbeta.com.tw/articles/science/1551902.htm",
+      "date": "2026-03-02 23:19",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1772464796.0,
+      "summary": "SpaceX的Starlink将与德国电信巨头德国电信合作，在10个欧洲国家推出基于卫星的移动服务，两家公司周一宣布。德国电信在一份声明中表示，该服务于2028年上线，将为网络扩展特别具有挑战性的地区（包括有自然保护要求或地形复杂的地区）提供移动通信。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "NIST拟收紧外籍科研人员实验室准入制度",
+      "link": "https://www.cnbeta.com.tw/articles/science/1551900.htm",
+      "date": "2026-03-02 23:14",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1772464460.0,
+      "summary": "美国国家标准与技术研究院（NIST）近日在科罗拉多州博尔德和马里兰州盖瑟斯堡园区实施新的出入限制措施，数百名在该院工作的外籍科研人员在晚间和周末被禁止单独进入实验室，除非有联邦雇员陪同。部分来自特定国家的研究人员被告知，最早可能在下月末完全失去进入实验室的权限。这些举措属于一套尚在制定中的安全规则，",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "一张玻璃纸，卡住了整个 AI 世界",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1551898.htm",
+      "date": "2026-03-02 23:13",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1772464392.0,
+      "summary": "当全世界都在为科技巨头大搞 AI 基建，搞到芯片、内存、线缆价格一路飙升的时候。其实 AI 行业本身，却在为另一个东西发愁不已。几乎没人能想到，OpenAI 的 GPT-5、Google 的 Gemini Ultra、Anthropic 的 Claude——这些让全世界为之疯狂的 AI 模型，它们的",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果推出搭载M4芯片的新款iPad Air 采用16核神经网络引擎核12GB内存",
+      "link": "https://www.landiannews.com/archives/111983.html",
+      "date": "2026-03-02 23:13",
+      "author": "蓝点网",
+      "timestamp": 1772464390.0,
+      "summary": "#手机数码 苹果推出搭载 M4 芯片的新款 iPad Air，采用 12GB 统一内存和 16 核心的神经网络引擎，提供 11 或 13 英寸 Wi-Fi 版和蜂窝版。11 英寸 Wi-Fi 版起售价为 599 美元，11 英寸蜂窝版起售价为 749 美元，国行版预售时间为 3 月 4 日 22:1",
+      "source_url": "https://www.landiannews.com",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果官方配件新品一览：斜挎挂绳新增 iPhone 17e 手机壳同款配色、Apple Watch 表带上新多色",
+      "link": "https://www.ithome.com/0/925/208.htm",
+      "date": "2026-03-02 23:13",
+      "author": "IT之家",
+      "timestamp": 1772464389.0,
+      "summary": "IT之家 3 月 2 日消息，苹果今晚推出了 iPhone 17e、iPad Air (M4) 等新品，并且在官网上新了一系列配件，涵盖 iPhone17e 硅胶保护壳、新配色的斜挎挂绳等。IT之家现在就为大家带来详情：iPhone 17e 专用 MagSafe 硅胶保护壳：这款产品可选浅粉色、亮番",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果iPhone 17e首次支持eSIM 单SIM卡+eSIM/双eSIM",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1551896.htm",
+      "date": "2026-03-02 23:13",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1772464381.0,
+      "summary": "苹果iPhone 17e今晚正式发布，起步内存升级到256GB，但加量不加价，依然是4499元起售。iPhone 17e外观与前代完全一样，主要不同是升级了A19芯片、基带、MagSafe、eSIM、屏幕玻璃。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "iPhone 17e外观与前代几乎一致 旧款iPhone 16e保护壳可继续用",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1551894.htm",
+      "date": "2026-03-02 23:11",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1772464312.0,
+      "summary": "3月2日，苹果正式发布新一代入门机型iPhone 17e，引发不少用户关于配件兼容性的关注：手上的iPhone 16e手机壳还能不能继续用在新机上。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "万代南梦宫宣布自家“新人研修游戏”将从 Steam 下架，3 月 31 日中午 12 点前可限时免费入库",
+      "link": "https://www.ithome.com/0/925/207.htm",
+      "date": "2026-03-02 23:10",
+      "author": "IT之家",
+      "timestamp": 1772464203.0,
+      "summary": "IT之家 3 月 2 日消息，万代南梦宫宣布，目前在 Steam 上免费提供下载的一系列“新人研修游戏”将于 3 月 31 日中午 12 点下架。官方暂未说明相应“新人研修游戏”具体下架的原因。目前相应作品在 Steam 平台上均获得“特别好评”。玩家在 3 月 31 日前仍然可以将这些游戏加入自己",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "“美国会派地面部队吗？”：伊朗站在命运十字路口",
+      "link": "https://www.infzm.com/contents/315925",
+      "date": "2026-03-02 23:00",
       "author": "南方周末-新闻",
-      "timestamp": 1772449200.0,
-      "summary": "在具体的行动执行上，这更像是一场美以双方精心策划的协同打击，而非以色列单方面“拖美国下水”。双方在军事目标与行动时机上早已达成高度默契，旨在通过联合军事打击向伊朗施加最强硬的压力。\n\n美以情报部门精确定位了伊朗最高政治与军事决策层的三次秘密集会地点，这为一次性消除核心指挥层提供了不可多得的战术契机。",
+      "timestamp": 1772463600.0,
+      "summary": "这场持续升级的冲突，已从代理人战争演变为正面交锋。在中东这盘大棋局上，美以的导弹与伊朗的誓言复仇，正将整个地区推向一个危险的临界点。\n                \n                \n                                        南方周末记者 王瑭",
       "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
     },
     {
-      "title": "星纪魅族郭鹏回应“智能眼镜 AR 团队集体入职雷鸟”：部门正常运转，计划今年二三季度推出光波导新产品",
-      "link": "https://www.ithome.com/0/925/168.htm",
-      "date": "2026-03-02 18:59",
+      "title": "专访资深公关品牌专家吴猛:情绪传播时代企业公关的情感叙事与长效信任构建",
+      "link": "https://36kr.com/p/3705917499601285?f=rss",
+      "date": "2026-03-02 22:54",
+      "author": "36氪",
+      "timestamp": 1772463293.0,
+      "summary": "公关专家吴猛\n  在媒介化社会深度演进、社交媒体重构传播生态的当下，情绪传播已成为当前舆论场的一个核心表征，传统以事实为核心的公关范式开始向“事实与情绪并重”的方向发展。情绪传播时代，企业公关如何重构情感叙事、搭建与公众的情感共振桥梁、实现品牌信任的长效构建？带着这些问题，我们专访了资深公关品",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果推出搭载A19芯片的iPhone 17e 国行版支持eSIM+实体SIM",
+      "link": "https://www.landiannews.com/archives/111982.html",
+      "date": "2026-03-02 22:52",
+      "author": "蓝点网",
+      "timestamp": 1772463161.0,
+      "summary": "#手机数码 苹果推出新款中低端机型 iPhone 17e，采用 A19 芯片 + C1X 基带芯片、支持 MagSafe/Qi2 15W 无线充电。亮点还包括 iPhone 17e 采用 eSIM+SIM 设计，支持 eSIM+eSIM 或 eSIM + 实体 SIM 卡，这对于国内用户来说或许是个",
+      "source_url": "https://www.landiannews.com",
+      "category": "Blog"
+    },
+    {
+      "title": "阿里千问开源四款 Qwen3.5 小尺寸模型，覆盖从 0.8B 到 9B 的轻量级 AI 需求",
+      "link": "https://www.ithome.com/0/925/206.htm",
+      "date": "2026-03-02 22:51",
       "author": "IT之家",
-      "timestamp": 1772449152.0,
-      "summary": "IT之家 3 月 2 日消息，今日有知情人士透露，“魅族旗下 AR 眼镜品牌 StarV 的 AR 系统团队已整体入职雷鸟创新”。随后，魅族方面对《科创板日报》回应称：假的。IT之家注意到，星纪魅族 XR 事业部总经理郭鹏今日发文谈及了“智能眼镜 AR 团队集体入职雷鸟”一事，并表示：目前魅族的 A",
+      "timestamp": 1772463114.0,
+      "summary": "IT之家 3 月 2 日消息，今天阿里千问宣布开源 4 款 Qwen3.5 小尺寸模型系列：Qwen3.5-0.8B/2B/4B/9B。官方称，这一系列模型继承了 Qwen3.5 家族的强大基因，采用原生多模态训练、最新的模型架构，表现出卓越的性能，以满足从极端资源受限到高性能轻量级应用的不同需求。",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
-      "title": "【视频】科幻感十足！小米 Vision GT 概念车首展 MWC2026 现场直击",
-      "link": "https://www.ithome.com/0/925/167.htm",
-      "date": "2026-03-02 18:53",
+      "title": "消息称 PS5 版《星空》实体碟 4 月 7 日发售，价格低于 Xbox 版",
+      "link": "https://www.ithome.com/0/925/205.htm",
+      "date": "2026-03-02 22:50",
       "author": "IT之家",
-      "timestamp": 1772448811.0,
-      "summary": "欢迎跟随IT之家来到MWC2026。IT之家在小米的展台上看到了首次展出的小米概念车小米 Vision GT，外形非常科幻，一起随IT之家的镜头看一下吧。        \n\n    \n        \n        \n    \n\n            \n                点击关注",
+      "timestamp": 1772463041.0,
+      "summary": "IT之家 3 月 2 日消息，消息人士 billbil-kun 今天在 Dealabs 平台发文称，PS5 平台的《星空》游戏实体版将于 4 月 7 日发售。据悉，PS5 版《星空》将拥有标准版、豪华版两种版本可选，前者售价 49.99 欧元（IT之家注：现汇率约合 404.4 元人民币），后者则是",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
-      "title": "惠普 7 Pro 系列 727PK 显示器开启新品预约：27 英寸 4K 60Hz IPS 面板、100W 雷电 4 接口，4999 元",
-      "link": "https://www.ithome.com/0/925/166.htm",
-      "date": "2026-03-02 18:48",
+      "title": "英伟达发布 595.71 WHQL 驱动：修复 595.59 版本显卡风扇“翻车”问题、新增支持《生化危机：安魂曲》等游戏",
+      "link": "https://www.ithome.com/0/925/204.htm",
+      "date": "2026-03-02 22:42",
       "author": "IT之家",
-      "timestamp": 1772448535.0,
-      "summary": "IT之家 3 月 2 日消息，惠普 7 Pro 系列“727PK”显示器现已开启新品预约，定位中高端，搭载 27 英寸 4K 60Hz IPS 面板，售价 4999 元。据介绍，这款显示器搭载 27 英寸 IPS Black 面板，分辨率 3840*2160，对比度 2000:1，可视角度为 178",
+      "timestamp": 1772462558.0,
+      "summary": "IT之家 3 月 2 日消息，英伟达在 2 月 27 日发布 GeForce 595.59 WHQL 驱动，不过有大量用户随即反馈新版驱动会导致显卡风扇出现异常，仅有单个风扇运转，后续英伟达紧急撤包。而如今，英伟达重新上线了相应驱动更新，并将其版本号提升为 595.71 WHQL，主要用于修复导致显",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
-      "title": "国行版将至：联想 moto 首款大折叠 razr fold AI 手机官宣即将上市，海外版售价 1999 欧元",
-      "link": "https://www.ithome.com/0/925/165.htm",
-      "date": "2026-03-02 18:48",
+      "title": "苹果 iPad Air M4 新增支持 802.11be 无线局域网技术 / 蓝牙 6.0",
+      "link": "https://www.ithome.com/0/925/203.htm",
+      "date": "2026-03-02 22:29",
       "author": "IT之家",
-      "timestamp": 1772448520.0,
-      "summary": "IT之家 3 月 2 日消息，联想 moto 官方今日宣布，旗下首款大折叠 —— 联想 moto razr fold AI 手机官宣“即将上市”，支持天禧 AI（具体上市时间暂未公布）。这款手机今日已在 MWC 2026 发布，将于未来几个月内在拉丁美洲、北美、欧洲、中东和亚太地区的部分国家上市，其",
+      "timestamp": 1772461768.0,
+      "summary": "IT之家 3 月 2 日消息，苹果公司现已发布 iPad Air M4 系列平板，起步存储空间为 128GB，其中 11 英寸款起售价 4799 元起，13 英寸款起售价 6499 元起。参考苹果官网参数对比，IT之家注意到，该机主要换用 M4 芯片，并新增支持 802.11be 无线局域网技术 /",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
-      "title": "中东局势紧张 亚马逊、Temu等电商大幅延长配送时间",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551866.htm",
-      "date": "2026-03-02 18:32",
+      "title": "解决风扇控制异常 NVIDIA“翻车”驱动已修复并重新上线",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1551892.htm",
+      "date": "2026-03-02 22:26",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772447568.0,
-      "summary": "3月2日，据彭博社报道，在美国主导的对伊朗轰炸行动扰乱主要空中和海上航线后，主要电商平台警告称，发往中东地区的商品送货时间将延长。中东是电商行业增长最快的市场之一，空袭将威胁该地区的供货。 阅读全文",
+      "timestamp": 1772461608.0,
+      "summary": "英伟达近日重新上线此前“翻车”的 GeForce 595.59 驱动更新，并将其版本号提升为 595.71 WHQL，主要用于修复导致显卡风扇监控与控制软件失灵的严重问题，同时继续为《生化危机：Requiem》和《Marathon》等新作提供优化支持。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
-      "title": "伊朗冲突致中东机场关闭，全球旅行混乱加剧",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551864.htm",
-      "date": "2026-03-02 18:31",
+      "title": "美伊空袭交织黑客攻击 伊朗全国断网 祈祷应用遭劫持散播“起义”信息",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1551890.htm",
+      "date": "2026-03-02 22:25",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772447500.0,
-      "summary": "周一，随着波斯湾地区各航空公司全面延长航班停飞令，全球旅行混乱态势从中东蔓延至更广泛区域，航空股大幅下挫，全球部分最繁忙机场陷入严重运营中断。 阅读全文",
+      "timestamp": 1772461514.0,
+      "summary": "当地时间周六凌晨，包括首都德黑兰在内的伊朗多座城市遭到由美国和以色列主导的连续空袭，伊朗最高领袖阿里·霍梅尼以及多名高层领导人在袭击中身亡。有报道指出，军事行动同时伴随针对伊朗的信息战与网络攻击，其间全国互联网连接几乎瘫痪，一款在伊朗广受欢迎的手机祈祷应用疑似被黑客入侵，向用户大规模推送带有反政府内",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
-      "title": "IDC谈全球PC和手机市场前景：比几个月前最悲观的预测还要糟糕",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551862.htm",
-      "date": "2026-03-02 18:21",
+      "title": "云服务需求增长 苹果商讨由Google托管新版Siri",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1551888.htm",
+      "date": "2026-03-02 22:21",
       "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772446881.0,
-      "summary": "本周，IDC发布了全球PC和手机市场的最新预测，前景已显著恶化，目前的形势甚至比几个月前最悲观的预测还要糟糕。IDC在报告中指出，随着内存价格攀升，一些厂商（尤其是规模较小的厂商）难以确保或支付足够的货源。 阅读全文",
+      "timestamp": 1772461299.0,
+      "summary": "今年1月，苹果宣布将在其产品中使用Google&nbsp;Gemini大模型，这相当于承认这家iPhone制造商过去几年在人工智能领域无法凭一己之力参与竞争。但该协议也表明，苹果正再次依靠外部公司弥补另一项短板：云计算能力。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Beats 苹果 iPhone 17e 专用保护壳发售，399 元",
+      "link": "https://www.ithome.com/0/925/202.htm",
+      "date": "2026-03-02 22:21",
+      "author": "IT之家",
+      "timestamp": 1772461262.0,
+      "summary": "IT之家 3 月 2 日消息，Beats 今天宣布推出兼容 MagSafe 的 Beats iPhone 17e 专用保护壳，现有磐岩蓝和浅岩灰可供选择（点此购买）。作为 iPhone 保护壳系列的新品，这两款配色专为全新 iPhone 17e 而设计，即日起可通过 apple.com 订购，售价为",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 iPhone 17e 国行采用单实体 SIM + eSIM 设计",
+      "link": "https://www.ithome.com/0/925/201.htm",
+      "date": "2026-03-02 22:14",
+      "author": "IT之家",
+      "timestamp": 1772460872.0,
+      "summary": "IT之家 3 月 2 日消息，苹果公司现已发布其 iPhone 17e 手机，这款手机延续了刘海屏设计，可选黑白粉三色，搭载 A19 处理器，起步存储空间为 256GB，定价为 4499 元起。IT之家注意到，该机国行使用单实体 nano-SIM 卡槽 + eSIM 设计，官方描述为“可激活两个 e",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 M4 芯片款 iPad Air 发布：4799 元起，3 月 11 日发售",
+      "link": "https://www.ithome.com/0/925/200.htm",
+      "date": "2026-03-02 22:06",
+      "author": "IT之家",
+      "timestamp": 1772460365.0,
+      "summary": "IT之家 3 月 2 日消息，苹果 M4 芯片款 iPad Air 现已发布，新品搭载 M4 芯片，与 M1 iPad Air 相比最高提速至 2.3 倍，售价 4799 元起，3 月 4 日起接受预购，3 月 11 日发售。外观方面，M4 版 iPad Air 整体并没有太大改动，依然是提供深空灰",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "（新春走基层）一场全民共享的“寻龙之旅”，展现千年民俗魅力",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579695.shtml",
+      "date": "2026-03-02 21:59",
+      "author": "中新网社会新闻",
+      "timestamp": 1772459963.0,
+      "summary": "中新网丽水3月2日电(傅飞扬)马年元宵节将近，3月2日晚，丙午(2026)“丽水祥龙闹元宵”活动在浙江省丽水市精彩上演，其以“一场穿越千年的非遗寻龙之旅”为主线，创新推出水陆联动的立体展演形式，不仅为百姓送上了一场丰盛的文化盛宴，更将传统节庆活动升级为全民共享的城市文化IP。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "护航开学季 广西发布春季学期学生健康管理提示",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579692.shtml",
+      "date": "2026-03-02 21:58",
+      "author": "中新网社会新闻",
+      "timestamp": 1772459921.0,
+      "summary": "中新网南宁3月2日电(黄艳梅 韦佳彤)广西壮族自治区卫生健康委员会2日举行“时令、时事与健康”新闻发布会，围绕春季学期学生健康管理的关键环节，发布健康提示与科学防治指南，全力护航新学期，助力学生平安、健康、快乐成长。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "多彩民俗活动点亮元宵佳节 快来get各地特色的节庆氛围",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579697.shtml",
+      "date": "2026-03-02 21:58",
+      "author": "中新网社会新闻",
+      "timestamp": 1772459919.0,
+      "summary": "央视网消息：3月1日，在广东珠海斗门旧街，一场盛大的“长桌盛宴闹元宵”活动热闹开席。现场，港澳台同胞、海外侨胞及市民游客共300余人欢聚一堂。在百年骑楼之下，大家以美食为媒、乡情为纽带，提前庆祝元宵佳节。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "（新春见闻）宁夏隆德“社火之乡”闹新春 千年民俗焕新生",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579687.shtml",
+      "date": "2026-03-02 21:57",
+      "author": "中新网社会新闻",
+      "timestamp": 1772459823.0,
+      "summary": "中新社宁夏隆德3月2日电 (记者 李佩珊)千年古县宁夏固原市隆德县2日举办2026年“非遗过大年·社火闹新春”巡演活动，9支社火队伍沿街展演，以国家级非遗代表性项目高台马社火为核心的20余种民俗技艺轮番亮相，为观众献上一场浸润乡愁记忆的文化盛宴。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "产业兴、乡村美、百姓富 “穷窝窝”如何走上振兴致富路？",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579694.shtml",
+      "date": "2026-03-02 21:55",
+      "author": "中新网社会新闻",
+      "timestamp": 1772459757.0,
+      "summary": "焦点访谈丨产业兴、乡村美、百姓富 “穷窝窝”如何走上振兴致富路？",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "（新春走基层）寒夜俯身护通途 京九线上的春运“守轨人”",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579688.shtml",
+      "date": "2026-03-02 21:53",
+      "author": "中新网社会新闻",
+      "timestamp": 1772459589.0,
+      "summary": "中新网广州3月2日电 题：寒夜俯身护通途 京九线上的春运“守轨人”",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "一图读懂｜改变中东的48个小时，美以-伊朗冲突回溯",
+      "link": "https://www.infzm.com/contents/315927",
+      "date": "2026-03-02 21:48",
+      "author": "南方周末-新闻",
+      "timestamp": 1772459328.0,
+      "summary": "南方周末研究员 黄雨婕 南方周末实习生 袁清渠\n                    \n                    \n                                        责任编",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "广西户外运动精品线路激活新春消费",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579681.shtml",
+      "date": "2026-03-02 21:44",
+      "author": "中新网社会新闻",
+      "timestamp": 1772459064.0,
+      "summary": "中新网南宁3月2日电(黄令妍)广西户外运动精品线路持续火爆。广西体育部门介绍，2026年春节假期期间，全区9条春节假期户外运动精品线路累计接待游客约606万人次，综合带动体育旅游总消费53.96亿元人民币。“体育+”激活假日消费，成为经济增长的新引擎。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "王坚获聘中国（杭州）人工智能小镇名誉镇长",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579662.shtml",
+      "date": "2026-03-02 21:35",
+      "author": "中新网社会新闻",
+      "timestamp": 1772458508.0,
+      "summary": "中新网杭州3月2日电(王逸飞 鲍梦妮)3月2日，2026年杭州市余杭区经济高质量发展大会在当地举行。会上，中国工程院院士、之江实验室主任王坚被聘任为中国(杭州)人工智能小镇名誉镇长。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "（全国两会）深山瑶寨“守艺人”赵春梅：让古老文化“活”在当下",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579659.shtml",
+      "date": "2026-03-02 21:24",
+      "author": "中新网社会新闻",
+      "timestamp": 1772457851.0,
+      "summary": "中新网郴州3月2日电 题：深山瑶寨“守艺人”赵春梅：让古老文化“活”在当下",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "（新春走基层）带着金牌去“开荒”",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579648.shtml",
+      "date": "2026-03-02 21:09",
+      "author": "中新网社会新闻",
+      "timestamp": 1772456960.0,
+      "summary": "中新网佛山3月2日电 题：带着金牌去“开荒”",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "中国冬残奥单板滑雪队积极备战：放平心态 发挥水平",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579651.shtml",
+      "date": "2026-03-02 21:08",
+      "author": "中新网社会新闻",
+      "timestamp": 1772456930.0,
+      "summary": "中新网意大利科尔蒂纳丹佩佐3月2日电 (记者 李京泽)教练员一声令下，中国冬残奥单板滑雪队队员们相继脚踏雪板、疾驰而下，他们身影如箭划破雪面。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "广西新增一处藏酋猴分布点",
+      "link": "https://www.chinanews.com.cn/sh/2026/03-02/10579633.shtml",
+      "date": "2026-03-02 21:06",
+      "author": "中新网社会新闻",
+      "timestamp": 1772456762.0,
+      "summary": "中新网南宁3月2日电(覃昌谊 黎泽标)广西壮族自治区林业局2日介绍，近日，位于桂平市的广西大平山自然保护区在红外相机监测数据中，首次记录到国家二级重点保护野生动物藏酋猴的清晰野外活动影像，标志着广西又新增一处藏酋猴分布点。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "以色列如何利用伊朗情报漏洞实施“精确斩首”丨智库视点",
+      "link": "https://www.infzm.com/contents/315904",
+      "date": "2026-03-02 21:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1772456400.0,
+      "summary": "很显然，有股“暗黑势力”操纵着不利于伊朗的叙事建构与舆论塑造，而这正是情报工作的最高境界——“认知作战”。\n\n摩萨德创造出独特的“塞尼姆”（希伯来文意为“志愿协助者”）模式，广泛招募伊朗的米兹拉希犹太人（也称东方犹太人）为其效劳。",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "韩国拟在新加坡设投资基金以加强AI合作",
+      "link": "https://36kr.com/newsflashes/3705800177021315?f=rss",
+      "date": "2026-03-02 20:54",
+      "author": "36氪",
+      "timestamp": 1772456092.0,
+      "summary": "韩国总统李在明2日表示，韩国将与新加坡加强在人工智能（AI）领域的合作，韩方计划在新加坡设立3亿美元的全球投资基金，吸引对初创企业和AI领域的投资。（新华社）",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "热门中概股美股盘前普跌，小马智行跌超4%",
+      "link": "https://36kr.com/newsflashes/3705798129381761?f=rss",
+      "date": "2026-03-02 20:52",
+      "author": "36氪",
+      "timestamp": 1772455967.0,
+      "summary": "36氪获悉，热门中概股美股盘前普跌，截至发稿，小马智行跌超4%，小鹏汽车跌超3%，阿里巴巴、百度跌超3%，京东、哔哩哔哩跌超2%，拼多多、爱奇艺、网易、微博、理想汽车、蔚来跌超1%。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "美股大型科技股盘前普跌，英伟达跌超1%",
+      "link": "https://36kr.com/newsflashes/3705796413370497?f=rss",
+      "date": "2026-03-02 20:51",
+      "author": "36氪",
+      "timestamp": 1772455863.0,
+      "summary": "36氪获悉，美股大型科技股盘前普跌，截至发稿，英特尔、特斯拉、亚马逊、谷歌、奈飞跌超2%，英伟达、Meta跌超1%，苹果跌0.97%，微软跌0.75%。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "湖北：力争到2030年引进和培育100家优质智能传感器企业，产业规模达300亿元",
+      "link": "https://36kr.com/newsflashes/3705793206235267?f=rss",
+      "date": "2026-03-02 20:47",
+      "author": "36氪",
+      "timestamp": 1772455667.0,
+      "summary": "3月2日，湖北省政府新闻办举行解读《加快“世界光谷”传感器产业集群融合发展行动方案（2026—2030年）》新闻发布会。湖北省经信厅表示，力争到2030年引进和培育100家左右优质的智能传感器企业，产业规模达300亿元，带动应用行业规模突破5000亿元。高标准建设光谷智能传感器产业园，布局研发孵化中",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "纳芯微：2025年营业总收入33.68亿元，同比增长71.8%",
+      "link": "https://36kr.com/newsflashes/3705790267175041?f=rss",
+      "date": "2026-03-02 20:44",
+      "author": "36氪",
+      "timestamp": 1772455487.0,
+      "summary": "36氪获悉，纳芯微在港交所公告，公司2025年营业总收入33.68亿元，同比增长71.8%；归属于公司所有者的净亏损2.41亿元，上年同期亏损4.03亿元，同比减亏。公司已申请公司H股于2026年3月3日上午九时正于香港联交所恢复买卖。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "遗忘，就是对暴力的重复",
+      "link": "http://www.huxiu.com/article/4837962.html?f=wangzhan",
+      "date": "2026-03-02 20:00",
+      "author": "虎嗅网",
+      "timestamp": 1772452800.0,
+      "summary": "互联网上流行一句话：“除了病痛，一切痛苦都是价值观带来的。” 仿佛只要换个心态，痛苦就会消失。但这句治愈系的鸡汤背后，隐藏着极其残酷的权力逻辑。如果痛苦只是“想多了”，那为什么有些痛会让我们感受到真实的心碎和身体的震颤？&nbsp;本节目是【情感政治系列】的Part1——痛苦篇。痛的真相：痛苦不是",
+      "source_url": "http://www.huxiu.com",
+      "category": "Blog"
+    },
+    {
+      "title": "除夕夜与王兴兴的访谈：揭秘春晚幕后，与宇树这一年",
+      "link": "http://www.huxiu.com/article/4837789.html?f=wangzhan",
+      "date": "2026-03-02 19:00",
+      "author": "虎嗅网",
+      "timestamp": 1772449200.0,
+      "summary": "除夕夜的夜晚，宇树刚刚完成了马年春晚的表演节目《武BOT》。这是宇树第三次登上中国春晚舞台，25台宇树机器人组成一个集群，和中国最顶尖的武术学校，塔沟武校的人类小演员们，一起完成了一场震撼的表演。这场表演被全球媒体称为，展现了人形机器人运控的巅峰。这场表演，不仅展现了全球最强的运控能力，也超越了宇",
+      "source_url": "http://www.huxiu.com",
       "category": "Blog"
     },
     {
@@ -452,16 +602,6 @@
       "category": "Blog"
     },
     {
-      "title": "哈啰招聘员工要求30岁以下引争议 公司致歉：对涉事团队进行严肃批评",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551860.htm",
-      "date": "2026-03-02 17:48",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772444917.0,
-      "summary": "今日，哈啰招聘发布致歉声明，表示个别招聘信息中出现不当年龄限制表述的情况，高度重视并深表歉意。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "氪星晚报｜马斯克称第二代星链卫星将提供5G速度的太空互联网服务；调整住宿税，日本京都预计增收132亿日元；卢伟冰：小米今年即将发布全新的机器人产品",
       "link": "https://36kr.com/p/3705604996952453?f=rss",
       "date": "2026-03-02 17:47",
@@ -472,13 +612,13 @@
       "category": "Blog"
     },
     {
-      "title": "微软变卦：Windows 11独家功能门槛依旧 纯净安装是唯一途径",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551858.htm",
-      "date": "2026-03-02 17:28",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772443721.0,
-      "summary": "微软近日悄然撤回了关于Smart App Control（智能应用控制）功能的更新计划，确认该Windows 11独家功能仍需通过纯净安装才能启用，此前承诺的免重装方案已被推迟。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
+      "title": "投资也有性价比？认识夏普比",
+      "link": "http://www.huxiu.com/article/4837958.html?f=wangzhan",
+      "date": "2026-03-02 17:06",
+      "author": "虎嗅网",
+      "timestamp": 1772442399.0,
+      "summary": "买基金的时候，经常看到夏普比，看起来好像很重要，但这是什么意思呢？今天就来聊一聊。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "source_url": "http://www.huxiu.com",
       "category": "Blog"
     },
     {
@@ -492,16 +632,6 @@
       "category": "News"
     },
     {
-      "title": "罗技鼠标售后 官方直接寄回三个全新产品 可惜还是要退回",
-      "link": "https://www.cnbeta.com.tw/articles/game/1551856.htm",
-      "date": "2026-03-02 16:33",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772440435.0,
-      "summary": "之前我们见过不少美国用户分享下单一件却收到数倍商品，且客服表示无需退还的经历，那么这种事情发生在其他地方会怎样呢，结局可能会完全不同。据报道，台湾的邸先生分享了自己申请罗技鼠标售后的经历，他在去年11月购入罗技SuperLight 2 DEX鼠标，使用三个月后滚轮出现回滚故障，导致在进行《无畏契约》",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "[开源] 真正的iOS虚拟机！自带越狱环境可用于测试/模拟/安全研究等等",
       "link": "https://www.landiannews.com/archives/111969.html",
       "date": "2026-03-02 16:32",
@@ -512,53 +642,13 @@
       "category": "Blog"
     },
     {
-      "title": "马斯克惊叹：中国正快速迈向太阳能+电力未来 对油气需求将大幅降低",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551854.htm",
-      "date": "2026-03-02 16:32",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772440335.0,
-      "summary": "近日，特斯拉CEO埃隆・马斯克在社交平台公开表示：“中国正迅速迈向太阳能/电力未来，对石油或天然气的需求将大大降低”。马斯克的发言，是对“World of Statistics”发布的一组官方数据的回应,该数据显示，截至2025年，中国汽车保有量中，电动汽车占比已达12%。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "全新宏光MINIEV内饰公布",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551852.htm",
-      "date": "2026-03-02 16:31",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772440304.0,
-      "summary": "全球微型电动车销冠宏光MINIEV上新，今日官方公布了新一代车型的内饰官图。新车内饰采用“环趣美学”设计理念，提供“焦糖奶油”配色设计，搭配棕白格趣座椅，整体呈现出如甜品般的视觉效果，显然依旧主打年轻女性消费者。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "擦边20年就不改 海口市监局约谈椰树",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551850.htm",
-      "date": "2026-03-02 16:29",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772440171.0,
-      "summary": "近日，有消息称椰树集团对外开放工厂参观，但有多位网友在社交平台反馈投诉，椰树集团工厂的宣传广告语涉嫌低俗，最具争议的一张广告图写有“椰树女员工胸这么大”“追求胸大是让婴儿有奶吃”等宣传文案。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "AI.com卖7000万美元天价：10岁时偷刷妈妈信用卡入手 32年暴涨70万倍",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551848.htm",
+      "title": "伊朗战争：美国的终极野心将如何影响资本市场？",
+      "link": "http://www.huxiu.com/article/4838211.html?f=wangzhan",
       "date": "2026-03-02 16:28",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772440138.0,
-      "summary": "前不久，全球顶级域名AI.com以约7000万美元（折合人民币约4.8亿元）的天价易手。这一交易刷新了全球域名成交纪录的同时，背后隐藏的故事更是充满了戏剧性与传奇色彩。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "Linux 项目宣布延长多个 LTS 内核版本支持周期",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1551846.htm",
-      "date": "2026-03-02 16:28",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1772440096.0,
-      "summary": "稳定版内核维护者 Greg Kroah-Hartman 和 Sasha Levin 近日宣布，Linux 项目将延长多个长期支持（LTS）内核版本的维护时间。其中，Linux 6.6 的计划终止支持时间由原定的 2026 年 12 月延长至 2027 年 12 月，使其实际维护周期从 3 年延长为",
-      "source_url": "https://www.cnbeta.com.tw",
+      "author": "虎嗅网",
+      "timestamp": 1772440122.0,
+      "summary": "风浪越大、鱼越贵？还是不立危墙之下？这确实是个问题。估计本周的资本市场，是相当紧张刺激的了。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "source_url": "http://www.huxiu.com",
       "category": "Blog"
     },
     {
@@ -599,6 +689,16 @@
       "timestamp": 1772437019.0,
       "summary": "#人工智能 不要使用 AI 生成重要的密码！研究显示 Claude AI 生成 50 次密码有 18 次是完全相同的，GPT-5.2 特定字符位置的可预测性高达 99.7%。研究人员发现即便反复调整提示词和模型温度设置都无法解决问题，显然这属于架构本身的结构性缺陷，并不能真正安全地生成随机密码。查看",
       "source_url": "https://www.landiannews.com",
+      "category": "Blog"
+    },
+    {
+      "title": "小米舞超跑，意在“欧公子”？",
+      "link": "http://www.huxiu.com/article/4838234.html?f=wangzhan",
+      "date": "2026-03-02 15:29",
+      "author": "虎嗅网",
+      "timestamp": 1772436540.0,
+      "summary": "出品|虎嗅汽车组作者|王亚骏头图|视觉中国小米汽车，将自己的业务触角伸展到了新的领域。3月1日，小米发布了旗下首款概念超跑Xiaomi&nbsp;Vision Gran Turismo。3月2日至5日，这款车会在巴塞罗那世界移动通信大会（MWC）上亮相。MWC上的Xiaomi&nbsp;Visio",
+      "source_url": "http://www.huxiu.com",
       "category": "Blog"
     },
     {
@@ -682,6 +782,16 @@
       "category": "News"
     },
     {
+      "title": "业务占比43%，百度AI是虚胖吗？",
+      "link": "http://www.huxiu.com/article/4837915.html?f=wangzhan",
+      "date": "2026-03-02 10:45",
+      "author": "虎嗅网",
+      "timestamp": 1772419500.0,
+      "summary": "2月26日，百度发布了2025年第四季度和全年业绩公告：总营收1291亿，同比下降3.04%，归母净利润55.89亿，同比下降75.88%。官方认为“整体符合预期”，显然传统广告业务的拉胯已经成为共识。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "source_url": "http://www.huxiu.com",
+      "category": "Blog"
+    },
+    {
       "title": "亚马逊AWS阿联酋数据中心突发火灾 疑似遭物体撞击 可能是导弹碎片引发",
       "link": "https://www.landiannews.com/archives/111963.html",
       "date": "2026-03-02 10:32",
@@ -699,6 +809,16 @@
       "timestamp": 1772417554.0,
       "summary": "作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，深圳市零差云控科技有限公司（以下简称“零差云控”）近日完成C+轮融资，源式资本担任本轮融资独家财务顾问。零差云控是硬氪持续关注的企业【详细可见报道：估值超10亿，这家机器人关节公司销售额全球第一｜潜伏独角兽】。本轮融资信息和企业定位如下：\n  融资金额及投",
       "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "新势力2月销量：零跑理想前两名，小米问界跌惨了",
+      "link": "http://www.huxiu.com/article/4838125.html?f=wangzhan",
+      "date": "2026-03-02 10:10",
+      "author": "虎嗅网",
+      "timestamp": 1772417445.0,
+      "summary": "本文来自微信公众号：定焦One，作者：金玙璠，编辑：魏佳，题图来自：视觉中国3月1日，新势力陆续公布2月交付量。先看新势力六强的座次。零跑以28067辆，守住了新势力冠军的位置。理想紧随其后，交付26421辆，前两名相差不到2000辆，且理想环比降幅仅4.5%，是六强里跌得最少的；蔚来三个品牌合计",
+      "source_url": "http://www.huxiu.com",
       "category": "Blog"
     },
     {
@@ -759,66 +879,6 @@
       "timestamp": 1772411400.0,
       "summary": "走过了为期4年的“去泡沫”和“洗牌”，医疗健康赛道终于迎来柳暗花明。接连不断的BD交易，叠加创新药企盈利预期持续抬高、港交所“科企专线”和科创板第五套规则重启等政策红利，二级市场率先开启新一轮上行周期。\n   2025年全年，共有39家医疗健康企业成功发行IPO，募集总规模达359亿元；个股",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "「质肽生物」获超5亿元人民币C轮融资，加速长效减重新药等临床开发 | 36氪首发",
-      "link": "https://36kr.com/p/3705039542710665?f=rss",
-      "date": "2026-03-02 08:15",
-      "author": "36氪",
-      "timestamp": 1772410508.0,
-      "summary": "36氪获悉，「质肽生物」近日获超5亿元人民币C轮融资，由奥博资本（OrbiMed）领投，启明创投、知名产业基金、五源资本、杏泽资本、华盖资本跟投，老股东泰福资本、蓝驰创投、泰煜投资持续加码，浩悦资本担任本轮融资的独家财务顾问。\n  质肽生物成立于2018年，主要从事重组蛋白质药物开发（36氪此前进行",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "X/Twitter发布KOL广告禁入类别 不能收钱发布涉及医药/减肥/烟草等产品否则封号",
-      "link": "https://www.landiannews.com/archives/111959.html",
-      "date": "2026-03-01 22:16",
-      "author": "蓝点网",
-      "timestamp": 1772374578.0,
-      "summary": "#网站应用 X/Twitter 发布 KOL 付费推广的禁入类别：包括医药 / 博彩 / 减肥 / 烟草 / 保健品等多个类别的产品禁止发布，否则将面临封号。即 KOL 不能收钱发布这些敏感类别的内容，哪怕标记付费推广也不能发，否则被平台检测到或用户举报后轻则要求删帖并临时冻结发帖权限，重则直接封号",
-      "source_url": "https://www.landiannews.com",
-      "category": "Blog"
-    },
-    {
-      "title": "iOS 26.4 Beta 1导致充电功率被限制在5~10W 苹果已在Beta 2(开发者版)中修复",
-      "link": "https://www.landiannews.com/archives/111958.html",
-      "date": "2026-03-01 22:02",
-      "author": "蓝点网",
-      "timestamp": 1772373742.0,
-      "summary": "#系统资讯 iOS 26.4 Beta 1 测试版导致充电功能异常，多款 iPhone 充电功率被限制到 5~10W，用户可以看到慢充警告。这个错误已经在 Beta 2 中修复，但 Beta 2 目前仅限开发者测试版，所以用户需要将通道切换到开发者测试版后下载更新，更新后即可解决充电慢问题 (此问题",
-      "source_url": "https://www.landiannews.com",
-      "category": "Blog"
-    },
-    {
-      "title": "央行稳汇率：远期售汇准备金率归零",
-      "link": "https://www.infzm.com/contents/315828",
-      "date": "2026-03-01 22:00",
-      "author": "南方周末-新闻",
-      "timestamp": 1772373600.0,
-      "summary": "通常来说，为应对人民币贬值压力，会提高风险准备金率。当面临升值压力，则下调。\n\n当准备金率下调至0，有助于鼓励有实际需求的企业，抓住低成本时机，规避汇率风险。",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
-      "title": "社交网站X/Twitter推出付费推广/AI生成标签 未正确勾选标签可能会被封号",
-      "link": "https://www.landiannews.com/archives/111957.html",
-      "date": "2026-03-01 21:44",
-      "author": "蓝点网",
-      "timestamp": 1772372676.0,
-      "summary": "#网站应用 社交网站 X/Twitter 推出付费推广 / AI 生成标签，用户发布内容时可以主动勾选标签帮助其他用户了解内容性质。这个新功能主要是打击部分关注量较大的创作者肆意发布付费推广内容和 AI 生成的内容，如果相关推文传播量较大且没有正确标记，就有可能会平台直接封号。查看全文：https:",
-      "source_url": "https://www.landiannews.com",
-      "category": "Blog"
-    },
-    {
-      "title": "HBO正在加强打击密码共享观看视频 现在更多用户将碰到观看限制提示",
-      "link": "https://www.landiannews.com/archives/111956.html",
-      "date": "2026-03-01 21:20",
-      "author": "蓝点网",
-      "timestamp": 1772371240.0,
-      "summary": "#网站应用 流媒体视频网站 HBO Max 正在加强打击密码共享观看视频，现在更多密码共享用户将会碰到限制提示，要求额外付费开通席位或单独订阅。从去年 8 月开始 HBO Max 就在打击密码共享，在最新的财报电话会议中该公司称开始第二阶段的打击密码共享，并且会将该政策扩展到更多市场。查看全文：ht",
-      "source_url": "https://www.landiannews.com",
       "category": "Blog"
     }
   ]
