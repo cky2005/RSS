@@ -1,6 +1,356 @@
 {
-  "update_time": "2026-04-28",
+  "update_time": "2026-04-29",
   "articles": [
+    {
+      "title": "加速你的创意落地：Claude AI 接入 Adobe、Blender 等创意软件生态",
+      "link": "https://www.ithome.com/0/944/728.htm",
+      "date": "2026-04-29 06:48",
+      "author": "IT之家",
+      "timestamp": 1777416501.0,
+      "summary": "IT之家 4 月 29 日消息，Anthropic 今天（4 月 29 日）宣布升级 Claude，面向创意人士新增多款专属连接器（connectors），全面接入 Adobe、Blender 等八大创意软件生态，将 AI 能力深度整合至创意专业工作流中。IT之家援引博文介绍，此次更新帮助设计师和音",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "华硕推出新款 BE5000 天选游戏路由 2 Pro，首发 699 元",
+      "link": "https://www.ithome.com/0/944/727.htm",
+      "date": "2026-04-29 06:47",
+      "author": "IT之家",
+      "timestamp": 1777416452.0,
+      "summary": "IT之家 4 月 29 日消息，华硕新推出了一款天选游戏路由 2 Pro 新品，目前京东显示为 699 元，将于 5 月 9 日开售。京东华硕（ASUS）天选游戏路由 2 Pro 开黑神器 WiFi7 电竞游戏路由器双 2.5G 口家用无线千兆 Aimesh 随心组 899 元直达链接IT之家从商品",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "纽约试飞电动空中出租车 10分钟从肯尼迪机场飞抵曼哈顿",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1560448.htm",
+      "date": "2026-04-29 03:01",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777402860.0,
+      "summary": "美国电动垂直起降载具（eVTOL）企业 Joby Aviation 近日在纽约市启动一系列真实场景飞行测试，其电动空中出租机型首次在美国最复杂的城市空域之一执行常规航线试飞，向商业化运营迈出关键一步。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Tim Cook出席白宫欢迎仪式 见证查尔斯三世首次访美国事活动",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1560446.htm",
+      "date": "2026-04-29 02:59",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777402742.0,
+      "summary": "苹果公司首席执行官Tim Cook近日现身华盛顿，在美国总统唐纳德·特朗普于白宫迎接英国国王查尔斯三世之际，到访白宫并与美国商务部长霍华德·勒特尼克会面，引发外界关注。这是查尔斯三世与王后卡米拉就任以来首次对美国进行国事访问，双方在白宫举行了隆重欢迎仪式，包括公开欢迎环节、人群致意、特朗普发表欢迎讲",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Google扩大向五角大楼提供AI访问权限 填补Anthropic空缺",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1560444.htm",
+      "date": "2026-04-29 02:58",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777402697.0,
+      "summary": "在 Anthropic 拒绝美国国防部提出的敏感用途授权请求后，Google已与五角大楼签署新协议，向其机密网络开放自家 AI 工具的访问权，几乎允许所有“合法用途”。多家媒体报道称，这一安排意味着国防部可以在机密环境中更广泛地部署Google的 AI，用于情报分析、决策支持等场景。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "德国航空航天中心研发的可变形机翼首飞 验证无人机自适应飞行能力",
+      "link": "https://www.cnbeta.com.tw/articles/science/1560442.htm",
+      "date": "2026-04-29 02:56",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777402611.0,
+      "summary": "想象一下，飞机已经升空，你从舷窗望出去，突然发现机翼在起伏、扭动、悄无声息地改变形状——大多数乘客恐怕会当场紧张起来。但这正是德国工程师正在测试的一项新技术：能够在飞行中实时“变身”的原型可变形机翼。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Anthropic Claude现在可以接入Photoshop、Blender和Ableton",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1560440.htm",
+      "date": "2026-04-29 01:30",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777397437.0,
+      "summary": "美国人工智能公司Anthropic宣布，其大模型助手 Claude 现已通过一组全新“连接器”直接接入 Photoshop、Premiere 等 Adobe Creative Cloud 应用，以及 Affinity、Blender、Ableton、Autodesk 等一系列主流创意软件。这一举措延",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "因虐待猫咪遭严厉惩处 母亲强逼儿子砸烂PS5主机",
+      "link": "https://www.cnbeta.com.tw/articles/game/1560438.htm",
+      "date": "2026-04-29 01:24",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777397054.0,
+      "summary": "近日，博主@LASHYBILLS在社交平台分享的一段家庭教育视频引发了讨论。视频中，一名母亲因发现儿子摔打猫咪，作为惩罚，她强迫儿子以同样的方式亲手砸毁其心爱的PS5游戏机。这段充满张力的视频不仅让游戏圈侧目，更触发了关于“暴力教育”的辩论。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "微信朋友圈悄悄更新了，你发现了吗？",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1560436.htm",
+      "date": "2026-04-29 01:22",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777396961.0,
+      "summary": "4月28日，话题“腾讯客服回应朋友圈排版变了”冲上微博热搜第二。有多名网友发帖称发现微信朋友圈的页面排版与此前相比，出现了明显变化。有发现变化的网友称，自己使用的是iOS 8.0.71版本的微信。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "预测市场平台Polymarket寻求向美国用户开放",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1560434.htm",
+      "date": "2026-04-29 01:21",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777396916.0,
+      "summary": "据知情人士透露，Polymarket正采取措施，试图将其主要交易平台重新带回美国。此举令美国用户得以接触该平台，有望为一个已快速增长的行业进一步注入动力。自2022年与监管机构发生冲突以来，Polymarket已在技术上禁止美国用户在其国际平台上交易，而该公司推出的美国本土替代平台尚未完全上线。 阅",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "OpenAI称华尔街日报的报道是标题党 公司各项业务“火力全开”",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1560432.htm",
+      "date": "2026-04-29 01:21",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777396889.0,
+      "summary": "OpenAI周二反驳外界关于其销售增长前景的质疑，尽管有报道称该公司未能达到内部目标，但OpenAI表示其面向消费者和企业的业务正“火力全开”。《华尔街日报》周一晚间报道称，随着竞争对手迎头赶上，OpenAI未能实现多项目标。OpenAI将这则报道称为“典型的标题党”。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "群众反映被冒名注册5家公司 成都武侯区成立联合调查组",
+      "link": "https://www.chinanews.com.cn/sh/2026/04-29/10612680.shtml",
+      "date": "2026-04-29 00:29",
+      "author": "中新网社会新闻",
+      "timestamp": 1777393792.0,
+      "summary": "新华社成都4月28日电(记者董小红)成都市武侯区行政审批局4月28日发布情况通报称，近日，有群众反映其在不知情的情况下被冒名注册了5家公司。该局高度重视，已联动区公安分局、区市场监管局等部门组成联合调查组开展核查工作。该局将坚决维护人民群众合法权益，根据调查结果依法依规处理。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "Google翻译上线口语纠正功能 率先在美印推出",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1560430.htm",
+      "date": "2026-04-29 00:10",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777392643.0,
+      "summary": "Google近日为其翻译服务上线一项全新 AI 口语练习功能，帮助用户在学习外语时纠正发音、提升口语表达能力。 这一名为“发音练习（pronunciation practice）”的工具通过分析用户语音，实时给出改进建议，让学习者在开口进行真实对话前，先在应用内完成针对性练习。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "贵州花江峡谷大桥获“最高的桥”吉尼斯世界纪录称号",
+      "link": "https://www.chinanews.com.cn/sh/2026/04-28/10612675.shtml",
+      "date": "2026-04-28 23:44",
+      "author": "中新网社会新闻",
+      "timestamp": 1777391051.0,
+      "summary": "中新社贵阳4月28日电 (曾琪男)经吉尼斯世界纪录官方认证机构28日认证，位于贵州省安顺市关岭县与黔西南布依族苗族自治州贞丰县的花江峡谷大桥，以桥面距水面626.01米的垂直高度，获“最高的桥”吉尼斯世界纪录称号。此前的世界纪录为北盘江大桥创下的565.4米。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "格力电器 2025 年净利润 290.03 亿元，同比下降 9.89%",
+      "link": "https://www.ithome.com/0/944/725.htm",
+      "date": "2026-04-28 23:42",
+      "author": "IT之家",
+      "timestamp": 1777390933.0,
+      "summary": "IT之家 4 月 28 日消息，格力电器今日发布 2025 年报告：营业总收入：1704.48 亿元，同比下降 9.89%归母净利润：290.03 亿元，同比下降 9.89%扣非净利润：277.06 亿元，同比下降 7.95%经营现金流：463.83 亿元，同比增长 57.93%基本每股收益：5.2",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "格力电器 2026 年一季度净利润 60.82 亿元，同比增长 3.01%",
+      "link": "https://www.ithome.com/0/944/724.htm",
+      "date": "2026-04-28 23:40",
+      "author": "IT之家",
+      "timestamp": 1777390834.0,
+      "summary": "IT之家 4 月 28 日消息，格力电器今日发布 2026 年一季度报告：营业总收入：429.66 亿元，同比增长 3.52%归母净利润：60.82 亿元，同比增长 3.01%扣非净利润：57.02 亿元，同比下降 0.27%经营现金流：77.99 亿元，同比下降 29.11%基本每股收益：1.09",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "立讯精密 2026 年净利润 78.40 亿元 ~81.06 亿元，同比预增 18%~22%",
+      "link": "https://www.ithome.com/0/944/723.htm",
+      "date": "2026-04-28 23:38",
+      "author": "IT之家",
+      "timestamp": 1777390687.0,
+      "summary": "IT之家 4 月 28 日消息，立讯精密今日发布 2026 年业绩预告报告：归母净利润：784024.10 万元 ~810601.19 万元，同比预增 18.00%~22.00%扣非净利润：625670.32 万元 ~672247.41 万元，同比预增 11.74%~20.06%基本每股收益：1.0",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "立讯精密 2026 年一季度净利润 36.59 亿元，同比增长 20.24%",
+      "link": "https://www.ithome.com/0/944/722.htm",
+      "date": "2026-04-28 23:36",
+      "author": "IT之家",
+      "timestamp": 1777390599.0,
+      "summary": "IT之家 4 月 28 日消息，立讯精密今日发布 2026 年一季度报告：营业总收入：838.88 亿元，同比增长 35.77%归母净利润：36.6 亿元，同比增长 20.24%扣非净利润：27.76 亿元，同比增长 15.22%经营现金流：-70.68 亿元，同比下降 5.63%基本每股收益：0.",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "隆基绿能 2026 年一季度亏损 19.199 亿元，同比亏损扩大 33.7%",
+      "link": "https://www.ithome.com/0/944/708.htm",
+      "date": "2026-04-28 23:28",
+      "author": "IT之家",
+      "timestamp": 1777390098.0,
+      "summary": "IT之家 4 月 28 日消息，隆基绿能今日发布 2026 年一季度报告：营业总收入：111.916 亿元，同比下降 18.03%归母净利润：-19.199 亿元，同比亏损扩大 33.7%扣非净利润：-21.346 亿元经营现金流：-24.486 亿元，同比下降 40.13%基本每股收益：-0.25",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "FCC正准备对迪士尼的电视执照进行审查",
+      "link": "https://www.cnbeta.com.tw/articles/movie/1560428.htm",
+      "date": "2026-04-28 23:28",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777390089.0,
+      "summary": "美国联邦通信委员会（FCC）正着手审查迪士尼的广播许可证，这一动向可能给这家ABC母公司带来压力，此前白宫与深夜脱口秀主持人吉米·坎摩尔之间爆发了争执。FCC主席布伦丹·卡尔上月表示，该机构可能加快对广播电视台持有的许可证的审查，因为他正加紧对新闻媒体公司的调查，同时面临来自特朗普的压力。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "科技媒体：马斯克与奥特曼的“这场较量里没有好人”",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1560426.htm",
+      "date": "2026-04-28 23:27",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777390056.0,
+      "summary": "科技媒体The Verge旗下《Sources》播客创始人亚历克斯·希思周二在知名财经媒体的直播节目中直言，正在奥克兰联邦法院开庭的马斯克诉奥特曼案，“没有任何一方是值得同情的角色”。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "12GB显存的RTX 5070笔记本GPU现已正式发布",
+      "link": "https://www.cnbeta.com.tw/articles/game/1560424.htm",
+      "date": "2026-04-28 23:25",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777389950.0,
+      "summary": "英伟达现已正式发布新款RTX 5070笔记本GPU，配备12GB显存，填补了现有RTX 5070和RTX 5070 Ti之间的性能空白。令人费解的是，英伟达是在GeForce Game Ready驱动程序更新中，而非通过独立发布会宣布了这一新款GPU SKU。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "雷蛇 BLACKPINK 系列联名外设 5 月 7 日国内开售，含键盘、鼠标、电竞椅等",
+      "link": "https://www.ithome.com/0/944/707.htm",
+      "date": "2026-04-28 23:24",
+      "author": "IT之家",
+      "timestamp": 1777389880.0,
+      "summary": "IT之家 4 月 28 日消息，雷蛇今天宣布 BLACKPINK 系列联名外设将于下个月（5 月 7 日晚 23:00）在国内发售。IT之家从官方公众号获悉，本次将要上市的外设包括雨林狼蛛 V3 竞技版键盘、炼狱蝰蛇标准版鼠标、巨甲虫 V2（M）鼠标垫以及水神 X 电竞座椅。外观方面，该系列联名外设",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果Vision Pro首次用于白内障手术 纽约眼科医生率先完成尝试",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1560422.htm",
+      "date": "2026-04-28 23:24",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777389864.0,
+      "summary": "一名纽约眼科医生近日创下医疗应用新纪录，成为全球首位在白内障手术中使用苹果 Vision Pro 空间计算头显的外科医生。这也为苹果高价头显在专业和企业级场景中的落地，提供了又一个具有象征意义的案例。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "小米澎湃 OS 开发者预览版 Android 17 Beta 2 发布，适配 17、17 Ultra 等机型",
+      "link": "https://www.ithome.com/0/944/706.htm",
+      "date": "2026-04-28 23:19",
+      "author": "IT之家",
+      "timestamp": 1777389545.0,
+      "summary": "IT之家 4 月 28 日消息，小米今天宣布，基于 Android 17 Beta 2 的小米澎湃 OS 开发者预览版现已发布，开发者用户可第一时间尝鲜。IT之家从小米社区了解到，本次澎湃 OS Android 17 Beta 2 版适配小米 17、小米 17 Ultra 以及小米 17 Ultra",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 Vision Pro 辅助完成白内障手术，支持 3D 可视化与远程协作",
+      "link": "https://www.ithome.com/0/944/705.htm",
+      "date": "2026-04-28 23:18",
+      "author": "IT之家",
+      "timestamp": 1777389507.0,
+      "summary": "IT之家 4 月 28 日消息，苹果 Vision Pro 再度创下医疗应用里程碑，纽约一位眼科医生成为首位借助这款空间计算头显完成白内障手术的外科医师。视光医疗机构 SightMD 的埃里克 · 罗森伯格医生于 2025 年 10 月完成了首例手术。此后，他利用自己为苹果混合现实设备联合开发的手术",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "ACEMAGIC 阿迈奇推出 F5A 迷你主机：锐龙 AI 9 HX 470 处理器、32GB 内存，支持 OCuLink 外接显卡",
+      "link": "https://www.ithome.com/0/944/704.htm",
+      "date": "2026-04-28 23:06",
+      "author": "IT之家",
+      "timestamp": 1777388761.0,
+      "summary": "IT之家 4 月 28 日消息，ACEMAGIC 阿迈奇现已在海外市场推出 F5A 迷你主机，新品配备 AMD 锐龙 AI 9 HX 470 处理器，支持 OCuLink 外接显卡。据介绍，这款迷你主机的处理器采用 12 核心 24 线程设计，包含 4 个 Zen5 核心 +8 个 Zen 5c 核",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "善择ESG风险跟踪第134期｜161家公司暴露ESG风险，中国人寿浙江分公司数据不真实被罚",
+      "link": "https://www.infzm.com/contents/320388",
+      "date": "2026-04-28 23:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1777388400.0,
+      "summary": "南方周末中国企业社会责任研究中心\n                    \n                    \n                                        责任编辑：康华",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "威马汽车 1.275 亿债权 9.35 万元成交，无原始材料、不承诺可收回",
+      "link": "https://www.ithome.com/0/944/703.htm",
+      "date": "2026-04-28 22:59",
+      "author": "IT之家",
+      "timestamp": 1777388373.0,
+      "summary": "IT之家 4 月 28 日消息，4 月 28 日 16 时 54 分，据淘宝阿里拍卖平台，威马汽车旗下威马新能源汽车采购（上海）有限公司破产清算后，其账面合计 1.275 亿元的 24 笔对外应收账款债权，最终以 9.35 万元价格成交。根据拍卖标的调查情况表，此次拍卖涉及账面金额 127,591,",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Fedora 44 正式版发布，提供 GNOME 50 与 KDE Plasma 6.6 双桌面",
+      "link": "https://www.ithome.com/0/944/702.htm",
+      "date": "2026-04-28 22:54",
+      "author": "IT之家",
+      "timestamp": 1777388092.0,
+      "summary": "IT之家 4 月 28 日消息，据科技媒体 Phoronix 今天报道，Fedora 44 正式版系统现已发布，包含多项改进。据报道，Fedora 44 提供 GNOME 50、KDE Plasma 6.6 两种桌面，Workstation 版本默认使用前者。包含 Budgie 10.10、PHP",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "10799 元起，机械革命苍龙 16 / 18 Pro 游戏本 RTX 5070 12GB 款开启预约",
+      "link": "https://www.ithome.com/0/944/701.htm",
+      "date": "2026-04-28 22:51",
+      "author": "IT之家",
+      "timestamp": 1777387900.0,
+      "summary": "IT之家 4 月 28 日消息，机械革命 (Mechrevo) 今晚宣布了两款配备 NVIDIA（英伟达）最新 GeForce RTX 5070 笔记本电脑 GPU 12GB 版本的游戏笔记本电脑，分别是苍龙 16 Pro 和苍龙 18 Pro，两者均基于 AMD 锐龙 9 9955HX 处理器。I",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "澳大利亚拟对Google、Meta和TikTok征收数字税以迫使其向新闻机构付费",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1560420.htm",
+      "date": "2026-04-28 22:42",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777387328.0,
+      "summary": "澳大利亚政府近日公布一份立法草案，拟通过“新闻议价激励”（News Bargaining Incentive）机制，要求Google、Meta 和 TikTok 等大型科技平台，要么与新闻出版机构达成付费协议，要么接受其在澳大利亚境内收入 2.25% 的税费征收。总理安东尼·阿尔巴尼斯表示，这些大型",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "“入京通GO BEIJING”上线 39项服务16种语言方便境外人员",
+      "link": "https://www.chinanews.com.cn/sh/2026/04-28/10612661.shtml",
+      "date": "2026-04-28 22:01",
+      "author": "中新网社会新闻",
+      "timestamp": 1777384918.0,
+      "summary": "近日，北京正式上线了全新的一站式服务平台“入京通GO BEIJING”，覆盖食住行游购娱政全场景，集成打车、购票、订酒店、买eSIM卡等39项实用服务，手机一键注册即可能用，还支持16种语言切换，外籍友人来京也不用再为语言、支付、办事等基础问题发愁。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“一杯热茶” 释然矛盾 国际纺都“洋娘舅”融情理于法",
+      "link": "https://www.chinanews.com.cn/sh/2026/04-28/10612651.shtml",
+      "date": "2026-04-28 21:55",
+      "author": "中新网社会新闻",
+      "timestamp": 1777384506.0,
+      "summary": "中新网绍兴4月28日电 题：“一杯热茶”释然矛盾 国际纺都“洋娘舅”融情理于法",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "川渝联合开展涪江流域水文应急测报演练 筑牢流域安澜防线",
+      "link": "https://www.chinanews.com.cn/sh/2026/04-28/10612641.shtml",
+      "date": "2026-04-28 21:47",
+      "author": "中新网社会新闻",
+      "timestamp": 1777384029.0,
+      "summary": "中新网重庆4月28日电 (记者 刘相琳)28日，2026年涪江流域水旱灾害联防联控水文应急测报演练落幕。本次演练旨在通过实战化场景，检验川渝两地水文部门的协同作战与应急响应能力。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
     {
       "title": "2026北京国际花展开幕 超千种全球花卉“无界”绽放",
       "link": "https://www.chinanews.com.cn/sh/2026/04-28/10612599.shtml",
@@ -10,56 +360,6 @@
       "summary": "中新社北京4月28日电 (记者 徐婧)2026北京国际花展28日在北京丰台开幕。本次花展以“花开无界”为主题，核心展区汇集全球30余个国家和地区的超1000种花卉。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "华为开发者大会 HDC 2026 定档 6 月 12 日 ~14 日，早鸟票明日开售",
-      "link": "https://www.ithome.com/0/944/689.htm",
-      "date": "2026-04-28 21:18",
-      "author": "IT之家",
-      "timestamp": 1777382332.0,
-      "summary": "IT之家 4 月 28 日消息，华为开发者大会 HDC 2026 官宣定档 6 月 12 日 ~14 日，早鸟票明日（4 月 29 日）开售。IT之家附本次大会邀请函内容如下：期待与你共盛放!亲爱的开发者：盛夏风起松山湖，华为开发者大会，如约而至。今年，鸿蒙生态全新进化、AI 前沿突破率先登场。从底",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "预售价 24.58 万元起，蔚来乐道 L80 大五座 SUV 开启预售",
-      "link": "https://www.ithome.com/0/944/688.htm",
-      "date": "2026-04-28 21:13",
-      "author": "IT之家",
-      "timestamp": 1777382001.0,
-      "summary": "IT之家 4 月 28 日消息，蔚来旗下乐道汽车全新车型乐道 L80 今日开启预售，新车定位智能双舱大五座旗舰 SUV，与乐道 L90 组成乐道旗舰双子星，并将拥有全球旗舰级智能软硬件。乐道 L80 整车购买预售价 24.58 万元起，电池租用方式购买 15.98 万元起。乐道 L80 展车现已到达",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "消息称任天堂《密特罗德》系列 IP 将影视化，索尼、环球竞逐改编权",
-      "link": "https://www.ithome.com/0/944/687.htm",
-      "date": "2026-04-28 21:10",
-      "author": "IT之家",
-      "timestamp": 1777381815.0,
-      "summary": "IT之家 4 月 28 日消息，爆料人士 V Scooper 昨天透露，任天堂计划将《密特罗德》系列 IP 影视化，目前索尼影业和环球影业都在激烈竞争改编权。据悉，两家公司都倾向于制作真人版《密特罗德》电影，但目前该项目还处于非常早期的阶段，可能随时发生变化。同时 V Scooper 今天补充道，环",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "小米推出新款“米家中央空调强劲风风管机”：提供超 3 匹 / 超 4 匹版本，7199 元起",
-      "link": "https://www.ithome.com/0/944/686.htm",
-      "date": "2026-04-28 21:05",
-      "author": "IT之家",
-      "timestamp": 1777381545.0,
-      "summary": "IT之家 4 月 28 日消息，小米现已在有品上架“米家中央空调 强劲风 风管机”（点此访问），提供超 3 匹、超 4 匹版本可选，前者定价 7199 元，后者定价 9399 元。系列产品可实现 20 秒快速制冷、60 秒快速制热，其中超 3 匹版本提供 10600W 制冷量及 15000W 制热量",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "吉利银河 M7 上市：CLTC 最大综合续航 1730km，限时售 10.98 万元起",
-      "link": "https://www.ithome.com/0/944/685.htm",
-      "date": "2026-04-28 21:02",
-      "author": "IT之家",
-      "timestamp": 1777381334.0,
-      "summary": "IT之家 4 月 28 日消息，吉利银河 M7 已上市，新车共推出 4 款配置车型，官方指导价为 11.98 万至 14.78 万元，上市期间限时指导价下探至 10.98 万至 13.78 万元。与此同时，厂家同步释放多重购车权益，涵盖 6000 元限时超级置换金、4000 元五一出行保险补贴、本品",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
     },
     {
       "title": "商汤科技正式发布并开源日日新SenseNova U1系列模型",
@@ -79,16 +379,6 @@
       "timestamp": 1777380681.0,
       "summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，理想汽车跌超4%，小鹏集团跌超3%，腾讯音乐、阿里巴巴、B站跌超2%，百度、京东、网易、蔚来跌超1%；啊七一涨近1%。",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "腾讯游戏《失控进化》定档 7 月上线，支持 PC / iOS / Android / 鸿蒙 / 平板多端互通",
-      "link": "https://www.ithome.com/0/944/683.htm",
-      "date": "2026-04-28 20:47",
-      "author": "IT之家",
-      "timestamp": 1777380471.0,
-      "summary": "IT之家 4 月 28 日消息，腾讯今天宣布《失控进化》新游定档 7 月上线，支持 PC / iOS / Android / 鸿蒙 / 平板多端互通。作为参考，本作带给玩家更刺激的生存搜打拆体验：4x4km 海陆空无缝探索地图，拟真开放世界等待玩家探索；从零开始采集资源、建造庇护所，直面气候、饥饿及",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -112,36 +402,6 @@
       "category": "News"
     },
     {
-      "title": "罗博特科 2026 年一季度亏损 3881.80 万元，同比下降 48.33%",
-      "link": "https://www.ithome.com/0/944/681.htm",
-      "date": "2026-04-28 20:38",
-      "author": "IT之家",
-      "timestamp": 1777379881.0,
-      "summary": "IT之家 4 月 28 日消息，罗博特科今日发布 2026 年一季度报告：营业总收入：1.64 亿元，同比增长 69.33%归母净利润：-3881.80 万元，同比下降 48.33%扣非净利润：-4009.60 万元，同比下降 52.71%经营现金流：-799.38 万元，同比增长 83.47%基本",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "阿联酋宣布退出OPEC及OPEC+",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1560418.htm",
-      "date": "2026-04-28 20:37",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777379829.0,
-      "summary": "阿联酋周二宣布退出石油输出国组织（OPEC）及OPEC+，这对该石油出口组织及其实际领导者沙特阿拉伯造成了沉重打击。当前，伊朗战争已引发历史性的能源冲击，并动荡了全球经济。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "小米海外推出 Poco C81 Pro 手机：紫光展锐 T7250 芯片 + 4GB RAM，64 美元起",
-      "link": "https://www.ithome.com/0/944/680.htm",
-      "date": "2026-04-28 20:35",
-      "author": "IT之家",
-      "timestamp": 1777379722.0,
-      "summary": "IT之家 4 月 28 日消息，小米现已在海外市场推出了 Poco C81 Pro 手机，该机搭载紫光展锐 T7250 芯片，配备 4GB RAM，可选 64GB/128GB/256GB 存储空间，定价为 64 美元（IT之家注：现汇率约合 437.4 元人民币）起。该机可选三种配色，配备一块 6.",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "清越科技：实施其他风险警示，股票停牌",
       "link": "https://36kr.com/newsflashes/3786468315733251?f=rss",
       "date": "2026-04-28 20:34",
@@ -149,16 +409,6 @@
       "timestamp": 1777379685.0,
       "summary": "36氪获悉，清越科技公告，公司因2025年度内部控制被出具否定意见审计报告，触及《科创板股票上市规则》相关规定，股票自2026年4月29日开市起停牌1天，将于4月30日复牌并实施其他风险警示，股票简称变更为“ST清越”。实施期间，公司股票不进入风险警示板交易，涨跌幅仍为20%，投资者当日累计买入数量",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "一加枪神游戏手柄价格公布：零售价 449 元，Ace 6 至尊版加购立减 50 元",
-      "link": "https://www.ithome.com/0/944/679.htm",
-      "date": "2026-04-28 20:29",
-      "author": "IT之家",
-      "timestamp": 1777379353.0,
-      "summary": "IT之家 4 月 28 日消息，一加今晚召开新品发布会，推出枪神游戏手柄等外设，新品主打人体工学设计，配备微动扳机键，发布即开售。IT之家附该手柄定价如下：零售价：449 元Ace 6 至尊版加购：399 元（立减 50 元）京东一加枪神游戏手柄 449 元直达链接据介绍，这款手柄采用“无摇杆设计”",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -182,16 +432,6 @@
       "category": "Blog"
     },
     {
-      "title": "长芯博创 2026 年一季度净利润 1.3 亿元，同比增长 45%",
-      "link": "https://www.ithome.com/0/944/677.htm",
-      "date": "2026-04-28 20:15",
-      "author": "IT之家",
-      "timestamp": 1777378520.0,
-      "summary": "IT之家 4 月 28 日消息，长芯博创今日发布 2026 年一季度报告：营业总收入：6.71 亿元，同比增长 24.53%归母净利润：1.30 亿元，同比增长 45.00%扣非净利润：1.28 亿元，同比增长 47.37%经营现金流：2.26 亿元，同比增长 89.54%基本每股收益：0.45 元",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "全国五一劳动奖章获得者张传武：愿以车轮践初心",
       "link": "https://www.chinanews.com.cn/sh/2026/04-28/10612557.shtml",
       "date": "2026-04-28 20:10",
@@ -209,26 +449,6 @@
       "timestamp": 1777378199.0,
       "summary": "36氪获悉，古井贡酒发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入74.46亿元，同比下降18.59%；归属于上市公司股东的净利润为16.07亿元，同比下降31.03%。",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "欧盟所有笔记本必须支持USB-C充电 今天起生效",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1560416.htm",
-      "date": "2026-04-28 20:09",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777378177.0,
-      "summary": "欧盟《通用充电器指令》（Directive (EU) 2022/2380）第二阶段，于今日正式生效。自2026年4月28日起，所有在欧盟销售的产品必须配备支持USB-PD规格的USB-C充电接口，不具备USB-C充电功能的旧款笔记本必须立即下架停售。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "OpenAI未达成营收目标 甲骨文及多只芯片股应声下跌",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1560414.htm",
-      "date": "2026-04-28 20:05",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777377937.0,
-      "summary": "有报道称 OpenAI 未达内部增长预期，引发市场对人工智能行业整体高额开支能否持续的新一轮质疑。受此影响，周二早盘，一众人工智能基础设施相关企业股价大幅下挫。甲骨文周二盘前交易阶段股价大跌约 7.5%。该企业与 OpenAI 签订了为期五年、价值 3000 亿美元的合作协议，为后者的人工智能业务提",
-      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
@@ -252,16 +472,6 @@
       "category": "Blog"
     },
     {
-      "title": "一加 SUPERVOOC 120W 超能舱移动电源发布：1A + 1C，15000mAh 电芯，售 299 元",
-      "link": "https://www.ithome.com/0/944/675.htm",
-      "date": "2026-04-28 20:01",
-      "author": "IT之家",
-      "timestamp": 1777377705.0,
-      "summary": "IT之家 4 月 28 日消息，在今天的发布会中，一加 SUPERVOOC 120W 超能舱移动电源正式发布，采用 1A+1C 规格，匹配 15000mAh 电芯，定价为 299 元。京东一加 120W 超能舱超级闪充移动电源 299 元直达链接该产品整体尺寸为 105x70x29mm，重量 310",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "把脸卖给AI丨剧变",
       "link": "https://www.infzm.com/contents/320426",
       "date": "2026-04-28 20:00",
@@ -272,43 +482,13 @@
       "category": "News"
     },
     {
-      "title": "一加 100W/120W 小方瓶氮化镓充电器发布，229 元 / 269 元",
-      "link": "https://www.ithome.com/0/944/674.htm",
-      "date": "2026-04-28 19:58",
-      "author": "IT之家",
-      "timestamp": 1777377536.0,
-      "summary": "IT之家 4 月 28 日消息，在今天的发布会中，一加 100W 小方瓶 Pro 氮化镓充电器 / 120W 小方瓶双口氮化镓充电器正式发布，前者定价为 229 元，后者定价为 269 元。100W 小方瓶 Pro 氮化镓充电器京东 100W 小方瓶 Pro 氮化镓充电器 229 元直达链接该产品整",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "奇瑞汽车 2026 财年第一财季净利润 41.70 亿元，同比下降 10.52%",
-      "link": "https://www.ithome.com/0/944/673.htm",
+      "title": "久立特材：回购170万股，使用资金总额4934.31万元",
+      "link": "https://36kr.com/newsflashes/3786431608872199?f=rss",
       "date": "2026-04-28 19:57",
-      "author": "IT之家",
-      "timestamp": 1777377436.0,
-      "summary": "IT之家 4 月 28 日消息，奇瑞汽车今日发布 2026 财年第一财季报告：营业总收入：658.70 亿元，同比下降 4.86%归母净利润：41.70 亿元，同比下降 10.52%🤖 AI 解读奇瑞汽车 2026 年第一季度实现营业收入 658.70 亿元 (同比-3.45%)，归母净利润 41.",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "【IT之家评测室】一加 Ace 6 至尊版体验：「双形态枪神」是怎么样炼成的？",
-      "link": "https://www.ithome.com/0/944/672.htm",
-      "date": "2026-04-28 19:55",
-      "author": "IT之家",
-      "timestamp": 1777377359.0,
-      "summary": "近年来，射击类（FPS）手游迎来了爆发式增长。不同于其他类型的游戏，FPS 对屏幕的触控响应和整机的性能都有着极其严苛的要求。所以，一直深耕性能赛道的一加，这次便带着全新一代「风驰游戏内核」、「电竞三芯」以及「165Hz 超高刷」三大自研游戏技术 IP，再次向极致的电竞体验发起冲击。一加 Ace 6",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "一加 Buds Ace 3 耳机发布：FPS 游戏专属音效、47ms 低延迟，329 元",
-      "link": "https://www.ithome.com/0/944/671.htm",
-      "date": "2026-04-28 19:54",
-      "author": "IT之家",
-      "timestamp": 1777377294.0,
-      "summary": "IT之家 4 月 28 日消息，在今天的发布会中，一加 Buds Ace 3 耳机正式发布，定价为 329 元，部分地区国补后低至 279.65 元。京东一加 Buds Ace 3 耳机 329 元直达链接新品采用入耳式设计，拥有 IP55 认证，可选太空银 / 星际黑双色，整体重量 4.4g，搭配",
-      "source_url": "https://www.ithome.com/",
+      "author": "36氪",
+      "timestamp": 1777377444.0,
+      "summary": "36氪获悉，久立特材公告，公司首次通过回购专用证券账户以集中竞价交易方式回购公司股份1,700,000股，占公司总股本的0.17%，最高成交价为29.18元/股，最低成交价为28.79元/股，成交总金额为49,343,073元（不含交易费用）。本次回购股份资金来源为公司自有资金，回购价格未超过回购方",
+      "source_url": "http://36kr.com",
       "category": "Blog"
     },
     {
@@ -340,126 +520,6 @@
       "summary": "中新网天津4月28日电 (记者 王君妍)2026天津“五大道论坛”近日成功举行。论坛以“全球治理与全球城市”为主题，来自国内外高校、智库及相关机构的专家学者围绕全球治理与城市国际化等议题展开交流。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "宇树G1将部署在羽田机场 协助地勤搬运行李货物",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1560412.htm",
-      "date": "2026-04-28 19:03",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777374223.0,
-      "summary": "自今年5月起，日本航空将在日本羽田机场试验部署宇树科技G1人形机器人。据了解，G1将协助人类地勤员工搬运行李、货物，应对游客增长和劳动力短缺问题。据日本国家旅游局统计，2026年1-2月已有超过700万名游客抵达日本。但该国社会老龄化趋势仍在加剧，到2040年，日本可能需要超650万外国劳动力维持经",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "美国企业2025年因隐私违规行为被罚款案例创纪录",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1560410.htm",
-      "date": "2026-04-28 19:02",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777374173.0,
-      "summary": "2025 年，美国各州针对企业隐私违规行为开出了创纪录的罚单，总额高达 34.5 亿美元，超过前五年的合计水平，标志着数据隐私执法进入全面强力执行阶段。根据研究与咨询机构 Gartner 的数据显示，2025 年美国各州因隐私相关违规对企业开出的罚款总额达到 34.5 亿美元，规模超过过去五年罚款总",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "支付宝AI收正式上线 三步接入即时收款 0费率免费使用",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1560408.htm",
-      "date": "2026-04-28 18:59",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777373967.0,
-      "summary": "今日，支付宝正式上线“支付宝AI收”，帮助商家和个人开发者通过OpenClaw（俗称“龙虾”）这类AI Agent提供商业化服务，实现按调用即时收款。值得一提的是，这是继推出“AI付”之后，支付宝在智能体支付领域的进一步布局。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "微软终于动手清理Windows 8遗留UI 老式加载动画已被替换",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1560406.htm",
-      "date": "2026-04-28 18:57",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777373838.0,
-      "summary": "微软在最新的Windows 11 Dev频道预览版build 26300.8289中，替换了自Windows 8沿用至今的登录/注销/重启加载动画。新动画与Win11开机时出现的加载指示器风格统一，取代了那个已服役14年的旧式旋转圈。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "交强险告别一口价时代 6月1日起合规司机保费或降一半 出险多者翻倍",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1560404.htm",
-      "date": "2026-04-28 18:56",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777373811.0,
-      "summary": "据报道，交强险沿用二十年的固定保费模式即将成为历史。国家金融监管总局、公安部、交通运输部联合发布通知，自2026年6月1日起，全国统一执行新交强险费率浮动机制，保费不再“一刀切”。驾驶习惯与违法记录将直接影响缴费金额，安全驾驶可享大幅优惠，高风险驾驶则面临保费上涨。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "张雪对谈理查德·哈蒙德‌：将吃掉国际大牌50%以上份额",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1560402.htm",
-      "date": "2026-04-28 18:56",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777373796.0,
-      "summary": "昨晚上海天马赛车场，‌张雪与英国知名汽车节目《Top Gear》主持人‌理查德·哈蒙德‌展开一场对谈。现场，‌张雪霸气回应外界质疑：“十几年前，我们还在模仿别人，慢慢地，我们已经可以小跑了，而且我相信在未来几年以后会跑得更快。” 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "世界杯决赛门票被炒到1570万元 有球迷要卖房产观赛",
-      "link": "https://www.cnbeta.com.tw/articles/movie/1560400.htm",
-      "date": "2026-04-28 18:56",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777373774.0,
-      "summary": "2026年美加墨世界杯迎来全新变化，国际足联将首次上线官方球票转售平台，开放正规二手票务流通渠道，球迷可在平台内挂牌转让已购入的赛事球票。近期，该官方转售平台已出现天价待售门票，共计4张球票挂出超高定价，单张标价高达2299998.85美元（折合成人民币约1572万元）。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "专车上喝到过期半年矿泉水 曹操出行回应：已对司机进行处理",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1560398.htm",
-      "date": "2026-04-28 18:54",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777373688.0,
-      "summary": "近日有网友反映，自己在搭乘曹操出行专车时，遭遇了令人不适的饮水安全问题。4月25日深夜，该网友与恋人预约了一辆曹操出行专车，在行程中，两人饮用了车内提供的瓶装矿泉水，然而等回到酒店仔细查看后才发现，这些水竟然早已过期。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "章泽天现身北京气场全开 干练职业套装亮相",
-      "link": "https://www.cnbeta.com.tw/articles/movie/1560396.htm",
-      "date": "2026-04-28 18:54",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777373665.0,
-      "summary": "2026世界艺术和科技对话活动正式启幕。启动仪式上，章泽天以京东公益基金会荣誉理事长等身份现身，并在活动现场发表相关演讲，探讨艺术与科技结合的相关议题。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "《红色沙漠》全员喜提500万韩元奖金 从差评如潮到全球销量破500万",
-      "link": "https://www.cnbeta.com.tw/articles/game/1560394.htm",
-      "date": "2026-04-28 18:54",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777373645.0,
-      "summary": "据韩国媒体报道，Pearl Abyss旗下开放世界动作RPG《红色沙漠》全球销量突破500万套（覆盖Xbox、PC和PS5平台），开发商于4月23日向全体733名员工发放了500万韩元（约2.32万元）的庆祝奖金。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "第一批被ChatGPT“喂大”的大学生毕业了",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1560392.htm",
-      "date": "2026-04-28 18:52",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777373570.0,
-      "summary": "第一批和ChatGPT一起读完大学的人，马上就要毕业了。四年前，他们刚走进校园时，生成式AI还像一个突然闯进教室的新玩具；四年后，它已经成了很多学生写论文、查资料、做项目、改简历的默认工具。对这一届美国大学毕业生来说，AI不是课外辅导，而是大学生活的一部分。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "报道称OpenAI未达销售目标 相关股票大跌",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1560390.htm",
-      "date": "2026-04-28 18:50",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777373429.0,
-      "summary": "OpenAI的合作伙伴如软银集团和甲骨文的股价出现下跌，此前报道称，这家AI初创公司近期未能实现销售和新增用户目标，在财报季前重新引发市场对科技公司支出前景的担忧。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "氪星晚报｜我国最大规模AI4S集群接入全国一体化算力网；亚马逊低地轨道卫星计划又一批卫星发射升空；我国首款正向设计自转旋翼机完成首飞",
@@ -502,16 +562,6 @@
       "category": "News"
     },
     {
-      "title": "西安供电人：一度电的25年守护",
-      "link": "https://www.chinanews.com.cn/sh/2026/04-28/10612412.shtml",
-      "date": "2026-04-28 17:57",
-      "author": "中新网社会新闻",
-      "timestamp": 1777370233.0,
-      "summary": "中新网西安4月28日电 题：西安供电人：一度电的25年守护",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
       "title": "独家对谈｜缘启智慧CEO邓江，一个80后银行码农出身的AI医疗创业者",
       "link": "https://36kr.com/p/3786252394945795?f=rss",
       "date": "2026-04-28 17:12",
@@ -520,46 +570,6 @@
       "summary": "图源：公众号「职场Bonus」（ID：ZhiChangHongLi）\n  今年三月，《职场Bonus》报道了前百川智能商业化合伙人邓江加入北电数智的消息。没想到不到半年后，他出来创业了。\n  如今，他是AI医疗大模型新晋创业者邓江，是「缘启智慧」公司的创始人兼CEO邓江。在他低调开张的节骨眼上",
       "source_url": "http://36kr.com",
       "category": "Blog"
-    },
-    {
-      "title": "受气象不佳影响  “两马”航线将双向停航",
-      "link": "https://www.chinanews.com.cn/sh/2026/04-28/10612400.shtml",
-      "date": "2026-04-28 17:11",
-      "author": "中新网社会新闻",
-      "timestamp": 1777367480.0,
-      "summary": "中新社福州4月28日电 (郑江洛)福州港客运站28日通报，受气象不佳影响，福州马尾至马祖“小三通”客运航线29日将双向停航。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "全球专家重庆荣昌共话“减抗” 共商畜牧业绿色转型",
-      "link": "https://www.chinanews.com.cn/sh/2026/04-28/10612381.shtml",
-      "date": "2026-04-28 17:02",
-      "author": "中新网社会新闻",
-      "timestamp": 1777366954.0,
-      "summary": "中新网重庆4月28日电 (杨梦逸)4月28日，2026年抗微生物药物减量化路径和畜牧业可持续发展国际研讨会开幕。来自30余个国家和地区的专家学者齐聚重庆市荣昌区，聚焦创新技术、科学管理与政策协同，推动经验共享与成果转化。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "新疆：天山脚下狮腾跃 少年胸中梦起航",
-      "link": "https://www.chinanews.com.cn/sh/2026/04-28/10612380.shtml",
-      "date": "2026-04-28 16:55",
-      "author": "中新网社会新闻",
-      "timestamp": 1777366543.0,
-      "summary": "中新网乌鲁木齐4月28日电 (胡嘉琛)铿锵锣鼓声响起，18岁的阿不都艾则孜·阿地力双手稳稳托举起色彩斑斓的狮头，腾、挪、闪、扑，每一个动作都充满力量与美感。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "（乡村行·看振兴）江苏邗江利民村春日文旅体验行：探田园、品乡味、享农事",
-      "link": "https://www.chinanews.com.cn/sh/2026/04-28/10612379.shtml",
-      "date": "2026-04-28 16:54",
-      "author": "中新网社会新闻",
-      "timestamp": 1777366487.0,
-      "summary": "中新网扬州4月28日电 (徐珊珊 汤维悦)春风拂碧水，原乡拾趣忙。4月28日，以“春遇北湖·原乡拾趣”为主题的江苏扬州市邗江利民村春日文旅体验行在方巷镇利民村北湖原乡精彩上演。本次活动依托北湖湿地生态禀赋，深度融合林下经济、特色种养、红色文化与农耕文脉，通过实景探访、农事体验、美食品鉴等形式，全方位",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
     },
     {
       "title": "金士顿面向数据中心推出30.72TB的U.2固态硬盘 顺序读取速度可达14,000MB/s",
@@ -589,6 +599,16 @@
       "timestamp": 1777359975.0,
       "summary": "#域名资讯 ICU 域名疑似遭到 DNS 污染，无论域名是否注册都无法正常访问，域名被解析到 Facebook、Twitter、NTT 等无关的 IP 地址。这种情况有着比较典型的 DNS 污染特征，所以使用 ICU 域名开发者可能还需要耐心等待解析系统恢复。查看详情：https://ourl.co",
       "source_url": "https://www.landiannews.com",
+      "category": "Blog"
+    },
+    {
+      "title": "首发换新 2699 → 1648 元：小米 1.5 匹强劲风空调 10 年包修，双排纯铜蒸发器 + 冷凝器",
+      "link": "https://www.ithome.com/0/944/391.htm",
+      "date": "2026-04-28 14:28",
+      "author": "IT之家",
+      "timestamp": 1777357689.0,
+      "summary": "小米官方今日宣布，米家空调强劲风超 1.5 匹今日开售，新品官方定价 3999 元，首发价 2699 元（小米官网现售 2699 元）。夏天双排纯铜蒸发器 + 冷凝器 + 13cc 大排量压缩机 → 强制冷。冬天纯热泵制热技术 &nbsp;→ 出风不干燥。京东同步开启“小米空调超级新品日”狂促：点此",
+      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -650,26 +670,6 @@
       "summary": "文｜胡香赟\n  编辑｜海若镜\n  36氪获悉，寻明生科（Aureka Biotechnologies）近期已完成3500万美元A+轮融资。���轮融资由红杉中国领投，经纬创投、博远资本跟投，老股东五源资本、启明创投、纽尔利资本等持续加注。\n  去年底，寻明生科就曾获得一笔数千万美元的A轮融资。截至目",
       "source_url": "http://36kr.com",
       "category": "Blog"
-    },
-    {
-      "title": "最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎",
-      "link": "https://36kr.com/p/3784806758243587?f=rss",
-      "date": "2026-04-28 00:27",
-      "author": "36氪",
-      "timestamp": 1777307239.0,
-      "summary": "在汽车行业越来越强调降本的今天，车企心中的天平逐渐偏向了更具性价比的国产芯片。爱芯元智看到了这一发展机遇，北京车展前期，爱芯元智与千里科技、阶跃星辰等企业成立“千里联盟”，同时企业将于今年三季度发布M97这颗大算力辅助驾驶芯片。\n  爱芯元智创始人仇肖莘在北京车展上公开表示，“大算力产品已成功流片，",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "2026北京车展，照见汽车产业权力游戏",
-      "link": "https://www.infzm.com/contents/320305",
-      "date": "2026-04-27 23:00",
-      "author": "南方周末-新闻",
-      "timestamp": 1777302000.0,
-      "summary": "冷热不均的反差，恰好撞上汽车电动化基本定局而智能化变数仍未落定的转折期。\n                \n                \n                                        南方周末研究员 丁莉",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
     }
   ]
 }
