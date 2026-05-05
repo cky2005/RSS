@@ -1,6 +1,286 @@
 {
-  "update_time": "2026-05-05",
+  "update_time": "2026-05-06",
   "articles": [
+    {
+      "title": "苹果 iOS 27 将允许用户选择第三方 AI 模型，支持谷歌与 Anthropic 等",
+      "link": "https://www.ithome.com/0/946/606.htm",
+      "date": "2026-05-06 06:37",
+      "author": "IT之家",
+      "timestamp": 1778020655.0,
+      "summary": "IT之家 5 月 6 日消息，彭博社记者马克 · 古尔曼今日报道称，苹果计划在今年秋季发布的 iOS 27、iPadOS 27 及 macOS 27 中，允许用户自行选择第三方 AI 模型，为设备上的各项 AI 功能提供支持，例如为文本生成与编辑、图像生成等任务中选用不同的第三方 AI 模型。IT之",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "美国SEC新提案出炉 计划允许企业将财报披露频率改为每半年一次",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561454.htm",
+      "date": "2026-05-06 06:22",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778019774.0,
+      "summary": "美国证券交易委员会（SEC）发布一项提议，允许美国公司选择每半年而非每季度披露财报，此举可能减少上市公司向投资者公开的信息量。为了提高透明度，过去半个多世纪，SEC要求上市公司每季度提交财报。若该提议获通过，将取消对上市公司强制季度披露的要求，但企业仍可选择继续每三个月发布业绩公告和业绩展望。 阅读",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "AMD发布乐观展望 AI芯片需求保持强劲",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561452.htm",
+      "date": "2026-05-06 06:21",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778019700.0,
+      "summary": "第二大计算机处理器制造商AMD对当前季度给出强劲展望，显示其正从人工智能（AI）投资热潮中获益。公司周二在声明中表示，第二季度销售额预计为112亿美元，上下浮动3亿美元。分析师平均预期为105亿美元。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "微软放弃Xbox Copilot AI助手项目",
+      "link": "https://www.cnbeta.com.tw/articles/game/1561450.htm",
+      "date": "2026-05-06 06:20",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778019658.0,
+      "summary": "微软新任Xbox首席执行官阿莎·夏尔玛于本周二宣布，公司将&quot;逐步停止移动端Copilot服务，并停止主机端Copilot的开发工作&quot;。此举紧随夏尔玛于当天早些时候对Xbox平台团队进行的重组，重组行动将来自微软CoreAI团队的高管调入Xbox部门，而夏尔玛本人在接管Xbox之前",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果或将在iOS 27中开放自选AI模型支持 不再仅限于ChatGPT",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561448.htm",
+      "date": "2026-05-06 06:20",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778019633.0,
+      "summary": "据知情人士透露，苹果计划在下一代操作系统中允许用户为“Apple Intelligence”选择自己偏好的第三方人工智能模型，包括但不限于 ChatGPT。 彭博社记者 Mark Gurman 报道称，苹果正在为今年秋季推出的 iOS 27、iPadOS 27 和 macOS 27 开发系统级接口，",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "大众汽车押注58亿美元软件合资项目 取代亚马逊成Rivian最大股东",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561446.htm",
+      "date": "2026-05-06 06:18",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778019524.0,
+      "summary": "最新递交给美国证券交易委员会（SEC）的文件显示，大众汽车集团已将亚马逊挤下宝座，成为电动汽车初创公司 Rivian 的第一大股东。 过去不到两年时间里，大众在 Rivian 的持股比例从 8.6% 上升至 15.9%，这一股权上升与双方围绕电气架构和软件开发建立的合资企业直接相关。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Edge浏览器被曝在内存中明文加载全部密码 微软称“设计如此”",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561444.htm",
+      "date": "2026-05-06 06:17",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778019440.0,
+      "summary": "一名网络安全研究人员日前发布了一款概念验证工具，展示了 Microsoft Edge 在处理已保存密码时存在的安全隐患。 这名在网络上使用 Tom Jøran Sønstebyseter Rønning 名号的研究人员在包括 X 在内的社交平台分享了自己的发现，并给出了完整演示。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果同意支付2.5亿美元和解有关Siri功能延迟的集体诉讼",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561442.htm",
+      "date": "2026-05-06 06:15",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778019353.0,
+      "summary": "苹果公司将支付2.5亿美元以和解一起集体诉讼，该诉讼指控其在推出iPhone 16时涉嫌虚假广告和不正当竞争，原因是其大力宣传的个性化Siri功能遭到延迟。2024年6月的WWDC大会上，苹果展示了基于Apple Intelligence技术的智能化Siri版本，并在2024年9月iPhone 16",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "游戏驿站560亿美元收购eBay引发网络热议与市场疑虑",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561440.htm",
+      "date": "2026-05-06 03:56",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778010973.0,
+      "summary": "游戏驿站提出的560亿美元收购eBay的提议，正成为社交媒体上的焦点，投资者对这一潜在的“蛇吞象”并购既感到兴奋，又充满疑虑。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果因内存短缺再砍Mac Studio与Mac mini的内存配置选项",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561438.htm",
+      "date": "2026-05-06 03:52",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778010762.0,
+      "summary": "苹果公司在全球内存短缺持续恶化的背景下，再次对桌面 Mac 产品线进行调整，悄然下架了两款高内存配置机型。目前，配备 64GB 内存的 Mac mini 已从苹果在线商店中移除，而配备 256GB 内存的 M3 Ultra Mac Studio 也不再提供购买选项。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Anthropic推出用于执行金融服务任务的AI智能体 面向银行等专业人士",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561436.htm",
+      "date": "2026-05-06 02:20",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778005239.0,
+      "summary": "为争取华尔街客户，Anthropic PBC发布一系列新的人工智能（AI）智能体，旨在处理更广泛的金融服务任务。该公司的AI智能体可用于撰写客户会议推介材料、审阅财务报表，以及将个案升级至合规审查。此次推出的工具共计10款，面向银行、保险、资管和金融科技等领域的专业人士。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果、三星垄断全球畅销手机榜 仅一款机型来自第三厂商",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561434.htm",
+      "date": "2026-05-06 02:19",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778005165.0,
+      "summary": "苹果和三星在 2026 年第一季度几乎垄断了全球畅销智能手机市场，在全球最畅销的前十款机型中拿下了九席。 市调机构 Counterpoint Research 的数据显示，唯一打破两家厂商垄断格局的是小米，其一款入门机型挤进榜单第十名，其余全部由 iPhone 和 Galaxy 机型包揽。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "宾州起诉 Character.AI：调查中聊天机器人自称“持证精神科医生”",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561432.htm",
+      "date": "2026-05-06 02:19",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778005141.0,
+      "summary": "美国宾夕法尼亚州政府近日对人工智能公司 Character.AI 提起诉讼，指控其平台上一款名为“Emilie”的聊天机器人在州政府调查中冒充持证精神科医生，涉嫌违反该州的医疗执业许可法规。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "消息人士：OpenAI与Anthropic的合资企业正洽谈收购AI服务公司",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561430.htm",
+      "date": "2026-05-06 01:18",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778001498.0,
+      "summary": "据知情人士透露，OpenAI和Anthropic分别与私募股权公司成立的合资企业，正在洽谈收购那些帮助企业部署人工智能的服务公司。其中，OpenAI 的新合资企业已就三项交易进入后期阶段。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "OpenAI推出GPT‑5.5 Instant 成为ChatGPT新一代默认模型",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561428.htm",
+      "date": "2026-05-06 01:17",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778001428.0,
+      "summary": "周一，OpenAI 正式发布全新基础模型 GPT‑5.5 Instant，并将其设为 ChatGPT 的默认模型，以取代此前的 GPT‑5.3 Instant。 公司表示，在保持与前代相近的低延迟表现同时，GPT‑5.5 Instant 在法律、医疗、金融等敏感领域的“幻觉”问题上有明显收敛，从而提",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "iPhone 18 Pro 或将继续采用铝合金机身涂层",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561426.htm",
+      "date": "2026-05-06 00:49",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1777999771.0,
+      "summary": "据一名在中国社交平台微博上活跃的爆料者透露，苹果计划在今年秋季发布的 iPhone 18 Pro 上，继续沿用在 iPhone 17 Pro 首次采用的阳极氧化铝合金机身涂层工艺，尽管这一设计近来因耐用性问题在用户群体中引发了不少争议。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "美国政府与微软、谷歌、xAI 达成协议，将提前审查其前沿 AI 模型",
+      "link": "https://www.ithome.com/0/946/484.htm",
+      "date": "2026-05-05 23:01",
+      "author": "IT之家",
+      "timestamp": 1777993287.0,
+      "summary": "IT之家 5 月 5 日消息，据路透社报道，根据一项新协议，微软、Alphabet 旗下的谷歌以及埃隆・马斯克创办的 xAI，将在新一代人工智能模型正式公开发布前，提前向美国政府开放模型权限，以便美方开展国家安全风险审查。IT之家注意到，美国商务部人工智能标准与创新中心于当地时间周二表示，该协议允许",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "湖南烟花爆竹企业全面停产整顿",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-05/10615990.shtml",
+      "date": "2026-05-05 23:00",
+      "author": "中新网社会新闻",
+      "timestamp": 1777993250.0,
+      "summary": "新华社长沙5月5日电(记者谢奔)记者5日从湖南省应急管理厅获悉，即日起，全省烟花爆竹企业全面停产整顿，全力防范和消除各类安全隐患。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "创维“G27Q MAX”27 英寸显示器发售：2K 220Hz QD-Mini LED，999 元",
+      "link": "https://www.ithome.com/0/946/477.htm",
+      "date": "2026-05-05 22:56",
+      "author": "IT之家",
+      "timestamp": 1777992992.0,
+      "summary": "IT之家 5 月 5 日消息，全新创维 G27Q MAX 显示器将于明天 0 点开启首销，新品搭载 27 英寸 2K 220Hz QD-Mini LED 面板，支持全链路精细控光，售价 999 元。京东创维 G27Q MAX 显示器 999 元直达链接据介绍，这款显示器具备全链路精细控光系统，配备",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Sharkoon 推出 8kHz 无线鼠标 SKILLER SGM70W，提供玻璃脚贴",
+      "link": "https://www.ithome.com/0/946/476.htm",
+      "date": "2026-05-05 22:09",
+      "author": "IT之家",
+      "timestamp": 1777990182.0,
+      "summary": "IT之家 5 月 5 日消息，Sharkoon（旋刚）当地时间今日宣布推出双模电竞鼠标 SKILLER SGM70W。这一型号搭载原相 (PixArt) PAW3395 电竞鼠标光学传感器，在 2.4GHz 无线模式下支持 8kHz 轮询率，建议零售价 39.9 欧元（IT之家注：现汇率约合 319",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "微星“MAG 276QRDY54”27 英寸显示器发售：2K 540Hz/720P 720Hz 双模、原生 10-Bit 色彩，6299 元",
+      "link": "https://www.ithome.com/0/946/475.htm",
+      "date": "2026-05-05 22:06",
+      "author": "IT之家",
+      "timestamp": 1777989998.0,
+      "summary": "IT之家 5 月 5 日消息，微星旗下 27 英寸显示器“MAG 276QRDY54”将于明天 0 点发售，该机主打 2K 540Hz/720P 720Hz 双模，适用于游戏场景，定价为 6999 元，首发价 6299 元。该机配备的雾面 W-OLED 面板支持以 2560x1440 分辨率 540",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "新华三 H3C MegaBook Air 14 英寸笔记本开售：酷睿 Ultra 5 226V/228V、重量小于 1kg，7999 元起",
+      "link": "https://www.ithome.com/0/946/473.htm",
+      "date": "2026-05-05 22:00",
+      "author": "IT之家",
+      "timestamp": 1777989600.0,
+      "summary": "IT之家 5 月 5 日消息，新华三 H3C MegaBook Air 笔记本电脑将于 5 月 6 日 0:00 正式开售，搭载英特尔 Lunar Lake 处理器，活动到手价 7999 元起：酷睿 Ultra 5 226V+16GB+1TB：7999 元酷睿 Ultra 5 228V+32GB+1",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "世界先进：已开始讨论新加坡 VSMC 晶圆厂第二阶段产能扩充计划",
+      "link": "https://www.ithome.com/0/946/474.htm",
+      "date": "2026-05-05 21:59",
+      "author": "IT之家",
+      "timestamp": 1777989547.0,
+      "summary": "IT之家 5 月 5 日消息，特色工艺晶圆代工企业世界先进 (VIS) 高管在公司 2026Q1 财报法人说明会上表示，已开始 VSMC 晶圆厂产能扩充计划的初步讨论与规划，将谨慎评估第二阶段的可能性。VSMC 为世界先进与 NXP（恩智浦）以 6:4 合股的企业，正在新加坡建设一座 &nbsp;1",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "游戏《控制》销量突破 600 万，续作《控制：共振》仍计划在年内发售",
+      "link": "https://www.ithome.com/0/946/472.htm",
+      "date": "2026-05-05 21:58",
+      "author": "IT之家",
+      "timestamp": 1777989519.0,
+      "summary": "IT之家 5 月 5 日消息，开发商 Remedy 在最新一期财报中透露，旗下游戏《控制》全球累计销量现已突破 600 万份，本作于 2019 年 8 月发售，近期还登陆了苹果 Mac 平台，定价 6.99 美元（IT之家注：现汇率约合 47.8 元人民币）。Remedy 同时透露，旗下新作《控制：",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "NASA 测试新型离子发动机：功率达现役顶尖型号 25 倍，助力载人火星任务",
+      "link": "https://www.ithome.com/0/946/471.htm",
+      "date": "2026-05-05 21:39",
+      "author": "IT之家",
+      "timestamp": 1777988344.0,
+      "summary": "IT之家 5 月 5 日消息，一款新型离子发动机已在实验室完成测试，其动力性能达到了美国国家航空航天局（NASA）现役顶尖离子发动机的 25 倍。这项先进技术未来有望助力人类登陆火星。离子发动机与传统燃烧化学推进剂的推进器原理截然不同，其利用电磁场加速离子（带电原子），使其从喷口喷射而出从而产生推力",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "鸿海 2026 年 4 月营收 8321 亿新台币：同比 +29.74%、环比 +3.53%",
+      "link": "https://www.ithome.com/0/946/470.htm",
+      "date": "2026-05-05 21:38",
+      "author": "IT之家",
+      "timestamp": 1777988313.0,
+      "summary": "IT之家 5 月 5 日消息，鸿海精密工业股份有限公司今日发布公告，其 2026 年 04 月自结算合并营收为 8320.98 亿新台币（IT之家注：现汇率约合 1801.49 亿元人民币），同比增长 29.74%、环比增长 3.53%，创下历年同期新高。该企业四大产品类别中元件及其它、云端网络均在",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "威刚 XPG 发布全球首款“无限镜”电竞内存 NOVAKEY RGB DDR5",
+      "link": "https://www.ithome.com/0/946/469.htm",
+      "date": "2026-05-05 21:31",
+      "author": "IT之家",
+      "timestamp": 1777987860.0,
+      "summary": "IT之家 5 月 5 日消息，威刚 (ADATA) 旗下电竞品牌 XPG 今日宣布推出全球首款“无限镜”光效电竞内存模组 NOVAKEY RGB DDR5。这一型号采用 10 层 PCB，速度至高 6400MT/s，时序低至 CL30，提供 16GB 与 32GB 的单支及双支包装。威刚表示，NOV",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "十铨推出 JEDEC 标准 DDR5-8000 规格 ELITE 系列 UDIMM 内存条",
+      "link": "https://www.ithome.com/0/946/468.htm",
+      "date": "2026-05-05 21:20",
+      "author": "IT之家",
+      "timestamp": 1777987225.0,
+      "summary": "IT之家 5 月 5 日消息，十铨科技 (Team Group) 今日宣布推出符合 JEDEC 规范的 ELITE PLUS DDR5 / ELITE DDR5 系列 8000MT/s 高传输速率标准台式机内存。IT之家注意到，这批内存采用 1.1V 标准电压，时序为 CL56-56-56-128，",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
     {
       "title": "Bose 推出 Lifestyle Ultra 系列音频产品：含回音壁 / 低音炮等、支持苹果隔空播放，299-1099 美元",
       "link": "https://www.ithome.com/0/946/467.htm",
@@ -9,16 +289,6 @@
       "timestamp": 1777986852.0,
       "summary": "IT之家 5 月 5 日消息，Bose 今天宣布重启 Lifestyle 子品牌，推出三款音频产品，定价为 299-1099 美元，IT之家整理规格如下：Bose Lifestyle Ultra 音箱定价：299 美元（IT之家注：现汇率约合 2045 元人民币）起该产品主打通用性，配备三个驱动单元",
       "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "亚马逊押注“诺奖材料”除湿技术 可大幅削减建筑能耗",
-      "link": "https://www.cnbeta.com.tw/articles/science/1561410.htm",
-      "date": "2026-05-05 21:13",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777986821.0,
-      "summary": "在全球范围高温高湿天气日益普遍的背景下，商场、餐厅和写字楼里常被制得“冷过头”的空调环境，正成为高能耗的典型场景之一。 在美国南部等炎热潮湿地区，空调负担往往不仅来自降温，更源于为防止霉菌滋生而进行的大量除湿。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
@@ -62,16 +332,6 @@
       "category": "News"
     },
     {
-      "title": "英特尔酷睿9 273PQE游戏测试 12大核Bartlett Lake-S击败i9-14900K",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561408.htm",
-      "date": "2026-05-05 20:53",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777985632.0,
-      "summary": "在2026年嵌入式世界大会上，英特尔发布了传闻已久的Bartlett Lake-S，是一跨年面向关键任务型边缘计算和工业部署的产品，属于酷睿 200E系列处理器。其采用了Intel 7工艺制造，拥有最多12个Raptor Cove架构P-Core，24线程，最大36MB的L3缓存，睿频最高达5.9G",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "沧野推出 C3 Mark I 玩具相机：可换 35/50mm 镜头、配过片扳手 / 30 万像素传感器，288 元起",
       "link": "https://www.ithome.com/0/946/465.htm",
       "date": "2026-05-05 20:50",
@@ -92,52 +352,12 @@
       "category": "News"
     },
     {
-      "title": "初创公司Barocal发明的固态可挤压制冷剂有望颠覆冰箱和空调制冷方式",
-      "link": "https://www.cnbeta.com.tw/articles/science/1561406.htm",
-      "date": "2026-05-05 20:45",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777985129.0,
-      "summary": "一家由材料物理学家创立的初创公司，正试图用全新的固态制冷材料改写我们给食物和室内空间降温的方式，如今它在商业化道路上迈出了关键一步。 这家公司名为 Barocal，过去七年一直在开发一种可以通过施加压力来吸热放热的固态材料，希望以此取代传统会泄漏并破坏臭氧层、加剧温室效应的制冷工质。 按计划，这类材",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "OpenAI加速推进首款AI手机研发 目标2027年量产",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561404.htm",
-      "date": "2026-05-05 20:44",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777985085.0,
-      "summary": "知名分析师郭明錤最新报告称，OpenAI 正在加速推进其首款“AI 智能体手机”（AI agent phone）的研发，内部目标最早在明年上半年完成量产准备，整机量产时间节点从此前预计的 2028 年大幅提前至 2027 年上半年。 郭明錤表示，这款设备被视为 OpenAI 在硬件领域的关键产品，将",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "消息称特斯拉 FSD 欧洲审批遇阻，监管机构质疑其安全性与命名误导",
       "link": "https://www.ithome.com/0/946/464.htm",
       "date": "2026-05-05 20:44",
       "author": "IT之家",
       "timestamp": 1777985058.0,
       "summary": "IT之家 5 月 5 日消息，据路透社报道，特斯拉首席执行官埃隆・马斯克此前表示，他有信心欧盟很快会批准该车企的 FSD 辅助驾驶系统，但欧洲部分监管机构的邮件显示，各方对这项技术及其宣称的安全效益抱有明显质疑态度。据IT之家了解，特斯拉监督版 FSD 已于 4 月获得荷兰道路运输局（RDW）的批准",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "20周年纪念版iPhone或将采用固态按键与四曲面玻璃设计",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561402.htm",
-      "date": "2026-05-05 20:41",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777984913.0,
-      "summary": "一则来自中国社交平台微博的最新爆料称，苹果计划于 2027 年推出的 20 周年纪念版 iPhone，极有可能在机身侧边首次引入带有触觉反馈的固态按键，并配合全新曲面玻璃设计，进一步强化这款机型的纪念意义与设计辨识度。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "泰坦军团推出“U255T+”24.5 英寸显示器：2K 420Hz，1949 元",
-      "link": "https://www.ithome.com/0/946/463.htm",
-      "date": "2026-05-05 20:39",
-      "author": "IT之家",
-      "timestamp": 1777984785.0,
-      "summary": "IT之家 5 月 5 日消息，泰坦军团现已在京东上架一款型号为“U255T+”的 24.5 英寸显示器，该机主打 2K 420Hz，定价为 1949 元，部分地区国补后价格低至 1851.55 元。京东泰坦军团 U255T+ 显示器 1949 元直达链接该机配备一块 2560x1440 分辨率 42",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
@@ -180,16 +400,6 @@
       "summary": "中新网南宁5月5日电 题：广西“五一”县域旅游观察：“小城”何以成“热土”？",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "小米首款增程全尺寸 SUV“昆仑 N3”低伪装路试谍照曝光：前大灯组造型锐利、车头可见激光雷达凸起",
-      "link": "https://www.ithome.com/0/946/462.htm",
-      "date": "2026-05-05 20:18",
-      "author": "IT之家",
-      "timestamp": 1777983514.0,
-      "summary": "IT之家 5 月 5 日消息，博主 @SugarDesign 在微博展示了疑似小米首款增程全尺寸 SUV“SKYNOMAD（寻天）”的低伪装路试谍照，新车内部代号为“昆仑 N3”，定位低于小米主汽车品牌，不使用小米车标，预计将于今年下半年发布。参考谍照，该车整线条方正硬朗，车头顶部可见激光雷达凸起，",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
     },
     {
       "title": "谨记骑乘电动车戴牢头盔 北京明日各主要路口路段将增设执勤警力",
@@ -242,46 +452,6 @@
       "category": "News"
     },
     {
-      "title": "三星重新在美国市场推出 Galaxy Z Flip 7 FE 小折叠手机，定价仍为 899 美元起",
-      "link": "https://www.ithome.com/0/946/460.htm",
-      "date": "2026-05-05 19:58",
-      "author": "IT之家",
-      "timestamp": 1777982323.0,
-      "summary": "IT之家 5 月 5 日消息，三星在 2025 年 7 月推出了 Galaxy Z Flip7 FE 小折叠手机，本质上是更换了 Exynos 2400 芯片的 Flip 6，在美国定价为 899 美元起（IT之家注：现汇率约合 6149 元人民币）。由于消费者在电商平台促销可以用更低的价格买到 Z",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "Meta将青少年安全保护扩展至欧盟27国 并于6月覆盖Facebook美国区",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561400.htm",
-      "date": "2026-05-05 19:57",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777982234.0,
-      "summary": "美国科技巨头Meta平台公司5月5日表示，将把针对青少年账户的技术性安全保护措施扩展至欧盟27个成员国，并首次应用于美国的Facebook平台，以回应外界对其未能充分保护未成年人上网安全的批评。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "Meta用AI骨骼结构分析识别未成年用户照片 将清理13岁以下账号",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561398.htm",
-      "date": "2026-05-05 19:56",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777982167.0,
-      "summary": "Facebook 和 Instagram 正在上线一套全新的未成年人识别机制，利用人工智能分析用户在平台上发布的照片和视频中的身高、骨骼结构等视觉特征，以识别 13 岁以下儿童账号并予以移除。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "机场提示禁止携带越王勾践剑登机 多位网友的文创宝剑被拦下",
-      "link": "https://www.cnbeta.com.tw/articles/funny/1561396.htm",
-      "date": "2026-05-05 19:55",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777982124.0,
-      "summary": "5月5日消息，据媒体报道，最近有网友在社交平台发帖称，武汉天河机场立起了一块非常硬核的安检提示牌。牌子上明确提醒广大旅客，越王勾践剑这类文创产品是不能随身带上飞机的。机场工作人员表示，近期恰逢出行旺季，携带越王勾践剑文创纪念品的旅客明显增多。安检部门单日最多曾暂存过四五把相关的文创宝剑，设立这个提示",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "这个藏在云南深山的派出所 为何被游客设为导航目的地？",
       "link": "https://www.chinanews.com.cn/sh/2026/05-05/10615921.shtml",
       "date": "2026-05-05 19:55",
@@ -292,76 +462,6 @@
       "category": "News"
     },
     {
-      "title": "非遗“焕新”展演 点亮福建宁德“五一”假日文旅",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-05/10615915.shtml",
-      "date": "2026-05-05 19:42",
-      "author": "中新网社会新闻",
-      "timestamp": 1777981375.0,
-      "summary": "中新网福建宁德5月5日电 题：非遗“焕新”展演 点亮福建宁德“五一”假日文旅",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "数字货币交易平台 Coinbase 宣布裁员 14%，CEO 称 AI 正改变公司运营模式",
-      "link": "https://www.ithome.com/0/946/459.htm",
-      "date": "2026-05-05 19:41",
-      "author": "IT之家",
-      "timestamp": 1777981262.0,
-      "summary": "IT之家 5 月 5 日消息，数字货币交易平台 Coinbase 首席执行官布莱恩 · 阿姆斯特朗表示，公司将裁员 14%。IT之家注意到，阿姆斯特朗当地时间周二在社交平台 X 上发文称，此次裁员是为了“精简架构、提升效率、加快节奏，为下一阶段的发展做好准备”。他还提到，人工智能正在改变公司的运营模",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "QCY 预热 A30 TWS 耳机：搭载 8 麦克风阵列降噪架构、5 月 8 日上市售 209 元",
-      "link": "https://www.ithome.com/0/946/458.htm",
-      "date": "2026-05-05 19:25",
-      "author": "IT之家",
-      "timestamp": 1777980302.0,
-      "summary": "IT之家 5 月 5 日消息，QCY 宣布旗下 A30 TWS 耳机将于 5 月 8 日 10 点开售，该耳机主打 8 麦克风阵列降噪架构，定价为 209 元。该耳机可选大漠金、皓月白、午夜黑三种配色，整体采用“鎏光镶边”艺术设计，搭载“SQ+ 欧姆原声单元”，强调音质还原能力。内置“天穹降噪架构",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "微软优化 Win11 小组件：默认关闭 MSN 资讯流，减少干扰",
-      "link": "https://www.ithome.com/0/946/453.htm",
-      "date": "2026-05-05 19:08",
-      "author": "IT之家",
-      "timestamp": 1777979289.0,
-      "summary": "IT之家 5 月 5 日消息，据 The Verge 报道，微软终于不再在 Windows 11 中打开小组件功能时，默认展示杂乱的 MSN 资讯信息流。早在两年多前，微软就已允许 Windows 11 用户手动关闭 MSN 资讯流，如今微软宣布，很快将默认隐藏该信息流，旨在让小组件实现“默认保持安",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "绿联 45W 带屏自带线充电宝上架：配 10000mAh ATL 电芯，199 元",
-      "link": "https://www.ithome.com/0/946/452.htm",
-      "date": "2026-05-05 19:03",
-      "author": "IT之家",
-      "timestamp": 1777978982.0,
-      "summary": "IT之家 5 月 5 日消息，绿联现已在京东上架型号为 PB603 的 45W 自带线带屏移动电源，定价为 199 元，将于 5 月 11 日首销。京东绿联 45W 带屏自带线充电宝 199 元直达链接该产品整体尺寸 152x71x29.8mm，正面配备了一块 TFT 数显屏，采用“波纹肌理”防滑设",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "小米 17T/17T Pro 手机规格曝光，将在国内市场推出“套娃机型”",
-      "link": "https://www.ithome.com/0/946/451.htm",
-      "date": "2026-05-05 18:48",
-      "author": "IT之家",
-      "timestamp": 1777978093.0,
-      "summary": "IT之家 5 月 5 日消息，博主 @熊猫很禿然 &nbsp;公布了小米 17T/17T Pro 两款手机的规格信息，并透露相应产品会在国内推出“套娃机型”。小米 17T该机正面搭载一块 6.59 英寸 1.5K 分辨率 120Hz OLED 打孔屏面板，匹配 32MP 自拍摄像头；手机背面匹配 5",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "Fairphone 3 手机将于今年 8 月结束官方支持，用户可以刷入 /e/OS 继续获得安全补丁直至 2028 年",
-      "link": "https://www.ithome.com/0/946/450.htm",
-      "date": "2026-05-05 18:37",
-      "author": "IT之家",
-      "timestamp": 1777977460.0,
-      "summary": "IT之家 5 月 5 日消息，Fairphone 于 2019 年 9 月推出了 Fairphone 3 手机，该机配备一块 5.65 英寸 2160x1080 分辨率 IPS LCD 面板，搭载高通骁龙 632 处理器，匹配 4GB RAM 和 64GB 存储空间，上市价格为 450 欧元（IT之",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "比亚迪：4月新能源汽车产量32.23万辆、销量32.11万辆",
       "link": "https://36kr.com/newsflashes/3796148126424329?f=rss",
       "date": "2026-05-05 18:30",
@@ -369,36 +469,6 @@
       "timestamp": 1777977010.0,
       "summary": "比亚迪公告，2026年4月新能源汽车产量32.23万辆，销量32.11万辆；本年累计产量103.03万辆，同比下降28.56%，去年累计144.21万辆；累计销量102.16万辆，同比下降26.02%，去年累计138.09万辆。4月出口新能源汽车13.51万辆；4月新能源汽车动力电池及储能电池装机总",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "Google DeepMind员工发起组建工会 反对AI军事合同与以色列相关合作",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561394.htm",
-      "date": "2026-05-05 18:21",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777976500.0,
-      "summary": "Google旗下人工智能公司 DeepMind 位于伦敦总部的员工近日发起组建工会的行动，意在阻止公司技术被用于以色列以及美国军方相关项目。 员工于周二致函Google管理层，要求公司承认通信工人工会（Communication Workers Union，CWU）和 Unite the Union",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "莱迪思半导体拟以16.5亿美元收购固件供应商 AMI",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561392.htm",
-      "date": "2026-05-05 18:21",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777976462.0,
-      "summary": "美国可编程逻辑器件厂商莱迪思半导体（Lattice Semiconductor）宣布，将以约16.5亿美元的现金加股票方式收购美国固件供应商 AMI（American Megatrends Inc.）。 这笔交易完成后，AMI 将成为莱迪思半导体的子公司，而当前在桌面与众多 x86/x64 平台上占",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "Pebble Time 2 墨水屏智能手表获推 PebbleOS 4.9.171 版，新增支持第三方 App 调用屏幕触控功能",
-      "link": "https://www.ithome.com/0/946/448.htm",
-      "date": "2026-05-05 18:16",
-      "author": "IT之家",
-      "timestamp": 1777976201.0,
-      "summary": "IT之家 5 月 5 日消息，Pebble 在去年 8 月推出全新 Time 2 墨水屏智能手表，该机搭载了一块 1.5 英寸 64 色电子墨水触控面板，不过手表运行的 Pebble OS 系统并不支持触控交互。直到如今，开发商 Core Devices 发布了 Pebble OS 4.9.171",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -412,16 +482,6 @@
       "category": "Blog"
     },
     {
-      "title": "飞宇 Pocket 4 云台相机曝光，有望配备 1/1.55 英寸 CMOS 传感器",
-      "link": "https://www.ithome.com/0/946/447.htm",
-      "date": "2026-05-05 18:03",
-      "author": "IT之家",
-      "timestamp": 1777975423.0,
-      "summary": "IT之家 5 月 5 日消息，消息源 D2Help 在 X 平台发布视频，背景为广交会，视频中主要展示了飞宇 Pocket 4 云台相机外观。规格方面，该机预计将配备 1/1.55 英寸 CMOS 传感器，提供支持录制 4K 60FPS 视频，镜头覆盖 110 度视场角。配备一块滑动式液晶屏，在关机",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "港警换装的国产冲锋枪是什么来头？丨军事",
       "link": "https://www.infzm.com/contents/320830",
       "date": "2026-05-05 18:00",
@@ -430,16 +490,6 @@
       "summary": "（本文首发于南方人物周刊）\n                \n                \n                                        南方人物周刊特约撰稿 朱江明",
       "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
-    },
-    {
-      "title": "美银分析师建议《GTA 6》定价 80 美元，以带动行业整体涨价",
-      "link": "https://www.ithome.com/0/946/446.htm",
-      "date": "2026-05-05 17:55",
-      "author": "IT之家",
-      "timestamp": 1777974933.0,
-      "summary": "IT之家 5 月 5 日消息，美国银行一位分析师表示，为了整个游戏行业的利益，Rockstar 应当将《侠盗猎车手 6》的售价上调至 80 美元（IT之家注：现汇率约合 547.2 元人民币）。随着 3A 大作的制作成本持续攀升，证券股票分析师奥马尔・德苏基认为，这款万众期待的《侠盗猎车手》续作若仍",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
     },
     {
       "title": "北汽蓝谷：子公司前4月销量4.67万辆，同比增长22.87%",
@@ -512,16 +562,6 @@
       "category": "Blog"
     },
     {
-      "title": "高通二把手跳槽Intel 曾是骁龙处理器一哥",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561390.htm",
-      "date": "2026-05-05 15:42",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777966977.0,
-      "summary": "曾多次登台高通骁龙峰会等重大技术新品发布会的“骁龙一哥”阿力克斯·卡图赞（Alex Katouzian），如今正式加盟Intel！当地时间5月4日，Intel正式对外公布两项核心高管任命，全面强化核心业务布局与AI创新战略。其中，高通技术公司前核心高管Alex Katouzian的加盟，成为全球半导",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "[已恢复] 微软发布的Microsoft Defender更新错误将系统根证书检测为病毒",
       "link": "https://www.landiannews.com/archives/112841.html",
       "date": "2026-05-05 15:39",
@@ -529,46 +569,6 @@
       "timestamp": 1777966782.0,
       "summary": "#系统资讯 [已恢复] 微软发布的 Microsoft Defender 安全更新错误将系统根证书检测为病毒，导致大量用户收到检测到恶意软件的提醒。被拦截的证书是 DigiCert 的根证书，本来微软应该拦截被盗的泄露证书，但不知道怎样的操作能将签发数百万份证书的 DC 根证书给拦截了。查看详情：h",
       "source_url": "https://www.landiannews.com",
-      "category": "Blog"
-    },
-    {
-      "title": "OpenAI总裁当庭自曝零元购300亿 马斯克这回真要赢了？",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561388.htm",
-      "date": "2026-05-05 15:37",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777966668.0,
-      "summary": "就在刚刚，OpenAI总裁Greg Brockman“认罪”了？他当庭承认，自己从未投入一分钱，却套出了价值300亿美元的股权。这个消息，不仅惊呆了法庭上所有人，也让所有网友震惊。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "国产供应链早就有的防窥屏 咋就给三星抢先了？",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561386.htm",
-      "date": "2026-05-05 15:23",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777965782.0,
-      "summary": "三星今年在 S26 Ultra 上那块主动防窥屏，想必大家都见识过了吧，刚出那会儿也算火了一把，毕竟手机行业已经很久没出现过这种够新还能落地的新花样了。但托尼我前几天网上冲浪的时候发现，国产供应链里和防窥屏有关的技术储备那也是一点也不少啊。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "iPhone 17 Pro掉漆问题频发 耐用性表现引发广泛争议",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561384.htm",
-      "date": "2026-05-05 15:21",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777965686.0,
-      "summary": "去年9月上市的iPhone 17 Pro新增了星宇橙配色。这种抢眼的配色一经发布就引爆了社交网络，因其极具辨识度的视觉效果，被广大消费者形象地称为爱马仕橙。除了色彩上的突破，iPhone 17 Pro在工业设计上也进行了大幅调整。该机采用了全新的铝合金一体化机身，背部采用横向大矩阵DECO设计，科技",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "农户买网红拖拉机发现是三无产品 厂家：这就是组装车 想贴啥牌都可以",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561382.htm",
-      "date": "2026-05-05 15:19",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1777965560.0,
-      "summary": "近日有农户反映，在某短视频平台热销的“中国洛阳”拖拉机，到货后发现无合格证、无发票、无三包手册，疑似废铁拼装。记者联系到一家销售此类拖拉机的厂家。对方毫不避讳，直接承认这些车就是组装车，“跟三无产品差不多”。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
