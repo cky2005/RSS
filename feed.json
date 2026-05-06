@@ -1,6 +1,426 @@
 {
-  "update_time": "2026-05-06",
+  "update_time": "2026-05-07",
   "articles": [
+    {
+      "title": "Anthropic 与 SpaceX 宣布达成包含太空开发的算力交易",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561620.htm",
+      "date": "2026-05-07 06:33",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778106780.0,
+      "summary": "Anthropic 周三宣布与埃隆·马斯克的 SpaceX 达成协议，将使用后者位于田纳西州孟菲斯市的 Colossus 1 数据中心的全部算力。作为协议的一部分，Anthropic 将获得超过300兆瓦的算力，此外，它还对与 SpaceX 合作开发太空中的数吉瓦算力“表达了兴趣”。Anthropi",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Google关闭Project Mariner实验项目 技术将整合至其他AI产品",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561618.htm",
+      "date": "2026-05-07 06:32",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778106753.0,
+      "summary": "Google已于5月4日正式关停其实验性功能Project Mariner，该功能旨在帮助用户在网络上自动执行各类任务。据《连线》杂志记者Maxwell Zeff早前报道，Project Mariner的官方登录页面现已显示一则通知：&quot;感谢您使用Project Mariner。该项目已于2",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "戴尔与联想成为Linux供应商固件服务高级赞助商",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561616.htm",
+      "date": "2026-05-07 06:30",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778106625.0,
+      "summary": "戴尔（Dell）和联想（Lenovo）近日正式加入 Linux Vendor Firmware Service（LVFS，Linux 供应商固件服务）赞助行列，并一跃成为该项目的高级赞助商，每年捐助金额均超过 10 万美元，用于保障项目长期可持续运营并支持后续功能开发。L 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "微软大举建设AI数据中心的同时或被迫“降档”清洁能源承诺",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561614.htm",
+      "date": "2026-05-07 04:14",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778098447.0,
+      "summary": "随着微软在全球范围内加速布局 AI 数据中心，这家科技巨头内部正考虑推迟或缩减其最具雄心的清洁能源目标之一。彭博社消息称，微软正在就其“按小时匹配清洁能源”的目标展开内部讨论，该目标被视为业内最为激进的减排承诺之一。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "前OpenAI首席技术官米拉·穆拉蒂出庭作证 称无法信任奥特曼的说法",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561612.htm",
+      "date": "2026-05-07 03:34",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778096079.0,
+      "summary": "在埃隆·马斯克起诉 Sam Altman 与 OpenAI 的诉讼案庭审过程中，前 OpenAI 首席技术官米拉·穆拉蒂（Mira Murati）在录像证词中表示，她不能信任时任首席执行官 Sam Altman 的口头陈述。 她在宣誓作证时称，Altman 曾就一款新模型的安全审查流程对她作出不实表",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Roku与TCL遭集体诉讼 被指固件更新将智能电视刷成砖",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561610.htm",
+      "date": "2026-05-07 03:33",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778096027.0,
+      "summary": "一宗在美国加州南区联邦法院提起的集体诉讼，正将公众视线重新拉回到智能电视固件更新可能带来的风险之上，其矛头直指 Roku 与长期合作伙伴 TCL。 起诉书称，两家公司推送的一系列软件更新非但没有改善体验，反而持续引发严重故障，在部分情况下甚至让电视完全报废，无法开机或正常使用。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果公司赢得欧盟对键盘制造商柑橘标志的挑战",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561608.htm",
+      "date": "2026-05-07 03:31",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778095892.0,
+      "summary": "苹果公司近日在一场围绕水果图形商标的欧盟法律争议中胜诉，成功阻止一家中国键盘制造商在键盘及相关电脑产品类别上注册柑橘类水果标识作为欧盟商标。 这起案件由欧盟知识产权局（EUIPO）审理，裁决结果为：在大部分与键盘及计算机相关的商品类别上，苹果的异议成立，该中国公司不得继续推动相关商标注册申请，但在太",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "马斯克详解“Terafab”AI芯片项目：建设自主算力帝国",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561606.htm",
+      "date": "2026-05-07 03:29",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778095772.0,
+      "summary": "埃隆·马斯克周三进一步阐述了其雄心勃勃的“Terafab”人工智能芯片工厂计划。根据SpaceX提交的公开文件，该项目拟投资550亿美元在得克萨斯州建造半导体制造设施，若全部阶段完成，总投资额最高可达1190亿美元。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "微软工程师讲述TAB键如何在一场“跨级争论”中胜出",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561604.htm",
+      "date": "2026-05-07 03:28",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778095711.0,
+      "summary": "在今天的 Windows 以及各类软件中，TAB 键几乎是使用频率最高的按键之一，但它在图形界面中作为“在对话框各字段间跳转的导航键”这一设计，却源自一段颇为戏谑的微软与 IBM 合作往事。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Google调整垃圾信息政策 以避免欧盟反垄断罚款",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561602.htm",
+      "date": "2026-05-07 03:14",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778094860.0,
+      "summary": "欧盟执委会文件显示，Alphabet旗下的Google已提议修改其遭出版商批评的垃圾信息政策，此举或有助于其避免欧盟的反垄断罚款。此前，出版商对Google的“网站声誉滥用政策”提出投诉，导致这家美国科技巨头成为欧盟监管机构的调查目标。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Google与Believe达成合作 推动新生代音乐人更多使用AI创作",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561600.htm",
+      "date": "2026-05-07 01:43",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778089391.0,
+      "summary": "Google近日宣布与全球艺人发掘与培养公司 Believe 达成合作，将其 Flow Music 音乐创作工具引入 Believe 及其旗下 TuneCore 艺人体系。Flow Music 前身名为 ProducerAI，是一款面向音乐人的协作式创作工具，依托Google自家的 Lyria 3",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "游戏引擎开始“不务正业” 日企用其开发出更多创新应用",
+      "link": "https://www.cnbeta.com.tw/articles/game/1561598.htm",
+      "date": "2026-05-07 01:38",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778089121.0,
+      "summary": "现代游戏技术已发展至高度复杂与功能齐全的地步，图形引擎和SDK如Unreal Engine与Unity几乎能构建任何事物，日本多家企业正大胆跳出游戏范畴加以应用。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "NVIDIA GeForce 10系列“Pascal”架构迎来十周年纪念日",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561596.htm",
+      "date": "2026-05-07 01:36",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778089015.0,
+      "summary": "英伟达GeForce GTX 10系游戏显卡迎来发布十周年纪念日。2016年5月，英伟达推出基于“帕斯卡”（Pascal）图形架构、采用台积电16纳米FinFET制程工艺的GeForce GTX 1080，这一代产品被不少业内人士视为最后一代真正意义上符合摩尔定律的GeForce游戏GPU。 阅读全",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "xAI宣布与Anthropic建立新的计算合作伙伴关系",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561594.htm",
+      "date": "2026-05-07 01:36",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778088983.0,
+      "summary": "xAI 宣布与 Anthropic 签署全新算力合作协议，将为后者提供对 Colossus 1 的访问权限。Colossus 1 是目前全球规模最大、部署速度最快的 AI 超级计算机之一，将为 Anthropic 的前沿人工智能研发与服务提供强大算力支撑。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "DeepSeek拟募资最高40亿美元 估值或达500亿美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1561592.htm",
+      "date": "2026-05-07 01:35",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1778088942.0,
+      "summary": "多名知情人士透露，中国人工智能初创公司深度求索（DeepSeek）正在筹备其成立以来首次对外融资，本轮估值有望高达500亿美元，标志着这家大型语言模型研发公司将逆转过去多年拒绝外部资本的策略。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "夏尔马新官上任三把火，宣布下周将推新版 Xbox 主机开机动画及音效",
+      "link": "https://www.ithome.com/0/947/021.htm",
+      "date": "2026-05-06 23:50",
+      "author": "IT之家",
+      "timestamp": 1778082602.0,
+      "summary": "IT之家 5 月 6 日消息，最近几乎天天都能出现关于微软 Xbox 的新闻，今天也不例外。Xbox CEO 阿莎 · 夏尔马宣布，Xbox 主机将在 5 月 13 日上线新的开机音效和开机动画。新的开机动画会展示新版 Xbox 标志，开机音效也会在现有版本基础上做出轻微调整。 微软上个月首次公布新",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "爱彼迎 CEO 切斯基：只负责“管人”的管理者将很快会被 AI 时代淘汰",
+      "link": "https://www.ithome.com/0/947/020.htm",
+      "date": "2026-05-06 23:26",
+      "author": "IT之家",
+      "timestamp": 1778081186.0,
+      "summary": "IT之家 5 月 6 日消息，据《商业内幕》6 日（今天）晚间报道，爱彼迎 Airbnb CEO 布莱恩 · 切斯基认为，只负责“管人”的管理者很快会被时代淘汰。“我不认为人员管理者未来会有任何价值。那些有大量周期性一对一会议的人将无法生存。那种领导风格行不通。你需要掌握上下文。”切斯基的观点，加入",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "心理施压攻破安全防线，Anthropic Claude 竟主动输出违禁内容",
+      "link": "https://www.ithome.com/0/947/019.htm",
+      "date": "2026-05-06 23:25",
+      "author": "IT之家",
+      "timestamp": 1778081146.0,
+      "summary": "IT之家 5 月 6 日消息，Anthropic 多年来一直将自身打造为主打安全的人工智能公司，但 The Verge 获得的最新安全研究显示，Claude 刻意塑造的友善人设本身或许就是一个安全漏洞。人工智能红队测试公司 Mindgard 的研究人员称，他们诱导 Claude 主动提供色情内容、恶",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "“中国服务”何以成为假日消费新亮点？",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616589.shtml",
+      "date": "2026-05-06 23:07",
+      "author": "中新网社会新闻",
+      "timestamp": 1778080059.0,
+      "summary": "国际锐评丨“中国服务”何以成为假日消费新亮点？",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "初创公司 Tin Can 的 100 美元“儿童座机”走红：多彩外观，相互间能免费通话",
+      "link": "https://www.ithome.com/0/947/018.htm",
+      "date": "2026-05-06 23:03",
+      "author": "IT之家",
+      "timestamp": 1778079788.0,
+      "summary": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，儿童固定电话 Tin Can 背后的初创公司 Tin Can Untechnologies Inc. 正推出一项名为 Communities 的批量订购计划，方便学校、运动队和社区集中购买旗下产品。这款“儿童座机”售价 100 美元（I",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "ESG助力中企出海｜全球化背景下一场最有远见的价值投资",
+      "link": "https://www.infzm.com/contents/320935",
+      "date": "2026-05-06 23:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1778079600.0,
+      "summary": "ESG不仅是应对合规的被动选择，更是获取“社会经营许可证”、构建长期竞争力的战略投资；从被动应付到主动融入，ESG正重新定义中国企业的全球化价值。\n                \n                \n                                        南方",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "“最强陆巡”丰田兰德酷路泽 300 混动版在澳大利亚上市：3.5 升双涡轮 V6 心脏加持",
+      "link": "https://www.ithome.com/0/947/017.htm",
+      "date": "2026-05-06 22:49",
+      "author": "IT之家",
+      "timestamp": 1778078978.0,
+      "summary": "IT之家 5 月 6 日消息，丰田兰德酷路泽 300 混动版今日在澳大利亚正式上市，新车是迄今动力最强、价格也最高的兰德酷路泽。该车在澳大利亚市场提供两个版本。GR Sport 主打越野，基本沿用标准 V6 车型的车身套件；Sahara ZX 更偏豪华，采用专属前保险杠，并通过重新设计的进气口体现混",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "街电：10000mAh 共享充电宝“彩宝 3.0 Pro”已在全国多座城市落地，支持 22.5W 输出",
+      "link": "https://www.ithome.com/0/947/015.htm",
+      "date": "2026-05-06 22:28",
+      "author": "IT之家",
+      "timestamp": 1778077711.0,
+      "summary": "IT之家 5 月 6 日消息，共享充电宝服务商“街电”发文，宣布旗下共享充电宝彩宝 3.0 Pro 已在全国多座城市正式落地，相应产品内置 10000mAh 电池，支持 22.5W 输出，对于存在充电需求的用户而言较为友好。IT之家获悉，相应充电宝提供 &nbsp;USB-C+Lightning 双",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "华硕天选 7 Pro 锐龙版游戏本同步上架：9955HX + 5060 / 5070",
+      "link": "https://www.ithome.com/0/947/014.htm",
+      "date": "2026-05-06 22:21",
+      "author": "IT之家",
+      "timestamp": 1778077289.0,
+      "summary": "IT之家 5 月 6 日消息，华硕 (ASUS) 的天选 7 Pro 锐龙版游戏笔记本电脑也已上架。其基于 AMD 锐龙 9 9955HX 处理器，搭配 NVIDIA GeForce RTX 5060 / 5070 笔记本电脑 GPU（8GB 版），拥有 16GB + 1TB 的存储器组合。该型号的",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "全力布局 AI，苹果研发支出占营收比例 30 年来首次突破 10%",
+      "link": "https://www.ithome.com/0/947/013.htm",
+      "date": "2026-05-06 22:21",
+      "author": "IT之家",
+      "timestamp": 1778077263.0,
+      "summary": "IT之家 5 月 6 日消息，至少 30 年来，苹果每赚一美元，投入研发的资金首次超过 10 美分，这也是这家 iPhone 制造商为人工智能宏大愿景砸下重金的最有力信号之一。苹果第一季度研发支出占营收的比例达到 10.3%，高于上一财季的 7.6% 和去年同期的 9%。尽管当期营收同比大涨 17%",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "三问游客体验“瀑布秋千”坠亡事件",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616574.shtml",
+      "date": "2026-05-06 22:10",
+      "author": "中新网社会新闻",
+      "timestamp": 1778076625.0,
+      "summary": "近日，四川广安华蓥市玛琉岩探险公园一名女游客体验“瀑布秋千”项目坠亡事件持续引发关注。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "IGN、伯克利联合报告：逾六成硬核玩家不再全价购买游戏新作",
+      "link": "https://www.ithome.com/0/947/012.htm",
+      "date": "2026-05-06 22:09",
+      "author": "IT之家",
+      "timestamp": 1778076559.0,
+      "summary": "IT之家 5 月 6 日消息，一项新调查显示，在最活跃、投入度最高的电子游戏玩家中，62% 已经不再购买全价新作。这一数据来自 IGN 娱乐联合凯度和加州大学伯克利分校联合发表的《Generations in Play》报告，样本来自美国、英国和澳大利亚数千名“高度投入”的娱乐消费者。报告显示，不同",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "电动自行车“续航神器”暗藏隐患 效果甚微还可导致车辆自燃",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616573.shtml",
+      "date": "2026-05-06 22:07",
+      "author": "中新网社会新闻",
+      "timestamp": 1778076473.0,
+      "summary": "“太阳能+风能双发电，边走边充续航翻倍”“无需额外充电，一次安装终身省心”，打开一些主流电商平台，搜索“电动自行车增程器”，此类宣传随处可见。这些售价从十几元到上百元不等的所谓“续航神器”，打着解决电动自行车续航焦虑的旗号，赢得了可观的销量。然而，记者调查发现，这些产品不仅增程效果微乎其微，还存在诸",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“五一”假期国铁广州局发送旅客数量创历史新高",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616572.shtml",
+      "date": "2026-05-06 22:07",
+      "author": "中新网社会新闻",
+      "timestamp": 1778076473.0,
+      "summary": "中新网广州5月6日电 (郭军 蔡震)据国铁广州局6日通报，5月1日至6日，国铁广州局共发送旅客1525.2万人次，同比增长3.5%，创历史新高。5月1日，该局迎来客流最高峰，当天发送旅客375.8万人次，客流创历史单日新高。整个假期旅客运输总体平稳有序。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "同济大学通报教师论文数据存疑：免去其院长职务 降低专业技术岗位等级",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616571.shtml",
+      "date": "2026-05-06 22:05",
+      "author": "中新网社会新闻",
+      "timestamp": 1778076339.0,
+      "summary": "针对同济大学教师论文数据存疑一事，同济大学今天发布情况通报。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "离境退税“即买即退”跨省互认进一步扩围",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616570.shtml",
+      "date": "2026-05-06 22:05",
+      "author": "中新网社会新闻",
+      "timestamp": 1778076319.0,
+      "summary": "中新网广州5月6日电 (记者 郭军)记者6日从国家税务总局广东省税务局获悉，自5月1日起，境外旅客在广东(含深圳)、海南、广西任意一地办理离境退税“即买即退”并申领预付金后，可在三省区任一离境退税口岸离境。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "今年以来北京大兴机场口岸出入境人员突破200万人次",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616568.shtml",
+      "date": "2026-05-06 22:03",
+      "author": "中新网社会新闻",
+      "timestamp": 1778076193.0,
+      "summary": "中新网北京5月6日电(记者 徐婧)北京大兴机场边检站6日介绍，截至5月5日，北京大兴机场口岸今年出入境人员总量突破200万人次，较去年提前10天。其中，入出境外国人68万余人次，较去年同期增长超四成。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "北京警方严打涉电信网络诈骗黑灰产业",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616569.shtml",
+      "date": "2026-05-06 22:03",
+      "author": "中新网社会新闻",
+      "timestamp": 1778076183.0,
+      "summary": "中新网北京5月6日电 (记者 吕少威)为严打涉电信网络诈骗黑灰产业，切实斩断犯罪链条，北京警方坚持多维度综合治理，开展全链条打击，今年以来，已累计打掉取现运金“车队”48个，抓获犯罪嫌疑人280余名，拦截黄金8.23公斤，现金2990余万元。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "清远连山首次在野外记录到海南鳽",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616567.shtml",
+      "date": "2026-05-06 22:02",
+      "author": "中新网社会新闻",
+      "timestamp": 1778076147.0,
+      "summary": "中新网清远5月6日电 (记者 张璐)连山壮族瑶族自治县林业局(简称“连山林业局”)6日消息，广东省科学院动物研究所动物保护恢复创新中心研究人员日前在连山壮族瑶族自治县福堂镇开展野外调查时，意外捕捉到海南鳽的珍贵画面。这是海南鳽首次在清远市野外被研究团队人工拍摄记录。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "华硕天选 7 Pro Max 游戏本上架：搭锐龙 9 9955HX 处理器，可选 RTX5060/5070/5070Ti",
+      "link": "https://www.ithome.com/0/947/011.htm",
+      "date": "2026-05-06 21:59",
+      "author": "IT之家",
+      "timestamp": 1778075950.0,
+      "summary": "IT之家 5 月 6 日消息，华硕现已在京东上架天选 7 Pro Max 游戏本，该机搭载 AMD 锐龙 9 9955HX 处理器，提供 RTX5060/5070 Laptop 可选（值得注意的该机的 RTX5070 Laptop 为 8GB 显存），将于 5 月 8 日开启首销，IT之家整理 SK",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "中外科学家联手揭开“稻鱼共生”千年农法的科学奥秘",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616565.shtml",
+      "date": "2026-05-06 21:58",
+      "author": "中新网社会新闻",
+      "timestamp": 1778075882.0,
+      "summary": "中新网上海5月6日电 (姚雪 许婧)数千年前，中国先民开创的“稻鱼共生”农耕模式，如今被现代科学揭开了生态密码。记者6日从华东理工大学获悉，该校药学院万年峰教授课题组联合中、英、法、美、德、瑞士、丹麦、西班牙等全球科研人员，在国际生物学著名期刊《细胞》子刊《当代生物学》上，以封面文章形式发表相关研究",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“五一”假期长洲船闸过闸船舶数和货运量同比增长均超五成",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616566.shtml",
+      "date": "2026-05-06 21:56",
+      "author": "中新网社会新闻",
+      "timestamp": 1778075810.0,
+      "summary": "中新网广州5月6日电 (郭军 胡思敏)据交通运输部珠江航务管理局(简称“珠航局”)6日消息：2026年“五一”假期(5月1日至5日)，西江航运干线通航建筑物运行平稳有序。其中，长洲船闸累计通过船舶2216艘，过闸货运量412万吨，同比分别增长57%和51%。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "广东今年“五一”假期跨区域人员流动量超1.79亿人次",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616561.shtml",
+      "date": "2026-05-06 21:55",
+      "author": "中新网社会新闻",
+      "timestamp": 1778075720.0,
+      "summary": "中新网广州5月6日电 (记者 蔡敏婕)广东省交通运输厅6日发布消息称，“五一”假期期间(5月1日至5月5日)，广东跨区域人员流动量累计超1.79亿人次，同比增长9.2%。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "湖南岳阳发生交通事故致2死2伤 肇事司机被刑拘",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616564.shtml",
+      "date": "2026-05-06 21:54",
+      "author": "中新网社会新闻",
+      "timestamp": 1778075698.0,
+      "summary": "记者从当地公安机关获悉，2026年5月4日20时55分许，湖南省岳阳市岳阳楼区岳阳大道西发生一起道路交通事故，造成2名行人死亡，1名行人和摩托车驾驶人汪某(男，26岁)受伤。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "豆包大模型家族首款全模态理解模型：字节跳动 Doubao-Seed-2.0-lite 升级",
+      "link": "https://www.ithome.com/0/947/010.htm",
+      "date": "2026-05-06 21:51",
+      "author": "IT之家",
+      "timestamp": 1778075462.0,
+      "summary": "IT之家 5 月 6 日消息，据字节跳动旗下火山引擎官方消息，今天，Doubao-Seed-2.0-lite 升级新版本，这是豆包大模型家族首款全模态理解模型，支持视频、图像、音频、文本原生统一理解，Agent、Coding 与 GUI 能力同步升级。在同等算力成本下，是企业大规模、批量化部署全模态",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "“慢生活”遇上“酷玩法” Hainan Travel现新气象",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616559.shtml",
+      "date": "2026-05-06 21:49",
+      "author": "中新网社会新闻",
+      "timestamp": 1778075368.0,
+      "summary": "中新网海口5月6日电 (记者 张茜翼)当“慢生活”遇上“酷玩法”，海南旅游市场在今年“五一”假期展现新气象。多家平台数据显示，海南不仅延续了国内热门目的地的热度，更在入境游、定制化服务和沉浸式体验等领域呈现出结构性增长。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "超3188万人次！四川成都地铁“五一”稳稳扛起城市客流",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616560.shtml",
+      "date": "2026-05-06 21:48",
+      "author": "中新网社会新闻",
+      "timestamp": 1778075289.0,
+      "summary": "中新网成都5月6日电 (记者 刘忠俊)记者6日从成都轨道集团获悉，“五一”假期，成都轨道交通线网累计运送乘客3188.31万人次，累计开行列车35380列次，高效保障市民、游客出行需求。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
     {
       "title": "华硕天选 7 Pro 酷睿版游戏本上架：至高 290HX Plus + 5070",
       "link": "https://www.ithome.com/0/947/009.htm",
@@ -22,66 +442,6 @@
       "category": "Blog"
     },
     {
-      "title": "2026年“五一”假期宁夏刑事、治安警情同比“双下降”",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616552.shtml",
-      "date": "2026-05-06 21:35",
-      "author": "中新网社会新闻",
-      "timestamp": 1778074551.0,
-      "summary": "中新网银川5月6日电 (记者 杨迪)记者6日从宁夏公安厅获悉，“五一”假期期间，宁夏社会大局稳定、治安秩序良好，刑事、治安警情同比下降15.8%、13.7%，刑事、治安立案数同比下降45%、32.8%，交通事故起数同比下降45.5%，道路交通安全形势总体平稳。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "3602 万人次游四川！ “五一”假期四川全域旅游活力迸发",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616551.shtml",
-      "date": "2026-05-06 21:35",
-      "author": "中新网社会新闻",
-      "timestamp": 1778074539.0,
-      "summary": "中新网成都5月6日电 (记者 王鹏)2026年“五一”假期落下帷幕，四川文旅市场交出稳健增长答卷。根据文化和旅游部《假日旅游数据测算指引》，经第三方测算，“五一”假期四川全省接待游客3602.23万人次，同比增长6.19%；实现旅游总花费242.49亿元，同比增长3.17%。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "2026年“五一”假期宁夏文旅市场活力迸发 210项特色活动引燃消费热潮",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616553.shtml",
-      "date": "2026-05-06 21:34",
-      "author": "中新网社会新闻",
-      "timestamp": 1778074471.0,
-      "summary": "中新网银川5月6日电(记者 于晶)5月6日，记者从宁夏回族自治区文化和旅游厅获悉，“五一”假期，宁夏以“畅游宁夏·乐享五一”为主题，统筹全域资源推出210项特色活动，文旅市场呈现繁荣有序、活力迸发态势，休闲度假与消费热潮同频共振。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "DDR6产品开发已启动 目标2028年实现商业化出货",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561570.htm",
-      "date": "2026-05-06 21:33",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778074416.0,
-      "summary": "去年有报道称，包括三星、SK海力士和美光在内的DRAM制造商早已启动了DDR6的开发工作，专注于芯片设计、控制器验证和封装模块集成。DRAM制造商已经完成DDR6原型芯片设计，正在与英特尔和AMD等内存控制器和平台厂商合作进行接口测试。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "三星电子宣布停止在中国大陆销售所有家电产品 手机业务不受影响",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561568.htm",
-      "date": "2026-05-06 21:33",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778074382.0,
-      "summary": "5月6日，三星电子在官网公告称，为应对急剧变化的市场环境，经慎重研究，三星电子决定在中国内地市场停止销售含电视、显示器在内的所有家电产品。针对已购买三星家电产品的用户，公司仍将严格按照《消费者权益保护法》、国家三包规定等相关法律法规，继续为用户提供规范的售后服务，保障用户合法权益不受影响。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "杭州湾跨海铁路大桥建设迎新节点 南航道桥首座主塔封顶",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616548.shtml",
-      "date": "2026-05-06 21:32",
-      "author": "中新网社会新闻",
-      "timestamp": 1778074371.0,
-      "summary": "中新网杭州5月6日电(蓝伊旎 王昊 程帅)5月6日，在杭州湾慈溪侧离岸约15公里的海面上，杭州湾跨海铁路大桥南航道桥首座主塔成功封顶，项目建设转入钢桁梁架设、斜拉索安装新阶段。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
       "title": "商汤科技首席科学家林达华：我们将以成本取胜，模型效率也很高",
       "link": "https://www.ithome.com/0/947/007.htm",
       "date": "2026-05-06 21:32",
@@ -90,56 +450,6 @@
       "summary": "IT之家 5 月 6 日消息，据美国 CNBC 当地时间 5 日报道，商汤科技联合创始人兼首席科学家林达华表示，公司从 DeepSeek 身上获得启发：即便在资金和技术条件受限的情况下，也可以推出高性能模型。林达华表示，OpenAI 的图像生成工具 ChatGPT Images 2.0 可以根据文本",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
-    },
-    {
-      "title": "Google AI 搜索摘要将直接引用 Reddit 等社交平台内容",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561566.htm",
-      "date": "2026-05-06 21:30",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778074237.0,
-      "summary": "Google正在更新其 AI 搜索功能，让用户更容易从自己信任的渠道获取信息，其中最引人关注的变化之一，是在 AI 搜索结果中加入来自社交媒体、Reddit 以及其他网络论坛的“第一手观点预览”，把用户的搜索请求与网络上围绕相似主题的真实讨论直接关联起来。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "“iPhone Ultra”或将成为业内最易维修的折叠屏手机",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561564.htm",
-      "date": "2026-05-06 21:30",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778074209.0,
-      "summary": "代号为“刹那数码”的爆料者近日在社交平台上再次谈及苹果首款折叠屏 iPhone 的内部设计，声称这款设备有望成为整个折叠屏手机行业中最容易拆解、也最容易维修的机型。 他表示，苹果在这款产品上采用了“极其严谨的底层工程逻辑”，这一设计思路已经“真正收获回报”，并预测等设备正式发售后，各类拆解视频将会验",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果在AI竞赛中加码研发投入 单季研发支出首超过营收的10%",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561562.htm",
-      "date": "2026-05-06 21:29",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778074165.0,
-      "summary": "苹果公司最新财报显示，其在2026年3月季度的研发支出已达到营收的10.3%，创下至少30年来首次单季研发占比突破一成的纪录，清晰反映出这家iPhone制造商正为人工智能押上更大的筹码。与上一季度7.6%的占比以及一年前9%的水平相比，研发投入大幅抬升，而同期公司营收同比增长17%，是自2021年以",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "“五一”假期广东刑治警情、高速拥堵双下降",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616546.shtml",
-      "date": "2026-05-06 21:26",
-      "author": "中新网社会新闻",
-      "timestamp": 1778073964.0,
-      "summary": "中新网广州5月6日电 (记者 方伟彬)广东省公安厅6日发布消息，“五一”假期期间，该省刑事治安警情同比下降11.4%，高速公路拥堵点位同比减少48.9%，148场大型活动安全有序，广东公安交出了一份“量增险降”的答卷。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "“五一”假期湖南出入境人数创七年同期新高 港澳台增幅亮眼",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616544.shtml",
-      "date": "2026-05-06 21:25",
-      "author": "中新网社会新闻",
-      "timestamp": 1778073940.0,
-      "summary": "中新网长沙5月6日电 (邓霞 李璠 余洋)“五一”假期，湖南口岸迎来出入境高峰。湖南出入境边防检查总站6日透露，5月1日-5日，湖南口岸出入境人员达2.6万人次，同比增长6.4%，创下2020年以来同期最高值。其中，港澳居民增幅最为亮眼，同比增长4.6倍；台湾居民紧随其后，同比增长4.2倍。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
     },
     {
       "title": "《英雄传说：零之轨迹 / 碧之轨迹》今秋登陆 PS5/Switch 2 平台，游戏至高支持 120 帧画面输出",
@@ -152,66 +462,6 @@
       "category": "Blog"
     },
     {
-      "title": "停产前夕，宝马 Z4 今年 Q1 销量迎来一波小幅回升",
-      "link": "https://www.ithome.com/0/947/003.htm",
-      "date": "2026-05-06 21:22",
-      "author": "IT之家",
-      "timestamp": 1778073745.0,
-      "summary": "IT之家 5 月 6 日消息，宝马 Z4 的旅程，即将走到尽头。欧洲市场车型已在 3 月完成生产，4 月麦格纳斯太尔位于奥地利格拉茨的工厂又为美国市场生产了最后一批 Z4。宝马早在 2025 年 11 月就确认 G29 代 Z4 即将停产，由 Final Edition 车型拉开告别序幕。而据外媒",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "真相来了丨网传“湖北惊现人造毒大米”是假的！造谣者已被处罚",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616539.shtml",
-      "date": "2026-05-06 21:12",
-      "author": "中新网社会新闻",
-      "timestamp": 1778073156.0,
-      "summary": "此视频近期在网络广泛流传，视频中，一条生产线正在源源不断地制造出一粒粒像大米一样的东西。配文更是触目惊心：“湖北某地惊现人造大米生产线，掺杂黄曲霉素，流入低端市场，广大市民千万注意！”不少网友看到后纷纷倒吸凉气。事实果真如此吗？今年四月，湖南省怀化市溆浦县公安局网安大队接到线索，对该条视频的内容展开",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "时代的眼泪：开播 24 年的星空卫视 5 月 8 日起暂停卫星传输服务",
-      "link": "https://www.ithome.com/0/947/002.htm",
-      "date": "2026-05-06 21:06",
-      "author": "IT之家",
-      "timestamp": 1778072773.0,
-      "summary": "IT之家 5 月 6 日消息，今天下午，星空卫视通过官微发布《关于星空卫视暂停卫星传输服务的公告》。公告称，星空卫视因运营困难，卫星公司通知 5 月 8 日将暂停卫星传输服务，对此深表歉意。星空卫视的品牌价值、内容制作能力与频道资源依然宝贵，正在积极寻求战略投资与业务重组的机会，并欢迎有意向的合作伙",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "“五一”假期北京口岸入出境外国人同比增逾两成",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616517.shtml",
-      "date": "2026-05-06 21:03",
-      "author": "中新网社会新闻",
-      "timestamp": 1778072625.0,
-      "summary": "中新社北京5月6日电 (记者 徐婧)北京边检总站6日发布的数据显示，今年“五一”假期(5月1日至5日)，北京边检总站共验放出入境人员31.6万人次。其中，入出境外国人达11.1万人次，同比增长20.5%。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "“五一”假期中国民航运输旅客超1000万人次",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616528.shtml",
-      "date": "2026-05-06 21:02",
-      "author": "中新网社会新闻",
-      "timestamp": 1778072553.0,
-      "summary": "中新社北京5月6日电 (记者 刘文文)记者6日从中国民航局获悉，“五一”假期(5月1日至5日)，全国民航累计运输旅客1054万人次，日均211万人次；航班正常率达97.2%，同比增长7.2个百分点。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "“五一”假期北京两机场共运送旅客超170万人次",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616513.shtml",
-      "date": "2026-05-06 21:01",
-      "author": "中新网社会新闻",
-      "timestamp": 1778072495.0,
-      "summary": "中新社北京5月6日电 (记者 刘文文)2026年“五一”假期期间(5月1日至5日)，北京两机场共运送旅客超170万人次。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
       "title": "热门中概股美股盘前多数上涨，百度涨超6%",
       "link": "https://36kr.com/newsflashes/3797817196731394?f=rss",
       "date": "2026-05-06 20:59",
@@ -220,26 +470,6 @@
       "summary": "36氪获悉，热门中概股美股盘前多数上涨，截至发稿，百度涨超6%，阿里巴巴涨超4%，腾讯音乐、哔哩哔哩涨超1%，京东涨0.67%，拼多多涨0.46%，理想汽车跌超1%，小鹏集团跌0.95%。",
       "source_url": "http://36kr.com",
       "category": "Blog"
-    },
-    {
-      "title": "小米汽车：国家 B 级赛照培训北京站、厦门站 5 月 8 日开放报名",
-      "link": "https://www.ithome.com/0/946/994.htm",
-      "date": "2026-05-06 20:54",
-      "author": "IT之家",
-      "timestamp": 1778072093.0,
-      "summary": "IT之家 5 月 6 日消息，今天晚间，小米汽车官微宣布：国家 B 级赛照培训北京站、厦门站同开，报名即将开启！具体时间上，两站报名将于 5 月 8 日上午 10 时同时开启，北京站培训时间为 5 月 29 日-31 日，厦门站培训时间为 5 月 22 日-24 日。这项培训将在 FIA 国际汽联认",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "“五一”假期福建口岸超13.3万人次出入境",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616490.shtml",
-      "date": "2026-05-06 20:52",
-      "author": "中新网社会新闻",
-      "timestamp": 1778071966.0,
-      "summary": "中新网福州5月6日电 (闫旭 王鸿瑜  张浩)厦门边检总站6日披露的统计数据显示，2026年“五一”假期(5月1日至5月5日)，福建边检机关累计保障超13.3万人次中外人员出入境，较去年同期增长约2%；福建口岸单日出入境通关最高峰出现在5月1日，达2.5万人次。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
     },
     {
       "title": "美股大型科技股盘前多数上涨，康宁涨近18%",
@@ -262,26 +492,6 @@
       "category": "Blog"
     },
     {
-      "title": "西安光机所在超表面光学微操纵领域取得新进展",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616495.shtml",
-      "date": "2026-05-06 20:49",
-      "author": "中新网社会新闻",
-      "timestamp": 1778071784.0,
-      "summary": "中新网西安5月6日电 (记者 阿琳娜)记者6日从西安光机所获悉，该所与南京大学、香港科技大学、瑞士洛桑联邦理工学院的联合研究，提出并展示了一种“广义超构光学扳手”新型器件，为光学微操纵技术向高维度、多目标协同控制提供新路径。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "重庆万州区通报一餐饮店“回收废弃油”情况",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616499.shtml",
-      "date": "2026-05-06 20:48",
-      "author": "中新网社会新闻",
-      "timestamp": 1778071686.0,
-      "summary": "5月4日晚，有网民在社交平台发布重庆万州区一餐饮店员工将泔水舀进锅内抬回餐馆视频，引发社会关注。记者6日从重庆市万州区市场监督管理局获悉，当地市场监管部门联合城市管理、公安等部门及属地街道办事处赶赴现场，通过调取店内监控录像、查验进出货台账、询问店员等方式，暂未发现该店使用废弃油脂加工食品的情况。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
       "title": "美国AI公司Anthropic高管下周将访韩",
       "link": "https://36kr.com/newsflashes/3797800026233856?f=rss",
       "date": "2026-05-06 20:48",
@@ -289,16 +499,6 @@
       "timestamp": 1778071682.0,
       "summary": "据韩国政府和业界6日消息，美国人工智能（AI）初创公司Anthropic高管将于下周访韩，与韩国政府共商防范AI安全风险的方案。（财联社）",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "Steam 新一周游戏销量榜公布，《魔法门之英雄无敌：上古纪元》排行第一",
-      "link": "https://www.ithome.com/0/946/993.htm",
-      "date": "2026-05-06 20:46",
-      "author": "IT之家",
-      "timestamp": 1778071570.0,
-      "summary": "IT之家 5 月 6 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 4 月 28 日-2026 年 5 月 5 日，无免费游戏），其中《魔法门之英雄无敌：上古纪元》排行第一，《逍遥西土》位列第二，即将发售的《极限竞速：地平线 6》（预购）排行第三。《魔法门之英雄无敌：上古纪",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -322,16 +522,6 @@
       "category": "Blog"
     },
     {
-      "title": "福特 CEO 法利誓言要造美国人买得起的车：这是行业的优先任务",
-      "link": "https://www.ithome.com/0/946/992.htm",
-      "date": "2026-05-06 20:40",
-      "author": "IT之家",
-      "timestamp": 1778071255.0,
-      "summary": "IT之家 5 月 6 日消息，据美国 CBS News 当地时间 5 月 1 日报道，福特 CEO 吉姆 · 法利表示，让新车价格更可负担，必须成为汽车行业的优先任务，福特正在为此采取行动。被问到美国消费者现在是否还能负担新车价格时，法利回答：“有些美国人可以。但作为一个品牌，也作为一个行业，我们必",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "报告：欧盟修订《网络安全法》将造成自身数千亿欧元损失",
       "link": "https://36kr.com/newsflashes/3797787763694852?f=rss",
       "date": "2026-05-06 20:40",
@@ -340,26 +530,6 @@
       "summary": "欧盟中国商会与毕马威5月6日在布鲁塞尔联合发布的一份分析报告指出，若欧盟《网络安全法》修订草案通过，强制替换中资供应商，5年内欧盟成员国将面临3678亿欧元经济损失，能源、电信、物流与制造业等行业将严重承压。（新华社）",
       "source_url": "http://36kr.com",
       "category": "Blog"
-    },
-    {
-      "title": "“五一”假期西安机场运送旅客65.5万人次",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616493.shtml",
-      "date": "2026-05-06 20:36",
-      "author": "中新网社会新闻",
-      "timestamp": 1778071007.0,
-      "summary": "中新网西安5月6日电 (阿琳娜 陈帅)西安机场6日透露，“五一”假期，西安机场客流攀升。5月1日至5日，西安机场共计起降航班4555架次，运送旅客达65.5万人次。单日最高客流量为14.9万人次。与平时相比，“五一”假期高峰日旅客量较日常增长约20%，高峰集中在5月1日、4日以及5日。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "青海：“五一”假期推出60余场促销活动 活跃消费市场",
-      "link": "https://www.chinanews.com.cn/sh/2026/05-06/10616492.shtml",
-      "date": "2026-05-06 20:36",
-      "author": "中新网社会新闻",
-      "timestamp": 1778071001.0,
-      "summary": "中新网西宁5月6日电 (潘雨洁)记者6日从青海省商务厅获悉，“五一”假期，青海省各级商务部门、金融机构和重点商贸企业协同联动，组织谋划60余场促销活动，促进全省消费市场活跃。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
     },
     {
       "title": "MiroMind暂停中国服务",
@@ -379,166 +549,6 @@
       "timestamp": 1778070470.0,
       "summary": "美加墨世界杯还有30多天就将开赛，但在美国11座赛事举办城市，酒店业却没有迎来预想中的“预订火爆”场面。一份行业调查报告指出，当地酒店业被疲软的现实“泼了冷水”，而多数调查者将这一情况归咎于美国的签证政策以及地缘政治紧张局势。专家呼吁美国政府采取措施减少国际旅行阻碍。(新华社)",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "海盗生存游戏《Windrose：风启之旅》曾让 SSD 超负荷运转，现已修复",
-      "link": "https://www.ithome.com/0/946/991.htm",
-      "date": "2026-05-06 20:27",
-      "author": "IT之家",
-      "timestamp": 1778070457.0,
-      "summary": "IT之家 5 月 6 日消息，据 TechSpot 报道，海盗生存游戏《Windrose：风启之旅》（Windrose）可让玩家的固态硬盘（SSD）超负荷运转。这款游戏上月开启抢先体验后，不少玩家发现，在特定场景下游戏会产生异常高的输入输出（I/O）负载。《Windrose：风启之旅》会频繁向硬盘读",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "马斯克斥资550亿美元开建半导体工厂",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561560.htm",
-      "date": "2026-05-06 20:26",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778070377.0,
-      "summary": "美国德州格莱姆斯县网站发布的公告显示，马斯克的商业航天公司SpaceX计划初步斥资550亿美元（约合人民币3746亿元），在美国德州建造一座“分阶段、采用新一代技术、垂直整合的半导体制造及先进计算制造工厂”。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "联合创新推出“GA27V1M MAX”27 英寸显示器：4K 160Hz / FHD 320Hz 双模 + 双扬 + 光线传感器，3499 元",
-      "link": "https://www.ithome.com/0/946/990.htm",
-      "date": "2026-05-06 20:25",
-      "author": "IT之家",
-      "timestamp": 1778070332.0,
-      "summary": "IT之家 5 月 6 日消息，联合创新现已在京东上架一款型号为“GA27V1M MAX”的 27 英寸显示器，该机主打 4K 160Hz / FHD320Hz Mini LED 双模，同时提供了光线传感器，定价为 3499 元，部分地区国补后定价低至 3133.6 元。京东联合创新“GA27V1M",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "英伟达与康宁达成巨额光纤合作协议 或将改写AI行业格局",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561558.htm",
-      "date": "2026-05-06 20:25",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778070330.0,
-      "summary": "正值人工智能浪潮核心的芯片巨头英伟达，与玻璃制造企业康宁达成合作，将在北卡罗来纳州和得克萨斯州新建三座先进制造工厂，专门为这家全球市值最高的半导体企业研发生产光学技术产品。两家公司周三联合发布公告称，新工厂将创造至少 3000 个就业岗位，并把康宁在美国的光学产品产能提升 10 倍。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "劲量推新型纽扣电池 即便被误吞也不会造成内脏灼伤",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561556.htm",
-      "date": "2026-05-06 20:24",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778070263.0,
-      "summary": "劲量（Energizer）近日宣布推出一款号称“全球首款可消除误吞灼伤风险”的锂纽扣电池产品线“Ultimate Child Shield”，主打儿童与宠物安全。 该系列目前已在美国市场开售，首批涵盖2032、2025和2016三种常见规格，主要用于遥控器、可穿戴设备以及包括苹果 AirTag 在内",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "ChatGPT教育研究被撤稿：AI学习红利证据并不牢靠 统计方法遭质疑",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561554.htm",
-      "date": "2026-05-06 20:23",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778070234.0,
-      "summary": "一项在学术界和社交媒体上被广泛引用、曾被视为证明 ChatGPT 明显提升学生学习效果的重要研究，近日被出版方正式撤稿，理由是论文在元分析过程中存在多处“差异”和方法问题，导致结论可靠性遭到严重削弱。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "reMarkable发布新款Paper Pure电纸本 屏幕回归黑白 升级性能与效率",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561552.htm",
-      "date": "2026-05-06 20:23",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778070200.0,
-      "summary": "在推出配备彩色灯光与更丰富协作能力的 Paper Pro 与 Paper Pro Move 之后，E Ink 平板厂商 reMarkable 又回到“纸感书写”的初心，发布一款全新黑白电子纸设备 Paper Pure，面向专注写作与阅读的用户群体。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "Valve开放Steam Controller官方CAD文件 扶持玩家与厂商自制配件生态",
-      "link": "https://www.cnbeta.com.tw/articles/game/1561550.htm",
-      "date": "2026-05-06 20:21",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778070105.0,
-      "summary": "Valve近期推出的全新 Steam Controller 自上市首日便取得亮眼成绩，如今公司进一步向社区迈出一步，正式放出这款手柄的 3D CAD 文件，邀请玩家与模具爱好者参与到外设改造和配件设计之中。Valve此次提供的是完整的 Steam Controller 与 Puck 官方三维模型，包",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "为了赢下 AI“供电竞赛”，消息称微软考虑放弃 2030 年清洁能源承诺",
-      "link": "https://www.ithome.com/0/946/989.htm",
-      "date": "2026-05-06 20:20",
-      "author": "IT之家",
-      "timestamp": 1778070059.0,
-      "summary": "IT之家 5 月 6 日消息，据彭博社 6 日（今天）晚间报道，微软或将搁置一项业内最激进的清洁能源承诺。知情人士称，为了在数据中心供电竞赛中减少阻碍，微软正在评估是否推迟，甚至彻底放弃 2030 年清洁电力目标。知情人士表示，微软讨论的是 2030 年按小时匹配 100% 用电量的目标，也就是通过",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "NASA阿耳忒弥斯II任务圆满收官 重返月球迈出关键一步",
-      "link": "https://www.cnbeta.com.tw/articles/science/1561548.htm",
-      "date": "2026-05-06 20:20",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778070020.0,
-      "summary": "美国航天局阿耳忒弥斯Ⅱ号任务已成功结束，初步分析显示，NASA面向月球探测的新一代航天系统整体表现出色，为后续载人登月和深空探索奠定了坚实基础。在飞船成功溅落后，工程师团队立即启动详尽的数据回顾工作，对“猎户座”飞船、太空发射系统（SLS）火箭以及位于佛罗里达州肯尼迪航天中心的地面发射设施等关键系统",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "Linux已将对AMD Geode处理器支持标记成“孤儿” 或为最终移除铺路",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561546.htm",
-      "date": "2026-05-06 20:18",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778069922.0,
-      "summary": "近日，Linux 内核社区开始将已经停产多年的 AMD Geode x86 嵌入式处理器支持标记为“孤儿”（orphaned）代码，这意味着目前已经没有积极维护该平台的开发者，后续如果代码进一步失修，Geode 支持有可能被标记为弃用并最终从主线内核中移除。这一举措出现在 Linux 内核刚刚启动淘",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "一季度业绩超预期，AMD 盘前一度暴涨超 20%",
-      "link": "https://www.ithome.com/0/946/988.htm",
-      "date": "2026-05-06 20:17",
-      "author": "IT之家",
-      "timestamp": 1778069859.0,
-      "summary": "IT之家 5 月 6 日消息，AMD 于当地时间周二公布了一季度财报，业绩超出市场预期；与此同时，受人工智能算力芯片需求激增推动，公司营收指引也高于分析师预估。当地时间周三盘前交易时段，AMD 股价一度暴涨超 20%。以下是这家芯片制造商截至 3 月的一季度业绩与伦敦证券交易所集团（LSEG）市场共",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "Remarkable Paper Pure 阅读器发布：10.3 英寸无背光 Carta 1300 面板，2998 港币起",
-      "link": "https://www.ithome.com/0/946/987.htm",
-      "date": "2026-05-06 20:13",
-      "author": "IT之家",
-      "timestamp": 1778069639.0,
-      "summary": "IT之家 5 月 6 日消息，制造商 Remarkable 宣布推出定位入门的 Remarkable ﻿Paper Pure 阅读器，该机搭载一块 10.3 英寸无背光黑白墨水屏，定价 2998 港币（IT之家注：现汇率约合 2617 元人民币）起。该机厚度 6mm，重量 360g，海洋蓝、雾绿和沙",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "虚拟光驱软件DAEMON Tools 自4月起遭遇供应链攻击 数千用户受影响",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561544.htm",
-      "date": "2026-05-06 20:08",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778069332.0,
-      "summary": "安全研究人员近日披露，广泛使用的虚拟光驱软件 DAEMON Tools 遭遇严重供应链攻击，其官方安装程序自 2026 年 4 月初起被植入后门并通过正规渠道分发，波及全球数千台设备。 根据卡巴斯基发布的调查结果，攻击者入侵了合法安装包，在经官方数字签名的二进制文件中注入恶意代码，使得恶意程序伪装成",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "乘联分会崔东树建议推出经济型电动车标准：适配国内老龄化及县乡市场需求",
-      "link": "https://www.ithome.com/0/946/985.htm",
-      "date": "2026-05-06 20:06",
-      "author": "IT之家",
-      "timestamp": 1778069217.0,
-      "summary": "IT之家 5 月 6 日消息，6 日（今天）晚间，乘联分会秘书长崔东树通过个人公众号发文，建议推出经济型电动车标准。崔东树指出，当前，中国汽车市场呈现“高端车型强势崛起、低端市场相对低迷”的格局，今年车市相对低迷，低端车型萎缩成为制约行业复苏的关键瓶颈。与此同时，我国老龄化进程持续加快，老年群体出行",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "iPhone 18 Pro CAD图疑似曝光 灵动岛是否“瘦身”再起争议",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1561542.htm",
-      "date": "2026-05-06 20:05",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1778069150.0,
-      "summary": "一组据称来自苹果 iPhone 18 Pro 的最新 CAD 渲染图近日出现在社交媒体上，再次点燃了围绕“要不要缩小灵动岛”的争论。 X 用户 @earlyappleleaks 分享了相关图片，声称“新的 CAD 图确认 iPhone 18 Pro 将采用更小的灵动岛”。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
