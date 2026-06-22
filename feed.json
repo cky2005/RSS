@@ -2,6 +2,276 @@
   "update_time": "2026-06-23",
   "articles": [
     {
+      "title": "SpaceX 股价大跌近 17%，已跌破 IPO 首日收盘价",
+      "link": "https://www.ithome.com/0/967/248.htm",
+      "date": "2026-06-23 07:12",
+      "author": "IT之家",
+      "timestamp": 1782169967.0,
+      "summary": "IT之家 6 月 23 日消息，当地时间周一，SpaceX 股价连续第三个交易日下挫，这家由埃隆 · 马斯克执掌的公司本月完成超大型首次公开募股后，回调行情持续发酵。周一该股大跌近 17%，收报 154.60 美元，价格已经跌破上市第一天收盘价格（160.95 美元）。至此该股已连跌三日；自 6 月",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "英伟达发布Halos机器人安全系统，推进Physical AI落地",
+      "link": "https://36kr.com/newsflashes/3864949997458693?f=rss",
+      "date": "2026-06-23 07:10",
+      "author": "36氪",
+      "timestamp": 1782169826.0,
+      "summary": "6月22日，英伟达宣布推出“Halos for Robotics”，这是其面向物理AI与机器人领域的全栈安全系统，旨在为在真实环境中运行的智能机器人提供统一安全架构。该系统覆盖从AI算力芯片IGX Thor、传感器连接Holoscan Sensor Bridge，到Halos OS软件栈及AI安全认",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "电车制造商Lucid将裁员18%",
+      "link": "https://36kr.com/newsflashes/3864949548454917?f=rss",
+      "date": "2026-06-23 07:09",
+      "author": "36氪",
+      "timestamp": 1782169799.0,
+      "summary": "Lucid Motors将裁员18%，涉及约1500名员工，这家电动汽车制造商仅在四个月前才刚完成一轮12%的人员精简。该公司周一宣布，其位于亚利桑那州卡萨格兰德的工厂还取消了电动汽车生产的第二班生产线。（新浪财经）",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "英伟达宣布Vera Rubin NVL4系统Q4起供货",
+      "link": "https://36kr.com/newsflashes/3864949184484611?f=rss",
+      "date": "2026-06-23 07:09",
+      "author": "36氪",
+      "timestamp": 1782169777.0,
+      "summary": "6月22日，英伟达宣布推出Vera Rubin超级计算平台，用于支撑气候建模、计算流体力学、能源勘探等高强度HPC与AI融合工作负载。该平台结合Rubin GPU与Vera CPU，并通过NVLink、InfiniBand与液冷架构实现一体化设计，单系统可提供超过7 exaflops级AI算力与约5",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "美银、德意志银行预计美联储将于9月加息",
+      "link": "https://36kr.com/newsflashes/3864948636308486?f=rss",
+      "date": "2026-06-23 07:09",
+      "author": "36氪",
+      "timestamp": 1782169743.0,
+      "summary": "美国银行全球研究部和德意志银行预计，由于经济韧性以及新任主席凯文·沃什采取更鹰派的立场，美联储将在2026年加息，这与其此前关于利率将保持稳定的预测有所不同。（新浪财经）",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "盯盯拍（深圳）技术股份有限公司递表港交所",
+      "link": "https://36kr.com/newsflashes/3864947906139143?f=rss",
+      "date": "2026-06-23 07:08",
+      "author": "36氪",
+      "timestamp": 1782169699.0,
+      "summary": "36氪获悉，港交所文件显示，盯盯拍（深圳）技术股份有限公司向港交所提交上市申请书，独家保荐人为光银国际。",
+      "source_url": "http://36kr.com",
+      "category": "Blog"
+    },
+    {
+      "title": "Anthropic 更新隐私政策，部分 Claude 用户需上传证件完成身份核验",
+      "link": "https://www.ithome.com/0/967/247.htm",
+      "date": "2026-06-23 07:05",
+      "author": "IT之家",
+      "timestamp": 1782169510.0,
+      "summary": "IT之家 6 月 23 日消息，根据 Anthropic 公司新版隐私政策，该公司可能会要求 Claude 用户上传政府签发的证件来验证其年龄和身份。这家人工智能企业表示，推出该项举措，是为了给账号被标记为存在潜在欺诈行为的用户提供申诉渠道，而非直接封禁账号。与此同时，Anthropic 正试图缓和",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "因数据泄露，Meta 暂停监控员工键盘、鼠标操作的 AI 训练项目",
+      "link": "https://www.ithome.com/0/967/246.htm",
+      "date": "2026-06-23 06:55",
+      "author": "IT之家",
+      "timestamp": 1782168953.0,
+      "summary": "IT之家 6 月 23 日消息，据 Business Insider 报道，Meta 公司已暂停使用一款用于 AI 训练的程序，该程序会记录公司内部员工的键盘敲击记录与鼠标操作轨迹。公司叫停这项名为“模型能力计划（MCI）”的项目，并非出于员工的合理不满 —— 员工几乎时刻处于监控之下，该工具还可能",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 iOS 27 引入全新设备恢复模式，无需电脑即可修复故障",
+      "link": "https://www.ithome.com/0/967/245.htm",
+      "date": "2026-06-23 06:49",
+      "author": "IT之家",
+      "timestamp": 1782168549.0,
+      "summary": "IT之家 6 月 23 日消息，iOS 27 为 iPhone 和 iPad 推出了全新恢复模式。该模式可让设备启动至一套轻量化备用界面，无需加载完整操作系统，原理与苹果自研芯片 Mac 的恢复模式相近。使用该功能时，用户需先关闭设备，再长按侧边键开机。开机初期会和正常启动一样显示苹果 Logo，持",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "顶尖人才流失引发AI担忧 Alphabet遭遇一年来最差单日表现",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1566546.htm",
+      "date": "2026-06-23 03:40",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782157224.0,
+      "summary": "随着人工智能领域的担忧不断加剧，以及两名知名研究人员近日跳槽竞争对手，Google正面临其一年来股市表现最糟糕的一天。Google母公司Alphabet的股价盘中一度下跌7%，表现逊于纳斯达克指数及其他大型科技巨头。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "英伟达将在欧洲部署35台全新AI超级计算机",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1566544.htm",
+      "date": "2026-06-23 03:37",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782157062.0,
+      "summary": "英伟达近日宣布，今年将在欧洲各地新建并启用35台面向人工智能的高性能计算（HPC）超级计算机，被该公司称为欧洲有史以来规模最大的单年度AI基础设施扩张行动。这些系统在ISC High Performance 2026大会上正式对外披露，将部署于多家国家级超算中心、AI工厂与科研机构，为超过三百万名科",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "美国政府据称因NSA机密系统被破解而紧急封杀Anthropic最新AI模型",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1566542.htm",
+      "date": "2026-06-23 03:32",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782156751.0,
+      "summary": "美国 AI 初创公司 Anthropic 近日深陷前所未有的监管风暴：刚刚在 10 天前高调宣布其最先进大模型面向公众开放，如今却被美国政府以出口管制为由紧急叫停，全球绝大多数用户无法再访问 Fable 5 和 Mythos 5 模型。 这是美国首次直接对 AI 模型本身实施出口管制措施，引发了安全",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "为什么你刚搜的东西，其他App转头就知道了？",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1566540.htm",
+      "date": "2026-06-23 03:22",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782156130.0,
+      "summary": "你有没有过这种经历：前一天刚在社交媒体 App 上搜了一双洞洞鞋，结果第二天，你在一个八竿子打不着的购物 App，刷到了这双鞋的推荐…… 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 visionOS 27.0 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/967/243.htm",
+      "date": "2026-06-23 01:30",
+      "author": "IT之家",
+      "timestamp": 1782149412.0,
+      "summary": "IT之家 6 月 23 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 2 更新（内部版本号：24M5306i），本次更新距离上次发布 Beta / RC 间隔 14 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 macOS 27.0 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/967/242.htm",
+      "date": "2026-06-23 01:30",
+      "author": "IT之家",
+      "timestamp": 1782149412.0,
+      "summary": "IT之家 6 月 23 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 2 更新（内部版本号：26A5368g），本次更新距离上次发布 Beta / RC 间隔 14 天。 IT之家查询公开资料，暂未发现 macOS 27 Beta 2 更新带来的改变，在官",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 iOS / iPadOS 27.0 开发者预览版 Beta 2 发布：升级 Siri AI 性能，提升系统稳定性",
+      "link": "https://www.ithome.com/0/967/241.htm",
+      "date": "2026-06-23 01:30",
+      "author": "IT之家",
+      "timestamp": 1782149410.0,
+      "summary": "【点此直达升级教程】IT之家 6 月 23 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 开发者预览版 Beta 2 更新（内部版本号：24A5370h），本次更新距离上次发布 Beta / RC 间隔 14 天。IT之家查询公开资料，苹果 iOS",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Valve公布Steam Machine定价：起售价1049美元 6月29日开放购买",
+      "link": "https://www.cnbeta.com.tw/articles/game/1566538.htm",
+      "date": "2026-06-23 01:27",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782149235.0,
+      "summary": "Valve终于公布了新款客厅PC Steam Machine的价格，这款设备起售价为1049美元，并将于6月29日开始发售。用户从今天起即可登记购买意向，Valve会在周四美国东部时间下午1点对排队顺序进行随机排序，之后再登记的人将按队列末尾顺序加入，首批购买邀请邮件将于6月29日发出。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "iOS 27 测试版高级AI听写功能默认未开启",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1566536.htm",
+      "date": "2026-06-23 01:21",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782148878.0,
+      "summary": "苹果在首个 iOS 27 开发者测试版中，为 iPhone 17 Pro 和 iPhone Air 推出的新一代高级 AI 听写功能目前并未默认开启，用户如需体验需手动在系统设置中打开。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "macOS Golden Gate 开发者预览版 Beta 2 推出",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1566534.htm",
+      "date": "2026-06-23 01:20",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782148845.0,
+      "summary": "6 月 22 日，苹果面向开发者发布了 macOS Golden Gate（macOS 27）的第二个测试版，此次更新距离首个开发者 Beta 推出约两周时间。 开发者可通过“系统设置 &gt; 通用 &gt; 软件更新”进入更新页面，在开启“测试版更新”选项并使用免费开发者账号登录后，即可下载并安",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "高盛：电动汽车加速普及恐导致2027年底石油需求下降",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1566532.htm",
+      "date": "2026-06-23 01:15",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782148537.0,
+      "summary": "高盛表示，在霍尔木兹海峡局势导致石油供应受冲击后，电动汽车普及速度加快，这可能导致到2027年底全球石油需求减少多达32万桶/日。该行在一份报告中称，上月全球电动汽车销量渗透率上升3.4个百分点，达到26.1%，为历史第二高水平。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "SpaceX创下纪录的IPO数日后发行债券 披露现金储备超1000亿美元",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1566530.htm",
+      "date": "2026-06-23 01:14",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782148498.0,
+      "summary": "SpaceX周一宣布启动优先无担保票据发行，并披露其目前持有约1008亿美元的现金储备。受此消息影响，公司股价下跌约7%。这家涉足航天与人工智能领域的公司计划将此次募资用于偿还过渡性贷款，以及满足其他一般性公司用途。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "微软政策反复无常 再次选择在Windows 11强制安装M365 Copilot",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1566528.htm",
+      "date": "2026-06-23 01:11",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782148282.0,
+      "summary": "今年3月就传出，微软已决定不再在Windows 11中默认自动安装Microsoft 365 Copilot应用程序，这是由于用户对其将人工智能（AI）整合到操作系统相关举措不满而做出的决定。原本微软有着雄心勃勃的计划，但是受到了资深用户和PC爱好者的抵制。现在将选择权交还给用户，在大家看来是非常合",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "中美合拍全AI《西游记》 讲述未曾提及的孙悟空起源故事",
+      "link": "https://www.cnbeta.com.tw/articles/movie/1566526.htm",
+      "date": "2026-06-23 01:11",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782148264.0,
+      "summary": "AI公司Utopai Studios与中国制作公司华策影视达成战略合作，双方的首个合作项目是将中国文学经典《西游记》改编为一部完全由AI生成的作品。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "V 社公布 Steam Machine 主机售价：起步 1049 美元，现开放预约登记",
+      "link": "https://www.ithome.com/0/967/240.htm",
+      "date": "2026-06-23 01:10",
+      "author": "IT之家",
+      "timestamp": 1782148233.0,
+      "summary": "IT之家 6 月 23 日消息，V 社正式公布了全新 Steam Machine 游戏主机的售价、配置选项与预约购买规则，即日起开放用户预约登记。IT之家附 Steam 官方预约页面链接（页面锁国区）（https://store.steampowered.com/hardware/steammach",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "敦豪将采用新型风力货运船舶承运货物",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1566524.htm",
+      "date": "2026-06-23 01:04",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782147846.0,
+      "summary": "国际物流巨头敦豪宣布，将与一家运营风力驱动货船的法国企业达成合作，旨在削减货运环节的温室气体排放。两家企业向《华尔街曰报》可持续商业专业版透露，敦豪旗下专业货运板块 —— 敦豪全球货运，将于明年启用维拉公司的风力船舶开展货运业务。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Meta旗下WhatsApp负责人即将卸任 印度金融科技公司创始人沙阿接任",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1566522.htm",
+      "date": "2026-06-23 01:02",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782147741.0,
+      "summary": "Meta 首席执行官马克・扎克伯格宣布，任职七年有余的 WhatsApp 负责人威尔・卡斯卡特即将卸任。Meta 任命印度金融科技初创公司 Cred 创始人库纳尔・沙阿执掌 WhatsApp。 扎克伯格表示，卡斯卡特将在 Meta 内部调任新岗位，负责从零开始研发全新产品。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "SpaceX与AI初创公司Reflection达成数十亿美元协议 将向后者提供算力",
+      "link": "https://www.cnbeta.com.tw/articles/science/1566520.htm",
+      "date": "2026-06-23 00:59",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1782147597.0,
+      "summary": "SpaceX已与AI初创公司Reflection AI签署一项价值数十亿美元的协议，将为后者提供计算资源。这家马斯克旗下的公司正在转型成为AI基础设施提供商。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
       "title": "2026高考成绩今起陆续可查，多地公布志愿填报安排",
       "link": "https://www.chinanews.com.cn/sh/2026/06-23/10645320.shtml",
       "date": "2026-06-23 00:03",
@@ -72,76 +342,6 @@
       "category": "Blog"
     },
     {
-      "title": "国漫《武动乾坤》第七季最新 PV 上线：林动修成大荒芜经迎战元门弟子，首播时间待定",
-      "link": "https://www.ithome.com/0/967/232.htm",
-      "date": "2026-06-22 22:57",
-      "author": "IT之家",
-      "timestamp": 1782140247.0,
-      "summary": "IT之家 6 月 22 日消息，《武动乾坤》动画官方微博今日发布了《武动乾坤》第七季最新 PV 和全新海报，首播时间待定。宗派大战屠元门，绝境处同生共死！荒殿修行，搅动宗门风云，修成大荒芜经。林动投身宗派大赛，孤身一人迎战元门弟子，壮我道宗！IT之家注：国漫《武动乾坤》改编自天蚕土豆同名小说，第一季",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "滨口直树：完成《最终幻想 7：重制版》三部曲后，想挑战参与全新大型 RPG 游戏",
-      "link": "https://www.ithome.com/0/967/231.htm",
-      "date": "2026-06-22 22:53",
-      "author": "IT之家",
-      "timestamp": 1782140012.0,
-      "summary": "IT之家 6 月 22 日消息，据外媒 VGC 今晚报道，《最终幻想 7：重制版》三部曲总监滨口直树透露，完成三部曲后，自己希望挑战全新的大型 RPG，而不是继续参与重制项目。三部曲最终章《最终幻想 7：启示录》将于 2027 年春季发售。不同于限时由 PlayStation 主机独占的前两部作品，",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "《古墓丽影：亚特兰蒂斯遗迹》游戏实机视频公布，2027 年 2 月 13 日发售",
-      "link": "https://www.ithome.com/0/967/230.htm",
-      "date": "2026-06-22 22:51",
-      "author": "IT之家",
-      "timestamp": 1782139865.0,
-      "summary": "IT之家 6 月 22 日消息，古墓丽影官方今日公布了《古墓丽影：亚特兰蒂斯遗迹》最新实机视频，这款游戏将于北京时间 2027 年 2 月 13 日发售，steam 国区标准版游戏售价 268 元。 《古墓丽影：亚特兰蒂斯遗迹》被定位为劳拉 · 克劳馥首次冒险旅程的重启版作品，在保留原作核心氛围的基",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "华为乾崑｜启境 GT7“新一代智能猎装”进入量产阶段，广汽集团公开新车核心亮点",
-      "link": "https://www.ithome.com/0/967/229.htm",
-      "date": "2026-06-22 22:41",
-      "author": "IT之家",
-      "timestamp": 1782139271.0,
-      "summary": "IT之家 6 月 22 日消息，华为乾崑｜启境汽车官方今日宣布，6 月 22 日，启境 GT7 首台量产车正式下线。官方同时宣布，6 月 26 日，启境 GT7 将正式上市。广汽集团官方今日发文，详细介绍了华为乾崑｜启境 GT7 的核心亮点。该车定位“新一代智能猎装”，兼顾优雅设计、极致驾控与全场景",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "14 岁微软 Surface RT 喜提主线 Linux 内核驱动，能正常读取电池信息、充电状态了",
-      "link": "https://www.ithome.com/0/967/228.htm",
-      "date": "2026-06-22 22:26",
-      "author": "IT之家",
-      "timestamp": 1782138402.0,
-      "summary": "IT之家 6 月 22 日消息，据外媒 Phoronix 今晚（22 日）报道，微软 14 年前发布首代 Surface 二合一平板设备 Surface RT，并希望凭借其与苹果 iPad 竞争。时隔 14 年，搭载英伟达 Tegra 3 的 Surface RT 终于获得主线 Linux 内核驱动",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "消息称 vivo X Fold5 折叠屏手机累计销量超 52 万台：除华为外唯一突破 50 万台销量的大折",
-      "link": "https://www.ithome.com/0/967/227.htm",
-      "date": "2026-06-22 22:20",
-      "author": "IT之家",
-      "timestamp": 1782138029.0,
-      "summary": "IT之家 6 月 22 日消息，vivo X Fold6 折叠屏手机将于 6 月 26 日发布，长期关注国内手机市场份额的博主 @RD观测 今晚透露了 vivo X Fold5 的市场表现。博主称，截至上月底，vivo X Fold5 的累计 Sell out 已经突破 52 万台。这应该是除华为之",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "用高分子把纳米颗粒“锁扣”起来：我国新型光热蒸发材料实现高效太阳能海水淡化",
-      "link": "https://www.ithome.com/0/967/226.htm",
-      "date": "2026-06-22 22:19",
-      "author": "IT之家",
-      "timestamp": 1782137942.0,
-      "summary": "IT之家 6 月 22 日消息，据中国科学院过程工程研究所消息，该所与深圳大学联合团队提出一种高分子“锁扣”机制，成功将纳米颗粒编织成三维光热蒸发材料，使太阳能海水蒸发速率大幅提升，并通过户外试验装置，实现了从海水淡化到农业灌溉的初步探索。据介绍，全球四分之一人口面临严重的水资源短缺，预计 2030",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "中俄青少年相约长春以“舞”会友",
       "link": "https://www.chinanews.com.cn/sh/2026/06-22/10645302.shtml",
       "date": "2026-06-22 22:11",
@@ -150,16 +350,6 @@
       "summary": "中新社长春6月22日电 (记者 郭佳)“舞韵无界·青春共鸣”2026中俄青少年舞蹈艺术交流活动22日在长春举行，两国青少年舞者同台展演、以舞相交，在艺术互动中增进了解、深化友谊。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "履新第一剑先“斩”老员工，美造车新势力 Lucid 宣布裁员 18%",
-      "link": "https://www.ithome.com/0/967/224.htm",
-      "date": "2026-06-22 22:05",
-      "author": "IT之家",
-      "timestamp": 1782137145.0,
-      "summary": "IT之家 6 月 22 日消息，当地时间 22 日（今天），美国造车新势力 Lucid 宣布，在新任 CEO 西尔维奥 · 纳波利推进重组之际，将裁减 18% 的员工，约 1500 人受到影响。四个月前，Lucid 刚刚裁员 12%。亚利桑那州卡萨格兰德工厂的汽车第二班生产也已取消。Lucid 表示",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
     },
     {
       "title": "多地洪涝灾害严重  广西电力部门快速响应全力保电",
@@ -222,16 +412,6 @@
       "category": "Blog"
     },
     {
-      "title": "美光与 Anthropic 达成战略合作，包含 AI 存储供应、技术研发及股权投资",
-      "link": "https://www.ithome.com/0/967/223.htm",
-      "date": "2026-06-22 21:56",
-      "author": "IT之家",
-      "timestamp": 1782136594.0,
-      "summary": "IT之家 6 月 22 日消息，美光科技于当地时间 6 月 22 日宣布，与 AI 公司 Anthropic 达成战略合作协议，共同扩展下一代人工智能基础设施。IT之家从官方新闻稿获悉，双方合作协议包括内存与存储 AI 架构设计、长期供应协议、美光全面引入 Claude，以及对 Anthropic",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "江西滕王阁推出背诵古文挑战活动：“通关”三篇经典获“终身免票”",
       "link": "https://www.chinanews.com.cn/sh/2026/06-22/10645285.shtml",
       "date": "2026-06-22 21:55",
@@ -250,16 +430,6 @@
       "summary": "中新网长沙6月22日电(杨海燕 徐丽 姚家琦)22日，在湖南省儿童医院神经内科病房，2岁6个月的重症抗NMDAR脑炎患儿童童(化名)，已能自在玩耍、流利背诵古诗。历经半年系统救治，童童身体恢复良好，已达到出院标准。据悉，这是国内首次运用鞘内注射甲氨蝶呤方案治疗低龄难治性重症抗NMDAR脑炎患儿，填补",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "雪佛龙将为微软得州大型数据中心供应天然气电力",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1566516.htm",
-      "date": "2026-06-22 21:53",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782136421.0,
-      "summary": "这家油气巨头于本周一宣布，已与微软签署一份为期 20 年的合作协议，将为微软位于西德克萨斯州的大型数据中心提供天然气发电供电服务。该数据中心项目代号为基尔比项目，预计总用电负荷接近 2.7 吉瓦，相当于约 200 万户家庭的用电量。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "传统与现代双向奔赴 端午文化焕发时代光彩",
@@ -322,126 +492,6 @@
       "category": "News"
     },
     {
-      "title": "英特尔CEO陈立武：已投资人造金刚石晶圆公司，看好芯片散热应用前景",
-      "link": "https://36kr.com/newsflashes/3864346702271496?f=rss",
-      "date": "2026-06-22 20:56",
-      "author": "36氪",
-      "timestamp": 1782133004.0,
-      "summary": "英特尔首席执行官陈立武近日表示，公司已投资一家金刚石晶圆企业，并将合成金刚石视为具有优异导热性能的新材料之一。陈立武称，随着先进制程持续逼近物理极限，英特尔正加大对玻璃基板、合成金刚石、氮化镓等新材料的布局，希望通过先进封装和材料创新推动芯片技术进一步发展。（界面）",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "传 Apple Watch Ultra 4 将于今年晚些时候登场",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1566514.htm",
-      "date": "2026-06-22 20:55",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782132918.0,
-      "summary": "预计苹果将于今年晚些时候推出 Apple Watch Ultra 4，这将是 Ultra 系列一次幅度较大的更新，重点围绕外观设计、健康传感器、身份验证和续航表现展开。 消息显示，这款新表目前仍处于推进阶段，但苹果似乎已经把发布时间锁定在今年下半年，市场普遍将其视为秋季新品阵容中的重要成员。 阅读全",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "热门中概股美股盘前普跌，哔哩哔哩跌超1%",
-      "link": "https://36kr.com/newsflashes/3864343855928585?f=rss",
-      "date": "2026-06-22 20:53",
-      "author": "36氪",
-      "timestamp": 1782132831.0,
-      "summary": "36氪获悉，热门中概股美股盘前普跌，截至发稿，理想汽车、名创优品跌超2%，阿里巴巴、哔哩哔哩跌超1%，爱奇艺跌0.96%，蔚来跌0.6%，老虎证券跌0.41%，小鹏集团跌0.08%",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "iOS 27新增类Mac恢复模式 iPhone可在无需电脑情况下完成诊断与修复",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1566512.htm",
-      "date": "2026-06-22 20:53",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782132805.0,
-      "summary": "苹果在 iOS 27 中引入了一套全新的“Recovery”恢复模式，界面和操作逻辑都更接近 Mac 的恢复环境，用户可直接在 iPhone 上进行系统诊断、软件更新、抹除设备和恢复操作，无需先借助电脑。 这项功能目前已在测试与体验内容中被确认，外界普遍认为它是苹果为提升 iPhone 自救能力而加",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "三星各部门营收差距拉大 智能手机销售或出现亏损",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1566510.htm",
-      "date": "2026-06-22 20:51",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782132661.0,
-      "summary": "随着过去一年里DRAM和NAND闪存价格暴涨、利润大增，作为全球第一大存储芯片制造商，三星频频出现在各大媒体的新闻头条。有人欢喜有人愁，对于组织架构庞大、业务众多的三星来说，内部各部门也不是都在这一轮人工智能（AI）热潮中受益，能过上好日子。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "美股大型科技股盘前多数下跌，SpaceX跌超3%",
-      "link": "https://36kr.com/newsflashes/3864340692931843?f=rss",
-      "date": "2026-06-22 20:50",
-      "author": "36氪",
-      "timestamp": 1782132637.0,
-      "summary": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，SpaceX跌超3%，谷歌跌超2%，特斯拉跌超1%，奈飞跌0.94%，Meta跌0.57%，亚马逊跌0.55%，微软跌0.54%，苹果跌0.49%；英特尔涨超2%，英伟达涨0.03%。",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "刘强东：将来根本不需要快递员 送70万兄弟去培训",
-      "link": "https://www.cnbeta.com.tw/articles/movie/1566508.htm",
-      "date": "2026-06-22 20:49",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782132561.0,
-      "summary": "近日在2026年APEC工商领导人中国论坛上，京东集团创始人、董事局主席刘强东透露：京东内部近期提出“涅槃计划”，拟将旗下70万快递员等蓝领工人送往学校进行技术培训，以应对AI和自动化技术带来的冲击。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "香港交易所宣布优化客户按金规定，进一步提升衍生产品市场效率",
-      "link": "https://36kr.com/newsflashes/3864337751004423?f=rss",
-      "date": "2026-06-22 20:47",
-      "author": "36氪",
-      "timestamp": 1782132458.0,
-      "summary": "36氪获悉，香港交易所宣布优化旗下衍生产品结算所的客户按金规定，以提升资本效率、降低市场参与者的融资成本，支持香港衍生产品市场的长远发展。根据修订后的安排，客户按金乘数及客户维持按金规定将分两个阶段调整，以便市场准备充分和顺利过渡。第一阶段计划将于2026年9月21日实施，第二阶段待监管机构批准后，",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "英特尔任命李锡熙为代工执行副总裁",
-      "link": "https://36kr.com/newsflashes/3864336182711561?f=rss",
-      "date": "2026-06-22 20:46",
-      "author": "36氪",
-      "timestamp": 1782132362.0,
-      "summary": "英特尔公司6月22日宣布，任命李锡熙（Seok-Hee Lee）为英特尔代工执行副总裁，直接向英特尔首席执行官陈立武汇报。在这一职位上，李锡熙将领导先进封装、系统集成、后道技术开发及后道制造。加入英特尔前，李锡熙曾任SK On社长兼首席执行官，此前还曾任SK海力士社长兼首席执行官。（界面）",
-      "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "雷军回应“过早”舆论争议：很多刻意攻击我的人 纯粹只为赚流量",
-      "link": "https://www.cnbeta.com.tw/articles/movie/1566506.htm",
-      "date": "2026-06-22 20:31",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782131504.0,
-      "summary": "小米集团董事长雷军近日在第三十二届北京国际图书博览会“大使会客厅特别场”上，回应此前“过早”引发的网络争议，并表示攻击他的人只是为了流量。雷军表示：“这么简单的一件事，居然上了好几天热搜，自己也匪夷所思。” 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "中国拟制定标准 推动人形机器人走进更多场景",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1566504.htm",
-      "date": "2026-06-22 20:10",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782130247.0,
-      "summary": "记者22日获悉，工业和信息化部日前发布通知，公开征求多项行业标准制修订计划项目意见。本次拟制定的标准包括人形机器人在变电站、家电制造等场景技术要求。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "前美联储主席格林斯潘逝世 享年100岁",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1566502.htm",
-      "date": "2026-06-22 20:08",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782130095.0,
-      "summary": "艾伦・格林斯潘的妻子在一份声明中证实，这位极具影响力的经济学家于周一离世。他曾五度出任美联储主席，在四任美国总统任期内执掌美国货币政策。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "土地确权纠纷拉锯十几年，不能只靠打官司解决",
       "link": "https://www.infzm.com/contents/324488",
       "date": "2026-06-22 20:00",
@@ -457,19 +507,9 @@
       "date": "2026-06-22 20:00",
       "author": "南方周末-新闻",
       "timestamp": 1782129612.0,
-      "summary": "自2012年至今，同江陆续向全市6镇4乡、万余名农民收取国有土地租赁费用。据保守测算，十余年间，其收费金额已近十亿元。\n\n随着大量“无主地”被开垦，一些农户经营面积可能远超最初，土地收益不断提高，围绕土地占有和收益分配的矛盾也逐渐显现。\n\n陈明说，农民不必过度纠结集体与国有性质，当地政府可以适当调整",
+      "summary": "自2012年至今，同江陆续向全市6镇4乡、万余名农民收取国有土地租赁费用。据保守测算，十余年间，其收费金额已近十亿元。\n\n随着大量“无主地”被开垦，一些农户经营面积可能远超最初，土地收益不断提高，围绕土地占有和收益分配的矛盾也逐渐显现。\n\n陈明建议，双方不如与历史和解，各退一步，通过协商解决。",
       "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
-    },
-    {
-      "title": "iPhone Fold 3D打印铰链遭遇问题 苹果首款折叠机或被迫延期至2027年",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1566500.htm",
-      "date": "2026-06-22 19:19",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782127197.0,
-      "summary": "据多方报道，苹果首款折叠屏手机 iPhone Fold 目前在早期测试阶段遭遇工程问题，核心症结集中在铰链设计上，相关困难可能打乱原定的发布节奏，甚至把上市时间推迟到2027年。 消息称，苹果正在对这款设备进行工程验证测试，但在试产阶段暴露出的技术问题比预期更复杂，供应链也已被告知生产安排可能需要顺",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "“发小儿杀人案”一审死刑，边缘型人格障碍须负刑责",
@@ -482,23 +522,13 @@
       "category": "News"
     },
     {
-      "title": "第三方游戏为Xbox Series S做的优化正好方便移植Switch2",
-      "link": "https://www.cnbeta.com.tw/articles/game/1566498.htm",
-      "date": "2026-06-22 18:59",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782125985.0,
-      "summary": "曾因性能限制被戏称为次世代游戏画质“拖油瓶”的Xbox Series S，如今却意外地获得了新的评价。知名技术分析媒体数毛社近日提出观点，认为这款微软旗下性能较低的机型，实际上为Nintendo Switch2的第三方游戏移植工作打下了重要基础。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "SpaceX周一盘前股价跌超4% 延续此前抛售行情",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1566496.htm",
-      "date": "2026-06-22 18:48",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782125314.0,
-      "summary": "SpaceX 周一盘前股价跌幅超4%，延续了此前的抛售行情。在完成创纪录的 IPO、股价迎来一波大涨之后，该股已连续两个完整交易日走低。这家由埃隆・马斯克执掌的航天与人工智能企业，在 6 月 12 日完成轰动资本市场的上市后，跻身全球估值最高的企业之列。上市后前两个完整交易日，SpaceX 股价大幅",
-      "source_url": "https://www.cnbeta.com.tw",
+      "title": "长川科技 2026 年半年度归母净利润 9 亿元 ~10 亿元，同比预增 110.76%~134.18%",
+      "link": "https://www.ithome.com/0/967/170.htm",
+      "date": "2026-06-22 18:30",
+      "author": "IT之家",
+      "timestamp": 1782124239.0,
+      "summary": "IT之家 6 月 22 日消息，长川科技今日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）业绩预告报告：归母净利润：9 亿元 ~10 亿元，同比预增 110.76%~134.18%扣非净利润：8.55 亿元 ~9.55 亿元，同比预增 139.38%~167.38%AI 解读",
+      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -512,26 +542,6 @@
       "category": "Blog"
     },
     {
-      "title": "韩企拿下苹果OLED独家订单 中国供应链上再遇挫折",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1566494.htm",
-      "date": "2026-06-22 17:55",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782122121.0,
-      "summary": "苹果正在为其 OLED 订单重新划分供应版图，而韩国面板企业已与苹果敲定更具排他性的合作安排；与此同时，中国厂商在争取相关订单的过程中未能取得预期进展，这也让苹果在供应链布局上再次向韩国阵营倾斜。 这类调整延续了苹果长期以来在 OLED 面板采购上的“多方试探、逐步收紧”策略，但最新进展显示，韩国厂",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "英特尔拟借Raptor Lake Next盘活DDR4库存 游戏本或成重点落点",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1566492.htm",
-      "date": "2026-06-22 17:54",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782122067.0,
-      "summary": "据报道，英特尔正准备“复活”Raptor Lake 平台，计划推出名为 Raptor Lake Next 的新一轮产品，以便在内存市场仍受 DDR4 SODIMM 库存压力影响的情况下，继续消化相关渠道库存，而游戏笔记本将是其重点覆盖方向之一。 这意味着，Raptor Lake 这条已经多次迭代的产",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex",
       "link": "https://36kr.com/p/3864065855706120?f=rss",
       "date": "2026-06-22 16:26",
@@ -539,16 +549,6 @@
       "timestamp": 1782116773.0,
       "summary": "大公司：\n  赢创计划全球裁员3200人\n  赢创近日宣布，将延长“赢创定制”增效计划，涉及赢创全球所有业务及职能部门，拟裁减约3200个岗位，其中德国本土约占2150个。相关措施计划于2027年启动，持续至2029年底。6月22日，赢创确认，德国以外地区将削减1050个职位，中国区包含在内，但具体",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "周星驰新片《功夫女足》官宣7月上映 星爷亲自出镜预告",
-      "link": "https://www.cnbeta.com.tw/articles/movie/1566490.htm",
-      "date": "2026-06-22 16:23",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1782116588.0,
-      "summary": "6月22日，正值周星驰63岁生日，其备受期待的新片《功夫女足》给影迷送上了一份特别的“生日大礼”。影片官方微博于当天正式开通，并发布了一支幕后视频，周星驰本人亲自出镜透露：“7月10日or7月17日，反正7月会上的!” 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
