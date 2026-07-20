@@ -1,24 +1,264 @@
 {
-  "update_time": "2026-07-20",
+  "update_time": "2026-07-21",
   "articles": [
     {
-      "title": "漫威影业发布《复仇者联盟 5：毁灭之日》全新预告，12 月全球上映",
-      "link": "https://www.ithome.com/0/979/239.htm",
-      "date": "2026-07-20 21:39",
+      "title": "为 iPhone Ultra 准备好：苹果 iOS 27 代码首现双电芯设计，折叠屏新机再添实证",
+      "link": "https://www.ithome.com/0/979/271.htm",
+      "date": "2026-07-21 06:31",
       "author": "IT之家",
-      "timestamp": 1784554749.0,
-      "summary": "IT之家 7 月 20 日消息，漫威影业今日发布《复仇者联盟 5：毁灭之日》全新预告，这部超英电影将于 12 月全球上映，预告时长 2 分 25 秒。本片将由罗素兄弟回归执导，小罗伯特・唐尼、克里斯・埃文斯、克里斯・海姆斯沃斯、佩德罗・帕斯卡、凡妮莎・柯比、汤姆・希德勒斯顿、安东尼・麦凯、塞巴斯蒂安",
+      "timestamp": 1784586706.0,
+      "summary": "IT之家 7 月 21 日消息，苹果今日向开发者推送了 iOS 27 的第四个测试版（iOS 27 Beta 4）。Macworld 在深入挖掘该版本的系统代码后，发现了一段此前从未出现过的文本字符串，其中明确提及了采用“多电池 / 电芯设计”的 iPhone 机型。这些新增的代码位于系统的“电池健",
       "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
-      "title": "元脑服务器：推出 CXL 内存跨代扩展方案，实现 DDR5 和 DDR4 同机部署内存扩容",
-      "link": "https://www.ithome.com/0/979/238.htm",
-      "date": "2026-07-20 21:37",
+      "title": "微软 Win11 多通道预览版更新：开始菜单、触摸板大改，文件资源管理器支持中键新标签",
+      "link": "https://www.ithome.com/0/979/270.htm",
+      "date": "2026-07-21 05:06",
       "author": "IT之家",
-      "timestamp": 1784554622.0,
-      "summary": "IT之家 7 月 20 日消息，元脑服务器今日宣布，推出 CXL（Compute Express Link）内存跨代扩展方案，实现 DDR5 和 DDR4 同机部署内存扩容。官方表示，基于元脑服务器 NF5280，在 24 条本地 DDR5 内存基本配置下，通过自研 CXL 内存扩展卡，单机最多可扩",
+      "timestamp": 1784581598.0,
+      "summary": "IT之家 7 月 21 日消息，微软于当地时间 7 月 20 日发布了最新的 Beta、Experimental、Release Preview 频道的 Windows 11 预览版更新。IT之家附具体版本明细如下：Beta 通道：Build 26220.8925 以及 Windows 11 26H",
       "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 watchOS 27.0 开发者预览版 Beta 4 发布：引入 Siri AI，新增一体化查找应用",
+      "link": "https://www.ithome.com/0/979/269.htm",
+      "date": "2026-07-21 04:20",
+      "author": "IT之家",
+      "timestamp": 1784578815.0,
+      "summary": "【点此直达升级教程】IT之家 7 月 21 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 4 更新（内部版本号：24R5325h），本次更新距离上次发布 Beta / RC 间隔 14 天。开发者可通过 iPhone 上的 Watch 应用",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 visionOS 27.0 开发者预览版 Beta 4 发布，带来 Siri AI 与冰岛新环境",
+      "link": "https://www.ithome.com/0/979/268.htm",
+      "date": "2026-07-21 04:20",
+      "author": "IT之家",
+      "timestamp": 1784578814.0,
+      "summary": "IT之家 7 月 21 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 4 更新（内部版本号：24M5326g），本次更新距离上次发布 Beta / RC 间隔 14 天。开发者可以通过打开 Vision Pro 上的“设置”应用，进入“软件",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果发布 watchOS 26.6、visionOS 26.6、tvOS 26.6 RC 候选版本",
+      "link": "https://www.ithome.com/0/979/267.htm",
+      "date": "2026-07-21 01:28",
+      "author": "IT之家",
+      "timestamp": 1784568491.0,
+      "summary": "【点此直达升级教程】IT之家 7 月 21 日消息，苹果今日向开发者推送了 watchOS 26.6（内部版本号 23U67）、tvOS 26.6（23L772）和 visionOS 26.6（23O770）的候选发布版本，本次更新距离上次发布 Beta / RC 间隔 7 天。若在此次最终测试阶段",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 macOS 26.6 RC 发布",
+      "link": "https://www.ithome.com/0/979/265.htm",
+      "date": "2026-07-21 01:28",
+      "author": "IT之家",
+      "timestamp": 1784568491.0,
+      "summary": "IT之家 7 月 21 日消息，苹果今日向 Mac 电脑用户推送了 macOS 26.6 RC 更新（内部版本号：25G70），本次更新距离上次发布 Beta/RC 间隔 7 天。    如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 iOS/iPadOS 26.6 RC 发布",
+      "link": "https://www.ithome.com/0/979/264.htm",
+      "date": "2026-07-21 01:28",
+      "author": "IT之家",
+      "timestamp": 1784568491.0,
+      "summary": "【点此直达升级教程】  IT之家 7 月 21 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.6 RC 更新（内部版本号：23G71），本次更新距离上次发布 Beta/RC 间隔 7 天。    如何升级 iOS / iPadOS / watchOS /",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 macOS 27.0 开发者预览版 Beta 4 发布",
+      "link": "https://www.ithome.com/0/979/263.htm",
+      "date": "2026-07-21 01:28",
+      "author": "IT之家",
+      "timestamp": 1784568490.0,
+      "summary": "IT之家 7 月 21 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 4 更新（内部版本号：26A5388g），本次更新距离上次发布 Beta/RC 间隔 14 天。    如何升级 iOS / iPadOS / watchOS / macOS 开发版和",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 iOS / iPadOS 27.0 开发者预览版 Beta 4 发布：增强 Siri AI",
+      "link": "https://www.ithome.com/0/979/262.htm",
+      "date": "2026-07-21 01:28",
+      "author": "IT之家",
+      "timestamp": 1784568490.0,
+      "summary": "【点此直达升级教程】IT之家 7 月 21 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 开发者预览版 Beta 4 更新（内部版本号：24A5390f），本次更新距离上次发布 Beta / RC 间隔 14 天。 IT之家查询公开资料，本次更新主要",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Steam 火车节活动正式开启：《维多利亚 3》59.4 元，《异形工厂 2》45 元平史低",
+      "link": "https://www.ithome.com/0/979/261.htm",
+      "date": "2026-07-21 01:20",
+      "author": "IT之家",
+      "timestamp": 1784568018.0,
+      "summary": "IT之家 7 月 21 日消息，Valve 官方今日宣布 Steam 火车节活动盛大开幕，玩家可以在活动期间获取各类火车主题游戏的折扣优惠，同时兑换此次活动限定的火车动态头像、边框以及贴纸。IT之家附 Steam 官方活动页面链接（https://store.steampowered.com/cat",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "匈牙利政府将启动对比亚迪在该国投资项目的专项审查",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1569620.htm",
+      "date": "2026-07-21 00:58",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1784566697.0,
+      "summary": "据匈媒 index.hu 报道，匈牙利前外长西雅尔多·彼得（Szijjártó Péter）辞去国会议员职务、入职比亚迪的举动引发政坛巨大争议。匈牙利总理毛焦尔·彼得（Magyar Péter）周一在议会宣布，政府将针对比亚迪在匈牙利的全部投资项目、相关政府决策、财政补贴及各类优惠政策，启动全面专项",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "PS5模拟器进展迅速 已能在PC上启动《羊蹄山之魂》",
+      "link": "https://www.cnbeta.com.tw/articles/game/1569618.htm",
+      "date": "2026-07-21 00:36",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1784565379.0,
+      "summary": "此前，PS4模拟器的发展一直十分迅速，但索尼宣布将于2028年停止生产游戏光盘的决定，也促使模拟器社区开始加快PS5模拟器的开发进度。目前，SharpEmu和KtytyPS5已经成为PS5模拟器领域最受关注的两个项目。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "PS6手柄或配触摸屏 索尼提交模块化设计专利",
+      "link": "https://www.cnbeta.com.tw/articles/game/1569616.htm",
+      "date": "2026-07-21 00:36",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1784565368.0,
+      "summary": "如今市面上的游戏手柄基本都长一个样。大多数产品都配备双摇杆、四个功能键、十字键以及肩键和扳机键。无论是Xbox、PlayStation还是Switch 2，都已经趋于相同的设计，因为这种布局已经被证明是最实用的方案。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "微软与AMD扩大合作 将在Azure部署下一代AI芯片",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1569614.htm",
+      "date": "2026-07-21 00:34",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1784565296.0,
+      "summary": "超微半导体（AMD）正扩大与微软的战略合作伙伴关系。根据协议，这家软件公司将在其Azure云平台上部署AMD的下一代人工智能芯片和处理器。两家公司周一表示，微软将部署AMD的Helios机架级AI平台，为其自身的AI服务和Azure客户的前沿模型推理工作负载提供算力支持。AMD表示，预计将于2026",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "谷歌研发全新“Frozen”专用芯片 大幅提升AI模型运行效率",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1569612.htm",
+      "date": "2026-07-21 00:33",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1784565224.0,
+      "summary": "据两名知情人士透露，谷歌正在研发一款全新服务器芯片，可将Gemini大模型的底层架构直接固化进芯片硬件，以此大幅提升面向用户提供AI服务的运行效率。这款内部代号Frozen v2的芯片，旨在解决谷歌当前AI算力严重短缺的难题。算力缺口已引发内部资源矛盾，甚至迫使谷歌云拒绝了不少外部客户的合作订单。",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "华为超充上线上汽大众充电地图，首批 574 座城市超充站",
+      "link": "https://www.ithome.com/0/979/259.htm",
+      "date": "2026-07-20 23:13",
+      "author": "IT之家",
+      "timestamp": 1784560427.0,
+      "summary": "IT之家 7 月 20 日消息，今日，华为超充官宣上线上汽大众充电地图，首批上线 574 座城市超充站和 127 座高速超充站，新增超 1 万只华为超充枪。使用教程：打开上汽大众 App 充电地图，筛选华为超充，选择充电站，一键导航出发。IT之家注意到，华为超充联盟于 2024 年 4 月正式成立，",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "AI 生成的盗版书泛滥，苹果图书和亚马逊上出现大量假冒作品",
+      "link": "https://www.ithome.com/0/979/258.htm",
+      "date": "2026-07-20 23:13",
+      "author": "IT之家",
+      "timestamp": 1784560400.0,
+      "summary": "IT之家 7 月 20 日消息，科技记者 Joanna Stern 上个月撰文称，在自己的新书《I Am Not a Robot》正式出版后的几天内，她就在 Apple Books 上发现了 10 本冒充该书的盗版版本。虽然她成功让这些作品下架，但很快又有新的盗版书重新出现。《纽约时报》记者 Kas",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "消息称 Bose QuietComfort 第二代头戴式降噪耳机 8 月发布，359 美元",
+      "link": "https://www.ithome.com/0/979/257.htm",
+      "date": "2026-07-20 23:10",
+      "author": "IT之家",
+      "timestamp": 1784560243.0,
+      "summary": "IT之家 7 月 20 日消息，据法国媒体 Dealabs Magazine 爆料，全新 Bose QuietComfort（第二代）头戴式耳机即将发布。这款新品此前没有任何相关的爆料或传闻泄露，消息称这款耳机将于 8 月 13 日开售，预计官方将于 8 月 7 日正式官宣并开启预购。据IT之家此前",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "ATK 推出烈空 X1 V2 大师版 + 鼠标：PAW3955 MASTER，首发到手价 299.2 元",
+      "link": "https://www.ithome.com/0/979/254.htm",
+      "date": "2026-07-20 22:32",
+      "author": "IT之家",
+      "timestamp": 1784557979.0,
+      "summary": "IT之家 7 月 20 日消息，ATK 科技今日宣布，推出 ATK 烈空 X1 V2 大师版 + 鼠标，搭载满血版 3955 传感器「PAW3955MASTER」，将于 7 月 21 日 20:00 正式开售，首发到手价 299.2 元。这款鼠标尺寸为 127×64×40mm，适合中大手，重约 55",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "联合国秘书长古特雷斯访问云南",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663249.shtml",
+      "date": "2026-07-20 22:20",
+      "author": "中新网社会新闻",
+      "timestamp": 1784557237.0,
+      "summary": "中新社昆明7月20日电 7月18日至20日，联合国秘书长安东尼奥·古特雷斯访问云南。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "月之暗面喊话马斯克：欢迎加入“2 万亿 +”俱乐部",
+      "link": "https://www.ithome.com/0/979/253.htm",
+      "date": "2026-07-20 22:20",
+      "author": "IT之家",
+      "timestamp": 1784557214.0,
+      "summary": "IT之家 7 月 20 日消息，近日，月之暗面发布的新一代开源大模型 Kimi K3 登顶全球榜单，引发广泛关注。7 月 18 日上午，埃隆 · 马斯克（Elon Musk）在社交平台发文称，旗下 2 万亿参数模型在各方面都优于当前的 1.5 万亿参数版本，将在下周完成初步训练且有可能超越 Kimi",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "浙江洞头半屏山旁闽韵浓 两岸同胞“金曲”声中共叙深情",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663239.shtml",
+      "date": "2026-07-20 22:11",
+      "author": "中新网社会新闻",
+      "timestamp": 1784556716.0,
+      "summary": "中新网温州7月20日电(周健)7月20日晚，“海浪的情书”双屏闽南语音乐荟在浙江温州洞头举行。海峡两岸青年音乐人同台献艺，市民游客、青年学子、台湾参访同胞等600余人齐聚现场，共赏闽韵金曲，共叙两岸深情。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "中越联合科研团队发现一植物新种",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663226.shtml",
+      "date": "2026-07-20 22:10",
+      "author": "中新网社会新闻",
+      "timestamp": 1784556646.0,
+      "summary": "中新网南宁7月20日电 (俞靖)广西壮族自治区中国科学院广西植物研究所20日介绍，该所相关研究团队联合越南国家自然博物馆、世界苦苣苔协会等机构的科研人员，在越南北部宁平省和河内市开展喀斯特植物科考期间，发现苦苣苔科漏斗苣苔属一新物种——黄花漏斗苣苔。目前，相关研究成果已发表在国际植物分类学期刊《Ta",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "以琴为媒 两岸口琴演奏家同台演绎“海峡乐声”",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663243.shtml",
+      "date": "2026-07-20 21:58",
+      "author": "中新网社会新闻",
+      "timestamp": 1784555891.0,
+      "summary": "中新社福建宁德7月20日电 (记者 叶茂)“山海回响·两岸和声”第二届海峡两岸(蕉城)口琴文化周20日晚在福建省宁德市蕉城区开幕，来自两岸口琴乐团的音乐人和其他文艺界代表齐聚一堂，以琴为媒、以乐会友。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "浙江省首辆无人政务服务车落地嘉兴",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663204.shtml",
+      "date": "2026-07-20 21:56",
+      "author": "中新网社会新闻",
+      "timestamp": 1784555817.0,
+      "summary": "中新网嘉兴7月20日电 (钱晨菲 田芳美)20日，记者从浙江省公安厅获悉，该省首辆无人政务服务车落地嘉兴海盐。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "时隔九年经典回归 索尼发布RX10 V超级变焦长焦相机",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1569610.htm",
+      "date": "2026-07-20 21:52",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1784555565.0,
+      "summary": "索尼公司近日正式推出了备受瞩目的新款RX10 V超级变焦长焦相机，这标志着该系列在停更九年后重回大众视野。作为一款主打“一机走天下”的桥式相机，RX10 V在保留了经典的长焦拍摄能力的同时，全面升级了内部核心技术，旨在为追求便携与高性能的摄影师提供全新解决方案。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
@@ -42,26 +282,6 @@
       "category": "News"
     },
     {
-      "title": "美团客服回应网传按骑手学历收费：从没有上线过此类增值服务",
-      "link": "https://www.ithome.com/0/979/237.htm",
-      "date": "2026-07-20 21:31",
-      "author": "IT之家",
-      "timestamp": 1784554316.0,
-      "summary": "IT之家 7 月 20 日消息，近日，一张标注着本科专送、硕士优送的外卖结算截图，引发广泛关注。据大河报今日报道，负责用户配送服务的官方客服工作人员明确回应，从没有上线过任何按骑手学历划分收费标准的配送增值服务。工作人员告诉记者，平台所有配送服务收费标准，只和配送距离、天气、订单时段、运力情况挂钩，",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "古尔曼：新款 OLED 屏 iPad mini 处理器将迎来重大升级",
-      "link": "https://www.ithome.com/0/979/236.htm",
-      "date": "2026-07-20 21:31",
-      "author": "IT之家",
-      "timestamp": 1784554277.0,
-      "summary": "IT之家 7 月 20 日消息，据彭博社的马克 · 古尔曼（Mark Gurman）报道，将于今年 10 月推出的新款 iPad mini 将带来“处理器重大升级”。此前有传闻称，下一代 iPad mini 将搭载 A19 Pro 芯片或 A20 Pro 芯片，较当前 2024 款机型的 A17 P",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "四川宜宾54岁交警田浩处置事故时因公牺牲 36年坚守诠释忠诚担当",
       "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663187.shtml",
       "date": "2026-07-20 21:28",
@@ -70,16 +290,6 @@
       "summary": "中新网成都7月20日电 题：四川宜宾54岁交警田浩处置事故时因公牺牲 36年坚守诠释忠诚担当",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "微软将在 Azure 云服务上部署 AMD Helios 机架系统，用于 AI 推理",
-      "link": "https://www.ithome.com/0/979/235.htm",
-      "date": "2026-07-20 21:28",
-      "author": "IT之家",
-      "timestamp": 1784554095.0,
-      "summary": "IT之家 7 月 20 日消息，微软今日宣布，联合 AMD 扩展 Azure AI 与高性能计算（HPC）基础设施。微软表示，AI 工作负载的规模正急速膨胀，任何单一的基础设施方案都已无法完全支撑。为满足这一需求，微软正不断升级 Azure 的基础设施，包括采用 AMD 最先进的 AI 与高性能计算",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
     },
     {
       "title": "赛畜会上的“种羊达人”：恩和门德有一套保种秘诀",
@@ -112,16 +322,6 @@
       "category": "Blog"
     },
     {
-      "title": "调查显示：苹果产品涨价致超九成用户调整购买行为，超 1/3 将降低升级频率",
-      "link": "https://www.ithome.com/0/979/234.htm",
-      "date": "2026-07-20 21:11",
-      "author": "IT之家",
-      "timestamp": 1784553078.0,
-      "summary": "IT之家 7 月 20 日消息，一项针对数千名 9to5Mac 读者的调查显示，苹果产品价格上涨很可能会导致用户延长升级周期，即使是最忠实的苹果用户也难以完全不受影响。在调查结果中，“降低升级频率”是读者选择最多的应对方式，而只有 9% 的受访者表示，涨价不会改变他们的购买行为。苹果部分产品的价格涨",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "以技立身以新破局  一线技工蜕变赋能产业发展",
       "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663166.shtml",
       "date": "2026-07-20 21:10",
@@ -140,16 +340,6 @@
       "summary": "中新网重庆7月20日电 (张旭)渝万铁路有限责任公司20日发布消息称，当日，随着最后一段无砟轨道道床板浇筑完成，新建重庆至万州高速铁路(以下简称“渝万高铁”)全线无砟轨道施工完成，为渝万高铁全线按期通车奠定了坚实基础。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "消息称比亚迪海狮 08 将于 8 月上市，有 5 座和 6 座车型版本",
-      "link": "https://www.ithome.com/0/979/233.htm",
-      "date": "2026-07-20 21:03",
-      "author": "IT之家",
-      "timestamp": 1784552607.0,
-      "summary": "IT之家 7 月 20 日消息，据迪粉之家公众号，比亚迪海狮 08 配置信息曝光，其中纯电车型提供 800 公里和 900 公里续航版本，并且有 5 座和 6 座车型的版本，目前的消息是 8 月份上市。据IT之家此前报道，比亚迪海狮 08 今年 4 月在北京车展首发亮相，搭载第二代刀片电池、闪充技术",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
     },
     {
       "title": "四川省贡杠岭自然保护区首次拍到国家一级保护动物马麝",
@@ -182,16 +372,6 @@
       "category": "Blog"
     },
     {
-      "title": "低空云层多年来为地球“遮阳降温”，但科学家预警这一趋势即将逆转",
-      "link": "https://www.ithome.com/0/979/232.htm",
-      "date": "2026-07-20 20:58",
-      "author": "IT之家",
-      "timestamp": 1784552283.0,
-      "summary": "IT之家 7 月 20 日消息，近年来，低空云层数量增加，为海洋遮挡阳光并帮助降低地球温度。但这一反馈机制如今可能正在发生逆转，并可能进一步加快全球变暖速度。据IT之家了解，云层一直是预测未来气候变化过程中最大的“不确定因素”之一，因为它们反射太阳辐射的方式十分复杂，既可能让地球升温，也可能帮助降温",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "年内A股公司累计回购金额超过800亿元",
       "link": "https://36kr.com/newsflashes/3903983734540168?f=rss",
       "date": "2026-07-20 20:57",
@@ -212,16 +392,6 @@
       "category": "Blog"
     },
     {
-      "title": "2027 款奇瑞星途 ES 车型上市：纯电 / 增程双动力可选，17.99 万元起",
-      "link": "https://www.ithome.com/0/979/231.htm",
-      "date": "2026-07-20 20:54",
-      "author": "IT之家",
-      "timestamp": 1784552071.0,
-      "summary": "IT之家 7 月 20 日消息，在今天的发布会中，奇瑞 2027 款星途 ES 正式上市，提供纯电与增程双动力可选，共推出三款车型，定价为 17.99 万元起：增程 302 Max 激光雷达版：17.99 万元，置换价 16.99 万元增程 255 Ultra 四驱激光雷达版：19.99 万元，置换",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "美股大型科技股盘前多数上涨，闪迪涨超3%",
       "link": "https://36kr.com/newsflashes/3903980483331717?f=rss",
       "date": "2026-07-20 20:54",
@@ -229,16 +399,6 @@
       "timestamp": 1784552058.0,
       "summary": "36氪获悉，美股大型科技股盘前多数上涨，截至发稿，闪迪、美光科技涨超3%，英特尔涨超2%，英伟达涨超1%特斯拉涨0.89%，谷歌涨0.5%，亚马逊涨0.35%，Meta涨0.1%；微软跌超1%，苹果跌0.4%。",
       "source_url": "http://36kr.com",
-      "category": "Blog"
-    },
-    {
-      "title": "五羊本田 UQ3 电动摩托车发布：复古圆灯造型、68km 续航，3999 元",
-      "link": "https://www.ithome.com/0/979/230.htm",
-      "date": "2026-07-20 20:54",
-      "author": "IT之家",
-      "timestamp": 1784552041.0,
-      "summary": "IT之家 7 月 20 日消息，五羊本田 UQ3 电动摩托车今日发布，采用复古圆灯 + 极简车身线条设计，售价 3999 元。IT之家从官方介绍获悉，该车采用高亮涂装 + 三层涂装工艺，杜绝橘皮、更抗刮耐晒，提供数码银、牛油果绿、奶咖白、极道黑、珍珠白等多款配色，车身尺寸为 1840*718*109",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -252,26 +412,6 @@
       "category": "Blog"
     },
     {
-      "title": "广汽埃安将推全新车系：首款车型 7 月 28 日亮相，号称“年轻人第一台超级纯电轿车”",
-      "link": "https://www.ithome.com/0/979/228.htm",
-      "date": "2026-07-20 20:48",
-      "author": "IT之家",
-      "timestamp": 1784551709.0,
-      "summary": "IT之家 7 月 20 日消息，广汽昊铂埃安 BU 总裁张雄在昊铂埃安用户节上表示，埃安将推出全新车系，其中首款车型定位中大型纯电轿车，首搭埃安全新的 logo。IT之家获悉，新车计划于 7 月 28 日亮相，目标成为年轻用户的第一台超级纯电轿车。从预告图来看，埃安首款中大型纯电轿车采用溜背造型，尾",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "德国 DDR5 内存价格飙至历史新高，装机成本大幅提升",
-      "link": "https://www.ithome.com/0/979/226.htm",
-      "date": "2026-07-20 20:39",
-      "author": "IT之家",
-      "timestamp": 1784551193.0,
-      "summary": "IT之家 7 月 20 日消息，DDR5 内存套装的价格仍在持续上涨，几乎每个月都能看到明显增长，如今已经达到历史最高水平。今年 DDR5 内存价格已经涨到了令人难以置信的程度。即使 2026 年 1 月和 2 月的价格已经被认为是内存市场最糟糕的时期，7 月份的价格却进一步刷新历史纪录。需要注意的",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "广东120个镇街遇强降雨 全省最大降雨量达230.2毫米",
       "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663145.shtml",
       "date": "2026-07-20 20:38",
@@ -280,16 +420,6 @@
       "summary": "中新网广州7月20日电 (记者 王坚)广东近期强降雨频繁。19日到20日早晨，全省有120个镇街遭遇暴雨、大暴雨，全省最大降雨量达230.2毫米。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "白帽子行为构成实质性安全侵害：小米发布 MiSRC 违规事件处置公告，奖励取消、保留法律追责权利",
-      "link": "https://www.ithome.com/0/979/225.htm",
-      "date": "2026-07-20 20:36",
-      "author": "IT之家",
-      "timestamp": 1784550961.0,
-      "summary": "IT之家 7 月 20 日消息，小米安全中心今日发布了一则 MiSRC 违规事件处置公告，称近期监测并核实到一起严重违规事件。IT之家附公告如下：事件概述经安全团队应急响应调查核实：2026 年 6 月 26 日下午时段，公司反入侵安全团队处置了一起影响范围广泛的入侵安全事件。当晚，涉事白帽子刘 *",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
     },
     {
       "title": "Windows安全更新翻车 高刷新率显示器频繁黑屏",
@@ -342,42 +472,12 @@
       "category": "Blog"
     },
     {
-      "title": "五羊本田 E-VO 电动摩托车发布：最高续航 170km、大疆相机联动，29999 元起",
-      "link": "https://www.ithome.com/0/979/224.htm",
-      "date": "2026-07-20 20:32",
-      "author": "IT之家",
-      "timestamp": 1784550730.0,
-      "summary": "IT之家 7 月 20 日消息，五羊本田今日发布全新 E-VO 电动摩托车，提供双电机、三电机版本，售价分别为 29999 元、36999 元。IT之家从官方介绍获悉，全新 E-VO 电动摩托车提供牛油果绿、磨砂黑、奶杏白三款全新配色，新增直流充转接头配件，搭载 Wi-Power 自研三电系统，峰值",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "威刚陈立白：现阶段讨论 AI 泡沫言之过早，未来十年最短缺的资源是内存和电力",
-      "link": "https://www.ithome.com/0/979/223.htm",
-      "date": "2026-07-20 20:31",
-      "author": "IT之家",
-      "timestamp": 1784550715.0,
-      "summary": "IT之家 7 月 20 日消息，据台媒工商时报消息，威刚董事长陈立白表示，现阶段讨论 AI 泡沫言之过早，“2030 年以后，再来讨论 AI 泡沫究竟会在 2040 年还是 2050 年发生”，目前全球 AI 算力、内存及电力需求，仍远高于市场想象。市场担忧云端服务商算力投资速度快于实际需求，甚至",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "贵州松桃：家庭教育法庭创新实践 从“对簿公堂”到“家教课堂”",
       "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663144.shtml",
       "date": "2026-07-20 20:31",
       "author": "中新网社会新闻",
       "timestamp": 1784550668.0,
       "summary": "中新网贵州松桃7月20日电 (杨情丽 张伟)家事审判，判的是法理，断的是亲情。如何让冰冷的法条拥有温度，让破碎的家庭少一些伤痛？记者20日从贵州省松桃苗族自治县人民法院获悉，该院创设“家庭教育法庭”，以圆桌替代法台、家教课替代对抗，并将司法关怀延伸至乡村基层，重塑家事审判逻辑，托举万家未来。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "四川成都：200余幅照片带你“穿越”攀枝花的热血与温情",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663142.shtml",
-      "date": "2026-07-20 20:24",
-      "author": "中新网社会新闻",
-      "timestamp": 1784550257.0,
-      "summary": "中新网成都7月20日电 (记者 刘忠俊)7月20日，正在四川成都天府影像艺术中心展出的“场景里的新时代·从三线荣光到温暖花城”攀枝花摄影采风交流成果展，吸引了八方观众前往观展。展览以影像为载体，聚焦攀枝花从三线工业新城到宜居温暖花城的蜕变之路。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
@@ -412,26 +512,6 @@
       "category": "Blog"
     },
     {
-      "title": "Firefox 153 正式发布：Linux 用户迎来 Vulkan 视频解码支持",
-      "link": "https://www.cnbeta.com.tw/articles/soft/1569590.htm",
-      "date": "2026-07-20 20:05",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1784549141.0,
-      "summary": "Mozilla 正式发布了 Firefox 153 版本，此次更新为 Linux 用户，尤其是使用 NVIDIA 显卡的用户带来了重大性能改进。在本次版本迭代中，最引人瞩目的变化是引入了基于 Vulkan 的视频解码路径。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "中国AI力量崛起：Moonshot与阿里巴巴同推前沿模型 直面硅谷竞争",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1569588.htm",
-      "date": "2026-07-20 20:01",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1784548889.0,
-      "summary": "近日，中国顶尖AI企业接连向硅谷发起强势挑战。北京的人工智能公司月之暗面（Moonshot AI）与科技巨头阿里巴巴在短短数日内相继发布了最新前沿模型。这些公司表示，其模型不仅在性能上足以与OpenAI和Anthropic的顶尖产品一较高下，且在部署成本上更具优势。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "判决之外的未竟之问：谁来管“兜底管孩子的主体”？丨法眼",
       "link": "https://www.infzm.com/contents/326586",
       "date": "2026-07-20 20:00",
@@ -439,66 +519,6 @@
       "timestamp": 1784548800.0,
       "summary": "最高人民法院工作报告显示，2025年全年共有997名“不适格父母”被依法撤销监护人资格，同比增幅达66.7%。\n\n被撤销监护资格的孩子，多数会被送往儿童福利机构集中养育。但福利院的承载能力是有上限的，工作人员直言苦不堪言。谁辅导他们的学业？谁守护他们的安全与身心健康？",
       "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
-      "title": "全球速卖通AliExpress因销售违规产品被欧盟重罚5.5亿欧元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1569586.htm",
-      "date": "2026-07-20 19:58",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1784548715.0,
-      "summary": "在欧洲数字服务法案（DSA）的框架下，在线零售平台AliExpress近日遭遇了史无前例的监管重击。欧盟委员会正式宣布，因AliExpress未能有效防范非法、不安全及假冒产品在该平台上的销售与传播，决定对其处以5.5亿欧元（折合人民币约45.6亿元，即约6.29亿美元）的巨额罚款。这不仅是AliE",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "AI辅助降低了人们承认无知的意愿 导致自信心虚高与准确率下滑",
-      "link": "https://www.cnbeta.com.tw/articles/science/1569584.htm",
-      "date": "2026-07-20 19:55",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1784548529.0,
-      "summary": "法国与意大利的研究人员近日发布的一项实验研究表明，过度依赖人工智能（AI）提供的建议会抑制人类的批判性思维，使人们在面对不确定的问题时，更倾向于盲目采信AI给出的错误信息，而不愿承认自己“不知道”。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "四川广安华蓥市人大常委会党组书记、主任魏全元接受纪律审查和监察调查",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663120.shtml",
-      "date": "2026-07-20 19:39",
-      "author": "中新网社会新闻",
-      "timestamp": 1784547587.0,
-      "summary": "中新网成都7月20日电 (记者 张浪)四川省广安市纪委监委20日消息，广安华蓥市人大常委会党组书记、主任魏全元涉嫌严重违纪违法，目前正接受广安市纪委监委纪律审查和监察调查。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "痛心！54岁交警田浩因公牺牲，最后一刻他仍在工作",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663119.shtml",
-      "date": "2026-07-20 19:15",
-      "author": "中新网社会新闻",
-      "timestamp": 1784546145.0,
-      "summary": "中新网7月20日电 (韩金雨 安源)7月20日，四川省宜宾市公安局交通管理支队民警田浩同志遗体告别仪式在宜宾市殡仪馆举行。2026年7月18日凌晨，田浩与同事杨何出警处置交通事故。“抓紧时间处理，你先去拍现场，我去拿呼吸检测仪。”这是田浩与杨何最后的对话。随后，意外发生。杨何听到撞击声，转身发现田浩",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "南方暴雨大暴雨依旧强势，“散装”雷雨在北方爆发，周后期雨热分布将有大变化",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663123.shtml",
-      "date": "2026-07-20 19:03",
-      "author": "中新网社会新闻",
-      "timestamp": 1784545437.0,
-      "summary": "每到夏天，副热带高压就主导着我国的强降雨、高温分布，看看这周它又是如何影响雨热变化的。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "广西贵港水库全面“体检”  持续做好除险、保供、保灌工作",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-20/10663102.shtml",
-      "date": "2026-07-20 19:00",
-      "author": "中新网社会新闻",
-      "timestamp": 1784545208.0,
-      "summary": "中新网贵港7月20日电(陈梅)广西贵港市水利局水库隐患排查工作组负责人、高级工程师陈志洪19日介绍，近日，贵港市水利局、广西壮族自治区水利厅、水利技术单位专家联合组建8个工作组，对全市274座水库开展全覆盖安全检查，对7座存在较大安全隐患的水库逐一落实应急管控措施，当前全市水库运行整体平稳可控。",
-      "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
     {
@@ -540,16 +560,6 @@
       "summary": "南方周末记者 海阳\n                    \n                    \n                                        责任编辑：崔慧莹",
       "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
-    },
-    {
-      "title": "欧洲议会测试内部EPGenAI平台 为议员提供更安全的生成式 AI 环境",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1569582.htm",
-      "date": "2026-07-20 17:17",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1784539075.0,
-      "summary": "欧洲议会工作人员和议员近期开始测试一套名为 EPGenAI Hub 的内部人工智能平台，旨在为他们提供更安全的生成式 AI 使用环境，减少在公开商用 AI 工具上处理敏感数据的风险。 这一平台将整合多种开放权重模型以及部分外部托管模型，满足议会内部已经广泛存在的 AI 使用需求，同时在数据安全和合规",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "硬氪首发 | 一台80cm高的毛绒人形机器人，配一套面向未来的自研OS系统",
@@ -600,16 +610,6 @@
       "summary": "Meta、英特尔追投数据中心建设，纽约州暂停新建大型数据中心，谷歌参与建设美国最大太阳能项目，隆基发布“技术森林”概念，中国首个水风光一体化智慧运营大模型、全球首个8.6米开口光热熔盐槽式集热器型号发布，中国自主核级树脂完成实堆验证，科学家仅靠水和氧气就能降解废塑料，ABB以41.4亿英镑收购英国R",
       "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
-    },
-    {
-      "title": "苹果零售店试行 AI“Live Notes”功能 员工担忧引发监控争议",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1569580.htm",
-      "date": "2026-07-20 15:11",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1784531463.0,
-      "summary": "苹果正在部分零售店试行一项名为“Live Notes”的全新人工智能系统，旨在通过自动录音、转录及总结对话内容，协助 Genius Bar（天才吧）员工减轻工作负担，让他们能更专注于与顾客的面对面沟通。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
@@ -720,16 +720,6 @@
       "summary": "腾讯云的企业级智能体平台，正式出海了。\n  7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。\n  ADP 的全称是 Agent De",
       "source_url": "http://36kr.com",
       "category": "Blog"
-    },
-    {
-      "title": "儿童安宁疗护，那些被忽视的“小别离”",
-      "link": "https://www.infzm.com/contents/326512",
-      "date": "2026-07-19 22:27",
-      "author": "南方周末-新闻",
-      "timestamp": 1784471262.0,
-      "summary": "传统观念上，带孩子转入安宁疗护，这在很多家长心中几乎等同于“放弃治疗”。\n\n早期安宁疗护患者就有医保可报销部分费用，但受DRG影响，总体限额差不多只够一个患者住两周。超过两周怎么办？按规定不能出院重住，但患者又不能不管。",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
     }
   ]
 }
