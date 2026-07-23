@@ -1,14 +1,364 @@
 {
-  "update_time": "2026-07-23",
+  "update_time": "2026-07-24",
   "articles": [
     {
-      "title": "华为计算模组首次亮相 WAIC 2026 世界人工智能大会",
-      "link": "https://www.ithome.com/0/980/842.htm",
-      "date": "2026-07-23 21:23",
+      "title": "《漫威金刚狼》最新预告公开：9 月 15 日登陆 PS5，实体版不受索尼新规影响",
+      "link": "https://www.ithome.com/0/980/877.htm",
+      "date": "2026-07-24 06:37",
       "author": "IT之家",
-      "timestamp": 1784813024.0,
-      "summary": "IT之家 7 月 23 日消息，在 WAIC 2026 世界人工智能大会上，华为首次完整展示全系列计算模组产品，包括网卡、SSD、DPU、RAID 卡四大系列产品。800G SP560 系列 AI 网卡国内首发 800GE AI 网卡，支持 10 万级节点超大规模组网，主机侧支持灵衢 +PCIe 双",
+      "timestamp": 1784846264.0,
+      "summary": "IT之家 7 月 24 日消息，Insomniac Games 在 7 月 23 日举行的圣迭戈国际动漫展（SDCC）上发布了《漫威金刚狼》的全新剧情预告片。本次预告片以罗根在琴 · 格雷身边平息狂暴状态开场，随后快速展开与红色欧米伽、死亡女等经典反派的激烈交锋。据IT之家此前报道，游戏将于 202",
       "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苏姿丰：在服务器 CPU 营收方面，AMD 份额已达到 46%",
+      "link": "https://www.ithome.com/0/980/874.htm",
+      "date": "2026-07-24 02:45",
+      "author": "IT之家",
+      "timestamp": 1784832312.0,
+      "summary": "IT之家 7 月 24 日消息，今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 董事会主席及首席执行官苏姿丰发表主题演讲，透露在数据中心 CPU 市场营收中的比重，AMD 公司份额达到 46%。苏姿丰在演讲中透露，伴随着智能体 AI 在推理过程中更",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "AMD 展示最强 AI 加速器 MI455X：台积电 2nm 工艺、3200 亿晶体管、432GB HBM4",
+      "link": "https://www.ithome.com/0/980/873.htm",
+      "date": "2026-07-24 02:30",
+      "author": "IT之家",
+      "timestamp": 1784831407.0,
+      "summary": "IT之家 7 月 24 日消息，今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 董事会主席及首席执行官苏姿丰发表主题演讲，并公布了下一代 AI 加速器 Instinct MI455X 的更多细节。工艺方面，Instinct MI455X GPU 拥",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率",
+      "link": "https://www.ithome.com/0/980/872.htm",
+      "date": "2026-07-24 02:30",
+      "author": "IT之家",
+      "timestamp": 1784831405.0,
+      "summary": "IT之家 7 月 24 日消息，今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 公司董事会主席及首席执行官苏姿丰发表主题演讲，介绍了 AMD 第六代 EPYC Venice CPU。工艺方面，这款旗舰服务器 CPU 率先采用台积电 2nm 工艺量产",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "AMD 计划 2027 发布 Venice-X 处理器：176 个 Zen 6 核心，主频超 5GHz",
+      "link": "https://www.ithome.com/0/980/871.htm",
+      "date": "2026-07-24 02:30",
+      "author": "IT之家",
+      "timestamp": 1784831403.0,
+      "summary": "IT之家 7 月 24 日消息，今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 公司确认针对高性能计算和人工智能工作负载，将于 2027 年发布 EPYC Verano 和 3D V-Cache 增强型 Venice-X CPU。IT之家援引博文介",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "AMD 苏姿丰称 AI 改变每个行业，发布 MI455x 加速器和 EPYC Venice CPU",
+      "link": "https://www.ithome.com/0/980/867.htm",
+      "date": "2026-07-24 02:30",
+      "author": "IT之家",
+      "timestamp": 1784831402.0,
+      "summary": "IT之家 7 月 24 日消息，今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 董事会主席及首席执行官苏姿丰发表主题演讲，并发布了新一代 AI 数据中心硬件。在硬件方面，本次活动聚焦数据中心 AI 产品，苏姿丰表示 AI 正在改变每一个行业。我们非",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "和 AMD 合作推进 AI 推理硬件利好，Cerebras Systems 今日股价盘中上涨 11%",
+      "link": "https://www.ithome.com/0/980/870.htm",
+      "date": "2026-07-24 02:30",
+      "author": "IT之家",
+      "timestamp": 1784831401.0,
+      "summary": "IT之家 7 月 24 日消息，AMD 和 Cerebras Systems （CBRS）于本周三宣布建立技术合作伙伴关系，受该利好消息影响，Cerebras Systems 股价今天盘中上涨 11%。根据双方公告内容，AMD 和 Cerebras Systems 将联合开发 AI 推理解决方案，整",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "印度政府封锁德里市中心移动网络 以应对大规模青年抗议",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1570046.htm",
+      "date": "2026-07-24 01:06",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1784826361.0,
+      "summary": "据知情人士透露，印度政府已向电信运营商下达指令，要求切断首都新德里市中心及青年示威活动聚集区周边的移动数据服务。包括信实工业旗下Jio、巴帝电信（Bharti Airtel）以及沃达丰印度（Vodafone-Idea）在内的主要电信公司目前均已配合执行该命令。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "中国籍数学家菲尔兹奖“双响”，这一刻载入历史",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-24/10665357.shtml",
+      "date": "2026-07-24 00:39",
+      "author": "中新网社会新闻",
+      "timestamp": 1784824797.0,
+      "summary": "中新社北京7月23日电 (记者 曾玥)在23日于美国费城举行的2026年国际数学家大会开幕式上，中国数学家邓煜、王虹获得菲尔兹奖。这是中国籍数学家首次获得菲尔兹奖。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "中国数学家邓煜、王虹获菲尔兹奖",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-24/10665356.shtml",
+      "date": "2026-07-24 00:22",
+      "author": "中新网社会新闻",
+      "timestamp": 1784823748.0,
+      "summary": "中新社纽约7月23日电 当地时间23日，在美国费城举行的2026年国际数学家大会开幕式上，中国青年数学家邓煜、王虹获得菲尔兹奖。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "Google Gemini月活逼近十亿大关",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1570044.htm",
+      "date": "2026-07-23 23:55",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1784822123.0,
+      "summary": "在最新公布的 2026 年第二季度财报电话会议上，Google宣布旗下 AI 助理 Gemini 的月活跃用户数已突破 9.5 亿大关，标志着该产品即将加入由 Search、Gmail、Drive、Android、YouTube 以及 Chrome 构成的Google“十亿用户俱乐部”。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "英伟达携手Lunar Outpost 将把芯片送上月球",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1570042.htm",
+      "date": "2026-07-23 23:54",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1784822071.0,
+      "summary": "英伟达（NVIDIA）正将其计算芯片的版图延伸至地外空间。据太空基础设施机器人初创公司 Lunar Outpost 宣布，其下一代月球车将采用英伟达 Jetson 芯片来控制激光雷达（lidar）系统。一旦成功部署，该芯片将成为首个登陆月球表面的图形处理器（GPU）。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "重庆彭水山体崩塌造成11人死亡50人失联",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665351.shtml",
+      "date": "2026-07-23 23:36",
+      "author": "中新网社会新闻",
+      "timestamp": 1784820965.0,
+      "summary": "中新社重庆7月23日电 据“彭水发布”消息，重庆彭水山体崩塌现场抢险救援指挥部23日通报，7月17日9时许，彭水县汉葭街道发生大型山体崩塌灾害。灾害发生以来，经广泛开展线索征集、现场登记、走访调查、技术甄别、信息汇总比对等工作，结合救援进展，核对出本次山体崩塌灾害造成10人受伤、11人死亡、50人失",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "英伟达 Jetson 芯片将登陆月球，驱动月面机器人自主运行",
+      "link": "https://www.ithome.com/0/980/866.htm",
+      "date": "2026-07-23 23:15",
+      "author": "IT之家",
+      "timestamp": 1784819756.0,
+      "summary": "IT之家 7 月 23 日消息，英伟达正努力将旗下 GPU 部署到更多场景，而该公司的最新目标，已经瞄准了月球。致力于太空基础设施机器人研发的初创公司 Lunar Outpost 当地时间周四宣布，其即将执行月球任务的月球车将采用英伟达 Jetson 芯片来控制激光雷达（LiDAR）系统。如果任务顺",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "消息称荣耀实验室主摄物料最高为豪威 OVB0D，支持 200Mp 1/1.12\"",
+      "link": "https://www.ithome.com/0/980/865.htm",
+      "date": "2026-07-23 23:08",
+      "author": "IT之家",
+      "timestamp": 1784819309.0,
+      "summary": "IT之家 7 月 23 日消息，博主 @数码闲聊站 今日爆料，荣耀实验室目前主摄物料最高 OVB0D，200Mp 1/1.12\" LOFIC 超级大底国产镜皇，这颗镜头同步开启下一代长焦端的可行性预研。IT之家注意到，豪威于去年 12 月推出 OVB0D 手机 CMOS 传感器。结合 GSMAren",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Epic 喜加一：叙事卡牌游戏《预言奇谈》免费领取",
+      "link": "https://www.ithome.com/0/980/864.htm",
+      "date": "2026-07-23 23:05",
+      "author": "IT之家",
+      "timestamp": 1784819110.0,
+      "summary": "IT之家 7 月 23 日消息，Epic 本周送出的是叙事卡牌游戏《预言奇谈 (Foretales)》，一旦领取永久入库。下周送出的是俯视角快节奏肉鸽射击游戏《孤狼 (OTXO)》和 Roguelite 战术游戏《日之旅 (Sol Cesto)》。领取链接：《预言奇谈》IT之家附《预言奇谈》游戏简介",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "知乎发文祝贺邓煜斩获菲尔兹奖，数学天才画风曝光",
+      "link": "https://www.ithome.com/0/980/863.htm",
+      "date": "2026-07-23 23:02",
+      "author": "IT之家",
+      "timestamp": 1784818959.0,
+      "summary": "IT之家 7 月 23 日消息，2026 年国际数学家大会当地时间 7 月 23 日上午在美国费城开幕，现场揭晓 2026 年菲尔兹奖得主，中国青年数学家王虹、邓煜获奖。这是中国数学家首次获得菲尔兹奖，也是中国数学家首次在同一届国际数学家大会上同时获得两枚菲尔兹奖，实现了中国数学发展的历史性突破。知",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "先马推出 S300-360 一体式水冷散热器：冷头配 6 英寸磁吸面板，黑白双色均售 499 元",
+      "link": "https://www.ithome.com/0/980/862.htm",
+      "date": "2026-07-23 22:58",
+      "author": "IT之家",
+      "timestamp": 1784818688.0,
+      "summary": "IT之家 7 月 23 日消息，先马现已在京东上架 S300 系列一体式水冷散热器，暂提供 360 规格可选，黑白双色均售 499 元，提供 6 年质保。京东先马 S300-360 散热器 499 元直达链接该散热器兼容 Intel LGA 1700/1851 和 AMD AM4/AM5 平台，冷头",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "中国籍数学家菲尔兹奖“双响”，一文回顾来时路",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665348.shtml",
+      "date": "2026-07-23 22:57",
+      "author": "中新网社会新闻",
+      "timestamp": 1784818639.0,
+      "summary": "当地时间7月23日，四年一度的国际数学家大会在美国费城开幕，菲尔兹奖(Fields Medal)随之揭晓——中国青年数学家王虹、邓煜双双获奖。这是中国数学家首次获得菲尔兹奖，也是中国数学家首次在同一届国际数学家大会上同时获得两枚菲尔兹奖。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "华为小艺获 11.6.6.300 版本升级，鸿蒙“龙虾”小艺 Claw 接入 Kimi K3 旗舰模型",
+      "link": "https://www.ithome.com/0/980/861.htm",
+      "date": "2026-07-23 22:56",
+      "author": "IT之家",
+      "timestamp": 1784818605.0,
+      "summary": "IT之家 7 月 23 日消息，华为小艺 App 今日迎来了 11.6.6.300 (110606300) 版本升级，更新日志显示，小艺 Claw 接入了 Kimi K3 旗舰模型。IT之家附华为小艺此次更新内容如下：1、小艺 Claw：接入 Kimi K3 旗舰模型，多个模型自由选择，体验全面升级",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "《恐怖黎明：阿斯特卡恩之牙》大型 DLC 发售，国区首发价 65.7 元",
+      "link": "https://www.ithome.com/0/980/855.htm",
+      "date": "2026-07-23 22:42",
+      "author": "IT之家",
+      "timestamp": 1784817732.0,
+      "summary": "IT之家 7 月 23 日消息，经典动作角色扮演游戏《恐怖黎明》的全新大型 DLC《恐怖黎明：阿斯特卡恩之牙》现已在 Steam 平台正式推出，由开发商 Crate Entertainment 制作发行，该 DLC 支持简体中文界面与字幕。IT之家附游戏商品页（https://store.steam",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "2026 款微星泰坦 16 笔记本新增“酷睿 Ultra 7 255HX + 16G + 1T + RTX5070Ti”版本，18599 元",
+      "link": "https://www.ithome.com/0/980/860.htm",
+      "date": "2026-07-23 22:39",
+      "author": "IT之家",
+      "timestamp": 1784817543.0,
+      "summary": "IT之家 7 月 23 日消息，微星现已为旗下 2026 款泰坦 16 笔记本新增英特尔酷睿 Ultra 7 255HX + 16GB RAM + 1TB SSD + RTX5070Ti 版本，定价为 18599 元。京东 2026 款微星泰坦 16 笔记本 Ultra 7 255HX + 16GB",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "重庆彭水县山体崩塌灾害造成10人受伤、11人死亡、50人失联",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665347.shtml",
+      "date": "2026-07-23 22:28",
+      "author": "中新网社会新闻",
+      "timestamp": 1784816913.0,
+      "summary": "7月17日9时许，彭水县汉葭街道发生大型山体崩塌灾害。灾情发生后，当地调度部署，多支专业救援队伍驰援彭水，组建现场抢险救援指挥部，连续多日争分夺秒开展不间断全域搜救。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "美国马里兰州青少年探访黄山 沉浸式感受中国山水魅力",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665252.shtml",
+      "date": "2026-07-23 22:25",
+      "author": "中新网社会新闻",
+      "timestamp": 1784816719.0,
+      "summary": "中新网黄山7月23日电 (赵强 朱玉婷)美国马里兰州青少年研学团23日走进中国黄山风景区，亲身感知中国自然与文化魅力。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "台湾少数民族学子江西行：历史文化“鲜活可触”",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665278.shtml",
+      "date": "2026-07-23 22:24",
+      "author": "中新网社会新闻",
+      "timestamp": 1784816663.0,
+      "summary": "中新网南昌7月23日电(朱莹 吴敏)“谈到古代经济发展史绕不开景德镇，谈到名楼绕不开滕王阁。”来自台湾花莲县海星高中的学生赵珮岑23日说，此行是一次“书本照进现实”的旅程，实地走访之后，那些停留在纸面上的历史变得“鲜活可触”。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "浙江舟山：“三元混合气”盾构装备带压作业创多项世界纪录",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665258.shtml",
+      "date": "2026-07-23 22:23",
+      "author": "中新网社会新闻",
+      "timestamp": 1784816595.0,
+      "summary": "中新网舟山7月23日电(刘子琳 骆泽明)7月23日，在浙江舟山，由中铁十一局自主研发的世界首套“三元混合气”盾构带压作业装备在世界最长海底高铁隧道——甬舟铁路金塘海底隧道完成首次大规模超高压环境带压开舱换刀作业。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "粤上半年涉电摩交通事故死亡人数降27.2%",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665295.shtml",
+      "date": "2026-07-23 22:22",
+      "author": "中新网社会新闻",
+      "timestamp": 1784816553.0,
+      "summary": "中新网广州7月23日电 (记者 方伟彬)广东省公安厅23日通报，今年上半年，该省涉电动自行车、摩托车交通事故死亡人数同比下降27.2%，广州、深圳等重点城市骑行守法率显著提升，“早点走、靠右行、慢慢开”逐渐成为社会共识。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "四川省巴中市人大常委会党组副书记、副主任李本勇接受纪律审查和监察调查",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665301.shtml",
+      "date": "2026-07-23 22:21",
+      "author": "中新网社会新闻",
+      "timestamp": 1784816483.0,
+      "summary": "中新网成都7月23日电 (记者 张浪)四川省纪委监委23日消息：巴中市人大常委会党组副书记、副主任李本勇涉嫌严重违纪违法，目前正接受四川省纪委监委纪律审查和监察调查。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "现金奖励、发消费券......多地给新婚夫妻“发红包”",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665291.shtml",
+      "date": "2026-07-23 22:19",
+      "author": "中新网社会新闻",
+      "timestamp": 1784816361.0,
+      "summary": "中新网北京7月23日电(记者 邵萌)又有多地宣布给新婚夫妻“发红包”。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "福建海事局启动防台风三级应急响应",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665264.shtml",
+      "date": "2026-07-23 22:17",
+      "author": "中新网社会新闻",
+      "timestamp": 1784816275.0,
+      "summary": "中新网福州7月23日电 (记者 龙敏)福建海事局23日13时启动防台风三级应急响应，以泉州、厦门、漳州为重点防范海域，同时加强泉州以北海域协同防御，做好北上船舶接收疏散和南下船舶管控工作。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "台风“红霞”或将生成 粤四千余艘船舶准备进入防御状态",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665330.shtml",
+      "date": "2026-07-23 22:14",
+      "author": "中新网社会新闻",
+      "timestamp": 1784816066.0,
+      "summary": "中新社广州7月23日电 (郭军 黄鸣鹤)据广东海事局23日消息，当日在菲律宾以东洋面生成的热带低压，预计将于未来12小时内发展成为今年第12号台风“红霞”，24日夜间至25日凌晨移入南海东北部海面，向粤闽沿海靠近，将于25日晚至26日早晨在广东珠海到福建漳浦一带沿海登陆。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "应对热带低压 福建部署渔船进港人员上岸",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665329.shtml",
+      "date": "2026-07-23 22:13",
+      "author": "中新网社会新闻",
+      "timestamp": 1784816026.0,
+      "summary": "中新社福州7月23日电 (记者 龙敏)菲律宾以东热带低压将于未来12至24小时发展为今年第12号台风“红霞”，逐渐逼近粤闽沿海。福建海事局23日13时启动防台风三级应急响应，以泉州、厦门、漳州为重点防范海域，同时加强泉州以北海域协同防御，做好北上船舶接收疏散和南下船舶管控工作。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "台湾学子江西研学：书本里的“风物”走到眼前",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665328.shtml",
+      "date": "2026-07-23 22:13",
+      "author": "中新网社会新闻",
+      "timestamp": 1784816002.0,
+      "summary": "中新社南昌7月23日电 (朱莹 吴敏)“谈到古代经济发展史绕不开景德镇，谈到名楼绕不开滕王阁，学习文学绕不开江西。”来自台湾花莲县海星高中的学生赵珮岑23日说，实地走访后，停留在纸面上的历史文化变得“鲜活可触”。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "Google上市以来首次录得负自由现金流 AI基础设施巨额投入引发阵痛",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1570040.htm",
+      "date": "2026-07-23 21:34",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1784813647.0,
+      "summary": "随着各大科技巨头对人工智能领域的倾力投入，极高的基础设施建设成本正对其财务状况产生显著冲击。据最新披露的财报显示，Google母公司Alphabet在截至6月底的第二季度录得负59亿美元的自由现金流，这是该公司自二十多年前公开上市以来的首次负现金流纪录。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "据报Intel、AMD与中国AI企业锁定年度CPU供货协议 价格大涨40%",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1570038.htm",
+      "date": "2026-07-23 21:33",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1784813604.0,
+      "summary": "据路透社等媒体报道，英特尔（Intel）与超微半导体（AMD）已与中国多家资料中心及 AI 企业签署长期供货协议，为后者保障未一至两年的 CPU 芯片供应。此举背后的核心驱动力，在于今年以来生成式与智能体 AI（Agentic AI）市场的爆发性增长，直接引发了计算芯片需求的急速飙升与市场价格的大幅",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "折叠屏iPhone仍面临生产障碍 最终发布时间存在悬念",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1570036.htm",
+      "date": "2026-07-23 21:29",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1784813340.0,
+      "summary": "据《电子时报》（DigiTimes）最新报道，尽管富士康正在进行供应链人士所称的“最终量产调整”，但苹果公司的首款折叠屏 iPhone 依然面临着生产方面的障碍，这使得该款设备的具体发布时间仍未最终敲定。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
@@ -30,56 +380,6 @@
       "summary": "7月23日消息，小红书前商业化华南直销负责人陈浩在社交平台发布动态，他透露，小红书通过前HRBP致电邀约线下见面沟通。陈浩表示，在其发布相关质疑文章后，此前对接的小红书前HRBP主动来电。他称双方早年共事相处融洽，知晓对方身处职场身不由己，接纳了对方个人层面的致歉，私人过往矛盾就此翻篇。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
-    },
-    {
-      "title": "我国脑机接口领域迎重要突破，千人同步脑电采集技术发布",
-      "link": "https://www.ithome.com/0/980/841.htm",
-      "date": "2026-07-23 21:12",
-      "author": "IT之家",
-      "timestamp": 1784812378.0,
-      "summary": "IT之家 7 月 23 日消息，脑机接口是全球未来产业的重要赛道。据央视财经今日报道，7 月 22 日下午，我国科研团队发布一款新型脑电信号采集装置，在全球范围内首次实现跨地域上千人同步脑电信号采集，使得神经大模型训练与脑机接口通用技术研发迈出关键一步。据介绍，此次发布的一款脑电信号采集装置，能够支",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "百度萝卜快跑：部分网络账号将无人驾驶网约车与人员失踪相挂钩，涉嫌误导公众认知，已依法提起诉讼",
-      "link": "https://www.ithome.com/0/980/840.htm",
-      "date": "2026-07-23 21:12",
-      "author": "IT之家",
-      "timestamp": 1784812370.0,
-      "summary": "IT之家 7 月 23 日消息，百度萝卜快跑法务部今日发文称，此前，我司曾就部分网络账号传播涉“萝卜快跑”不实信息音频一事发布声明，并依法启动相关法律程序。近日，该事项取得进一步进展。经核查，网络账号“福原 ***”“浩哥 ***”等传播针对萝卜快跑的相关音频内容，借惊悚化、夸张化叙事吸引流量。相关",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "Anthropic 首席经济学家：短期内 AI 不会取代大量工作岗位",
-      "link": "https://www.ithome.com/0/980/838.htm",
-      "date": "2026-07-23 21:07",
-      "author": "IT之家",
-      "timestamp": 1784812029.0,
-      "summary": "IT之家 7 月 23 日消息，Anthropic 首席经济学家彼得 · 麦克罗里（Peter McCrory）表示，目前人工智能尚未取代大量工作岗位，因为与完全替代人类相比，AI 与人类协作的效果更好。而美国亿万富翁马克 · 库班（Mark Cuban）则认为，这种情况可能永远都不会改变。麦克罗里",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "智谱：开源意味着模型可以被自主部署、随时调用，并真正掌握在使用者手中",
-      "link": "https://www.ithome.com/0/980/837.htm",
-      "date": "2026-07-23 21:04",
-      "author": "IT之家",
-      "timestamp": 1784811867.0,
-      "summary": "IT之家 7 月 23 日消息，北京智谱华章科技股份有限公司官方微博今日发文谈及了“闭源的矛与开源的盾”这一话题。智谱官方分享了一起案例：近日，一次前沿模型安全评测演变成真实安全事件。OpenAI 披露，GPT‑5.6 Sol 及一款尚未发布的模型突破隔离环境，进入 Hugging Face 的生产",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "评论：守望无惧山海 温情穿越洪流",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665245.shtml",
-      "date": "2026-07-23 21:02",
-      "author": "中新网社会新闻",
-      "timestamp": 1784811774.0,
-      "summary": "中新网南宁7月23日电 (记者 林艳华)连日来，广西南宁横州市受灾群众陆续重返家园，万亩受灾茉莉花田抽芽复绿，沉寂数日的茉莉花交易市场人声鼎沸、交易重启。从满目泥泞到烟火回暖，从受灾承压到复产提速，桂南大地上的复苏图景，是八方驰援、全民同心的最好见证，彰显中华民族患难与共、守望相助的大爱底色。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
     },
     {
       "title": "COLMO发布一风口内机与图灵Pro全时三管制中央空调",
@@ -112,36 +412,6 @@
       "category": "Blog"
     },
     {
-      "title": "我国成功发射天链二号 06 星",
-      "link": "https://www.ithome.com/0/980/836.htm",
-      "date": "2026-07-23 20:54",
-      "author": "IT之家",
-      "timestamp": 1784811264.0,
-      "summary": "IT之家 7 月 23 日消息，据央视新闻报道，今天，我国在西昌卫星发射中心使用长征三号乙运载火箭，成功将天链二号 06 星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。该卫星主要用于为飞船、空间站等载人航天器提供数据中继和测控服务，为中、低轨道资源卫星提供数据中继和测控服务，为航天器发射提",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "东风奕派 M8 上市：首批搭载华为乾崑智驾 ADS 5 Pro，限时权益价 16.58 万元起",
-      "link": "https://www.ithome.com/0/980/835.htm",
-      "date": "2026-07-23 20:52",
-      "author": "IT之家",
-      "timestamp": 1784811179.0,
-      "summary": "IT之家 7 月 23 日消息，东风奕派 M8 新能源 SUV 今晚上市，首批搭载华为乾崑智驾 ADS 5 Pro，提供纯电、增程双动力版本，售价 17.98 万元起，限时权益价 16.58 万元起。纯电版600 Max 乾崑版官方指导价 21.98 万元，限时权益价 20.58 万元600 Pro",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "蔚来乐道 Coconut / Coconut+ 椰子 3.1.0 版本推送：升级人机共驾模式、高德地图巡航红绿灯显示等",
-      "link": "https://www.ithome.com/0/980/833.htm",
-      "date": "2026-07-23 20:45",
-      "author": "IT之家",
-      "timestamp": 1784810745.0,
-      "summary": "IT之家 7 月 23 日消息，蔚来旗下乐道汽车今日宣布，Coconut 椰子 3.1.0、Coconut+ 椰子 3.1.0 版本已开启推送。乐道面向超 17 万全量用户推送重磅版本更新，升级覆盖智能辅助驾驶、智能座舱、智能底盘等功能域。IT之家整理如下：乐道 OSD 端到端模型全面升级换道更积极",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "美国上周首次申领失业救济人数为18.7万人，低于市场预期",
       "link": "https://36kr.com/newsflashes/3908215196439688?f=rss",
       "date": "2026-07-23 20:42",
@@ -160,216 +430,6 @@
       "summary": "受益于布局人工智能产业建设带来的收益，黑石第二季度可分配收益大涨26%，达到19.8亿美元。黑石本轮盈利增长核心驱动力来自人工智能相关投资。这家顶级资管巨头第二季度利润大幅走高，公司在全美大范围人工智能基建赛道的多板块投资兑现收益，利好覆盖私募股权、私募信贷、不动产等全部核心业务板块。（新浪财经）",
       "source_url": "http://36kr.com",
       "category": "Blog"
-    },
-    {
-      "title": "马斯克：值得承担致命 AI 风险，AI 最有可能带来全民富足",
-      "link": "https://www.ithome.com/0/980/832.htm",
-      "date": "2026-07-23 20:33",
-      "author": "IT之家",
-      "timestamp": 1784810029.0,
-      "summary": "IT之家 7 月 23 日消息，埃隆 · 马斯克表示，人类或许不该为人工智能踩下刹车，即便有能力这么做。在接受《经济学人》总编辑赞妮 · 明顿 · 贝德斯（Zanny Minton Beddoes）采访时，这位世界首富表示，AI 和机器人失控并酿成灾难的风险“并非为零”，但他已经接受了继续推动 AI",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "我国自主研制新型盾构换刀装备成功应用，创盾构工程领域多项纪录",
-      "link": "https://www.ithome.com/0/980/831.htm",
-      "date": "2026-07-23 20:30",
-      "author": "IT之家",
-      "timestamp": 1784809832.0,
-      "summary": "IT之家 7 月 23 日消息，据央视新闻今日报道，我国自主研制的新型盾构换刀装备在世界最长海底高铁隧道 —— 甬舟铁路金塘海底隧道完成了大规模海底换刀作业，创下盾构工程领域多项纪录。据介绍，此次换刀作业期间，团队共完成 313 次作业、936 人次安全进舱，更换各类刀具 67 把，创下作业深度最深",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "领克家族首款旅行车 07GT 上市：同级唯一 MRC 悬架、标配千里浩瀚 H5 辅助驾驶，15.78 万元起",
-      "link": "https://www.ithome.com/0/980/830.htm",
-      "date": "2026-07-23 20:18",
-      "author": "IT之家",
-      "timestamp": 1784809087.0,
-      "summary": "IT之家 7 月 23 日消息，领克家族首款旅行车 07GT 今晚正式上市，新车共推出 3 车型，预售价区间为 16.58-18.58 万元、上市指导价区间为 15.78-17.78 万元。四驱性能 Ultra 版：上市指导价 17.78 万元、上市限时价 16.58 万元；200 超长续航 Ult",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "QCC 推出 Dongle Pro2 蓝牙发射器：基于第二代高通 S5 音频平台、支持专属游戏模式，499 元",
-      "link": "https://www.ithome.com/0/980/829.htm",
-      "date": "2026-07-23 20:17",
-      "author": "IT之家",
-      "timestamp": 1784809053.0,
-      "summary": "IT之家 7 月 23 日消息，QCC 旷世之声宣布推出一款 Dongle Pro2 蓝牙发射器，定价为 499 元。京东旷世之声 QCC Dongle Pro2 蓝牙发射器 499 元直达链接该产品基于第二代高通 S5 音频平台，支持 Snapdragon Sound 骁龙畅听技术。搭载蓝牙 6.",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "第七届“海丝学堂”人才培养计划启航仪式在厦门举办",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665218.shtml",
-      "date": "2026-07-23 20:14",
-      "author": "中新网社会新闻",
-      "timestamp": 1784808891.0,
-      "summary": "中新网厦门7月23日电 (吴冠标 李思源)厦门大学第七届“海丝学堂”人才培养计划启航仪式23日在“嘉庚”号科考船(简称“‘嘉庚’号”)上举行。当天，“嘉庚”号从厦门现代码头起航前往马来西亚哥打基纳巴卢港。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "马斯克：特斯拉 AI 投资越快越好，不怕部分资金浪费",
-      "link": "https://www.ithome.com/0/980/828.htm",
-      "date": "2026-07-23 20:14",
-      "author": "IT之家",
-      "timestamp": 1784808879.0,
-      "summary": "IT之家 7 月 23 日消息，特斯拉首席执行官埃隆 · 马斯克表示，公司应该在人工智能（AI）领域投入更多资金，即便其中一部分资金最终被浪费。随着马斯克不断加码 AI 投资，特斯拉今年第二季度资本支出同比大增 142%，达到 58 亿美元（IT之家注：现汇率约合 393.33 亿元人民币）。在周四",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "绿联 HiTune Max5s 头戴式耳机发售：40mm 动圈、续航 112 小时，169 元",
-      "link": "https://www.ithome.com/0/980/827.htm",
-      "date": "2026-07-23 20:11",
-      "author": "IT之家",
-      "timestamp": 1784808714.0,
-      "summary": "IT之家 7 月 23 日消息，绿联旗下 HiTune Max5s 头戴式蓝牙耳机现已在京东发售，该产品获得国家 A 级降噪认证，号称 AI 功能终身免费，续航 112 小时，定价为 169 元。京东绿联 Max5s 头戴式耳机 169 元直达链接这款耳机整体重量约 238g，耳罩采用轻柔蛋白皮材质",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "北京首例“拆单购物牟利索赔”案宣判，职业索赔被认定敲诈勒索",
-      "link": "https://www.ithome.com/0/980/826.htm",
-      "date": "2026-07-23 20:09",
-      "author": "IT之家",
-      "timestamp": 1784808568.0,
-      "summary": "IT之家 7 月 23 日消息，据北京市场监管，7 月 22 日，北京市朝阳区人民法院依法公开宣判王某某、谢某某“牟利性索赔”敲诈勒索案。经查，被告人王某某、谢某某通过控制多个账号累计拆单购物千余笔，以“不撤销投诉、要求市场监管部门立案处罚”为要挟，向某大型线上商超频繁高额索赔。法院一审以敲诈勒索罪",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "中国警方向美方遣返一名涉嫌严重暴力犯罪的美籍逃犯",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665207.shtml",
-      "date": "2026-07-23 20:02",
-      "author": "中新网社会新闻",
-      "timestamp": 1784808126.0,
-      "summary": "7月23日，应美国执法部门请求，中国警方在上海浦东国际机场将一名在美涉嫌严重暴力犯罪的美籍红通逃犯遣返美方，由美国相关执法部门押解回国。这是中美两国执法部门又一合作成果。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "青海上半年发放困难民众救助补助资金13.91亿元",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665197.shtml",
-      "date": "2026-07-23 20:00",
-      "author": "中新网社会新闻",
-      "timestamp": 1784808018.0,
-      "summary": "中新网西宁7月23日电 (李隽 马钰)23日，记者从青海省民政厅获悉，截至6月底，该省城乡低保、特困供养对象共计39.16万人，累计开展临时救助5.27万人次，上半年发放各类救助补助资金13.91亿元。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "长春撤销一个美国白蛾疫区",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665196.shtml",
-      "date": "2026-07-23 19:58",
-      "author": "中新网社会新闻",
-      "timestamp": 1784807925.0,
-      "summary": "中新网长春7月23日电 (郭佳 宫剑 刘雯琪)记者23日从长春市林业和园林局获悉，国家林草局正式撤销长春经济技术开发区美国白蛾疫区。这是今年全国唯一成功撤销美国白蛾疫区的地区，标志着当地防控外来入侵物种工作取得阶段性成效。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "广西河池侦破跨境涉烟案  涉案总金额达600余万元",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665188.shtml",
-      "date": "2026-07-23 19:57",
-      "author": "中新网社会新闻",
-      "timestamp": 1784807823.0,
-      "summary": "中新网河池7月23日电(韦炳得 王成 韦子生)广西河池市烟草专卖局23日通报，当地烟草部门联合公安机关，历时一年侦查，近日成功破获一起横跨新疆、广西、江苏、江西多省区的跨境非法经营走私烟案，斩断一条从中哈边境入境、经多省寄递分销的黑色产业链。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "黑龙江发布夏季疾控提醒 重点防范四类高发传染病",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665182.shtml",
-      "date": "2026-07-23 19:50",
-      "author": "中新网社会新闻",
-      "timestamp": 1784807427.0,
-      "summary": "中新网哈尔滨7月23日电(记者 史轶夫)黑龙江省人民政府新闻办公室23日举行“夏季重点传染病预防与公共卫生安全科普”专题新闻发布会。黑龙江省疾病预防控制局副局长张冰欣在发布会上，结合全省传染病监测数据，梳理四类高发疾病风险，并向民众科普防暑防疫实用举措。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "广东海事局2026年北江联合巡航执法行动正式启动",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665176.shtml",
-      "date": "2026-07-23 19:48",
-      "author": "中新网社会新闻",
-      "timestamp": 1784807321.0,
-      "summary": "中新网清远7月23日电 (郭军 黄佳伟)广东海事局2026年北江联合巡航执法行动22日在广东清远正式启动。来自清远、韶关、肇庆、佛山、广州五地的海事部门与南海航海保障中心组建联合执法编队，将对北江全流域实施为期三天的水陆空立体监管，守护粤北水运大动脉通航安全。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "从“经验办案”到“数智履职” 贵州警方解锁警务“新战力”",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665178.shtml",
-      "date": "2026-07-23 19:46",
-      "author": "中新网社会新闻",
-      "timestamp": 1784807213.0,
-      "summary": "中新网贵阳7月23日电 (黄峰 常玥玥 张伟)诈骗电话响起，一场无声的云端追击同步开启；接到民众报警求助，智能系统瞬间响应；案件进入办理流程后，AI助手全程护航……",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "台风“红霞”正趋向广东 惠州海事局启动四级应急响应",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665170.shtml",
-      "date": "2026-07-23 19:45",
-      "author": "中新网社会新闻",
-      "timestamp": 1784807105.0,
-      "summary": "中新网惠州7月23日电 (郭军 梁海棠 刘依婷)据气象预测，今年第12号台风“红霞”即将生成，预计25日凌晨移入南海东北部海面，最强可达台风级或强台风级，将于25日晚上至26日早晨在广东珠海到福建漳浦一带沿海登陆。受其影响，25日白天起惠州市沿海及近海海面阵风将逐步加大，辖区水上交通、海上作业、滨海",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "台风来袭风险叠加！广东11市50个县（市、区）地质灾害风险较高",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665177.shtml",
-      "date": "2026-07-23 19:44",
-      "author": "中新网社会新闻",
-      "timestamp": 1784807045.0,
-      "summary": "中新网广州7月23日电 (许青青 罗诗岚)据广东省海洋预报台23日10时监测数据，菲律宾以东洋面已生成热带低压，当日8时中心位于马尼拉偏东约930公里海域，中心附近最大风力7级。该低压正以每小时25至30公里速度向西偏北移动，预计12至24小时内发展为台风，24日穿过巴士海峡，25日凌晨进入南海东北",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "通苏嘉甬高铁杭州湾跨海铁路桥成功应用预制墩身工艺",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665166.shtml",
-      "date": "2026-07-23 19:42",
-      "author": "中新网社会新闻",
-      "timestamp": 1784806955.0,
-      "summary": "中新网嘉兴7月23日电(傅飞扬 孙杨洋 王中鹏)7月23日，通苏嘉甬高铁杭州湾跨海铁路桥最后一节预制墩身完成海中架设，标志着大桥海盐段下部结构全面完成。这也是全球首次在跨海铁路桥领域成功应用预制墩身工艺。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "领花手环、战士来信、烈士铅笔、38个红手印——山西四位“最美拥军人物”的深情守护",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665167.shtml",
-      "date": "2026-07-23 19:42",
-      "author": "中新网社会新闻",
-      "timestamp": 1784806943.0,
-      "summary": "中新网太原7月23日电 题：领花手环、战士来信、烈士铅笔、38个红手印——山西四位“最美拥军人物”的深情守护",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "无人机送血、空中急救  低空经济补上民生医疗短板",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665165.shtml",
-      "date": "2026-07-23 19:41",
-      "author": "中新网社会新闻",
-      "timestamp": 1784806893.0,
-      "summary": "中新网上海7月23日电 (张桐 杨硕 任嘉文)眼下，以“驭低空新势，启经济新篇”为主题的2026国际低空经济博览会在国家会展中心(上海)举办。现场多款医疗专用无人机、急救转运飞行器集中亮相，低空经济与医疗健康产业深度融合的成熟商用方案正逐步进入大众视野。凭借不受地面交通拥堵、速度快的优势，低空医疗体",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "青岛机场今年出入境旅客量突破200万人次 较去年提前23天",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-23/10665164.shtml",
-      "date": "2026-07-23 19:40",
-      "author": "中新网社会新闻",
-      "timestamp": 1784806804.0,
-      "summary": "中新网青岛7月23日电 (胡耀杰 张孝鹏)青岛机场23日发布消息称，该机场2026年的出入境旅客吞吐量于22日突破200万人次，较去年提前23天。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
     },
     {
       "title": "俄罗斯“亚马逊级”零售巨头野莓沦为乌克兰打击目标",
@@ -458,66 +518,6 @@
       "author": "cnBeta.COM.TW RSS订阅",
       "timestamp": 1784797396.0,
       "summary": "模块化电脑制造商 Framework（框架）近日公开展示了其首款针对 AMD Ryzen AI Max+ PRO 495 处理器的微型电脑（Mini-PC）资质认证测试平台。这款处理器最初于今年 Computex（台北国际电脑展）上首次亮相，作为 Ryzen AI Max+ 395 的重要升级版本，",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "刚任命就跳船 XBOX工程副总裁两个月闪辞",
-      "link": "https://www.cnbeta.com.tw/articles/game/1570016.htm",
-      "date": "2026-07-23 16:58",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1784797113.0,
-      "summary": "Xbox首席执行官Asha Sharma五月亲手任命的工程副总裁Jared Palmer已从公司离职，任期仅两个月。Palmer的下家是一家名为Cognition的人工智能公司，他将出任工程负责人。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "前外交部长加盟引腐败质疑 匈牙利重新调查比亚迪工厂",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1570014.htm",
-      "date": "2026-07-23 16:52",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1784796753.0,
-      "summary": "刚赢得大选就翻旧账，匈牙利新政府这波操作，直接把比亚迪推上了风口浪尖。前外长刚入职，新政府就宣布审查比亚迪投资案。这时间点，巧得让人浮想联翩。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "英伟达加速AI算力供应：Vera Rubin机架目标日产1000台",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1570012.htm",
-      "date": "2026-07-23 16:49",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1784796559.0,
-      "summary": "英伟达正加速推进其CPU产品路线图，以进一步巩固其作为全栈系统供应商的市场地位。负责高性能计算与超大规模系统业务的副总裁伊恩·巴克（Ian Buck）透露，公司已出货“数十万台”Grace独立服务器，累计发货量超过250万颗Grace芯片。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "IBM下调增长预期 数据中心大型机销售额暴跌42%",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1570010.htm",
-      "date": "2026-07-23 16:48",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1784796520.0,
-      "summary": "IBM周三向投资者预警，全年营收增速将低于此前预期。就在一周前，公司高管提前披露不及预期的业绩指引，引发该股遭遇史上最大单日跌幅。IBM于周三公布二季度财报，证实了上周提前释放的业绩信息。这种罕见的事前预告举动，一度令公司市值蒸发约670亿美元。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "为高频交易制造毫秒优势 “真实社交”10万美元售卖特朗普帖子抢先访问权引争议",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1570008.htm",
-      "date": "2026-07-23 16:46",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1784796396.0,
-      "summary": "华尔街各界反对声浪持续高涨：特朗普旗下社交媒体公司计划推出付费高速获取其帖文的服务，行业高管对高额收费表示抵触，同时担忧此举潜藏巨大法律风险。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "极氪车主跨境自驾被锁车机？官方回应：为行业普遍采用的防盗防损措施",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1570006.htm",
-      "date": "2026-07-23 16:46",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1784796371.0,
-      "summary": "针对极氪车主反馈的跨境自驾被锁车机一事，极氪官方回应称，因该车辆定位显示在海外区域，触发了车机内置的安全保护机制。目前，涉事车辆已完成核验，车机强提示已解除。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
