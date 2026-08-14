@@ -1,6 +1,356 @@
 {
-  "update_time": "2026-08-14",
+  "update_time": "2026-08-15",
   "articles": [
+    {
+      "title": "Google更新AI工具设置 用户现可选择关闭Gemini可见水印",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573252.htm",
+      "date": "2026-08-15 01:22",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1786728163.0,
+      "summary": "Google现已允许用户移除由其人工智能工具生成的图像、视频和音乐中的可见水印。通过最新的一项更新，用户可以在Gemini以及GoogleAI视频生成器Flow中找到并关闭新增的“媒体水印”选项。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "翻新工厂、淘汰“祖宗之法”，福特斥 20 亿美元推进经济型纯电皮卡 Fathom 项目",
+      "link": "https://www.ithome.com/0/989/967.htm",
+      "date": "2026-08-14 23:55",
+      "author": "IT之家",
+      "timestamp": 1786722922.0,
+      "summary": "IT之家 8 月 14 日消息，两年前，福特投入 20 亿美元（IT之家注：现汇率约合 135.14 亿元人民币）启动了一场重大转型：关闭肯塔基州路易斯维尔装配厂，淘汰沿用一个多世纪的传统装配线生产体系，并将工厂改造成能够生产新一代平价电动汽车的基地。当地时间 13 日，福特公布了最新进展：改造工程",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "微信鸿蒙版灰度测试朋友圈自选视频封面，且支持查看好友视频封面",
+      "link": "https://www.ithome.com/0/989/966.htm",
+      "date": "2026-08-14 23:43",
+      "author": "IT之家",
+      "timestamp": 1786722230.0,
+      "summary": "IT之家 8 月 14 日消息，据多位用户反馈，微信鸿蒙版（8.0.20 版本已出现）近期开启灰度测试，新增了朋友圈视频封面功能。更新后更换朋友圈封面时支持从图库选择视频，同时可查看好友设置的视频封面。当前该功能处于逐步开放阶段，仅部分获得灰度测试资格的用户可用。微信鸿蒙版 8.0.20 系列自 7",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "钞能力？特斯拉出手“买断”瑞典罢工员工，近三年拉锯战告一段落",
+      "link": "https://www.ithome.com/0/989/965.htm",
+      "date": "2026-08-14 23:38",
+      "author": "IT之家",
+      "timestamp": 1786721936.0,
+      "summary": "IT之家 8 月 14 日消息，据《商业内幕》今天（14 日）报道，特斯拉与瑞典罢工工人持续近三年的拉锯战终于接近结束。瑞典工会 IF Metall 宣布，将从 8 月 19 日起暂停针对特斯拉的劳工行动，原因是特斯拉已经买断该工会所有参与罢工的员工。这次罢工持续超过 1000 天，马斯克本人也曾公",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "索尼希望打造原创角色 IP，目标与三丽鸥抗衡",
+      "link": "https://www.ithome.com/0/989/964.htm",
+      "date": "2026-08-14 23:38",
+      "author": "IT之家",
+      "timestamp": 1786721900.0,
+      "summary": "IT之家 8 月 14 日消息，据《日经》近日报道，负责管理索尼集团角色 IP 的索尼创意产品公司（Sony Creative Products）希望打造吸引全球的原创角色，并计划在 2030 年实现每年 100 亿日元（IT之家注：现汇率约合 4.24 亿元人民币）销售额。据报道，索尼希望围绕原创",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "马斯克 X 进一步公开透明推荐机制：让用户查看其帖子是否被限流",
+      "link": "https://www.ithome.com/0/989/963.htm",
+      "date": "2026-08-14 23:33",
+      "author": "IT之家",
+      "timestamp": 1786721629.0,
+      "summary": "IT之家 8 月 14 日消息，DogeDesigner 今日发现，马斯克旗下社交平台 X 正在小范围测试一项新的“Under the Hood”功能，允许部分用户查看与自己账号及帖子相关的数据，并查看帖子是否被限流。这项功能针对长期存在的“Shadowban（暗影禁令）”争议，即账号没有被封禁、用",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "小米 13 也会适配，澎湃 4“柔光玻璃”材质效果后期将拓展至更多机型",
+      "link": "https://www.ithome.com/0/989/962.htm",
+      "date": "2026-08-14 23:30",
+      "author": "IT之家",
+      "timestamp": 1786721436.0,
+      "summary": "IT之家 8 月 14 日消息，小米澎湃 OS 官微今天（14 日）晚间发布答网友问，回应了“为什么通过社区申请却还没收到 Beta 版推送”“为什么我的机型不支持柔光玻璃材质”“为什么超级小爱 2.0 现在还没有灵感球和取餐码上岛”等一系列问题。IT之家整理如下：为什么我通过了社区申请，但还没有收",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "巡山护水守绿意 浙江湖州以生态警务书写“时代答卷”",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677995.shtml",
+      "date": "2026-08-14 23:29",
+      "author": "中新网社会新闻",
+      "timestamp": 1786721366.0,
+      "summary": "中新网湖州8月14日电(黄彦君)在浙江省湖州市，天还没亮透，安吉县公安局天荒坪派出所的生态警长张忠心已经站在那张钉满五色图钉的毛毡地图前，盘算着要巡逻的区域。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "高血糖悲报：科学家发现癌细胞可利用“糖盾”逃避免疫攻击，肿瘤微环境是关键因素",
+      "link": "https://www.ithome.com/0/989/961.htm",
+      "date": "2026-08-14 23:27",
+      "author": "IT之家",
+      "timestamp": 1786721268.0,
+      "summary": "IT之家 8 月 14 日消息，美国圣福德 · 伯纳姆 · 普雷比斯医学发现研究所（Sanford Burnham Prebys Medical Discovery Institute）及其合作团队发现，肿瘤周围的物理环境和营养条件可能影响癌细胞逃避免疫系统攻击的能力。研究显示，高血糖、肿瘤组织硬度",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 AirPods Pro 4 耳机最新消息汇总：摄像头与手势识别成焦点",
+      "link": "https://www.ithome.com/0/989/955.htm",
+      "date": "2026-08-14 23:25",
+      "author": "IT之家",
+      "timestamp": 1786721100.0,
+      "summary": "IT之家 8 月 14 日消息，据外媒 Appleinsider 今天报道，苹果 AirPods Pro 产品线或将迎来重大升级，其中一个版本可能会搭载红外摄像头并具备 AI 技术。IT之家在此援引 Appleinsider，苹果对音频产品线的更新策略与 iPhone、iPad 等有所不同。初代 A",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "一汽红旗新款 HS5 将于 8 月 21 日成都车展上市：换装灵犀座舱，搭载司南智驾系统",
+      "link": "https://www.ithome.com/0/989/954.htm",
+      "date": "2026-08-14 23:19",
+      "author": "IT之家",
+      "timestamp": 1786720782.0,
+      "summary": "IT之家 8 月 14 日消息，一汽红旗官方宣布，新款红旗 HS5 将于 8 月 21 日在第二十九届成都国际汽车展览会（IT之家注：8 月 21 日至 30 日）期间正式上市。新车在外观、内饰及智能驾驶方面进行了全面升级，内饰换装灵犀座舱，并搭载司南智驾系统。外观方面，新款 HS5 依旧保留大尺寸",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "阿里开源 Qwen3.8-27B 模型，编程、办公场景表现超越 Qwen3.7-Plus",
+      "link": "https://www.ithome.com/0/989/953.htm",
+      "date": "2026-08-14 23:13",
+      "author": "IT之家",
+      "timestamp": 1786720433.0,
+      "summary": "IT之家 8 月 14 日消息，今天（14 日）晚间，阿里“千问大模型”公众号宣布，Qwen3.8-27B 模型正式开源，所有开发者、科研机构和企业均可自由下载、部署和使用。IT之家附体验地址：Hugging Face 魔搭社区根据介绍，27B（270 亿参数）是全球 AI 社区呼声最高的模型尺寸，",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "中国医生用 GPT-5.6 破解 22 年数学难题，Crouzeix 本人确认正确",
+      "link": "https://www.ithome.com/0/989/952.htm",
+      "date": "2026-08-14 23:08",
+      "author": "IT之家",
+      "timestamp": 1786720133.0,
+      "summary": "IT之家 8 月 14 日消息，2025 年，一连串的协和 4+4 博士引发关注和热议，其中就包括金山木事件。时隔一年之后，金山木这个名字再次引发热议。据《南华早报》今日报道，北京协和医院神经外科博士后、住院医师金山木利用 OpenAI 的 GPT-5.6-Sol 模型，只用了约 16 小时就成功证",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "新研究证实，AI 生成书籍已挤压人类作者作品市场空间",
+      "link": "https://www.ithome.com/0/989/951.htm",
+      "date": "2026-08-14 23:06",
+      "author": "IT之家",
+      "timestamp": 1786720009.0,
+      "summary": "IT之家 8 月 14 日消息，在 Anthropic 做过的诸多事情中，最容易让普通人感到震惊的，可能是处理训练书籍的方式。Anthropic 购买了数百万本二手书，切掉书脊后扫描内容，用于训练 AI 模型，完成后再把原书销毁。很多人听到这种做法会觉得难以接受，但 Anthropic 实际上“遵循",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "宁夏银川第十届少儿艺术展赛收官",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677992.shtml",
+      "date": "2026-08-14 23:05",
+      "author": "中新网社会新闻",
+      "timestamp": 1786719941.0,
+      "summary": "中新网银川8月14日电 (记者 李佩珊)8月14日晚，“拾光逐梦·艺绽童年”2026年银川市第十届少儿艺术展赛颁奖仪式暨优秀节目汇报演出在玉皇阁广场上演，为期9天的公益性少儿美育盛会正式落下帷幕。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "浙赣两地在钱江源流域开展增殖放流 山水相连生态相护",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677991.shtml",
+      "date": "2026-08-14 23:05",
+      "author": "中新网社会新闻",
+      "timestamp": 1786719925.0,
+      "summary": "中新网衢州8月14日电(董易鑫)“鱼的家就在水里，我们在这里就是为了送它们回家。”8月14日，在浙江省衢州市开化县苏庄镇，“钱江源小卫士”、苏庄镇中心小学学生吴星漪说。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "谷歌升级 Freeplay 服务，提供超 1 万部免费电影、电视剧",
+      "link": "https://www.ithome.com/0/989/950.htm",
+      "date": "2026-08-14 23:02",
+      "author": "IT之家",
+      "timestamp": 1786719769.0,
+      "summary": "IT之家 8 月 14 日消息，谷歌前天宣布 Google TV 平台的 Freeplay 服务将迎来大升级，提供超 1 万部免费电影、电视剧。据悉，Freeplay 原本是免费提供电视直播频道的平台，内容涵盖新闻、体育、真人秀、娱乐等领域，拥有超 300 个频道。谷歌表示，本次新增的电影和电视剧来",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "瑞安航空波音 737 事故初步报告：发动机风扇叶片断裂击碎舷窗，一名乘客部分身体被吸出窗外受重伤",
+      "link": "https://www.ithome.com/0/989/949.htm",
+      "date": "2026-08-14 22:53",
+      "author": "IT之家",
+      "timestamp": 1786719234.0,
+      "summary": "IT之家 8 月 14 日消息，美国国家运输安全委员会（NTSB）今日发布了初步调查报告，披露了 7 月 10 日瑞安航空一架波音 737 客机在希腊上空发生发动机非包容性失效事故的详细经过。事故中发动机风扇叶片断裂脱落，碎片击碎机身舷窗，此次事故造成一名乘客部分身体被吸出窗外后受重伤。当地时间 7",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "《羊蹄山之魂》游戏 1.604 更新上线，体积超 30GB",
+      "link": "https://www.ithome.com/0/989/948.htm",
+      "date": "2026-08-14 22:50",
+      "author": "IT之家",
+      "timestamp": 1786719039.0,
+      "summary": "IT之家 8 月 14 日消息，索尼互娱旗下工作室 Sucker Punch 现已发布《羊蹄山之魂》游戏 1.604 更新，下载容量超 30GB。据外媒 MP1ST 报道，本次更新预计包含了《羊蹄山之魂：完全版》的全部内容。作为参考，《羊蹄山之魂：完全版》将于 10 月 2 日登陆 PS5 平台，加",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "张雪机车车手瓦伦丁·德比斯：中国年轻车手正赶上最好的时代",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677984.shtml",
+      "date": "2026-08-14 22:34",
+      "author": "中新网社会新闻",
+      "timestamp": 1786718073.0,
+      "summary": "中新网上海8月14日电 (李秋莹 曾子琴)日前，张雪机车车手瓦伦丁·德比斯抵达上海，作为征战国际摩托赛事的现役车手，德比斯与中国的缘分始于和张雪机车的合作。本赛季他已驾驶张雪机车820RR-RS赛车在WSBK WorldSSP组别拿下6个分站冠军，也因此被越来越多中国车迷所熟知。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "拉萨车站迎高位客流 多举措护航雪域天路",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677978.shtml",
+      "date": "2026-08-14 22:22",
+      "author": "中新网社会新闻",
+      "timestamp": 1786717338.0,
+      "summary": "中新网拉萨8月14日电 (旦增旺姆 格桑央金)14日，中国铁路青藏集团有限公司拉萨车站介绍，近期，进藏观光、探亲访友、学生返程等多重客流高度叠加，拉萨车站迎来持续高位客流。面对暑运高温、暴雨多发、客流高位运行的多重压力，拉萨车站采取多项举措，确保大客流期间站内秩序井然、运输平稳有序。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“这就是中国速度！”上百个国家大学生被中国高铁实力圈粉",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677972.shtml",
+      "date": "2026-08-14 22:16",
+      "author": "中新网社会新闻",
+      "timestamp": 1786716984.0,
+      "summary": "今年以来，免签政策红利持续释放，“China Travel”正在从社交媒体的热词，变成实实在在的客流。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "感受非遗魅力，打卡体验民俗——暑期陕北文旅市场持续火热",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677968.shtml",
+      "date": "2026-08-14 22:15",
+      "author": "中新网社会新闻",
+      "timestamp": 1786716906.0,
+      "summary": "这个暑期，依托厚重独特的黄土民俗底蕴、品类丰富的非遗资源和独具烟火气的乡村特色业态，延安、榆林两市文旅市场持续火热。各地研学团队、中外游客慕名奔赴陕北，沉浸式感受非遗技艺、品尝特色美食、感受原生态民俗风情，尽享陕北夏日独特魅力。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "河南郏县北汝河段民堤溃口完成封堵",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677959.shtml",
+      "date": "2026-08-14 22:09",
+      "author": "中新网社会新闻",
+      "timestamp": 1786716571.0,
+      "summary": "中新网平顶山8月14日电 (记者 王宇)8月14日20时许，河南省平顶山市郏县长桥镇北汝河段民堤溃口完成封堵。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "青海与香港签署协议加强农渔业合作",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677960.shtml",
+      "date": "2026-08-14 22:09",
+      "author": "中新网社会新闻",
+      "timestamp": 1786716541.0,
+      "summary": "中新网西宁8月14日电 (麻明 孙睿)青海省农业农村厅14日消息，青海省农业农村厅与香港特别行政区政府渔农自然护理署于13日签署了《关于加强农渔业合作的协议》，旨在促进青港两地在农渔业领域交流合作，建立常态化沟通交流机制。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "涉企谣言怎么防？网信部门搭建专属维权辟谣渠道",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677962.shtml",
+      "date": "2026-08-14 22:08",
+      "author": "中新网社会新闻",
+      "timestamp": 1786716499.0,
+      "summary": "不少网络博主靠着AI剪辑、编造虚假黑料抹黑商家博取流量，不仅企业被泼脏水，消费者也被带偏。近日，上海警方通报了一起典型案例：一名游戏博主利用AI制作短视频，虚构版权纠纷，恶意诋毁游戏厂商，只为引流吸粉。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "平陆运河完成企石枢纽过闸实船试验",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677957.shtml",
+      "date": "2026-08-14 22:03",
+      "author": "中新网社会新闻",
+      "timestamp": 1786716197.0,
+      "summary": "中新网广西钦州8月14日电(记者 杨陈)8月13日，平陆运河顺利完成企石枢纽过闸实船试验。试验聚焦5000吨级与3000吨级重载船舶依次完成下行、上行过闸流程，重点关注快速输水工作阀门带来的水流扰动难题，为枢纽安全通航摸清核心底数。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "河南泥河洼滞洪区群众转移现场一日见闻",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677956.shtml",
+      "date": "2026-08-14 22:00",
+      "author": "中新网社会新闻",
+      "timestamp": 1786716011.0,
+      "summary": "原标题：特写：一个都不能少——河南泥河洼滞洪区群众转移现场一日见闻",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "大侦探经济学 | 家里有个大宝，二宝要承受多大“代价”？",
+      "link": "https://www.infzm.com/contents/328460",
+      "date": "2026-08-14 22:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1786716000.0,
+      "summary": "大宝带来的那场感冒，可能影响二宝一生的收入、教育和心理健康。\n                \n                \n                                        李井奎",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "长江十年行 | 水清了，鱼多了，江豚笑了",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677953.shtml",
+      "date": "2026-08-14 21:59",
+      "author": "中新网社会新闻",
+      "timestamp": 1786715952.0,
+      "summary": "央视网消息(记者 胡梦洁)清晨六点，赣江南昌扬子洲段的江风还带着夜色的凉意。护渔员郭国金套上反光背心，沿着堤岸开始了一天的巡护。脚下这片水域，当地人叫“江豚湾”。水面上，几头灰黑色的身影接连跃起，划出弧形的水痕——那是被称为“微笑天使”的长江江豚。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "河南郏县北汝河民堤溃口合龙！封堵为何使用混凝土技术？",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677949.shtml",
+      "date": "2026-08-14 21:55",
+      "author": "中新网社会新闻",
+      "timestamp": 1786715758.0,
+      "summary": "12日晚上，河南平顶山市郏县长桥镇渔西村北汝河堤岸发生溃口，溃口宽度40余米。溃口发生后，当地采用了混凝土浇灌、开挖引流沟等方式，不断推进封堵进度。目前，河南郏县北汝河民堤溃口已经完成封堵，顺利合龙。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "浙江发布部分地区地质灾害气象风险红色预警",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677947.shtml",
+      "date": "2026-08-14 21:54",
+      "author": "中新网社会新闻",
+      "timestamp": 1786715656.0,
+      "summary": "中新网杭州8月14日电(鲍梦妮)8月14日下午，浙江省自然资源厅、浙江省气象局联合发布未来24小时地质灾害气象风险等级预报。8月14日20时至8月15日20时，该省湖州市(吴兴区、德清县、长兴县)等部分地区地质灾害气象风险很高(红色预警)。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "LG电子与英伟达签署机器人、AI工厂和移动出行领域合作备忘录",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573250.htm",
+      "date": "2026-08-14 21:53",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1786715620.0,
+      "summary": "LG电子周五宣布，将于2027年第一季度推出一款基于英伟达（Nvidia）机器人平台的下一代双足行走人形机器人。这家韩国科技巨头表示，双方在英伟达位于加州圣克拉拉的总部签署了一份谅解备忘录，LG集团董事长具光模和英伟达首席执行官黄仁勋出席了签字仪式。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "英睿达被曝售后违约：承诺更换故障DDR5内存却拒发新品 且强扣原件仅退原款",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573248.htm",
+      "date": "2026-08-14 21:53",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1786715586.0,
+      "summary": "据外媒报道及用户反馈，美光（Micron）旗下品牌英睿达（Crucial）在处理售后服务时出现严重违约行为。该品牌在最初同意为用户更换故障零部件后，不仅拒绝履行更换承诺，甚至拒绝将用户寄回的故障产品退还，仅提供按原购买价退款的唯一选项。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "SK海力士成为铠侠最大股东 但想取得控制权仍面临重重阻碍",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1573246.htm",
+      "date": "2026-08-14 21:52",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1786715546.0,
+      "summary": "通过一家投资工具，SK海力士现已成为日本闪存制造商铠侠（Kioxia）的最大股东。然而，这并不意味着SK海力士能够轻易接管该公司。如果SK海力士试图将这一地位转化为投票权，将面临日本政府的审查、潜在的反垄断调查以及最初投资协议中的诸多限制。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
     {
       "title": "英伟达据称已锁定台积电A16工艺 Feynman GPU有望于2028年下半年量产",
       "link": "https://www.cnbeta.com.tw/articles/tech/1573244.htm",
@@ -82,36 +432,6 @@
       "category": "Blog"
     },
     {
-      "title": "以文为桥，中亚教师邂逅真实新疆",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677869.shtml",
-      "date": "2026-08-14 20:14",
-      "author": "中新网社会新闻",
-      "timestamp": 1786709686.0,
-      "summary": "中新网新疆库尔勒8月14日电 (袁鹏冲)八月的新疆瓜果飘香，“海外高校教师看新疆”参访团穿行于乌鲁木齐、巴州等地，一路看发展、品风物、感受多元文化交融。来自乌兹别克斯坦塔什干的教师美莲，第一次踏上这片土地，此前她对新疆的印象大多来自听闻，这趟旅程彻底刷新了她的认知。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "银川告别过境游绽放暑期文旅魅力 客流同比增幅超五成",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677868.shtml",
-      "date": "2026-08-14 20:14",
-      "author": "中新网社会新闻",
-      "timestamp": 1786709658.0,
-      "summary": "中新网银川8月14日电 (记者 李佩珊)“左拥大漠壮阔，右揽湖城温婉，银川给我太多惊喜。”8月14日，即将踏上返程航班的四川游客张文文，虽已结束银川之行，依旧对这座城市念念不忘。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "广西桂林烟草查获一起案值239万余元涉烟案件",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677867.shtml",
-      "date": "2026-08-14 20:13",
-      "author": "中新网社会新闻",
-      "timestamp": 1786709632.0,
-      "summary": "中新网桂林8月14日电(麻安志)广西桂林市烟草专卖局(以下简称“桂林烟草”)坚持“情报导侦、全链条打击”理念，持续深化警烟协作，近日成功破获一起涉案金额达239万余元(人民币，下同)的特大涉烟案件。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
       "title": "《宝可梦：波可比亚》销量突破500万 任天堂股价大涨7%",
       "link": "https://www.cnbeta.com.tw/articles/game/1573228.htm",
       "date": "2026-08-14 20:11",
@@ -122,256 +442,6 @@
       "category": "Blog"
     },
     {
-      "title": "合龙！河南郏县北汝河段民堤溃口完成封堵",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677870.shtml",
-      "date": "2026-08-14 20:10",
-      "author": "中新网社会新闻",
-      "timestamp": 1786709440.0,
-      "summary": "14日晚，河南省平顶山市郏县长桥镇北汝河段民堤溃口完成封堵。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "月之暗面严正声明：警惕可疑交易，已向公安机关反映涉嫌违法犯罪的行为",
-      "link": "https://www.ithome.com/0/989/920.htm",
-      "date": "2026-08-14 20:10",
-      "author": "IT之家",
-      "timestamp": 1786709439.0,
-      "summary": "IT之家 8 月 14 日消息，今天（14 日）晚间，月之暗面 Kimi 公众号发布严正声明，提醒“警惕可疑交易”。IT之家从声明获悉，针对市场上冒用月之暗面名义虚假融资、涉嫌违法犯罪的行为，公司已向公安机关反映。现严正声明：不存在所谓“朋友基金”或“特殊通道”。不存在所谓“老股额度”或“预留额度”",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "奇瑞 iCAR V25 首发亮相：方盒子造型 + 1.5T 增程器，预计今年 Q4 上市",
-      "link": "https://www.ithome.com/0/989/919.htm",
-      "date": "2026-08-14 20:06",
-      "author": "IT之家",
-      "timestamp": 1786709218.0,
-      "summary": "IT之家 8 月 14 日消息，奇瑞旗下 iCAR 品牌全新车型 V25 今日在成都首发亮相。新车定位“科技时尚轻旗舰 SUV”，是 iCAR V 系列继 V23 之后的第三款产品，采用增程式动力系统，预计今年第四季度正式上市。外观方面，iCAR V25 延续了家族标志性的“方盒子”造型，车身尺寸为",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "重庆开展大规模数字技术工程师专项培训",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677864.shtml",
-      "date": "2026-08-14 20:06",
-      "author": "中新网社会新闻",
-      "timestamp": 1786709212.0,
-      "summary": "中新网重庆8月14日电 (记者 钟旖)8月11日至14日，重庆市人力社保局、重庆市两江新区人力社保局联合重庆市职业技能公共实训中心、重庆长安汽车股份有限公司开展的数字化管理师线下培训举行。这是重庆针对企业组织的规模最大的数字技术工程师专项培训。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "水利部针对太湖流域洪水防御应急响应提升至Ⅲ级",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677865.shtml",
-      "date": "2026-08-14 20:03",
-      "author": "中新网社会新闻",
-      "timestamp": 1786709023.0,
-      "summary": "中新网8月14日电 据“中国水利”微信公众号消息，受第13号台风“白海豚”残余环流带来的强降雨影响，8月14日15时40分，太湖水位涨至4.20米，超过警戒水位(3.80米)0.40米，依据《全国流域性洪水划分规定(试行)》，太湖流域发生流域性较大洪水。据预报，流域未来2天仍将有中到大雨，预计太湖最",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "定位海洋旗舰 SUV，比亚迪公布海狮 08 多款高定车色",
-      "link": "https://www.ithome.com/0/989/917.htm",
-      "date": "2026-08-14 19:55",
-      "author": "IT之家",
-      "timestamp": 1786708532.0,
-      "summary": "IT之家 8 月 14 日消息，今天（14 日）傍晚，比亚迪汽车海洋网销售事业部总经理张卓公布了“海洋旗舰 SUV”海狮 08 的高定车色。IT之家汇总如下：双拼色：霜玉银 / 波塞冬绿、霜玉银 / 海雾紫单色：霜玉银、波塞冬绿、海雾紫、曜石黑、繁星灰内饰：浅云白、凝夜紫据IT之家此前报道，比亚迪海",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "韩国财阀掌门人 2026 上半年薪酬披露：三星李在镕继续 0 薪、SK 崔泰源 17.5 亿韩元，斗山朴正元 455.8 亿韩元居首",
-      "link": "https://www.ithome.com/0/989/916.htm",
-      "date": "2026-08-14 19:54",
-      "author": "IT之家",
-      "timestamp": 1786708473.0,
-      "summary": "IT之家 8 月 14 日消息，韩国多家顶级企业依据监管要求披露的半年期文件显示，三星电子会长李在镕在 2026 年上半年继续未从三星电子领取任何薪酬，这一做法自 2017 年以来持续至今。同期，SK 集团会长崔泰源从集团控股公司 SK Inc.获得 17.5 亿韩元（IT之家注：现汇率约合 834",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "四川立法促进家庭教育：压实家长主体责任 建立失职预警及救济制度",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677852.shtml",
-      "date": "2026-08-14 19:48",
-      "author": "中新网社会新闻",
-      "timestamp": 1786708106.0,
-      "summary": "中新网成都8月14日电 (单鹏)四川省人大常委会14日下午在成都举行专场新闻发布会，发布新制定的《四川省家庭教育促进条例》(以下简称《条例》)。《条例》将于今年9月1日起施行。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "SK 海力士员工 2026 上半年人均薪酬 1.44 亿韩元同比增长 23%，CEO 半年薪酬 261 亿韩元",
-      "link": "https://www.ithome.com/0/989/915.htm",
-      "date": "2026-08-14 19:39",
-      "author": "IT之家",
-      "timestamp": 1786707598.0,
-      "summary": "IT之家 8 月 14 日消息，SK 海力士今年上半年营业总收入 131.90 万亿韩元（IT之家注：现汇率约合 6,292.95 亿元人民币），同比增长 230.8%; 归母净利润 134.15 万亿韩元（现汇率约合 6,400.3 亿元人民币），同比增长 788.16%；毛利率 81.63%，同",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "杭州口岸今年出入境客流突破300万人次 暑运通关提质增效",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677837.shtml",
-      "date": "2026-08-14 19:37",
-      "author": "中新网社会新闻",
-      "timestamp": 1786707444.0,
-      "summary": "中新网杭州8月14日电 (钱晨菲)2026年暑运进入高峰期，截至8月14日，杭州口岸今年出入境客流量突破300万人次。其中，入境外籍旅客超27万人次，同比增长超12%，免签入境外籍旅客超16万人次，同比增长超20%，入境外籍旅客主要来自韩国、越南、新加坡、马来西亚等地。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "四川新制定涉及国家安全事项的建设项目管理条例",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677846.shtml",
-      "date": "2026-08-14 19:35",
-      "author": "中新网社会新闻",
-      "timestamp": 1786707357.0,
-      "summary": "中新网成都8月14日电 (单鹏)四川省人大常委会14日下午在成都举行专场新闻发布会，发布新制定的《四川省涉及国家安全事项的建设项目管理条例》(以下简称《条例》)。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "山西和顺：依托牛郎织女文化IP  节庆活动撬动县域文旅经济",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677843.shtml",
-      "date": "2026-08-14 19:34",
-      "author": "中新网社会新闻",
-      "timestamp": 1786707263.0,
-      "summary": "中新网晋中8月14日电 (刘小红)14日，2026年“我们的节日·七夕”和顺牛郎织女主题文化活动在山西和顺正式启动。和顺县深挖国家级非遗代表性项目牛郎织女传说文化底蕴，以系列主题活动为纽带，搭建文旅消费平台，带动县域文旅产业发展。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "智慧赋能 广东举行高速公路应对台风“红霞”复盘演练",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677842.shtml",
-      "date": "2026-08-14 19:33",
-      "author": "中新网社会新闻",
-      "timestamp": 1786707229.0,
-      "summary": "中新网汕尾8月14日电 (记者 蔡敏婕)14级强台风正面来袭、高速公路全线管控、直升机紧急驰援、边坡突发溜塌险情、无人机协同作业……",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "雍军：阿维塔年底将推大六座 SUV，是与华为“真正意义上的”首款全量合作车型",
-      "link": "https://www.ithome.com/0/989/914.htm",
-      "date": "2026-08-14 19:31",
-      "author": "IT之家",
-      "timestamp": 1786707078.0,
-      "summary": "IT之家 8 月 14 日消息，在第二十三届搜狐汽车营销首脑风暴 · 六安论坛上，阿维塔科技副总裁雍军透露，阿维塔今年年底将推出一款大六座 SUV。据其介绍，这款车将是阿维塔与华为“真正意义上的首款全量合作车型”，华为的车控、灯具、语音、智驾等技术都会应用到新车上。▲ 阿维塔 11综合IT之家此前报",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "水利部和中国气象局联合发布黄色山洪灾害气象预警",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677814.shtml",
-      "date": "2026-08-14 19:28",
-      "author": "中新网社会新闻",
-      "timestamp": 1786706919.0,
-      "summary": "中新网8月14日电 据中央气象台网站消息，水利部和中国气象局8月14日18时联合发布黄色山洪灾害气象预警：",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "2026CACA全域科普行动（青海站）启动",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677841.shtml",
-      "date": "2026-08-14 19:28",
-      "author": "中新网社会新闻",
-      "timestamp": 1786706891.0,
-      "summary": "中新网西宁8月14日电 (记者 孙睿)8月14日，2026CACA全域科普行动(青海站)暨青海省抗癌协会科普专委会成立大会在青海大学附属医院举行。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "中央气象台发布中小河流洪水气象风险预警",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677811.shtml",
-      "date": "2026-08-14 19:27",
-      "author": "中新网社会新闻",
-      "timestamp": 1786706847.0,
-      "summary": "中新网8月14日电 据中央气象台网站消息，中央气象台8月14日18时发布中小河流洪水气象风险预警：",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "通讯：在机器人赛道上迎风奔跑的“00后”女孩",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677836.shtml",
-      "date": "2026-08-14 19:26",
-      "author": "中新网社会新闻",
-      "timestamp": 1786706819.0,
-      "summary": "中新网鄂尔多斯8月14日电 题：在机器人赛道上迎风奔跑的“00后”女孩",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "SK 集团会长崔泰源：存储涨价太快我很抱歉，2027 年短缺最严重，苹果也受影响",
-      "link": "https://www.ithome.com/0/989/912.htm",
-      "date": "2026-08-14 19:23",
-      "author": "IT之家",
-      "timestamp": 1786706614.0,
-      "summary": "IT之家 8 月 14 日消息，CNBC 昨日放出了对 SK 集团会长崔泰源的采访视频。目前，SK 海力士正投资 7,200 亿美元（IT之家注：现汇率约合 4.87 万亿元人民币）建设全球最大的存储芯片工厂网络，目标到 2034 年将产能提升至当前的三倍。该投资计划是韩国政府 2026 年 6 月",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "火狐 Firefox 浏览器测试整理标签页功能，可对打开的标签页自动分组",
-      "link": "https://www.ithome.com/0/989/911.htm",
-      "date": "2026-08-14 19:22",
-      "author": "IT之家",
-      "timestamp": 1786706527.0,
-      "summary": "IT之家 8 月 14 日消息，据科技媒体 Windows Report 今天报道，火狐 Firefox 浏览器现已在每夜版测试“整理标签页”功能，可将用户当前打开的标签页进行自动分组。IT之家从原报道了解到，该功能需要启用 Smart Window 和 Nova 界面才能打开。点击该按钮后，浏览器",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "雍军首次公开回应阿维塔与华为合作争议：所谓“非必要项”系误读",
-      "link": "https://www.ithome.com/0/989/910.htm",
-      "date": "2026-08-14 19:21",
-      "author": "IT之家",
-      "timestamp": 1786706483.0,
-      "summary": "IT之家 8 月 14 日消息，在第二十三届搜狐汽车营销首脑风暴 · 六安论坛上，阿维塔科技副总裁雍军首次回应了近期关于“华为非必要项”的争议。雍军表示，此前的相关说法存在误读。他当时想表达的是，“让引望为阿维塔单独定制一个智驾版本”没有必要，并不是说华为对于阿维塔而言是“非必要项”。对于双方目前的",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "状态好转，中国三队《DOTA2》TI15 小组赛第三轮均取胜",
-      "link": "https://www.ithome.com/0/989/909.htm",
-      "date": "2026-08-14 19:18",
-      "author": "IT之家",
-      "timestamp": 1786706298.0,
-      "summary": "IT之家 8 月 14 日消息，《DOTA2》2026 国际邀请赛小组赛的第三轮赛事仍在进行中，不过三支中国参赛战队均已在本轮取得胜利。Vici Gaming 以 2:1 战胜 GamerLegion 跻身 2-1 组；Team Resilience 和 Xtreme Gaming 则都以 2:0",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "2599 元：零刻 EQ mini 迷你主机开售，英特尔酷睿 3 304 处理器、12GB 内存",
-      "link": "https://www.ithome.com/0/989/907.htm",
-      "date": "2026-08-14 19:06",
-      "author": "IT之家",
-      "timestamp": 1786705577.0,
-      "summary": "IT之家 8 月 14 日消息，零刻 EQ mini 迷你主机现已在京东开售，新品搭载英特尔 Wildcat Lake 平台，主打低功耗、省电，售价 2599 元。据介绍，这款迷你主机的裸机重量仅有 370g，搭载英特尔酷睿 3 304 处理器，采用 18A 制程工艺、5 核心（1P+4LP-E）5",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "狼蛛 SC880 系列鼠标开售：PAW3950/3955，到手价 359-399 元",
-      "link": "https://www.ithome.com/0/989/903.htm",
-      "date": "2026-08-14 18:49",
-      "author": "IT之家",
-      "timestamp": 1786704550.0,
-      "summary": "IT之家 8 月 14 日消息，狼蛛 SC880 系列鼠标今晚 19:00 开售，包含 Max 和 Ultra 两个型号，分别搭载 PAW3950 和 PAW3955 传感器，到手价 359 元起：SC880 Max：售价 423 元，到手价 359 元SC880 Ultra：售价 470 元，到手",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "消息称英伟达下一代 GPU“Feynman”使用台积电 A16 制程",
-      "link": "https://www.ithome.com/0/989/902.htm",
-      "date": "2026-08-14 18:46",
-      "author": "IT之家",
-      "timestamp": 1786704366.0,
-      "summary": "IT之家 8 月 14 日消息，据中国台湾地区媒体《电子时报》今天报道，随着 Vera Rubin 进入量产爬坡期，英伟达正提前启动重大迭代产品研发。目前已有消息称，英伟达正在将研发与供应链资源推向下一代 GPU 产品“Feynman”。据悉，Rubin 以多颗小芯片与高带宽内存（HBM）整合为主，",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "ChatGPT for Mac实现微软Copilot AI的时间线功能 收集用户操作并建立时间线",
       "link": "https://www.landian.news/archives/114330.html",
       "date": "2026-08-14 18:41",
@@ -379,26 +449,6 @@
       "timestamp": 1786704101.0,
       "summary": "#人工智能 ChatGPT 实现微软在 Windows 11 中重点推荐的 Recall 回顾功能，ChatGPT for Mac 推出名为计算机历史的新功能。该功能会记录用户的点击、输入、应用程序打开 / 切换等，信标事件会被记录并上传服务器生成 AI 时间线和记忆。用户可以使用该功能快速回溯内容",
       "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "国产 DDR5 内存首次突破 9000MT/s 稳定过测，七彩虹 X870E 白火神主板再创新纪录",
-      "link": "https://www.ithome.com/0/989/895.htm",
-      "date": "2026-08-14 18:29",
-      "author": "IT之家",
-      "timestamp": 1786703378.0,
-      "summary": "IT之家 8 月 14 日消息，七彩虹科技今日宣布，旗下 X870E VULCAN W OC 白火神主板再创国产内存超频新纪录。据介绍，七彩虹在这款主板上搭配 AMD 锐龙 9 9950X3D 处理器、iGame Shadow II 国产颗粒内存 24G×2 套条，成功超频至 9000MT/s 并实",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "消息称腾讯混元资深研究员徐灿转岗微信 WeLM，微信 AI 或进入加速阶段",
-      "link": "https://www.ithome.com/0/989/893.htm",
-      "date": "2026-08-14 18:29",
-      "author": "IT之家",
-      "timestamp": 1786703342.0,
-      "summary": "IT之家 8 月 14 日消息，据 36 氪今天报道，腾讯混元资深研究员徐灿近期加入微信 WeLM 团队，从事大模型研发相关工作。多名知情人士透露，在姚顺雨接手腾讯大语言模型研发前，徐灿在混元 LLM 体系中担任后训练一个方向上的负责人。值得一提的是，本次转岗发生在微信持续强化自研大模型和 Agen",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -452,26 +502,6 @@
       "category": "Blog"
     },
     {
-      "title": "美司法部推进Google付费禁令 Firefox浏览器面临生存危机",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573222.htm",
-      "date": "2026-08-14 13:24",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1786685093.0,
-      "summary": "备受瞩目的Google反垄断案近期迎来最新转折。美国司法部正强力推进一项禁令，试图彻底阻止Google通过付费成为各大浏览器的默认搜索引擎。然而颇具讽刺意味的是，这一旨在遏制Google垄断的举措，其最大的受害者可能并非Google本身，而是Mozilla（Firefox浏览器母公司）等依赖该笔收入",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "微软在华战略收缩 AI热潮成其决定是否留守的关键",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1573220.htm",
-      "date": "2026-08-14 13:24",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1786685045.0,
-      "summary": "2010年，当Google因担忧审查和网络安全问题准备退出中国市场时，比尔·盖茨和时任微软首席执行官史蒂夫·鲍尔默曾认为这种想法不可思议，并暗示Google反应过度。然而，时过境迁，公司文件显示，在过去五年中，微软在中国至少关闭了15家分支机构和合资企业。多位内部人士透露，微软目前正在实施一种“战略",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "下载次数超过1,100万次的长截图工具GoFullPage被谷歌下架禁用 开发者称谷歌过度执法",
       "link": "https://www.landian.news/archives/114316.html",
       "date": "2026-08-14 13:17",
@@ -479,26 +509,6 @@
       "timestamp": 1786684665.0,
       "summary": "#软件资讯 下载次数超过 1,100 万的长截图工具 GoFullPage 被谷歌下架，开发者称谷歌过度执法。该工具仅提供网页长截图功能，工具本身没有版权问题，开发者质疑谷歌这是在过度执法，目前已经联系谷歌进行沟通。查看全文：https://ourl.co/114316",
       "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "Epic Games启动器即将登陆Linux 官方人员证实正处于开发阶段",
-      "link": "https://www.cnbeta.com.tw/articles/game/1573218.htm",
-      "date": "2026-08-14 13:13",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1786684411.0,
-      "summary": "随着 Valve Steam Deck 的发布，越来越多的游戏和软件开发者开始将目光投向日益壮大的 Linux 玩家群体，Epic Games 也不例外。此前，该公司曾在一份招聘启事中透露，计划在 Linux 平台上扩展 Easy Anti-Cheat（反作弊系统）的支持。而就在 Epic Game",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "空中水下灵活切换 湖南年轻团队研发跨介质飞行器",
-      "link": "https://www.cnbeta.com.tw/articles/science/1573216.htm",
-      "date": "2026-08-14 13:12",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1786684326.0,
-      "summary": "如今飞行汽车已经不吸引眼球了，日前在2026 湖南省（国际）创新创业大赛高端装备制造半决赛现场，一支来自长沙、平均年龄仅25岁的创业团队，带来自研的SkyX仿生飞鱼空跨介质飞行器，这款装备可以自由切换空中飞行、水下潜行两种模式，实现上天入海连续作业。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
     {
@@ -568,16 +578,6 @@
       "author": "南方周末-新闻",
       "timestamp": 1786665600.0,
       "summary": "早在2016年，原国家卫计委等部门就提出要营造生育友好的社会环境。2021年5月，中央确定“生育友好型社会”为国家中长期规划的一个目标。 如今再提争创生育友好城市。",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
-      "title": "乌克兰突袭伊朗商船，全球两大热战在里海交汇？",
-      "link": "https://www.infzm.com/contents/328336",
-      "date": "2026-08-13 22:00",
-      "author": "南方周末-新闻",
-      "timestamp": 1786629605.0,
-      "summary": "2026年7月26日，伊朗外交部长阿拉格齐在社交媒体上表示，乌克兰的行动公然违反《联合国宪章》，试图将欧洲拖入战争。\n\n“两场战争之间的战略界限正在逐渐模糊。”沃尔夫分析，两场战争持续的时间越长，它们在华盛顿、莫斯科和德黑兰的考量中就越会相互碰撞，也就越难将它们视为两个独立的问题。",
       "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
     }
