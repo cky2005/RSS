@@ -1,6 +1,306 @@
 {
-  "update_time": "2026-09-04",
+  "update_time": "2026-09-05",
   "articles": [
+    {
+      "title": "消息称苹果计划明年上线全新“家庭安全监控服务”，将 AI 引入家庭安防",
+      "link": "https://www.ithome.com/0/998/642.htm",
+      "date": "2026-09-05 07:31",
+      "author": "IT之家",
+      "timestamp": 1788564682.0,
+      "summary": "IT之家 9 月 5 日消息，据外媒 MacObserver 报道，苹果正计划在 2027 年（明年）推出一项全新的家庭安全监控服务，作为其进一步拓展智能家居业务的一部分。与此同时，苹果正在研发一款注重隐私保护的家庭安防摄像头及自动化设备。该设备将利用 AI 分析周围环境，无需依赖传统摄像头持续录制",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "匿名 AI 模型再现：又一 Alpha 上线 OpenCode，线索指向智谱",
+      "link": "https://www.ithome.com/0/998/641.htm",
+      "date": "2026-09-05 07:30",
+      "author": "IT之家",
+      "timestamp": 1788564648.0,
+      "summary": "IT之家 9 月 5 日消息，在 Ox Alpha 确认为 GLM-5.3-Flash 原生多模态模型后，又一款名为 Omen Alpha 的模型昨日（9 月 4 日）上线 OpenCode Go 订阅计划，种种线索表明同样来自智谱公司。费用方面，该模型目前仅对 OpenCode Go 订阅用户开放",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "10 年了还在更：Hello Games 预热《无人深空》游戏十周年纪念神秘更新“Cosmos”即将上线",
+      "link": "https://www.ithome.com/0/998/640.htm",
+      "date": "2026-09-05 07:27",
+      "author": "IT之家",
+      "timestamp": 1788564434.0,
+      "summary": "IT之家 9 月 5 日消息，《无人深空》是一款著名的“知耻而后勇”的游戏，游戏在 2016 年推出时由于“前期营销过大”但“实际质量不足”而暴雷，不过游戏开发商 Hello Games 并没有跑路，而是默默更新游戏至今，从而挽回了在游戏玩家中的声誉。据外媒 eurogamer 报道，Hello G",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "工信部严查汽车生产一致性：2025 年 10 余款车型参数不符，涉及东风、中联重科等",
+      "link": "https://www.ithome.com/0/998/639.htm",
+      "date": "2026-09-05 07:26",
+      "author": "IT之家",
+      "timestamp": 1788564375.0,
+      "summary": "IT之家 9 月 5 日消息，工业和信息化部装备工业一司昨晚通报了 2025 年度汽车产品生产一致性监督检查的部分典型案例。此次检查旨在规范汽车产业竞争秩序，守牢汽车产品生产一致性和质量安全底线。通报显示，检查发现的问题共涉及五类情形。其中，样车个别参数与《道路机动车辆生产企业及产品公告》（简称《公",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Anthropic：Claude 仅用 11 天完成费马大定理首个完整计算机验证证明",
+      "link": "https://www.ithome.com/0/998/638.htm",
+      "date": "2026-09-05 07:20",
+      "author": "IT之家",
+      "timestamp": 1788564046.0,
+      "summary": "IT之家 9 月 5 日消息，Anthropic 于当地时间 9 月 4 日宣布，其 AI 模型 Claude 在基本自主运行 11 天后，完成了对费马大定理（FLT）的首个端到端、经过计算机检查的形式化证明。Anthropic 表示，这项工作并非重新发现费马大定理的数学证明，而是将已有数学证明转换",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "策略游戏《人类 2》预告片被质疑“AI 生成”：开发商 Amplitude 发布幕后视频，证明由真人团队制作",
+      "link": "https://www.ithome.com/0/998/637.htm",
+      "date": "2026-09-05 07:20",
+      "author": "IT之家",
+      "timestamp": 1788564036.0,
+      "summary": "IT之家 9 月 5 日消息，开发商 Amplitude Studios 在今年 Gamescom 2026 活动中公布了《人类 2（Humankind 2）》首支预告片，不过许多网友认为预告片存在明显的“AI 生成痕迹”，并直接将其称为“AI Slop”。对此，Amplitude Studios",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "影响课堂地图到航海工具：联合国推动淘汰沿用 457 年的墨卡托投影法世界地图",
+      "link": "https://www.ithome.com/0/998/636.htm",
+      "date": "2026-09-05 07:14",
+      "author": "IT之家",
+      "timestamp": 1788563677.0,
+      "summary": "IT之家 9 月 5 日消息，《卫报》昨日（9 月 4 日）发布博文，报道称联合国大会 9 月 4 日在纽约通过决议，建议各国和机构逐步弃用传统墨卡托投影（Mercator projection）地图，转向基于 2018 年 Equal Earth 设计的地图投影。在本次表决中，共有 164 国赞成",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "谷歌 Gemini Spark 新增 Google Photos 照片库管理能力，用户可通过自然语言编辑照片 / 整理相册",
+      "link": "https://www.ithome.com/0/998/635.htm",
+      "date": "2026-09-05 07:14",
+      "author": "IT之家",
+      "timestamp": 1788563659.0,
+      "summary": "IT之家 9 月 5 日消息，谷歌 Google Photos 负责人 Shimrit Ben-Yair 宣布 Gemini Spark 现已支持管理用户 Google Photos 照片库，用户可以直接通过自然语言指令，让 Gemini Spark 执行一系列与照片相关的操作。官方表示，借助这一功",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "长安启源 Q06 新能源 SUV 预售发布 2 小时，累计订单突破 11079 台",
+      "link": "https://www.ithome.com/0/998/634.htm",
+      "date": "2026-09-05 07:08",
+      "author": "IT之家",
+      "timestamp": 1788563290.0,
+      "summary": "IT之家 9 月 5 日消息，长安启源 Q06 新能源 SUV 于昨晚开启预售，抢订价 14.79 万元起，提供纯电、增程车型。参考官方微博，该车预售发布 2 小时，累计订单突破 11079 台。该车车长 4837mm、车宽 1970mm、车高 1670mm，轴距达 2940mm，配备贯穿式微笑大灯",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "谷歌 Chrome 152 版本发布，修复已遭黑客利用的 CVSS 8.8 分高危漏洞 CVE-2026-85046",
+      "link": "https://www.ithome.com/0/998/633.htm",
+      "date": "2026-09-05 07:04",
+      "author": "IT之家",
+      "timestamp": 1788563050.0,
+      "summary": "IT之家 9 月 5 日消息，谷歌现已为旗下 Chrome 浏览器 PC 版及安卓版本推出 152 版本，共修复 12 个安全漏洞，其中 10 个为高风险漏洞、2 个为中风险漏洞。值得注意的是，谷歌指出，其中高风险漏洞 CVE-2026-85046 已经出现遭黑客实际利用的迹象，Windows 和",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "消息称苹果首款折叠屏 iPhone 可能被命名为“iPhone Duo”",
+      "link": "https://www.ithome.com/0/998/632.htm",
+      "date": "2026-09-05 06:59",
+      "author": "IT之家",
+      "timestamp": 1788562779.0,
+      "summary": "IT之家 9 月 5 日消息，据外媒 Mac Rumors 报道，近期有传言称苹果首款折叠 iPhone 可能被命名为“iPhone Duo”，而非先前网传的“iPhone Ultra”或“iPhone Fold”。参考先前彭博社记者 Mark Gurman 披露，虽然苹果内部有不少员工已经将首款苹",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "主打隐私保护：消息称苹果首款 AI 家用安防摄像头瞄准 2027 年发布",
+      "link": "https://www.ithome.com/0/998/631.htm",
+      "date": "2026-09-05 06:58",
+      "author": "IT之家",
+      "timestamp": 1788562713.0,
+      "summary": "IT之家 9 月 5 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（9 月 4 日）发布博文，爆料称苹果公司可能会在 2027 年推出家庭安防系统及配套监控服务。消息称苹果正设计一款家庭安防摄像头，主打隐私保护，不会直接记录和分析实际视频，计划利用 AI（人工智能）监测周围环境。I",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Anthropic IPO 推迟至中期选举前：最早 10 月中旬启动路演，目标估值 2 万亿美元",
+      "link": "https://www.ithome.com/0/998/630.htm",
+      "date": "2026-09-05 06:52",
+      "author": "IT之家",
+      "timestamp": 1788562358.0,
+      "summary": "IT之家 9 月 5 日消息，路透社刚刚报道称，Anthropic 的首次公开募股（IPO）时间表出现调整。据知情人士透露，Anthropic 预计最早于 10 月中旬启动 IPO 路演，并计划在 11 月美国中期选举前数日完成上市。此前市场预期该公司最早于本周公开 IPO 招股书，但目前这一时间点",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay",
+      "link": "https://www.ithome.com/0/998/629.htm",
+      "date": "2026-09-05 06:52",
+      "author": "IT之家",
+      "timestamp": 1788562355.0,
+      "summary": "IT之家 9 月 5 日消息，Anthropic 现已为旗下 Claude iOS 应用加入苹果 CarPlay 支持，Claude 用户现在可以通过汽车的信息娱乐系统与 AI 助手进行语音对话，无需在驾驶过程中操作手机。IT之家注意到，苹果此前已经在 iOS 26.4 中为 CarPlay 加入第",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果加码游戏生态，macOS 26.7 RC 曝光 2 款自研游戏手柄",
+      "link": "https://www.ithome.com/0/998/628.htm",
+      "date": "2026-09-05 06:48",
+      "author": "IT之家",
+      "timestamp": 1788562119.0,
+      "summary": "IT之家 9 月 5 日消息，网友 Pdfu 昨日（9 月 4 日）在 MacRumors 论坛发帖，通过深入挖掘苹果 macOS 26.7 RC 候选版本，发现 T6502 和 T1057 两款硬件代号，指向苹果公司尚未发布的 2 款游戏手柄。IT之家曾于 8 月 18 日援引 MacRumors",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "受台风“沙德尔”影响 福建转移59.93万人",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-05/10690743.shtml",
+      "date": "2026-09-05 06:37",
+      "author": "中新网社会新闻",
+      "timestamp": 1788561426.0,
+      "summary": "记者从福建省防汛抗旱指挥部了解到，应对台风“沙德尔”和持续性强降雨，截至9月4日22时，福建全省累计下沉干部15.43万人次，转移海上、陆上危险区域群众59.93万人。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“以热制冷”的固态冷却系统问世 工业废热与阳光可直接化为冷气",
+      "link": "https://www.cnbeta.com.tw/articles/science/1576508.htm",
+      "date": "2026-09-05 06:29",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788560970.0,
+      "summary": "在全球能源消耗结构中，供暖与制冷需求占据了近一半的能源消耗，且这一需求仍在持续攀升。一个多世纪以来，传统的冰箱、空调以及数据中心散热系统，几乎全依赖电力驱动的压缩机和流动制冷剂来转移热量，而许多传统制冷剂同时也是加剧全球气候变暖的温室气体。如今，来自德国卡尔斯鲁厄理工学院（KIT）与日本筑波大学的研",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "任天堂下周将连开两场直面会 塞尔达40周年专场",
+      "link": "https://www.cnbeta.com.tw/articles/game/1576506.htm",
+      "date": "2026-09-05 06:27",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788560849.0,
+      "summary": "任天堂官方正式宣布，将于下周连续举办两场“任天堂直面会”（Nintendo Direct）线上发布活动。这标志着该公司历史上罕见地在同一周内接连推出两场完整规格的直面会，重点分别放在《塞尔达传说》系列40周年庆典以及最新硬件平台“Nintendo Switch 2”的年内重磅新作。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Google翻译迎来重磅更新：Android端支持后台实时同传 iOS端上线贴耳“听力模式”",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576504.htm",
+      "date": "2026-09-05 06:24",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788560646.0,
+      "summary": "Google近日宣布对其旗下翻译应用“Google翻译”（Google Translate）进行重要功能升级，分别针对 Android 与 iOS 平台推出了更贴合用户实际使用场景的实时翻译改进。本次更新旨在降低跨语言沟通的操作门槛，让用户在跨国出行、涉外交流或日常多任务处理时获得更加自然顺畅的沟通",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "白宫推出“MAGA”主题复古网页游戏引发知识产权侵权质疑",
+      "link": "https://www.cnbeta.com.tw/articles/game/1576502.htm",
+      "date": "2026-09-05 03:49",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788551359.0,
+      "summary": "&nbsp; &nbsp;美国白宫近日正式上线了一个名为“Arcade.gov”的官方游戏页面，推出了五款像素风复古街机游戏。这些游戏将唐纳德·特朗普政府的核心政治主张深度融入游戏机制中，涵盖边境管控、儿童储蓄计划以及“让美国再次健康”（MAHA）等政策议题。然而，新平台在各大社交媒体上引起热议的同",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "美国国家公路交通安全管理局启动对特斯拉Cybercab落地项目的调查",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576500.htm",
+      "date": "2026-09-05 03:24",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788549881.0,
+      "summary": "美国联邦监管机构已对特斯拉及其无方向盘的赛博出租车（Cybercab）启动调查，核查该车型是否符合安全标准。特斯拉推出 Cybercab，这是一款双座金色轿跑，车内没有踏板、没有后视镜。特斯拉周四表示，得克萨斯州奥斯汀的消费者已经可以通过网约车应用呼叫该车型出行。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "2026搞笑诺贝尔奖揭晓 这届赢家们太野了",
+      "link": "https://www.cnbeta.com.tw/articles/funny/1576498.htm",
+      "date": "2026-09-05 03:24",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788549857.0,
+      "summary": "搞笑诺贝尔奖（Ig Nobel），宗旨：先让人发笑，再引人思考。2026 年是该奖项创办 36 周年，首次离开美国波士顿，颁奖典礼落地瑞士苏黎世，一共 10 个奖项，全部是正经发表的学术研究，脑洞离谱，但科学逻辑扎实。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果开启John Ternus时代 史上最庞大产品阵容蓄势待发",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576496.htm",
+      "date": "2026-09-05 03:21",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788549674.0,
+      "summary": "过去15年的大部分时间里，苹果公司一直致力于完善现有产品线，并推出各种服务，以创造更多经常性收入。期间也出现了Apple Watch和AirPods等少数全新设备类别，但苹果并没有源源不断地推出新产品概念。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "DeepSeek据称采购16万颗华为昇腾950DT芯片 英伟达在华市场前景再受质疑",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576494.htm",
+      "date": "2026-09-05 03:20",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788549637.0,
+      "summary": "英伟达在中国人工智能芯片市场的竞争前景，正受到一笔大规模采购消息的冲击。Wccftech援引彭博社报道，DeepSeek据称已向华为订购16万颗昇腾950DT芯片，用于其位于内蒙古的新建1GW数据中心。报道认为，这笔订单进一步凸显了华为在中国本土AI市场的竞争优势，也让英伟达面向中国市场推出的特供产",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "北方华创公布3D DRAM两步刻蚀突破性进展 或助长鑫存储绕过EUV制裁",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576492.htm",
+      "date": "2026-09-05 03:20",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788549603.0,
+      "summary": "随着西方对华半导体设备出口管制的持续收紧，中国半导体行业在难以获取先进制程极紫外（EUV）光刻机的情况下，正将更多研发重心转向通过垂直堆叠突破晶体管密度瓶颈。作为中国本土半导体设备制造领域的领军企业，北方华创（Naura Technology Group）近日在IEEE期刊发表学术论文，宣布在下一代",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "法官裁定禁止X竞品使用“Twitter”名称 但暂准其使用“Tweet”标识与小鸟图标",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576490.htm",
+      "date": "2026-09-05 03:10",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788549007.0,
+      "summary": "美国特拉华州一名联邦地区法官日前针对社交平台X（前身为Twitter）与初创公司Operation Bluebird之间的商标侵权纠纷作出了一项折中裁决。法官发布初步禁令，暂时禁止这家X平台的竞争对手使用“Twitter”名称及相关标识推广其社交服务，但在“Tweet”一词及经典小鸟图标的使用权上，",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "格陵兰岛彼得曼冰川发生十余年来最大规模崩解 面积堪比曼哈顿",
+      "link": "https://www.cnbeta.com.tw/articles/science/1576488.htm",
+      "date": "2026-09-05 03:07",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788548858.0,
+      "summary": "欧洲航天局“哥白尼哨兵-1号”（Sentinel-1）卫星的最新监测数据显示，位于格陵兰岛西北部的彼得曼冰川（Petermann Glacier）于8月4日发生剧烈崩解，一块面积达76平方公里、厚度接近150米的巨型冰架断裂脱落，并作为一座自由漂浮的平顶冰山（亦称“冰岛”）漂入北冰洋。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "打破常规配色预期：消息称苹果首款折叠屏iPhone Ultra仅推两款首发配色",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576486.htm",
+      "date": "2026-09-05 03:05",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788548712.0,
+      "summary": "备受外界瞩目的苹果公司首款折叠屏机型“iPhone Ultra”再次传来最新爆料。以往业界普遍预期首款折叠旗舰会沿用经典的黑、白或深灰等保守色调，但来自供应链配件层面的最新爆料却打破了外界的常规猜想。消息显示，这款开辟全新产品线的重磅设备在首发时预计仅提供两款配色方案，且最终选色与大众预想大相径庭。",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "沃达丰意外曝光苹果新品售价：iPhone 18 Pro系列温和上涨 折叠屏iPhone Ultra身价不菲",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1576484.htm",
+      "date": "2026-09-05 02:57",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788548220.0,
+      "summary": "随着苹果秋季新品发布会的临近，外界最为关注的焦点逐渐转向了新款机型的定价区间。近日，知名跨国电信运营商沃达丰（Vodafone）部分海外分支机构意外泄露了苹果即将推出的多款旗舰机型价格，其中包括备受关注的常规迭代旗舰 iPhone 18 Pro、iPhone 18 Pro Max，以及苹果首款折叠屏",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "南极冰盖两年激增近七千亿吨冰体 科学家揭秘热带气候“遥控”机制",
+      "link": "https://www.cnbeta.com.tw/articles/science/1576482.htm",
+      "date": "2026-09-05 02:54",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1788548082.0,
+      "summary": "在过去二十年里，南极冰盖一直以年均约1405亿吨的速度持续融化流失，是未来全球海平面上升的主要不确定性因素之一。然而，最新的卫星观测数据却揭示了一个出人意料的转折：在2021年至2023年的短短两年间，南极冰盖质量净增长约6950亿吨，创下了GRACE重力卫星有记录以来的最大增幅。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
     {
       "title": "记者手记：吉隆口岸的迷彩守护",
       "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690740.shtml",
@@ -18,16 +318,6 @@
       "author": "cnBeta.COM.TW RSS订阅",
       "timestamp": 1788534993.0,
       "summary": "在智能手机、流媒体和算法推荐主导音乐消费多年的背景下，一度被认为已经走向衰落的CD唱片正出现出人意料的复兴迹象。美国唱片业协会（RIAA）最新发布的数据显示，2026年上半年，美国CD市场实现显著增长，成为近年来实体音乐市场最引人关注的现象之一。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果被曝正酝酿自iPhone X以来最大变革",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576478.htm",
-      "date": "2026-09-04 23:16",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788534961.0,
-      "summary": "作为iPhone诞生二十周年的纪念之作，苹果计划在2027年秋季推出被称为“iPhone 20”的全新旗舰机型。供应链及行业最新消息显示，该设备将迎来苹果自2017年推出十周年纪念款iPhone X以来最激进、最重大的外观与架构重构，其产品地位与颠覆程度有望全面复制当年的里程碑时刻，并重新确立未来数",
       "source_url": "https://www.cnbeta.com.tw",
       "category": "Blog"
     },
@@ -70,36 +360,6 @@
       "summary": "中新社福建莆田9月4日电 题：直击福建莆田抢险：救援清淤不松懈  安置保障暖民心",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "特朗普要求美联储大幅降息 否则将终止与对美贸易顺差国的贸易往来",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576476.htm",
-      "date": "2026-09-04 22:55",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788533740.0,
-      "summary": "美国总统特朗普周五向美联储施压，要求其大幅降息；并放出狠话，如果不降息，就终止与那些美国对其存在贸易逆差国家的贸易。针对这份远超市场预期的月度就业报告，特朗普在 Truth Social 上发布这条措辞强硬的最后通牒，敦促美联储与主席凯文・沃什 “认清现实”，下调利率。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "Gemini Spark新增Google Photos管理能力 可通过指令编辑照片、整理相册",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576474.htm",
-      "date": "2026-09-04 22:53",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788533628.0,
-      "summary": "Google正在进一步扩大人工智能与旗下服务的整合范围。9月4日，Google宣布其个人智能代理Gemini Spark现已能够管理Google Photos照片库。用户可以通过自然语言指令，让Spark执行照片编辑、相册整理、创建共享相册等任务，甚至将演唱会海报照片转换为日历预约。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "保护壳厂商提前曝光外形细节 折叠版iPhone真机或将长这样",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576472.htm",
-      "date": "2026-09-04 22:51",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788533463.0,
-      "summary": "苹果首款折叠iPhone的传闻持续升温，保护壳厂商制作的工程模型也让外界有机会提前了解这款产品的外形。近日，AppleInsider拿到了据称对应iPhone 18 Pro、iPhone 18 Pro Max以及折叠版iPhone的模型，并通过实物对比，展示了这些新机可能采用的尺寸、按键布局和摄像头",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "中国首个科学玩具团体标准发布",
@@ -190,116 +450,6 @@
       "summary": "中新网西藏吉隆9月4日电 (记者 赵朗 江飞波)记者4日从西藏吉隆县“8·26”泥石流灾害前方指挥部获悉，灾害发生以来，多部门集中优势技术力量及装备，持续在灾区开展监测预警作业。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "国家一级保护动物黑鹳亚成体在天津蓟州获救",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690687.shtml",
-      "date": "2026-09-04 22:11",
-      "author": "中新网社会新闻",
-      "timestamp": 1788531100.0,
-      "summary": "中新网天津9月4日电 (孙翼飞)4日，记者从天津市蓟州区获悉，该区林业局湿地野保站于当日在礼明庄镇周各庄村成功救护一只国家一级重点保护动物黑鹳亚成体。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "消息称扎克伯格与特朗普通话 反对建立全国AI监管机构",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576470.htm",
-      "date": "2026-09-04 21:51",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788529883.0,
-      "summary": "据《商业内幕》报道，Meta CEO马克·扎克伯格(Mark Zuckerberg)上个月在一次此前未被报道的电话中，向美国总统特朗普表达了对建立全国性AI监管机构计划的担忧。此举标志着这位全球顶尖科技企业高管参与到了一场充满争议的白宫AI政策辩论中。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "百度宣布将于9月7日纳入“沪港通” 内地股民可购买",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576468.htm",
-      "date": "2026-09-04 21:50",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788529828.0,
-      "summary": "百度集团在香港联交所发布公告称，据上海证券交易所当日发布的通知，百度A类普通股已获纳入沪港通下港股通标的证券，2026年9月7日生效。今日，百度港股盘中一度涨超5.68%，成为恒生科技指数涨幅居前的个股之一。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "推进系统突发氧化剂泄漏 NASA与SpaceX推迟下一批宇航员发射任务",
-      "link": "https://www.cnbeta.com.tw/articles/science/1576466.htm",
-      "date": "2026-09-04 21:37",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788529078.0,
-      "summary": "美国国家航空航天局（NASA）与太空探索技术公司（SpaceX）联合宣布，由于在发射前准备过程中发现“龙”飞船（Dragon）推进系统存在氧化剂泄漏问题，原定飞往国际空间站的“Crew-13”载人航天发射任务将被推迟。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "英国军方测试脚踏式动力滑翔伞 探索隐蔽投送部队的新方式",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576464.htm",
-      "date": "2026-09-04 21:12",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788527576.0,
-      "summary": "英国国防部正在研究一种不同寻常的部队投送方式，计划投入600万英镑（约合810万美元），评估脚踏式动力滑翔伞用于侦察和部队渗透的可行性。这项研究由英国国防创新部门、英国初创企业Blakcro与国防部合作开展，目标是让士兵能够在不依赖传统运输机和跑道的情况下，进入敌后执行任务。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "纽约市公立学校暂禁学生使用生成式AI 覆盖幼儿园至八年级",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576462.htm",
-      "date": "2026-09-04 20:30",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788525024.0,
-      "summary": "纽约市教育部门宣布，2026—2027学年将在公立学校实施为期一年的生成式AI使用限制，禁止学前教育至八年级学生使用面向学生的生成式AI工具。作为美国规模最大的公立学校系统之一，纽约市希望借此减少课堂对生成式AI的依赖，鼓励学生培养独立思考、解决问题和质疑信息的能力。这项措施并非永久禁令，也不是全州",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "RDNA 5显卡或拥有更高的核心频率 AMD计划最高提升至3.4GHz",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576460.htm",
-      "date": "2026-09-04 20:04",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788523468.0,
-      "summary": "去年末有报道称，AMD下一代GPU已经完成了设计，采用台积电（TSMC）N3P工艺制造，已经流片。传闻原计划会在COMPUTEX 2027亮相，不过随着过去一年DRAM供应危机加剧，传出AMD将延后下一代RDNA 5架构产品的发布，有可能推迟到2027年末，甚至2028年初，与英伟达下一代GPU的发",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "人人影视正式回归 正版片源终身VIP 888元",
-      "link": "https://www.cnbeta.com.tw/articles/movie/1576458.htm",
-      "date": "2026-09-04 19:23",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788520994.0,
-      "summary": "日前，多位网友在社交平台发帖称，收到人人影视向老用户发送的“欢迎老用户回归”邮件。邮件中写道：“我们终于可以在App见面了”，同时还向老用户赠送1个月会员。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "印度首颗地球同步成像卫星EOS-05发射成功",
-      "link": "https://www.cnbeta.com.tw/articles/science/1576456.htm",
-      "date": "2026-09-04 19:21",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788520898.0,
-      "summary": "今日，印度太空研究组织（ISRO）宣布，成功利用GSLV-F17火箭发射了EOS-05地球观测卫星。这是印度首颗专为在地球同步轨道运行的成像卫星，目前已进入预定轨道。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "OpenAI智能体被曝“接管”德国维基网站 自主交流、规避限制行为引发安全担忧",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576454.htm",
-      "date": "2026-09-04 19:20",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788520801.0,
-      "summary": "一项最新曝光的人工智能安全事件正在引发业内广泛关注。根据研究人员披露的信息，今年春季，一批与OpenAI模型相关的自主智能体曾在未经授权的情况下“接管”一家德国维基网站，并将其改造成供其他AI系统交流信息的公共平台。这一事件此前从未对外公开，而OpenAI据称已在数周前获悉相关情况。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "美国军方关闭部分设备广告追踪功能 担忧商业位置数据被用于锁定中东美军",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1576452.htm",
-      "date": "2026-09-04 19:18",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1788520705.0,
-      "summary": "美国军方近期关闭了部分设备上的广告追踪功能。此前，美军官员报告称，敌对势力可能利用商业位置数据锁定或监视部署在中东的美国人员。这一举措凸显出，原本用于数字广告的个人位置数据，正逐渐成为战场上的安全风险。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "Cloudflare D1开始强制执行免费额度：超额后数据库查询直接失败 次日0点恢复",
