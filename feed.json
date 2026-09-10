@@ -1,205 +1,335 @@
 {
-  "update_time": "2026-09-10",
+  "update_time": "2026-09-11",
   "articles": [
     {
-      "title": "第二届知识产权执法国际交流大会发布2025年—2026年中国知识产权行政执法十大案例",
+      "title": "200 → 400 元：苹果调整 42mm/46mm 规格 Apple Watch Series 12 差价",
+      "link": "https://www.ithome.com/1/001/073.htm",
+      "date": "2026-09-11 07:33",
+      "author": "IT之家",
+      "timestamp": 1789083191.0,
+      "summary": "IT之家 9 月 11 日消息，科技媒体 MacRumors 昨日（9 月 10 日）发布博文，报道称苹果美国商店调整 Apple Watch Series 12 智能手表定价，进一步拉开 42mm 和 46mm 规格之间的差价。消息源指出 42mm 表壳的 Apple Watch Series 1",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "OpenAI Agents API 开放公测：支持代码执行、工具调用和跨上下文任务运行，为开发者提供云端智能体基础设施",
+      "link": "https://www.ithome.com/1/001/072.htm",
+      "date": "2026-09-11 07:31",
+      "author": "IT之家",
+      "timestamp": 1789083081.0,
+      "summary": "IT之家 9 月 11 日消息，OpenAI 于当地时间 9 月 10 日宣布推出 Agents API 公测版，允许开发者通过 API 调用由 OpenAI 管理的云端 AI 智能体运行环境。该服务复用了 Codex 背后的智能体执行框架和基础设施，开发者可以指定任务、模型、工具及运行环境，打造能",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "OPPO A7 Pro 手机首销：8000mAh 电池、IP69K 认证，2199 元起",
+      "link": "https://www.ithome.com/1/001/071.htm",
+      "date": "2026-09-11 07:29",
+      "author": "IT之家",
+      "timestamp": 1789082975.0,
+      "summary": "IT之家 9 月 11 日消息，OPPO A7 Pro 手机现已在京东上架并开启首销，该产品主打 8000mAh 电池、IP69K 认证，定价为 2199 元起，IT之家整理价格如下：6GB RAM + 256GB 存储空间：2199 元8GB RAM + 256GB 存储空间：2499 元该机厚度",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "办公协作平台 Slack 升级 Slackbot AI 助手，可快速创建交互式报告 / 网站等内容",
+      "link": "https://www.ithome.com/1/001/070.htm",
+      "date": "2026-09-11 07:22",
+      "author": "IT之家",
+      "timestamp": 1789082525.0,
+      "summary": "IT之家 9 月 11 日消息，办公协作平台 Slack 发布公告，宣布为旗下 Slackbot AI 助手引入一项 Slackforce Surfaces 功能，用户只需告诉 Slackbot AI 助手自己的需求，即可利用自己先前的对话记录以及连接的 App 创建交互式报告、投票、仪表盘、演示文",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "GPT-6 Astra 需求空前：OpenAI 宣布暂停 200 美元 Pro 20X 新增订阅，已订用户及 API 不受影响",
+      "link": "https://www.ithome.com/1/001/069.htm",
+      "date": "2026-09-11 07:21",
+      "author": "IT之家",
+      "timestamp": 1789082468.0,
+      "summary": "IT之家 9 月 11 日消息，OpenAI 首席产品官 Tibo（@thsottiaux）今早在 X 上发文称，为确保现有用户获得良好体验并流畅访问 GPT-6 Astra，将暂停接受 200 美元档 Pro 20X 订阅服务的新增订阅。截至IT之家发稿，200 美元（现汇率约合 1,345 元人",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "SK 海力士目标 2028 年将 High NA EUV 技术用于 DRAM 内存量产",
+      "link": "https://www.ithome.com/1/001/068.htm",
+      "date": "2026-09-11 07:19",
+      "author": "IT之家",
+      "timestamp": 1789082393.0,
+      "summary": "IT之家 9 月 11 日消息，参考路透社此前报道，SK 海力士在一份声明中表示，该企业目标在 2028 年将 High NA（高数值孔径）EUV 光刻图案化工艺应用于 DRAM 的大规模生产。ASML 在当地时间本月 8 日宣布与台积电、三星电子、英特尔合作，推动 High NA EUV 生态系统",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 iOS 27 升级 Apple TV Remote 应用，2 项隐藏功能曝光",
+      "link": "https://www.ithome.com/1/001/067.htm",
+      "date": "2026-09-11 07:17",
+      "author": "IT之家",
+      "timestamp": 1789082235.0,
+      "summary": "IT之家 9 月 11 日消息，消息源 @itspdfu 昨日（9 月 10 日）在 X 平台发布推文，通过挖掘 iOS 27 RC 候选版本，发现苹果更新 Apple TV Remote 应用程序，引入 2 项隐藏功能。IT之家翻译推文内容如下：Apple TV Remote 应用变得更加实用。i",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "三星 Galaxy SmartTag 3 智能追踪器价格曝光：单只 29.99 美元、四只装 99.99 美元",
+      "link": "https://www.ithome.com/1/001/066.htm",
+      "date": "2026-09-11 07:15",
+      "author": "IT之家",
+      "timestamp": 1789082133.0,
+      "summary": "IT之家 9 月 11 日消息，据外媒 sammyguru 报道，三星 Galaxy SmartTag 3 智能追踪器现已现身电商平台 MyVoiceComm 数据库，其中黑色版型号为 EI-T5900BBEGUS，白色版型号为 EI-T5900BWEGUS；黑白四色装型号则为 EI-T5900KW",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Doogee 推出 Anymoving M1 Pro 户外智能手表：支持离线路线导航、轨迹返航等功能，219 美元",
+      "link": "https://www.ithome.com/1/001/065.htm",
+      "date": "2026-09-11 07:11",
+      "author": "IT之家",
+      "timestamp": 1789081911.0,
+      "summary": "IT之家 9 月 11 日消息，制造商 Doogee 宣布推出 Anymoving M1 Pro 户外智能手表，主打户外探索与日常运动健康追踪，主打离线路线导航、Track Back 轨迹返航以及双频 GPS 定位，并提供基于 AI 的运动数据分析功能，售价为 219 美元（IT之家注：现汇率约合",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "OpenAI 推出金融服务版 ChatGPT：集成 GPT-6 Astra 内置金融数据与细粒度引用，支持估值模型与研究报告",
+      "link": "https://www.ithome.com/1/001/063.htm",
+      "date": "2026-09-11 07:10",
+      "author": "IT之家",
+      "timestamp": 1789081835.0,
+      "summary": "IT之家 9 月 11 日消息，OpenAI 于当地时间 9 月 10 日宣布推出 ChatGPT for Financial Services。这是一款面向金融服务团队的定制化 ChatGPT 服务，结合内置金融数据与 GPT-6 Astra 推理能力，旨在帮助金融团队开展研究、财务建模并制作定制",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果 iOS 27 线索：iPhone 18 Pro 等用视觉智能购物查询，将显示推广内容",
+      "link": "https://www.ithome.com/1/001/062.htm",
+      "date": "2026-09-11 07:07",
+      "author": "IT之家",
+      "timestamp": 1789081677.0,
+      "summary": "IT之家 9 月 11 日消息，科技媒体 MacRumors 昨日（9 月 10 日）发布博文，报道称基于挖掘的 iOS 27 代码信息，苹果可能计划在 Visual Intelligence（视觉智能）内引入赞助结果。根据披露的代码信息，iOS 27 视觉智能将引入新机制，并非直接出售功能内的广告",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "博通停止公开提供 VMware VDDK 开发工具库下载，要求 IT 管理员联系官方技术联盟合作伙伴获取服务",
+      "link": "https://www.ithome.com/1/001/061.htm",
+      "date": "2026-09-11 07:07",
+      "author": "IT之家",
+      "timestamp": 1789081654.0,
+      "summary": "IT之家 9 月 11 日消息，据外媒 Borncity 报道，Broadcom（博通）近期已经停止公开提供 VMware Virtual Disk Development Kit（VDDK）开发工具库下载服务。相应工具库主要允许第三方软件在虚拟机管理程序之外读取 VMware 虚拟磁盘，因此被广泛",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Sensor Tower：《GTA6》预购销量破 500 万份，PS5 平台占 77% 份额",
+      "link": "https://www.ithome.com/1/001/060.htm",
+      "date": "2026-09-11 06:57",
+      "author": "IT之家",
+      "timestamp": 1789081053.0,
+      "summary": "IT之家 9 月 11 日消息，市场分析机构 Sensor Tower 最新公布的统计数据显示，《GTA 6》全球累计预购量已达 528 万份，对应预估营收 5.16 亿美元（现汇率约合 34.7 亿元人民币）。仅过去一周，该作便新增了 35 万份预购。PlayStation 平台贡献约 406 万",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "谷歌为 Win10/11 推出 Gemini 独立客户端，支持“Alt + Space”快捷键快捷唤起",
+      "link": "https://www.ithome.com/1/001/059.htm",
+      "date": "2026-09-11 06:57",
+      "author": "IT之家",
+      "timestamp": 1789081047.0,
+      "summary": "IT之家 9 月 11 日消息，谷歌现已正式推出 Windows 版 Gemini 独立客户端，支持 Windows10/11 系统，用户在安装应用后即可通过“Alt + Space”快捷键在任何界面快速唤起 Gemini，相应快捷键支持自定义修改。相应应用主界面设计简洁，中间提供提示词输入框、模型",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "中国在远离大城市的地方构建AI未来",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577402.htm",
+      "date": "2026-09-11 06:57",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789081036.0,
+      "summary": "彭博社9月8日报道，原题：中国正在远离大城市的地方构建AI未来 &nbsp;乌兰察布位于草原之上，看起来不太像典型的科技中心城市。但这座位于中国内蒙古自治区的城市，已置身于中国将算力从拥挤的东部大城市迁往西部地区的行动最前线，因为西部地区拥有广阔空间和低价绿色能源。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Astra需求激增，OpenAI暂停Pro新用户订阅",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577400.htm",
+      "date": "2026-09-11 06:55",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789080957.0,
+      "summary": "据TechCrunch报道，由于新模型Astra带来的需求超出预期，OpenAI已暂停月费200美元的Pro套餐新用户订阅，以缓解基础设施压力。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "曝《GTA6》预购销量破500万份 PS5平台占77%份额",
+      "link": "https://www.cnbeta.com.tw/articles/game/1577398.htm",
+      "date": "2026-09-11 06:55",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789080950.0,
+      "summary": "近日市场分析机构Sensor Tower更新预估统计，距离11月19日发售还有两个多月，《GTA6》全球预估预购总量达528万份，对应预估营收5.16亿美元。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "《塞尔达传说：时之笛》重制版与原版对比 画面全面进化",
+      "link": "https://www.cnbeta.com.tw/articles/game/1577396.htm",
+      "date": "2026-09-11 06:55",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789080938.0,
+      "summary": "之前任天堂公布Switch2独占作品《塞尔达传说：时之笛 重制版》实机演示，并宣布游戏将于2026年11月5日发售。之后游戏博主ElAnalistaDeBits发布视频，将重制版与原版画面进行了对比，迅速引发玩家热烈讨论。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "美国防部高官驳斥AI“末日论” 称担忧源于对变革的恐惧",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577394.htm",
+      "date": "2026-09-11 06:53",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789080830.0,
+      "summary": "美国国防部高官近日公开驳斥AI可能毁灭人类的“末日论”，认为相关担忧源于对变革的恐惧，并重申Anthropic仍属国防部认定的供应链风险。据媒体当地时间9月10日报道，美国国防部首席技术官、负责研究与工程的副部长Emil Michael当天公开回应近期不断升温的AI风险担忧。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "网传限制员工如厕说法不实 涉事公司致歉：事件已妥善解决",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577392.htm",
+      "date": "2026-09-11 06:53",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789080790.0,
+      "summary": "日前，一条视频在社交平台热传，网传聊天截图称某电池大厂宜宾基地一名班长不让普工上厕所，导致员工失禁后情绪失控，在车间裸奔并拿粪便扔向班长。据财闻报道，宁德时代有关负责人对此向其回应称是恶意造谣，视频中并非宁德时代，公司已报警请警方调查。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "“算法向善”照进现实，骑手跑单更加从容",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-11/10694367.shtml",
+      "date": "2026-09-11 06:34",
+      "author": "中新网社会新闻",
+      "timestamp": 1789079656.0,
+      "summary": "优化派单机制、增设红灯补时、合理设定配送时间……",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "AI客服，如何更好服务消费者",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-11/10694366.shtml",
+      "date": "2026-09-11 06:31",
+      "author": "中新网社会新闻",
+      "timestamp": 1789079469.0,
+      "summary": "9月起，国家标准为人工与智能客服协同划定清晰边界",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "挪威研究人员用40分钟“欺骗”直升机GPS 测试显示卫星导航可能被悄悄引向错误位置",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577390.htm",
+      "date": "2026-09-11 06:21",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789078899.0,
+      "summary": "挪威研究人员在一次公开的卫星导航系统测试中，用了大约40分钟逐步增强伪造信号，最终让一架正在真实飞行的救援直升机的GPS系统“相信”自己正在飞向挪威海。与此同时，另一架小型飞机的卫星导航轨迹也被篡改，显示出飞机正在进行现实中根本不可能完成的急转弯。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "加州正式签署系列严苛新法 限制AI聊天机器人并强化未成年人网络保护",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577388.htm",
+      "date": "2026-09-11 06:20",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789078844.0,
+      "summary": "面对生成式人工智能对未成年人心理健康的潜在冲击与沉迷风险，美国加利福尼亚州州长加文·纽森（Gavin Newsom）正式签署了一组开创性的网络与AI安全法案。该揽子法规在全美范围内率先对向未成年人提供服务的AI聊天机器人设定了严格的功能红线，同时全面升级了针对社交平台算法诱导与数据收集的法定问责机制",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "台积电据报加速1.4纳米量产进程 最早2027年4月启动试产",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577386.htm",
+      "date": "2026-09-11 06:17",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789078655.0,
+      "summary": "台积电下一代1.4纳米制程的推进速度可能再次超出市场预期。根据台湾媒体最新报道，台积电位于台中的1.4纳米晶圆厂有望在2027年4月启动试产，并在2027年下半年进入量产阶段。如果这一时间表最终实现，将比台积电此前公布的2028年量产计划提前约一年，也意味着全球最先进逻辑制程的竞争将进一步加速。 阅",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "民间Mod成功让英伟达RTX 20系Turing显卡运行原生DLSS帧生成",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577384.htm",
+      "date": "2026-09-11 06:16",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789078616.0,
+      "summary": "继早前技术社区成功将DLSS技术移植到前代显卡之后，全球PC硬件与游戏Mod圈再度迎来重大突破，有民间开发者成功攻破了英伟达官方对DLSS帧生成（Frame Generation）技术的硬件代际封锁，首次让基于“图灵”（Turing）微架构的GeForce RTX 20系列显卡直接运行起英伟达自家的",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "科学家通过超级计算机模拟揭示远古巨型天体撞击重塑月幔演化机制",
+      "link": "https://www.cnbeta.com.tw/articles/science/1577382.htm",
+      "date": "2026-09-11 06:15",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789078511.0,
+      "summary": "长期以来，月球正面与背面在地形地貌、地壳厚度以及化学成分上表现出的极度不对称性，始终是行星科学领域最引人注目的核心未解之谜之一。由国际行星科学家联合团队开展的一项最新数值模拟研究，为这一世纪谜团提供了极具说服力的原理解释：发表在权威天文学期刊上的成果显示，在月球演化早期，一颗巨大的矮行星级别天体猛烈",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Google正式推出面向Windows平台的Gemini原生桌面应用程序",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577380.htm",
+      "date": "2026-09-11 06:13",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789078430.0,
+      "summary": "Google公司正式宣布向全球Windows操作系统用户推出Gemini人工智能助手的原生桌面客户端应用程序。这一长期受PC用户期待的举措，标志着Google不再将Gemini的桌面访问体验局限于网页浏览器标签页之内，而是选择直接切入全球最大的桌面计算操作系统底层生态，正面迎战已深度植入Window",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "欧盟合规文件显示苹果iPhone 18 Pro可维修性评分略高于前代",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577378.htm",
+      "date": "2026-09-11 06:11",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789078300.0,
+      "summary": "根据苹果公司依据欧盟能效与产品环保标签法规向监管机构提交的最新产品信息文件，最新发布的iPhone 18 Pro与iPhone 18 Pro Max在综合可维修性评级上取得了小幅提升，整体维修难度略低于上一代iPhone 17 Pro系列机型。两款新机在欧盟强制推行的A至E级能效与维修标签体系中，最",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "监管认证文件曝光苹果iPhone 18 Pro与Pro Max确切电池容量数据",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577376.htm",
+      "date": "2026-09-11 06:09",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789078160.0,
+      "summary": "伴随秋季新品发布会落幕，苹果公司最新一代旗舰智能手机iPhone 18 Pro与iPhone 18 Pro Max的电池硬件细节通过监管合规认证文件全面公之于众。由于苹果历来不在公开的主旨演讲与官方技术规格页中直接标注以毫安时（mAh）为单位的额定电量数值，而是习惯用“连续视频播放时长”等使用场景进",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "微软推进数据中心扩张 计划将算力扩大两倍",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1577374.htm",
+      "date": "2026-09-11 06:05",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1789077920.0,
+      "summary": "微软计划将数据中心容量扩大逾两倍，此举有望帮助该公司缓解算力短缺问题。此前，由于算力不足，微软不得不拒接部分人工智能（AI）和云服务业务。了解相关计划的知情人士称，到2032年，微软遍布全球的数据中心网络容量将超过38吉瓦，高于目前约12吉瓦的水平。届时，其容量将超过纽约州用电高峰时的电力需求。 阅",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "2025-2026年中国知识产权行政执法十大案例发布",
       "link": "https://www.chinanews.com.cn/sh/2026/09-10/10694358.shtml",
       "date": "2026-09-10 23:29",
       "author": "中新网社会新闻",
       "timestamp": 1789054183.0,
-      "summary": "一、天津市市场监管委查处倪某倩销售侵犯“HAZZYS”“HUSH PUPPIES”注册商标专用权的服装案",
+      "summary": "第二届知识产权执法国际交流大会发布2025年—2026年中国知识产权行政执法十大案例",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
     {
-      "title": "智谱启动杭州全城 Coding 计划，个人用户购季卡减免 44%、年卡减免 51%",
-      "link": "https://www.ithome.com/1/001/042.htm",
-      "date": "2026-09-10 23:29",
-      "author": "IT之家",
-      "timestamp": 1789054143.0,
-      "summary": "IT之家 9 月 10 日消息，智谱今天（10 日）通过 Bigmodel 开放平台宣布启动“智谱 · 杭州全城 Coding 计划”，该计划是智谱联合杭州市、上城区推出的城市级 AI 编程普惠行动，全国首创城区级 AI 模型调用支持。该计划旨在降低人工智能编程工具使用门槛，支持创业者、开发者、企业",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果推出全新腕带配件：iPhone 18 Pro 系列同款配色，229 元",
-      "link": "https://www.ithome.com/1/001/041.htm",
-      "date": "2026-09-10 23:28",
-      "author": "IT之家",
-      "timestamp": 1789054139.0,
-      "summary": "IT之家 9 月 10 日消息，苹果现已在官网上架新款腕带配件。这款产品采用 iPhone 18 Pro 系列同款配色，定价 229 元。IT之家从苹果官网了解到，这款腕带长度 391 毫米，拥有勃艮第酒红色、清透蓝色、黑色、橄榄色、浅褐色、洋红色六种配色可选，专为搭配特定 Apple iPhone",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "高通全球副总裁夏权：个人 AI 时代，每个人都拥有自己的智能体",
-      "link": "https://www.ithome.com/1/001/040.htm",
-      "date": "2026-09-10 23:22",
-      "author": "IT之家",
-      "timestamp": 1789053736.0,
-      "summary": "IT之家 9 月 10 日消息，据新浪科技今日消息，高通公司全球副总裁夏权在 2026 服贸会表示，随着 AI 能力不断提升，人机交互正在发生新的变化。过去人类需要依靠应用完成工作，未来人们将越来越多地与智能体协同工作。夏权指出，真正有用的个人 AI，不仅要理解用户需求，还要能够实时响应，并在不同设",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "看似不可能的黑洞合并，或许只是时空扭曲带来的宇宙错觉",
-      "link": "https://www.ithome.com/1/001/039.htm",
-      "date": "2026-09-10 23:13",
-      "author": "IT之家",
-      "timestamp": 1789053198.0,
-      "summary": "IT之家 9 月 10 日消息，一项新研究提出，两个超大质量黑洞之间那场看似“不可能发生”的并合事件，或许并没有原先认为的那么违背物理规律。研究认为，参与并合的黑洞实际质量比此前测算的更小。2023 年 11 月 23 日，激光干涉引力波天文台（LIGO）探测到时空泛起的微弱涟漪，信号来自一次黑洞并",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "宝马回应新世代 BMW iX3 是否有哨兵模式：提供“停车碰撞记录”功能",
-      "link": "https://www.ithome.com/1/001/037.htm",
-      "date": "2026-09-10 23:10",
-      "author": "IT之家",
-      "timestamp": 1789053015.0,
-      "summary": "IT之家 9 月 10 日消息，宝马中国今日发布新世代 BMW iX3 答网友问第四期，回答了关于是否有哨兵模式等问题。据介绍，宝马提供类似的驻车安全功能，官方名称为停车碰撞记录。当车辆处于停车并上锁状态时，如果检测到碰撞事件，车辆会自动记录碰撞发生时周围环境的视频，并通过 MyBMW App 向车",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "60 天 → 30 天，谷歌相册回收站彻底删除时间调整",
-      "link": "https://www.ithome.com/1/001/036.htm",
-      "date": "2026-09-10 23:08",
-      "author": "IT之家",
-      "timestamp": 1789052903.0,
-      "summary": "IT之家 9 月 10 日消息，据科技媒体 9To5Google 前天报道，谷歌现已调整 Google Photos 相册应用的回收站彻底删除时间调整为 30 天。作为参考，该相册此前的彻底删除时间一直是 60 天。据报道，这项变化从 9 月 4 日起逐步向全球用户推送。谷歌已经在官方支持网页中说明",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "沃尔沃在美推出 2028 款 XC40：外观内饰焕新，纯电 EX40 当地停售",
-      "link": "https://www.ithome.com/1/001/035.htm",
-      "date": "2026-09-10 23:05",
-      "author": "IT之家",
-      "timestamp": 1789052758.0,
-      "summary": "IT之家 9 月 10 日消息，沃尔沃今天（10 日）宣布，将在美国停售入门级纯电车型 EX40，并为上市多年的混动 SUV XC40 带来改款车型。2028 款 XC40 将于明年初抵达经销商，外观焕新，内饰全面改造。谷歌 Gemini AI 助手、更大的中控屏，以及采用新传感器和软件的安全系统都",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取",
-      "link": "https://www.ithome.com/1/001/034.htm",
-      "date": "2026-09-10 23:05",
-      "author": "IT之家",
-      "timestamp": 1789052726.0,
-      "summary": "IT之家 9 月 10 日消息，Epic 本周送出的游戏是《天空奇兵》《星界战士》，下周送出的游戏是《心灵警探》《Shogun Showdown》。领取链接：《天空奇兵》 、《星界战士》IT之家附《天空奇兵》游戏简介：在 Vlambeer 风格独特的街机射击游戏《天空奇兵》中，天空将被点燃，海洋将被",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "全新一汽红旗 H7 将于 9 月 16 日上市，限时置换价 16.18 万元-20.18 万元",
-      "link": "https://www.ithome.com/1/001/033.htm",
-      "date": "2026-09-10 22:50",
-      "author": "IT之家",
-      "timestamp": 1789051850.0,
-      "summary": "IT之家 9 月 10 日消息，据易车今天报道，全新一汽红旗 H7 将于 9 月 16 日上市，新车拥有 180 智混版、240 智混版以及 210 四驱智混版，限时置换价 16.18 万元-20.18 万元。IT之家了解到，红旗 H7 已于上个月预售发布，该车尺寸为 5060×1910×1480m",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "OpenAI模型对美政府涨价：1美元年费试点结束 改为半价优惠",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577350.htm",
-      "date": "2026-09-10 22:50",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789051843.0,
-      "summary": "据彭博社报道，美国总务管理局(GSA)的一份声明显示，OpenAI将终止一项允许政府机构仅以每年1美元使用其模型的试点计划，并转向基于使用量的定价体系。美国联邦政府工作人员可以按标准价格的五折使用OpenAI的技术。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "SpaceX重整AI数据中心建设：补强供电和冷却冗余 扩张速度或放缓",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577348.htm",
-      "date": "2026-09-10 22:50",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789051819.0,
-      "summary": "SpaceX正在调整旗下AI数据中心的建设方式，将供电、冷却系统的可靠性和投运前测试置于更优先位置。新方案可能延长数据中心的建设周期，反映公司在xAI并入后开始修正此前以速度和算力为核心的扩张模式。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "iPhone Duo面临两大难题：小手掌用户受限 市场期待下一代机型",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577346.htm",
-      "date": "2026-09-10 22:49",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789051773.0,
-      "summary": "手掌偏小，或将拖累苹果这款新机型的销量。杰富瑞分析师李裕泰（Edison Lee）在周四研报中警示：“这款机型外观设计新潮，但尺寸未必符合消费者需求。单手握持、操控屏幕的难度大幅上升，手掌偏小的用户体验尤其糟糕。” 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "美众议员呼吁 NHTSA 调查特斯拉：有司机故意开着辅助驾驶睡觉",
-      "link": "https://www.ithome.com/1/001/031.htm",
-      "date": "2026-09-10 22:45",
-      "author": "IT之家",
-      "timestamp": 1789051534.0,
-      "summary": "IT之家 9 月 10 日消息，据美国 CNBC 今天（10 日）上午报道，针对特斯拉驾驶员在车辆行驶时故意睡觉的行为，美国伊利诺伊州民主党籍众议员拉贾 · 克里希纳穆尔蒂当地时间 9 日呼吁政府展开调查。克里希纳穆尔蒂致信美国交通部长肖恩 · 达菲，表达了对这一现象的安全担忧：部分驾驶员对辅助驾驶",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果 iPhone Duo 折叠屏手机主摄规格曝光，与 iPhone 17e 相近",
-      "link": "https://www.ithome.com/1/001/023.htm",
-      "date": "2026-09-10 22:33",
-      "author": "IT之家",
-      "timestamp": 1789050781.0,
-      "summary": "IT之家 9 月 10 日消息，据科技媒体 MacRumors 今天报道，苹果官方公布的技术规格显示，iPhone Duo 折叠屏手机的主摄传感器似乎与 iPhone 17e 相近。IT之家附两者主摄差异如下：iPhone DuoiPhone 17e像素48MP 融合式主摄48MP 融合式主摄焦距2",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "全新一代智己 LS6 发布 45 分钟小订破 8000 台，20.99 万元起",
-      "link": "https://www.ithome.com/1/001/017.htm",
-      "date": "2026-09-10 22:30",
-      "author": "IT之家",
-      "timestamp": 1789050636.0,
-      "summary": "IT之家 9 月 10 日消息，全新一代智己 LS6 全线控大五座家庭 SUV 今日开启预售，预售价 20.99 万元起。据官方最新公布数据，该车发布 45 分钟小订破 8000 台。该车全系标配全新一代三电系统，包括全域 800V NEO 三电架构、全新 NEO 飓风电机、全新 IM ECU Ma",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "宝马氢动力 iX5 Hydrogen 上路测试：目标 5 秒内破百及 750 公里续航",
-      "link": "https://www.ithome.com/1/001/016.htm",
-      "date": "2026-09-10 22:28",
-      "author": "IT之家",
-      "timestamp": 1789050523.0,
-      "summary": "IT之家 9 月 10 日消息，据外媒 BMW Blog 今天（10 日）晚间报道，宝马 iX5 Hydrogen 的开发计划正持续推进，原型车开始实际道路测试，为本世纪 20 年代末量产车型上市做准备。宝马将该车的 0—100km/h 加速目标定在 5 秒以内，与纯电 iX5 相当。作为参考，全新",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
-      "link": "https://www.ithome.com/1/001/015.htm",
-      "date": "2026-09-10 22:25",
-      "author": "IT之家",
-      "timestamp": 1789050354.0,
-      "summary": "IT之家 9 月 10 日消息，据彭博社报道，美国总务管理局（GSA）发布声明称，OpenAI 将终止一项政府机构试点项目。该项目允许政府机构每年仅花 1 美元（IT之家注：现汇率约合 6.7 元人民币）使用其模型；新方案改为按用量计费，联邦工作人员使用该 AI 技术，可以享受标准售价五折优惠。为推",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "净网专项行动 | 严打灾害谣言 守护清朗网络——吉隆泥石流灾害网络谣言典型案例",
+      "title": "散播涉西藏吉隆泥石流谣言 多人被处罚",
       "link": "https://www.chinanews.com.cn/sh/2026/09-10/10694349.shtml",
       "date": "2026-09-10 22:24",
       "author": "中新网社会新闻",
       "timestamp": 1789050285.0,
-      "summary": "为持续净化网络生态，有效震慑涉灾造谣传谣行为，西藏网警公布吉隆泥石流灾害相关网络谣言典型案例：",
+      "summary": "净网专项行动 | 严打灾害谣言 守护清朗网络——吉隆泥石流灾害网络谣言典型案例",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "宜家为《上古卷轴 5》推出新 mod：会说话的置物架，可以带着走",
-      "link": "https://www.ithome.com/1/001/014.htm",
-      "date": "2026-09-10 22:13",
-      "author": "IT之家",
-      "timestamp": 1789049633.0,
-      "summary": "IT之家 9 月 10 日消息，据外媒 VGC 今天（10 日）晚间报道，宜家为《上古卷轴 5：天际》推出了一款 mod，玩家可以带着一个会说话的置物架一起冒险。这款免费 mod 名为 Kallax Storageborn，带来新任务、新战利品和一个有自我意识的置物架伙伴，让玩家着手清理泰姆瑞尔的杂",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
     },
     {
       "title": "致敬教师，中央音乐学院举行原创音乐会",
@@ -242,26 +372,6 @@
       "category": "News"
     },
     {
-      "title": "“莹莹”们为何要舍命吃播？专家：须改变平台“猎奇优先”的流量逻辑",
-      "link": "https://www.cnbeta.com.tw/articles/movie/1577344.htm",
-      "date": "2026-09-10 21:31",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789047119.0,
-      "summary": "劣质流量又添了一笔命债。长期催吐的吃播网红“莹莹（干饭莹）”去世的消息近日被曝出。短视频平台兴起后，这样的悲剧多次上演。对于视频博主来说，流量意味着粉丝数和点击率，以及随之而来的商务广告和金钱。流量的多与少，也逐渐成为他们的“心魔”。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "集中Google修复Chrome浏览器逾两百处安全隐患 紧急敦促用户升级至v153正式版本",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577342.htm",
-      "date": "2026-09-10 21:30",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789047047.0,
-      "summary": "Google公司正式向全球主流操作系统用户推送了Chrome浏览器的重大版本更新——Chrome v153。本次更新规模罕见，官方在安全通告中披露其总计修复了高达230个安全漏洞与系统缺陷，并向广大桌面端与移动端用户发出紧急呼吁，建议尽快检查并安装最新版本补丁，以全面防范潜在的恶意网络攻击与远程代码",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "山东集中销毁侵权假冒伪劣商品 涉案货值878万元",
       "link": "https://www.chinanews.com.cn/sh/2026/09-10/10694292.shtml",
       "date": "2026-09-10 21:24",
@@ -282,13 +392,13 @@
       "category": "News"
     },
     {
-      "title": "Google推出ADB Wi-Fi 2.0：无线调试速度提升66% 连接稳定性大幅改善",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577340.htm",
-      "date": "2026-09-10 21:08",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789045702.0,
-      "summary": "Google近日正式推出ADB Wi-Fi 2.0，对Android系统的无线调试功能进行了全面重构。新版本随Android 17推出，重点解决此前无线ADB容易断开、重新配对麻烦以及Android Studio中设备发现困难等问题。Google表示，经过升级后，ADB Wi-Fi的自动连接成功率提",
-      "source_url": "https://www.cnbeta.com.tw",
+      "title": "AI XPU 企业 d-Matrix 宣布加入英伟达 NVLink Fusion 生态系统",
+      "link": "https://www.ithome.com/1/000/998.htm",
+      "date": "2026-09-10 21:07",
+      "author": "IT之家",
+      "timestamp": 1789045623.0,
+      "summary": "IT之家 9 月 10 日消息，AI 推理芯片制造商 d-Matrix 美国加州当地时间 10 日宣布加入 NVIDIA（英伟达） NVLink Fusion 生态系统。d-Matrix 的机架级 XPU 系统将采用 NVIDIA 的 MGX 通用机架参考架构。具体来看，d-Matrix 自 \"Ra",
+      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -300,36 +410,6 @@
       "summary": "中新网广州9月10日电 (记者 王坚)2026年广东省科普创新展(下称“创新展”)新闻通气会10日在广州举行。会上通报，本届创新展主场展览总面积超1.2万平方米，设有逾110个展位，设置广东科技创新重大成果展、科学家精神与科技梦想展、科创生态集群展、互动体验与产业赋能展四大主题板块。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "Google为何故意让部分司机绕远路？实地实验显示分流少量车辆即可缓解拥堵",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577338.htm",
-      "date": "2026-09-10 20:55",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789044908.0,
-      "summary": "Google研究人员近日公布了一项颇为特别的交通实验：他们并没有试图让所有Google Maps用户走“最快”的路线，反而在部分情况下故意让少量司机绕一点路，通过把车辆分散到不同道路上，缓解原本严重拥堵的交通瓶颈。研究结果显示，这种做法虽然不会带来巨大的改善，却能够在现实交通环境中产生可测量的效果。",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "网友用460个真空管手搓8位计算机 预热要15分钟且随时会炸",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577336.htm",
-      "date": "2026-09-10 20:52",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789044748.0,
-      "summary": "近日一位名为Mike的网友在Hackaday平台上展示了他完全由真空管驱动的8位计算机，整机采用460枚上世纪50年代生产的苏联6N3P双三极管打造，重现了冷战时期的计算形态。这台名为“The Tube Computer (MK3)”的设备其逻辑核心采用的电子管均产于约50年前，属于回收的老旧库存，",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "驳斥“运营2.16亿台间谍电视”指控 LG官方声明数据合规并强调用户隐私保护",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577334.htm",
-      "date": "2026-09-10 20:50",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789044647.0,
-      "summary": "韩国消费电子巨头LG电子针对近期在网络与科技社区广泛流传的隐私指控作出正式回应，坚决否认关于其在全球范围内运营超过2.16亿台“间谍电视”并以此窥探用户隐私的说法。LG强调，旗下智能电视所收集的数据仅用于改善用户体验、提供个性化推荐以及遵循行业标准的内容识别服务，且所有数据处理流程均严格遵守相关法律",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "“最美职工”王军强先进事迹报告会走进大连：援藏精神在家乡落地生根",
@@ -372,36 +452,6 @@
       "category": "News"
     },
     {
-      "title": "第二届知识产权执法国际交流大会在长沙开幕",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-10/10694251.shtml",
-      "date": "2026-09-10 20:31",
-      "author": "中新网社会新闻",
-      "timestamp": 1789043484.0,
-      "summary": "中新社长沙9月10日电 (向一鹏)第二届知识产权执法国际交流大会10日在湖南长沙开幕。会议由中国国家市场监督管理总局与世界知识产权组织(WIPO)共同主办。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "（文化新纪行）从看景到入景 婺源古老晒秋农俗变身潮流“符号”",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-10/10694227.shtml",
-      "date": "2026-09-10 20:22",
-      "author": "中新网社会新闻",
-      "timestamp": 1789042943.0,
-      "summary": "中新社江西婺源9月10日电 题：从看景到入景 婺源古老晒秋农俗变身潮流“符号”",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "NVIDIA App终于为统计浮层加入CPU温度和功耗监控",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577332.htm",
-      "date": "2026-09-10 20:06",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789041977.0,
-      "summary": "NVIDIA近期更新了NVIDIA App，为内置的游戏内统计浮层加入长期以来备受玩家期待的CPU监控功能。随着11.0.9版本发布，使用GeForce显卡的用户现在可以直接在游戏过程中查看处理器温度、功耗以及当前运行频率，而不再需要同时开启HWiNFO、MSI Afterburner等第三方硬件监",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "修法关键期，事关律师执业的话题再受关注",
       "link": "https://www.infzm.com/contents/330434",
       "date": "2026-09-10 20:00",
@@ -410,56 +460,6 @@
       "summary": "全国政协委员、最高检原副检察长陈国庆：这次刑诉法修改有一个要求，要落实二十届三中全会、四中全会的文件，凡是三中、四中全会提到的司法制度改革有关内容都在研究当中。\n\n“现在外界对认罪认罚制度的期待很高。”中国刑诉法学研究会常务副会长陈卫东说，但实践中却存在被告人认罪认罚自愿性的问题，这需要刑诉法修订时",
       "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
-    },
-    {
-      "title": "OpenAI前沿数学训练数据来源与数据使用边界遭深度质疑",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577330.htm",
-      "date": "2026-09-10 19:49",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789040984.0,
-      "summary": "伴随OpenAI高调宣布其内部人工智能系统成功攻克困扰数学界近百年的“千禧年大奖难题”之一——纳维-斯托克斯方程（Navier-Stokes）的存在性与光滑性问题，一场围绕前沿模型底层训练数据来源、科研知识产权归属以及学术伦理的巨大争议迅速在全球学术界与科技行业引爆。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "蚂蚁国际携手Visa、万事达卡制定AI代理支付标准",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577328.htm",
-      "date": "2026-09-10 19:48",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789040921.0,
-      "summary": "蚂蚁国际、Visa和万事达卡近日宣布启动合作，共同探索建立面向人工智能代理的“了解你的代理”（Know Your Agent，KYA）互操作框架，为未来由AI代理代表用户自主完成购物和支付建立统一的身份识别、验证和风险管理标准。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "人工繁育鳄鱼野化放归后展现惊人栖息地忠诚度 令生态学家倍感意外",
-      "link": "https://www.cnbeta.com.tw/articles/science/1577326.htm",
-      "date": "2026-09-10 19:43",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789040625.0,
-      "summary": "发表在国际权威生态学期刊上的一项最新野外跟踪研究，颠覆了科学界对爬行动物迁徙行为与野化适应能力的长期认知。由野生动物保护机构与科研团队联合开展的长期遥测监测显示，一批经人工饲养繁育并最终放归自然保护水域的鳄鱼，并未如研究人员预期那样尝试长途跋涉“重返故土”或漫无目的地四处流窜，反而迅速适应了全新的野",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "跑分数据显示A20 Pro性能大幅提升 单核最高领先A19 Pro约23%",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1577324.htm",
-      "date": "2026-09-10 19:39",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789040340.0,
-      "summary": "苹果新款iPhone 18 Pro和iPhone 18 Pro Max即将上市之际，搭载的A20 Pro芯片已经出现在Geekbench 6数据库中，首批基准测试成绩也随之曝光。虽然这些成绩目前仍属于早期测试结果，尚未经过独立验证，但从现有数据来看，A20 Pro的CPU和GPU性能均实现了较为明显",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "小岛秀夫证实PlayStation已取消有关次世代潜行动作大作《Physint》的合作",
-      "link": "https://www.cnbeta.com.tw/articles/game/1577322.htm",
-      "date": "2026-09-10 19:37",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1789040271.0,
-      "summary": "知名游戏制作人小岛秀夫正式对外证实，其工作室小岛制作（Kojima Productions）此前与索尼互动娱乐（SIE）联合公布的次世代次世代潜行动作游戏《Physint》，已被PlayStation方面单方面取消项目支持与发行合作。面对核心资方的撤退，小岛秀夫并未放弃这一野心勃勃的全新知识产权（I",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "“一审基本不判离”背后：学者眼中的“中国式离婚”",
