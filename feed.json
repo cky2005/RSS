@@ -2,13 +2,633 @@
   "update_time": "2026-10-27",
   "articles": [
     {
-      "title": "Mac 版 Ollama 新增离线生成 AI 语音：数据不出门，速度比原方案最高快 35%",
-      "link": "https://www.ithome.com/1/018/228.htm",
-      "date": "2026-10-27 09:00",
+      "title": "欧盟已接受拼多多国际版TEMU的整改计划 此前因违法被罚款2亿欧元约人民币15.79亿元",
+      "link": "https://www.landian.news/archives/127748.html",
+      "date": "2026-10-27 16:30",
+      "author": "蓝点网",
+      "timestamp": 1793089800.0,
+      "summary": "#行业资讯 欧盟委员会接受拼多多国际版 TEMU 提交的整改计划，此前 TEMU 因违法行为被欧盟罚款 2 亿欧元约合人民币 15.79 亿元(按当时汇率)。欧盟发现的问题包括抽检的多款充电器未能通过基础安全测试、部分婴儿玩具化学物质超标或小部件造成窒息风险，TEMU 的推荐算法也可能造成非法商品的",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "CISA 确认 PHP2Shell 漏洞已被用于攻击，要求美国联邦机构 10 月 29 日前修复",
+      "link": "https://www.ithome.com/1/018/493.htm",
+      "date": "2026-10-27 16:27",
       "author": "IT之家",
-      "timestamp": 1793062825.0,
-      "summary": "IT之家 10 月 27 日消息，本地运行 AI 模型的开源平台 Ollama 于 10 月 24 日宣布，其 Mac 应用正式支持文本转语音（TTS）生成，Windows 和 Linux 版本也将随后跟进。科技媒体 9to5Mac 认为这是 Ollama 首次加入语音生成能力，让本地 AI 从“能",
+      "timestamp": 1793089673.0,
+      "summary": "IT之家 10 月 27 日消息，美国网络安全和基础设施安全局（CISA）已将两项“PHP2Shell”严重安全漏洞列入已遭实际利用漏洞目录（KEV），确认相关漏洞已被攻击者用于实际攻击。CISA 要求美国联邦民事行政部门机构在当地时间 10 月 29 日（周四）前完成修复，并检查相关系统是否已遭入",
       "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "微信输入法新增 AI 录音笔功能，录音实时转写还能生成网页",
+      "link": "https://www.ithome.com/1/018/492.htm",
+      "date": "2026-10-27 16:26",
+      "author": "IT之家",
+      "timestamp": 1793089604.0,
+      "summary": "IT之家 10 月 27 日消息，微信输入法近日更新 4.0.0 版本，除了适配 iPhone Duo 以外，本次更新还新增了“AI 录音笔”功能。IT之家了解到，该功能在手机上可通过键盘工具栏或直接在 App 内打开；电脑端可以通过快捷键 V 唤起工具面板，也可以通过 Mac 顶部菜单栏或 Win",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "创维自然光壁纸电视 QX 系列发布：至高 10000 尼特峰值亮度、23040 个独立控色分区，41499 元起",
+      "link": "https://www.ithome.com/1/018/491.htm",
+      "date": "2026-10-27 16:25",
+      "author": "IT之家",
+      "timestamp": 1793089516.0,
+      "summary": "IT之家 10 月 27 日消息，在今天的 2026 创维秋季全场景新品发布会中，创维自然光壁纸电视 QX 系列正式发布，系列产品提供 85 英寸与 100 英寸两款尺寸版本，85 英寸首发价为 41499 元，国补价为 39999 元；100 英寸首发价为 61499 元，国补价为 59999 元",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "理想汽车：2026 款理想 i6 底盘延续 25 款配置，重点优化转向和刹车",
+      "link": "https://www.ithome.com/1/018/489.htm",
+      "date": "2026-10-27 16:24",
+      "author": "IT之家",
+      "timestamp": 1793089478.0,
+      "summary": "IT之家 10 月 27 日消息，10 月 26 日，在最新一期《理想汽车答网友问》中，理想汽车解答了关于 2026 款理想 i6 底盘、提车等用户比较关心的问题。新车将于 10 月 28 日正式上市，10 月 29 日开启全国交付。据介绍，2026 款理想 i6 的底盘延续了 25 款的硬核配置，",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "日本外汇交易平台 GMO 遭网络攻击：黑客索要 100 万美元赎金，约 2.67 万台服务器或受影响",
+      "link": "https://www.ithome.com/1/018/488.htm",
+      "date": "2026-10-27 16:20",
+      "author": "IT之家",
+      "timestamp": 1793089223.0,
+      "summary": "IT之家 10 月 27 日消息，日本 GMO 互联网集团旗下外汇交易相关服务器上周遭网络攻击，攻击者索要 100 万美元赎金，并威胁称，若未在指定期限内付款，将进一步攻击客户设备、公开相关数据。日媒报道称，攻击者设定的付款期限为日本时间 10 月 27 日中午。然而，GMO 集团今日发布的最新公告",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "单兵坚守、刺刀见红、雪夜擒敌，志愿军战斗英雄事迹令人热血沸腾",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721706.shtml",
+      "date": "2026-10-27 16:18",
+      "author": "中新网社会新闻",
+      "timestamp": 1793089139.0,
+      "summary": "中新网10月27日电(刁炜 张杰文 王一帆)走进陆军第82集团军某旅荣誉室，映入眼帘的是墙上醒目位置的2幅志愿军战士肖像，军营小路旁，则肃立着另一位志愿军战士的半身雕像，他们都是抗美援朝时期从该部涌现出的著名战斗英雄。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "创维 AI 净烟机发布：配备动态微粒捕集技术、可去除 PM2.5 改善空气质量",
+      "link": "https://www.ithome.com/1/018/487.htm",
+      "date": "2026-10-27 16:14",
+      "author": "IT之家",
+      "timestamp": 1793088887.0,
+      "summary": "IT之家 10 月 27 日消息，在今天的 2026 创维秋季全场景新品发布会中，创维 AI 净烟机正式发布，该产品号称不仅能够净化厨房油烟，还集成了多项技术以净化气味、改善空气质量。系列净烟机正面配备的显示屏可直观呈现 PM2.5 等数值。产品带有“AI 迎宾灯”，表面应用了无印工艺。其中 L8",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "雷神猎刃 S 超竞版双十一 8329 元起：搭载 R7-8840HX + RTX5060",
+      "link": "https://www.ithome.com/1/018/486.htm",
+      "date": "2026-10-27 16:13",
+      "author": "IT之家",
+      "timestamp": 1793088798.0,
+      "summary": "双十一大促已经开启，笔记本产品也迎来新一轮优惠活动。其中，雷神猎刃系列新品，猎刃 S 超竞版也正式开启了大促，其中猎刃 S 超竞版 R7-8840HX 版本售价 8229 元起。性能方面，雷神猎刃 S 超竞版搭载 AMD 锐龙 7 8840HX 处理器，采用 Zen4 架构、5nm 工艺，拥有 12",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "山西晋城：家门口来了“国家队” 专家义诊惠及民众",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721707.shtml",
+      "date": "2026-10-27 16:13",
+      "author": "中新网社会新闻",
+      "timestamp": 1793088792.0,
+      "summary": "中新网晋城10月27日电 题：山西晋城：家门口来了“国家队” 专家义诊惠及民众",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "厚度不到 1mm、手机压电风扇有望商用，南芯科技发布驱动芯片 SC3606",
+      "link": "https://www.ithome.com/1/018/485.htm",
+      "date": "2026-10-27 16:11",
+      "author": "IT之家",
+      "timestamp": 1793088700.0,
+      "summary": "IT之家 10 月 27 日消息，南芯科技今日发布压电风扇驱动芯片 SC3606，为压电风扇在空间受限、功耗敏感场景中的规模化落地提供驱动支撑。SC3606 支持 2.1V-5.5V 宽输入电压，最大输出 46Vpp，集成全域扫频与实时频率跟踪算法，可在 15kHz-40kHz 区间内自主锁定最优谐",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "NECPC 发布 3 款 2026 秋冬季 LAVIE 笔电，搭载英特尔最新处理器",
+      "link": "https://www.ithome.com/1/018/483.htm",
+      "date": "2026-10-27 16:10",
+      "author": "IT之家",
+      "timestamp": 1793088652.0,
+      "summary": "IT之家 10 月 27 日消息，NECPC 日本当地时间今日发布了 3 款笔记本电脑新品，其中新款 LAVIE X14、LAVIE S13 基于第 3 代英特尔酷睿 Ultra 处理器 \"Panther Lake\"、新款 LAVIE N13 则基于第 3 代英特尔酷睿处理器 \"Wildcat La",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "聚焦新疆胡杨 中外艺术家写生精品在沙雅展出",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721702.shtml",
+      "date": "2026-10-27 16:10",
+      "author": "中新网社会新闻",
+      "timestamp": 1793088600.0,
+      "summary": "中新网新疆沙雅10月27日电 (张家伟)27日，“融通一带一路·醉美世界胡杨”中外艺术名家胡杨写生作品展暨丝路文化艺术沙龙活动在新疆沙雅县举办，40余幅中外画家写生精品亮相。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "（文化中国行·校馆弦歌）不止于藏书：探访全国首家纪检监察学专业图书馆",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721705.shtml",
+      "date": "2026-10-27 16:09",
+      "author": "中新网社会新闻",
+      "timestamp": 1793088556.0,
+      "summary": "中新网北京10月27日电 题：不止于藏书：探访全国首家纪检监察学专业图书馆",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "苹果 iOS 27.2 系统为 AI 生成图片加入 SynthID 隐藏水印",
+      "link": "https://www.ithome.com/1/018/482.htm",
+      "date": "2026-10-27 16:08",
+      "author": "IT之家",
+      "timestamp": 1793088527.0,
+      "summary": "IT之家 10 月 27 日消息，据科技媒体 macrumors 昨天报道，苹果已在 iOS 27.2 系统中加入 SynthID 功能。现在使用图乐园生成的图像，或使用 Apple 智能编辑的部分图片都会带有隐藏式水印。IT之家从原报道了解到，SynthID 是谷歌开发的生成式 AI 内容识别技术",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "甘肃启动“第六险”纾解“一人失能，全家失衡”",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721698.shtml",
+      "date": "2026-10-27 16:08",
+      "author": "中新网社会新闻",
+      "timestamp": 1793088480.0,
+      "summary": "中新网兰州10月27日电 (刘薛梅)27日，《甘肃省建立长期护理保险制度实施方案》政策解读新闻发布会召开，明确用三年左右时间建立与全省经济社会发展水平相适宜的长期护理保险制度，切实减轻失能人员家庭负担，解决“一人失能，全家失衡”的社会问题。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "小鹏 MONA L05 新产线首批 5000 台下线，10 月 29 日上市",
+      "link": "https://www.ithome.com/1/018/481.htm",
+      "date": "2026-10-27 16:06",
+      "author": "IT之家",
+      "timestamp": 1793088386.0,
+      "summary": "IT之家 10 月 27 日消息，小鹏汽车宣布小鹏 MONA L05 新产线首批 5,000 台下线，独立产线，全力保供。小鹏 MONA L05 面向 65 个国家和地区销售，中国上市发布会将于 10 月 29 日 19:00 在广州举行。该车已于 10 月 15 日开启预售，预售价区间为 16.9",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "美国人才平台 BambooHR：约 18% 受访者计划在《GTA6》游戏发售当天请假",
+      "link": "https://www.ithome.com/1/018/479.htm",
+      "date": "2026-10-27 16:06",
+      "author": "IT之家",
+      "timestamp": 1793088364.0,
+      "summary": "IT之家 10 月 27 日消息，备受期待的《侠盗猎车手 6》（Grand Theft Auto VI，简称 GTA 6）将于 11 月 19 日正式发售，玩家的热情似乎已经反映在职场请假数据上。美国人才平台 BambooHR 对 1530 名登记为“美国地区 / 全职员工”的用户进行了问卷调查，其",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "研究揭示地球“第三极”生命演化新线索",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721697.shtml",
+      "date": "2026-10-27 16:01",
+      "author": "中新网社会新闻",
+      "timestamp": 1793088082.0,
+      "summary": "中新社成都10月27日电 (王利文)中国科学院成都生物研究所科研人员系统分析青藏高原及周边区域特有陆生动物演化历史，揭示了地球“第三极”动物多样性形成的新机制。相关成果10月27日发表于国际学术期刊《美国国家科学院院刊》(Proceedings of the National Academy of",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "李在镕首次视察三星 RX 机器人事业部，关注 CES 2027 参展技术的研发进展",
+      "link": "https://www.ithome.com/1/018/478.htm",
+      "date": "2026-10-27 16:00",
+      "author": "IT之家",
+      "timestamp": 1793088056.0,
+      "summary": "IT之家 10 月 27 日消息，据韩国《Money Today》今日报道，李在镕近日访问了位于韩国首尔瑞草区牛眠洞的三星电子首尔研发园区，实地视察机器人体验（RX）业务部门。据介绍，三星电子正筹备参加 2027 年 1 月在美国拉斯维加斯举行的国际消费电子展（CES 2027），计划展示人形机器人",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "微软在Windows 11开始菜单中增加Microsoft 365续费入口 时刻提醒用户续费",
+      "link": "https://www.landian.news/archives/127747.html",
+      "date": "2026-10-27 16:00",
+      "author": "蓝点网",
+      "timestamp": 1793088000.0,
+      "summary": "#系统资讯 微软在 Windows 11 开始菜单和设置中增加 Microsoft 365 续费入口，时刻提醒用户开启自动扣款或续费功能。需要说明的是这并不是新增的广告位，只是改造现有广告位添加不同的内容。当用户没有开启自动续费时，微软就会提醒用户添加信用卡开启周期性付款。当然如果用户没有订阅 Mi",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "Rokid Color 双目全彩智能眼镜发布：仅重 55g，神奇“魔戒”手势操控",
+      "link": "https://www.ithome.com/1/018/477.htm",
+      "date": "2026-10-27 15:56",
+      "author": "IT之家",
+      "timestamp": 1793087782.0,
+      "summary": "IT之家 10 月 27 日现场消息，Rokid 今日发布了一款仅重 55g 的双目全彩智能眼镜 —— Rokid Color。Rokid Color 采用时尚轻巧造型，可外出佩戴，重量仅 55g，能够显示 AR 全彩内容。IT之家在发布会现场了解到，Rokid Color 搭载 Rokid 独家定",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "蔚来旗下 firefly 萤火虫 App 鸿蒙版 App 公测版开启尝鲜，提供远程车控、在线购车等功能",
+      "link": "https://www.ithome.com/1/018/476.htm",
+      "date": "2026-10-27 15:52",
+      "author": "IT之家",
+      "timestamp": 1793087536.0,
+      "summary": "IT之家 10 月 27 日消息，蔚来旗下 firefly 萤火虫鸿蒙版 App 现已在华为应用市场开启测试尝鲜，版本号为 2.9.0 (2009009)，测试时间为 10 月 27 日至 11 月 26 日，提供远程车控、在线购车、车载后装商城等功能。IT之家附官方 App 介绍：firefly",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "FFR正式纳斯达克挂牌上市：贾跃亭任CEO 10月机器人销量超300台",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584008.htm",
+      "date": "2026-10-27 15:50",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793087424.0,
+      "summary": "具身智能机器人公司FF EAI Robotics Ecosystem Inc．（FFR）完成合并FFAI机器人资产及业务成功挂牌上市，标志着“四核全智”人形和仿生Physical AI机器人生态Pure-Play第一股FFR正式登陆纳斯达克。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "中国科研人员发现蜘蛛新物种“张氏雷文蛛”",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721677.shtml",
+      "date": "2026-10-27 15:40",
+      "author": "中新网社会新闻",
+      "timestamp": 1793086838.0,
+      "summary": "中新网南昌10月27日电 (记者 吴鹏泉)记者27日从井冈山大学蜘蛛生物学研究团队获悉，该团队在江西井冈山国家级自然保护区发现蜘蛛新物种，并命名为张氏雷文蛛。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "微软为Windows 11发布带外更新用于更新证书库 大概率是删除印度eMudhra根证书的",
+      "link": "https://www.landian.news/archives/127746.html",
+      "date": "2026-10-27 15:30",
+      "author": "蓝点网",
+      "timestamp": 1793086200.0,
+      "summary": "#系统资讯 微软向 Windows 11 发布带外更新用于刷新本地数字证书存储库，虽然微软没说但大概率就是用来删除印度 eMudhra G3 根证书的。这个带外更新主要适用于断网设备和受控环境，这些设备无法在线接收证书库更新所以需要通过额外补丁刷新。普通联网设备会自动收到推送，不需要手动下载更新。查",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "上海首条直飞阿尔及利亚首都航线今日开通",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721655.shtml",
+      "date": "2026-10-27 15:17",
+      "author": "中新网社会新闻",
+      "timestamp": 1793085421.0,
+      "summary": "10月27日3时07分，阿尔及利亚航空AH3082航班从阿尔及利亚首都阿尔及尔起飞，平稳降落在上海浦东国际机场，上海往返阿尔及尔的首条直飞航线正式开通。当天浦东机场举行象征民航最高礼遇的“水门”仪式欢迎首航航班到来。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "277家公司暴露ESG风险，多家煤矿因超员作业、数据失真被罚｜善择ESG风险跟踪第160期",
+      "link": "https://www.infzm.com/contents/343489",
+      "date": "2026-10-27 15:09",
+      "author": "南方周末-新闻",
+      "timestamp": 1793084994.0,
+      "summary": "南方周末中国企业社会责任研究中心\n                    \n                    \n                                        责任编辑：康华",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "青甘联合巡查祁连山国家公园候选区德令哈片区",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721639.shtml",
+      "date": "2026-10-27 15:01",
+      "author": "中新网社会新闻",
+      "timestamp": 1793084484.0,
+      "summary": "中新网青海德令哈10月27日电 (记者 孙睿)记者27日从青海省德令哈市林业和草原局获悉，日前，祁连山国家公园德令哈管理分局、酒泉管理分局开展联合巡查，青甘两省共出动车辆7台次、人员28人次，行程400余公里。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "微软面向约6万名员工推出自愿离职方案用于削减人力成本 员工可获得高额补偿",
+      "link": "https://www.landian.news/archives/127691.html",
+      "date": "2026-10-27 15:00",
+      "author": "蓝点网",
+      "timestamp": 1793084400.0,
+      "summary": "#行业资讯 一切为了 AI：微软面向约 6 万名员工推出自愿离职方案用于削减人力成本，员工可以获得高额经济补偿。微软确认约有 6 万名员工符合申请资格，占员工总数的 27%，内部职级在 70 以下的员工均可申请。对微软来说该方案可以减少员工总数并精简团队提高效率，更重要的是省下更多长期资金用于投资",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "粒粒皆“碳”，探寻农食行业绿色低碳公正转型之路｜第28期CSR思享荟成功举办",
+      "link": "https://www.infzm.com/contents/343467",
+      "date": "2026-10-27 15:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1793084400.0,
+      "summary": "南方周末中国企业社会责任研究中心\n                    \n                    \n                                        责任编辑：胡启元",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "10月底较强冷空气将影响我国大部 北方多地气温或再创新低",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721631.shtml",
+      "date": "2026-10-27 14:53",
+      "author": "中新网社会新闻",
+      "timestamp": 1793084008.0,
+      "summary": "中国天气网讯 本周影响我国的冷空气活跃，今天(10月27日)早晨，太原最低气温跌至冰点，创立秋后新低。预计明天早晨，北方多地最低气温将持续下跌，刷新立秋后新低。不过，明天白天至后天，我国北方大部气温将触底反弹，逐渐回升。但10月底还有新一轮冷空气来袭，各地气温将再下一个台阶。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "湖北画家陈波：“新疆胡杨林有一种独特的气质”",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721593.shtml",
+      "date": "2026-10-27 14:47",
+      "author": "中新网社会新闻",
+      "timestamp": 1793083672.0,
+      "summary": "中新网新疆沙雅10月27日电 (张家伟)“融通一带一路·醉美世界胡杨”湖北·沙雅文化交流交往暨中外艺术名家联合写生联展活动近日启幕，湖北省美术院油画创作室专职画家陈波受邀走进新疆沙雅县，参与此次写生创作。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "（乡村行·看振兴）浙江磐安寻药香：探访大盘山的“本草基因”",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721588.shtml",
+      "date": "2026-10-27 14:45",
+      "author": "中新网社会新闻",
+      "timestamp": 1793083553.0,
+      "summary": "中新网金华10月27日电(张煜欢 胡莘菻)清晨的浙江金华磐安，山雾漫过群山褶皱。走进大盘山浙产道地药材及珍稀药用植物保育科研基地，两个年轻身影正俯身采集样本。浙江农林大学资源利用与植物保护专业硕士研究生孟祥瑞正在弯腰记录数据。他和大盘山的本草已“相识”三年，一年六七次往返杭州与磐安之间，把毕业论文的",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "苹果首次回应iPhone Duo铰链处内屏开裂问题 称只有极少数设备受影响 可联系售后换机",
+      "link": "https://www.landian.news/archives/127690.html",
+      "date": "2026-10-27 14:30",
+      "author": "蓝点网",
+      "timestamp": 1793082600.0,
+      "summary": "#手机数码 苹果首次回应 iPhone Duo 铰链处内屏开裂问题，苹果称只有少数设备受影响，遇到问题的用户可以联系苹果换机。有网友猜测苹果可能会召回，不过对苹果来说召回既影响声誉也会造成较大损失，所以至少目前苹果没有召回的计划。另外有小道消息称苹果早已发现问题，现已要求富士康改进生产流程提高质量，",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果发布iOS 27.2正式版 继续增强Siri AI功能并修复多达160余项安全问题",
+      "link": "https://www.landian.news/archives/127689.html",
+      "date": "2026-10-27 14:00",
+      "author": "蓝点网",
+      "timestamp": 1793080800.0,
+      "summary": "#系统资讯 苹果发布 iOS 27.2 版更新，Siri AI 增加对话记忆并支持更多语言，Siri Remote 遥控器现在也放在查找应用中显示定位。在本次更新中苹果还修复多达 160 项安全漏洞，涉及 AI、WebKit、内核、媒体处理等多个系统部分。对于不准备升级 iOS 27 的用户，苹果也",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "2026青科会AI时代青年科学家创业创新生态论坛举行",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721584.shtml",
+      "date": "2026-10-27 13:58",
+      "author": "中新网社会新闻",
+      "timestamp": 1793080703.0,
+      "summary": "中新网温州10月27日电(张益聪)近日，2026世界青年科学家峰会平行论坛——AI时代青年科学家创业创新生态论坛在浙江省温州市龙湾区举行。论坛聚焦人工智能赋能科技创新与青年科学家成长，现场启动全球多智能体可信互联成果转化平台，并推动一批产学研合作项目签约。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "解读《重庆市城市规划管理规定》：让山城“显山露水”",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721581.shtml",
+      "date": "2026-10-27 13:54",
+      "author": "中新网社会新闻",
+      "timestamp": 1793080477.0,
+      "summary": "中新网重庆10月27日电 题：解读《重庆市城市规划管理规定》：让山城“显山露水”",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“十五五”期间四川将加快推进农业农村现代化",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721580.shtml",
+      "date": "2026-10-27 13:53",
+      "author": "中新网社会新闻",
+      "timestamp": 1793080383.0,
+      "summary": "中新网成都10月27日电(陈选斌)四川省政府新闻办公室27日在成都举行“万千气象看四川·起步奋进‘十五五’”系列主题新闻发布会，解读《四川省加快农业农村现代化“十五五”规划》(以下简称《规划》)。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "苹果发布新款iPad mini 首次采用8.5英寸OLED屏幕 搭载A20 Pro芯片 起售价5499元",
+      "link": "https://www.landian.news/archives/127688.html",
+      "date": "2026-10-27 13:30",
+      "author": "蓝点网",
+      "timestamp": 1793079000.0,
+      "summary": "#手机数码 苹果发布 iPad mini 8，采用 8.5 英寸的 XDR OLED 显示屏和 A20 Pro 芯片，国行版起售价 5499 元。新款 iPad mini 主要升级就是屏幕和芯片，其中屏幕为 XDR OLED 显示屏，HDR 峰值亮度 1200 尼特。芯片则采用 iPhone 18",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "黑客借助生成式AI发现PS5漏洞 上报索尼获5万美元奖金",
+      "link": "https://www.cnbeta.com.tw/articles/game/1584006.htm",
+      "date": "2026-10-27 13:23",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793078616.0,
+      "summary": "黑客Jordy借助生成式AI发现PS5虚拟机监控器漏洞，随后通过HackerOne向索尼提交报告并获得5万美元奖金。由于该漏洞原计划暂不公开，此次上报也在自制软件社区引发争议。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "阿里巴巴起诉美国防部获胜 特朗普政府一项禁令被叫停",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584004.htm",
+      "date": "2026-10-27 13:18",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793078309.0,
+      "summary": "据彭博社报道，阿里巴巴集团在挑战美国国防部黑名单的诉讼中胜诉。当地时间周一，美国加州圣何塞联邦法官命令特朗普政府停止执行一项禁令，该禁令禁止五角大楼与任何为阿里从事“游说活动”的公司做生意。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Q3中国手机出货再跌15.2% 但600美元以上高端机却卖爆了",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1584002.htm",
+      "date": "2026-10-27 13:18",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793078284.0,
+      "summary": "10月27日，IDC发布2026年第三季度中国智能手机市场跟踪报告。当季出货量约5806万台，同比下降15.2%，较上半年约4%的降幅明显扩大。存储及元器件成本大幅上升引发的终端涨价与配置调整，已开始抑制消费需求。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "《GTA6》发售日请假申请量增加9%至17%",
+      "link": "https://www.cnbeta.com.tw/articles/game/1584000.htm",
+      "date": "2026-10-27 13:02",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793077329.0,
+      "summary": "人力资源软件公司BambooHR的数据显示，《GTA6》发售日11月19日可能出现请假申请高峰。与通常情况下11月第三个星期四相比，该日期的申请量据称增加了9%至17%。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "A社正式提交IPO注册文件 股票代号ANT 营收快速增长但账面亏损持续扩大",
+      "link": "https://www.landian.news/archives/127687.html",
+      "date": "2026-10-27 13:00",
+      "author": "蓝点网",
+      "timestamp": 1793077200.0,
+      "summary": "#人工智能 Anthropic 正式开启 IPO，已向 SEC 提交 S-1 注册文件，但发行股数和价格尚未确定。A 社指定高盛和摩根士丹利为主承销商，注册文件需要 SEC 审核，正式发行后还有后续程序。治理方面，A 社属于 PBC 公共利益公司，不过 A 社向七名联合创始人组成的有限责任公司发行",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "GPT-6.1 Terra发布 电脑操作比肩Astra 成本仅其1/10",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583998.htm",
+      "date": "2026-10-27 12:46",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793076398.0,
+      "summary": "今天真是个热闹日子。那边Anthropic 提交 IPO，这边 OpenAI 发布了最新模型 GPT-6.1 Terra。它的定位是“以更低价格，提供快速、强大的电脑操作能力”，将细致的视觉推理、精准的电脑操作能力与更清晰、更自然的写作表现结合在一起。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果出手整治摇一摇跳转广告 iOS 27.2可禁止运动传感器权限 国行专属",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583996.htm",
+      "date": "2026-10-27 12:42",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793076141.0,
+      "summary": "今天凌晨，苹果推送了iOS 27.2正式版系统，多人实测此前Beta版的摇一摇禁止功能保留了下来，而且是国行专属。国行用户的系统设置中，新增了一项&quot;限制运动数据&quot;开关，入口：设置→隐私与安全→运动与健身→限制动作数据→编辑（自定义添加App）。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Anthropic上市在即 美媒：整个AI产业都将接受考验",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583994.htm",
+      "date": "2026-10-27 12:41",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793076106.0,
+      "summary": "10月27日，Anthropic已正式递交了IPO招股书，距离上市越来越近。《纽约时报》发文称，Anthropic最早可能在下个月上市。届时，这次IPO将不仅仅是这家人工智能公司正式亮相资本市场的重要时刻，也将成为对整体美国经济的一次考验，攸关数万亿美元资金。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "三星广告片“贴脸”嘲讽iPhone Duo",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583992.htm",
+      "date": "2026-10-27 12:38",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793075902.0,
+      "summary": "10月27日，三星发布Galaxy Z Fold8广告片，片中直接对标苹果iPhone Duo，火药味十足。广告提醒苹果，三星自2019年起便持续制造折叠屏手机，并一代代完善技术。三星在片中给出具体对比：Galaxy Z Fold8折叠态厚度9.7mm，较iPhone Duo薄1.6mm；重量201",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "iPhone Duo内屏开裂引热议 富士康员工透露内情",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583990.htm",
+      "date": "2026-10-27 12:37",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793075848.0,
+      "summary": "近日，“iPhone Duo内屏开裂”“iPhone Duo屏幕漏液”等话题引热议。有网友发视频称，自己的iPhone Duo在激活后掰了两下就碎了，内屏中央位置出现明显漏液，新机刚上手便发生这样的损坏，也让他对其耐用性感到无奈。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "大众花58亿美元押注美国技术 如今却考虑用中国方案",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583988.htm",
+      "date": "2026-10-27 12:35",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793075742.0,
+      "summary": "据路透社报道，德国媒体《经理人杂志》援引消息人士的话称，大众汽车正考虑将目前用于中国市场车型的软件架构引入欧洲大众市场车型。此举可能使其美国合作伙伴Rivian面临被边缘化的风险。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "特斯拉FSD获准进入拉脱维亚 媒体试乘发现安全问题",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583986.htm",
+      "date": "2026-10-27 12:34",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793075691.0,
+      "summary": "10月27日，据路透社报道，拉脱维亚和斯洛伐克近期相继批准特斯拉的驾驶辅助软件，让一些此前积极推动该技术落地的当地车主感到欣喜。不过，随着这项技术开始推广，其安全问题仍受到关注。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "亏了800亿的Anthropic冲刺IPO 其最大对手却想学DeepSeek了",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583984.htm",
+      "date": "2026-10-27 12:29",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793075343.0,
+      "summary": "10月26日，据报道，Anthropic已向美国证券监管机构提交IPO文件。这家凭借Claude和编程工具迅速崛起的AI公司，终于走到了资本市场的聚光灯下。这本来应该是一个关于商业成功的故事。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "805家公司暴露ESG风险，“合规失守”顽疾难除？丨2026年第三季度上市公司ESG风险报告",
+      "link": "https://www.infzm.com/contents/343463",
+      "date": "2026-10-27 12:27",
+      "author": "南方周末-新闻",
+      "timestamp": 1793075270.0,
+      "summary": "三季度，805家上市公司总计暴露1777起ESG风险事件，其中治理维度的风险事件占比过半，“合规失守”依然是上市公司主要风险来源。\n                \n                \n                                        南方周末中国企业社会",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "Steam个人日历正式成为商店功能 玩家可以打开独立日历查看未来八周的发售安排",
+      "link": "https://www.landian.news/archives/127686.html",
+      "date": "2026-10-27 12:00",
+      "author": "蓝点网",
+      "timestamp": 1793073600.0,
+      "summary": "#游戏资讯 Steam 个人日历功能结束实验成为 Steam 商店正式功能，玩家打开独立日历可以查看未来八周的新作发售安排。玩家可以在商店首页查看个性化的新游戏推荐，也可以通过日历页面浏览发售安排。V 社希望这个新功能帮助玩家从每天上新的大量游戏中，找到更符合自己兴趣的作品。查看全文：https:/",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "战火烧进沙特“心脏”，也门四年“冷和平”缘何终结？",
+      "link": "https://www.infzm.com/contents/343465",
+      "date": "2026-10-27 12:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1793073600.0,
+      "summary": "“尽管市区生活如常，但不少原计划赴沙特投资考察、洽谈生意的客商选择了推迟行程，或暂时观望。如果客人确需前往利雅得，李民建议对方绕行进入沙特。”\n\n没有任何一方能够“关闭”曼德海峡，但每一方都能让它“无法使用”。\n\n2022年停火后的相对平静期，让胡塞武装得以补充人员、强化动员，并提升导弹和无人机作战",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
+      "category": "News"
+    },
+    {
+      "title": "张一鸣以6700亿元登顶中国首富 刷新中国首富财富纪录",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583982.htm",
+      "date": "2026-10-27 11:32",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793071977.0,
+      "summary": "10月27日，胡润研究院发布《2026胡润百富榜》。43岁的字节跳动创始人张一鸣财富增长2000亿元，以6700亿元第二次成为中国首富，刷新中国首富财富纪录。其财富增长主要得益于AI业务进展推动公司估值走高，字节跳动估值达3.3万亿元。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "美最大运营商称SpaceX需8年才具有竞争力 马斯克回怼：2-3年",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1583980.htm",
+      "date": "2026-10-27 11:31",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793071893.0,
+      "summary": "据《商业内幕》报道，面对SpaceX进军无线网络领域，美国最大运营商Verizon CEO丹·舒尔曼(Dan Schulman)周一表示，要想在这一领域竞争，SpaceX需要长达8年时间、投入5000亿美元。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "微软为.NET发布紧急带外更新用于修复Brotli压缩数据格式缓冲区溢出等漏洞",
+      "link": "https://www.landian.news/archives/127685.html",
+      "date": "2026-10-27 11:30",
+      "author": "蓝点网",
+      "timestamp": 1793071800.0,
+      "summary": "#安全资讯 微软为.NET 发布紧急带外更新用于修复 Brotli 数据压缩格式中的缓冲区溢出问题，该问题可能导致信息泄露、拒绝服务或权限提升。攻击者使用特制的 Brotli 压缩数据包就有可能触发漏洞，为此微软已经发布.NET 8/9/10/11 RC3 版用于修复漏洞。注意：不同部署方式需要单独",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "Claude Mythos 5在英国安全评测中攻击真实开源项目 注册水军账号为恶意代码背书",
+      "link": "https://www.landian.news/archives/127684.html",
+      "date": "2026-10-27 11:00",
+      "author": "蓝点网",
+      "timestamp": 1793070000.0,
+      "summary": "#人工智能 Claude Mythos 5 在英国安全评测中攻击真实开源项目，向开源项目提交恶意代码，还注册水军账号忽悠开发者合并。这件事发生在 7 月份的评测中，当时 Mythos 5 发现测试环境中有个机器可以连接 GitHub，随后模型认为这个机器会下载某项目仓库。于是模型试图向该项目注入恶意",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "研究人员公布微软身份验证器的高危安全漏洞 可冒充微软应用获得账户令牌",
+      "link": "https://www.landian.news/archives/127683.html",
+      "date": "2026-10-27 10:30",
+      "author": "蓝点网",
+      "timestamp": 1793068200.0,
+      "summary": "#安全资讯 安全研究员公布微软身份验证器中的高危漏洞，该漏洞仅存在于安卓版验证器中，目前微软已经发布新版本修复。借助漏洞，恶意应用可以冒充微软官方应用申请 Microsoft 365 访问令牌，也可以修改账户验证方式、创建和删除通行密钥等。微软在 9 月 8 日发布新版本修复漏洞，直到现在研究人员才",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "丹麦停止使用开源办公软件替代Microsoft Office的试点计划 具体效果未完成评估",
+      "link": "https://www.landian.news/archives/127682.html",
+      "date": "2026-10-27 10:00",
+      "author": "蓝点网",
+      "timestamp": 1793066400.0,
+      "summary": "#行业资讯 丹麦数字化部已经结束使用开源办公套件替代 Microsoft Office 办公套件的试点方案，没有重启计划，也没有完成评估。这项替代试点仅在案件处理系统中使用，测试期间曾出现过文档格式错乱、空白页面错误和修订追踪等问题。后来丹麦数字化部悄悄结束试点回归微软办公生态系统，直到近期才被当地",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "微软称清理Windows 11预取文件不会释放多少空间 还可能拖慢应用启动速度",
+      "link": "https://www.landian.news/archives/127681.html",
+      "date": "2026-10-27 09:30",
+      "author": "蓝点网",
+      "timestamp": 1793064600.0,
+      "summary": "#系统资讯 微软事件响应团队 (安全团队) 介绍 Windows 11 预取文件，这是系统为应用建立的缓存，清理后会拖慢应用启动速度。那为什么这份报告由微软安全团队发布呢？因为预取文件也是调查取证中需要提取的文件。对大多数用户来说不需要主动清理预取文件，但如果用户注重减少本机活动痕迹那可以清理，预取",
+      "source_url": "https://www.landian.news",
       "category": "Blog"
     },
     {
@@ -22,374 +642,14 @@
       "category": "Blog"
     },
     {
-      "title": "老干妈否认“用 AI 把 600 名工人裁到 48 人”，回应称相关 AI 裁员传闻为不实信息",
-      "link": "https://www.ithome.com/1/018/227.htm",
-      "date": "2026-10-27 08:55",
-      "author": "IT之家",
-      "timestamp": 1793062513.0,
-      "summary": "IT之家 10 月 27 日消息，“老干妈 AI 裁员传闻引争议”话题于 10 月 26 日登上社交平台热搜，据蓝鲸新闻报道，老干妈官方热线工作人员回应称，相关 AI 裁员传闻为不实信息，公司从未发布此类信息，请消费者理性看待。另据观点网报道，老干妈常务副总、首席质量官李鑫在 2026 年贵州省质量",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "造型像火箭！特斯拉休斯顿 Robotaxi 服务范围扩至 10 倍，面积是 Waymo 的 5 倍",
-      "link": "https://www.ithome.com/1/018/226.htm",
-      "date": "2026-10-27 08:54",
-      "author": "IT之家",
-      "timestamp": 1793062440.0,
-      "summary": "IT之家 10 月 27 日消息，特斯拉在休斯顿的 Robotaxi 自动驾驶出租车服务范围刚刚大幅扩容。特斯拉 Robotaxi 官方账号在 X 平台宣布了这次扩张，确认新版更大的服务区域已经正式上线。这次电子围栏划定的运营面积大约扩大至原来的十倍，从约 25 平方英里增加到 254 平方英里（I",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国",
-      "link": "https://www.ithome.com/1/018/224.htm",
-      "date": "2026-10-27 08:40",
-      "author": "IT之家",
-      "timestamp": 1793061606.0,
-      "summary": "IT之家 10 月 27 日消息，拉脱维亚已正式批准特斯拉 FSD（监督版）在本国道路使用。特斯拉欧洲分部在 X 平台公布了这一消息，并表示相关功能很快就会推送上线。IT之家注意到，拉脱维亚由此成为第十个独立批准该系统的欧盟成员国，也是全球第 18 个批准该系统的国家。波罗的海另外两个邻国立陶宛、爱",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "美最大运营商 Verizon 称 SpaceX 拥有竞争力需 8 年，马斯克回怼“2-3 年就够”",
-      "link": "https://www.ithome.com/1/018/222.htm",
-      "date": "2026-10-27 08:35",
-      "author": "IT之家",
-      "timestamp": 1793061328.0,
-      "summary": "IT之家 10 月 27 日消息，商场如战场，即便看似胜券在握，也不能轻敌。美国最大的电信运营商 Verizon CEO 丹 · 舒尔曼同样奉行这一原则。据《商业内幕》今天（27 日）凌晨报道，马斯克希望将 SpaceX 旗下星链打造为美国通信网络市场的重要参与者，舒尔曼并不打算低估这一潜在竞争对手",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果 iOS 27.2 修复 163 个安全漏洞，封堵大部分 iOS 27 完美越狱漏洞",
-      "link": "https://www.ithome.com/1/018/221.htm",
-      "date": "2026-10-27 08:32",
-      "author": "IT之家",
-      "timestamp": 1793061177.0,
-      "summary": "IT之家 10 月 27 日消息，苹果今天（10 月 27 日）发布 iOS 27.2 与 iPadOS 27.2 系统更新，一次性修复 163 个安全漏洞（检索 CVE 关键词，显示共有 163 个可追踪漏洞编号），涉及 Apple Intelligence、邮件隐私、浏览器内核及系统底层等关键领",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "英特尔宣布收购以色列初创企业 Classiq，打造全栈量子计算平台",
-      "link": "https://www.ithome.com/1/018/220.htm",
-      "date": "2026-10-27 08:28",
-      "author": "IT之家",
-      "timestamp": 1793060925.0,
-      "summary": "IT之家 10 月 27 日消息，英特尔公司已经同意收购以色列初创企业 Classiq Technologies Ltd.，以此布局量子计算赛道，抢抓这个仍处在早期阶段、正在寻找商业化落地场景的领域的发展机遇。这家芯片厂商没有披露收购 Classiq 的交易金额。Classiq 的客户包括宝马集团（",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721450.shtml",
-      "date": "2026-10-27 08:27",
-      "author": "中新网社会新闻",
-      "timestamp": 1793060841.0,
-      "summary": "中新网10月27日电 据中央气象台网站消息，昨日，海南岛出现较强降雨，内蒙古、华北、东北出现大风天气。预计未来三天，黑龙江、内蒙古等地有雨雪天气；今明两天北方地区大风降温天气持续；关注对交通、农牧业等的影响。东海、台湾海峡等海域关注海上大风对船舶航运、海上作业平台等的影响。受孟加拉湾热带系统影响，2",
-      "source_url": "http://www.chinanews.com/society.shtml",
+      "title": "记者问：蟑螂粉真能吃？商家说：没人敢回答你",
+      "link": "https://www.infzm.com/contents/343411",
+      "date": "2026-10-27 09:00",
+      "author": "南方周末-新闻",
+      "timestamp": 1793062800.0,
+      "summary": "美洲大蠊脱脂精粉的颜色像咖啡粉，闻起来“有点香”，兑水后喝的口感有些像焦糖。黄利鹏到现在已经吃了半罐。\n\n食用蟑螂粉有风险。杨永寿介绍，昆虫蛋白可能会引起过敏反应，不规范的生产过程也可能有微生物污染。\n\n美洲大蠊未被列入国家批准的药食同源目录。电商平台上，蟑螂粉多以农副产品或药材的形式进行售卖。",
+      "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
-    },
-    {
-      "title": "名字带“鳕”就是鳕鱼吗？怎么吃更健康？一文讲明白",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721452.shtml",
-      "date": "2026-10-27 08:24",
-      "author": "中新网社会新闻",
-      "timestamp": 1793060677.0,
-      "summary": "真相来了丨名字带“鳕”就是鳕鱼吗？怎么吃更健康？一文讲明白",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "微软 CEO 纳德拉：以前我认为 AI 越强大也会越安全，现在不信了",
-      "link": "https://www.ithome.com/1/018/219.htm",
-      "date": "2026-10-27 08:23",
-      "author": "IT之家",
-      "timestamp": 1793060615.0,
-      "summary": "IT之家 10 月 27 日消息，据《商业内幕》今天（27 日）早间报道，微软 CEO 萨提亚 · 纳德拉改变了对 AI“对齐”问题的看法。他过去认为，AI 系统越强大，就越容易让其行为符合人类的价值观和目标，但现在，自己不再相信两者会自然而然地同步发展。在新一期《20VC》播客中，主持人哈里 ·",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果 iOS 27.2 更新汇总：增强 Siri AI，调整 Apple Music 品牌视觉等",
-      "link": "https://www.ithome.com/1/018/218.htm",
-      "date": "2026-10-27 08:22",
-      "author": "IT之家",
-      "timestamp": 1793060542.0,
-      "summary": "IT之家 10 月 27 日消息，苹果公司今天面向 iPhone 18 Pro 等机型推送 iOS 27.2 正式版更新（内部版本号：24B119），并为其首款折叠 iPhone Duo 推送专属 iOS 27.2 更新（内部版本号：24B91020）。IT之家综合 MacRumors 等多家海外媒",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "投喂候鸟，是“爱鸟”还是“害鸟”",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721451.shtml",
-      "date": "2026-10-27 08:16",
-      "author": "中新网社会新闻",
-      "timestamp": 1793060190.0,
-      "summary": "【观察】",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "消息称大众、小鹏合作的架构将走出中国，用于大众、斯柯达、CUPRA 品牌新车",
-      "link": "https://www.ithome.com/1/018/210.htm",
-      "date": "2026-10-27 08:10",
-      "author": "IT之家",
-      "timestamp": 1793059803.0,
-      "summary": "IT之家 10 月 27 日消息，当地时间 26 日，德国《经理人杂志》报道称，大众汽车集团考虑将中国市场车型使用的软件架构引入欧洲主流车型，削弱美国合作伙伴 Rivian 在集团软件战略中的地位。报道援引消息人士称，大众与小鹏汽车联合开发的电子电气架构，未来有望应用于大众、斯柯达和 CUPRA 三",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "微软确认 Win11 26H2 已向 24H2/25H2 用户全面开放，安装耗时不足 5 分钟",
-      "link": "https://www.ithome.com/1/018/207.htm",
-      "date": "2026-10-27 07:59",
-      "author": "IT之家",
-      "timestamp": 1793059143.0,
-      "summary": "IT之家 10 月 27 日消息，Windows 11 26H2，也就是 Windows 11 2026 更新，已于 9 月 29 日开始推送，但截至目前并非所有用户都收到了这一年度更新。Windows Latest 今日发现，微软已经确认，26H2 版本现已面向所有运行 25H2 和 24H2 版",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "宾利首款纯电 SUV 托卡尔新增首发版车型：全系最强动力加持，还有碳纤维套件、电动门",
-      "link": "https://www.ithome.com/1/018/206.htm",
-      "date": "2026-10-27 07:55",
-      "author": "IT之家",
-      "timestamp": 1793058956.0,
-      "summary": "IT之家 10 月 27 日消息，据外媒 motor1 当地时间 25 日报道，宾利旗下首款纯电 SUV 托卡尔推出“首发版”车型，采用全系最强动力配置，并配备专属外观套件，标准配置也比后续车型更加丰富。新车最大功率达到 876 马力，峰值扭矩为 1350N·m，0-100km/h 加速仅需 2.9",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "读懂了“和合文化”，就读懂了年轻人，也读懂了世界",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721448.shtml",
-      "date": "2026-10-27 07:55",
-      "author": "中新网社会新闻",
-      "timestamp": 1793058947.0,
-      "summary": "近年来，有几件小事在年轻人的圈子里火了。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "IT早报 1027：人类史上最大 IPO 之 Anthropic 提交 IPO 申请；5499 元起苹果 iPad mini 8 发布；奥迪中国四环与字母标分家；多所高校将通过数字人民币发工资...",
-      "link": "https://www.ithome.com/1/018/205.htm",
-      "date": "2026-10-27 07:54",
-      "author": "IT之家",
-      "timestamp": 1793058859.0,
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 27 日星期二，今天的重要科技资讯有：1. 人类史上最大 IPO！Anthropic 提交纳斯达克 IPO 申请，股票代码为“ANT”AI 独角兽 Anthropic 正式递交 S-1 文件冲刺纳斯达克，代码 \"ANT\"。2026 上半年营收",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "Instagram 测试 90 分钟横屏长视频，叫板 YouTube",
-      "link": "https://www.ithome.com/1/018/204.htm",
-      "date": "2026-10-27 07:40",
-      "author": "IT之家",
-      "timestamp": 1793058034.0,
-      "summary": "IT之家 10 月 27 日消息，Instagram 已经联合美国部分创作者，开始测试名为 Features 的全新横版视频格式，用于平台上的长内容创作。据《好莱坞报道》消息，这类长视频最长可达 90 分钟，主要面向喜剧博主、播客主播这类创作者。Instagram 还借鉴了 YouTube 的相关视",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "以规划引领遗产保护 用法治守护文化根脉",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721447.shtml",
-      "date": "2026-10-27 07:38",
-      "author": "中新网社会新闻",
-      "timestamp": 1793057926.0,
-      "summary": "以规划引领遗产保护 用法治守护文化根脉",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "救人反被索赔46万元？“好人条款”守住朴素正义",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721445.shtml",
-      "date": "2026-10-27 07:34",
-      "author": "中新网社会新闻",
-      "timestamp": 1793057682.0,
-      "summary": "据近日《法治日报》报道，今年1月，新疆奎屯市一家美发屋里发生了一件让人揪心的事：顾客滕某在理发过程中，突然两次表示“我好难受”，随即仰面倒地。店员第一时间拨打120、110，又赶紧联系店主；等待救援的间隙，他为滕某掐人中急救。店主赶到后，立刻就近联系诊所医护人员到店，为滕某心肺复苏并送医抢救。遗憾的",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "AI创业浪潮的主角，正从“经验派”转向“新生代”",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721442.shtml",
-      "date": "2026-10-27 07:26",
-      "author": "中新网社会新闻",
-      "timestamp": 1793057186.0,
-      "summary": "AI创业浪潮的主角正从“经验派”转向“新生代”",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "Anthropic的招股书是谁写的？AI检测工具给出意外结果",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583956.htm",
-      "date": "2026-10-27 07:22",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793056949.0,
-      "summary": "据Business Insider报道，人工智能公司Anthropic提交了一份335页的IPO招股书。为了了解这份文件是否由AI撰写，Business Insider将全文送入AI写作检测工具Pangram进行分析。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果发布iOS 27.2：iPhone Duo新增Apple Pencil支持 视频通话迎来补光功能",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583954.htm",
-      "date": "2026-10-27 03:08",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793041717.0,
-      "summary": "苹果于当地时间10月26日发布iOS 27.2正式版，为旗下首款折叠屏手机iPhone Duo带来Apple Pencil手写笔支持，同时新增名为Edge Light的面部补光功能。此外，此次更新还涉及Siri人工智能功能、照片应用、FaceTime视频通话以及多款系统应用，苹果也同步推出了macO",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "nxnative让Switch游戏变原生应用：iPhone与Mac可直接运行 无需模拟器",
-      "link": "https://www.cnbeta.com.tw/articles/game/1583952.htm",
-      "date": "2026-10-27 02:00",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793037621.0,
-      "summary": "一个名为nxnative的新开源项目，能把玩家自有的Switch游戏转换为iPhone和iPad上的原生应用。整个过程不涉及模拟器：每款游戏的原始代码直接运行在苹果芯片上。同一套流程还可以生成Mac应用。《塞尔达传说：王国之泪》如今能以独立应用的形式，带着图标出现在iPhone主屏幕上。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "台积电A14节点终结SRAM微缩八年停滞 存储单元面积首降19%",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583950.htm",
-      "date": "2026-10-27 01:55",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793037356.0,
-      "summary": "作为全球规模最大、工艺最先进的半导体制造商，台积电在SRAM微缩方面的进展已停滞多年。自2020年N5 5纳米工艺量产以来，6T SRAM存储单元的面积一直停留在约0.021平方微米。逻辑元件的晶体管密度持续提升，存储器却没能跟上同样的步伐。随着计划于2028年投产的A14节点登场，这一局面有望被打",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果回应iPhone Duo内屏裂纹问题 称仅极少数设备受影响 建议联系AppleCare更换",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583948.htm",
-      "date": "2026-10-27 01:48",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793036903.0,
-      "summary": "在首款折叠屏手机iPhone Duo上市后不久，部分用户反映铰链区域出现问题，导致内屏出现裂纹。苹果公司现已就相关报告作出回应。在发给MacRumors的一份声明中，苹果表示只有“极少数”设备受到影响，但并未说明开裂的具体成因，也没有透露是否计划推出修复方案。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "微软拟向约6万名员工提供自愿离职方案 预计接受比例远低于上一轮",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583946.htm",
-      "date": "2026-10-27 01:34",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793036046.0,
-      "summary": "为了在AI时代调整员工队伍，进一步削减成本，微软将向约6万名员工提供自愿离职补偿方案。微软发言人表示，美国、加拿大、印度和英国部分团队中副总裁及以下级别的员工将符合条件。一些业务部门员工不在计划之列，包括一些从事数据中心、销售和营销工作的人员。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "Anthropic公开IPO招股书 将登陆纳斯达克",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583944.htm",
-      "date": "2026-10-26 23:11",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793027468.0,
-      "summary": "10月26日，据彭博社报道，Anthropic周一向美国证券交易委员会提交了首次公开招股(IPO)申请，距离成为首家以开发最先进AI模型为主要业务的上市公司又近了一步。根据Anthropic提交的S-1文件，该公司预计将在纳斯达克全球精选市场开始交易，股票代码为“ANT”。Anthropic已于6月",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "河北滦州小花生“长”出富民大产业",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-26/10721425.shtml",
-      "date": "2026-10-26 22:31",
-      "author": "中新网社会新闻",
-      "timestamp": 1793025076.0,
-      "summary": "中新网唐山10月26日电 题：河北滦州小花生“长”出富民大产业",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "郑州市主城区，如何实现旧城新貌、老区新业？",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-26/10721423.shtml",
-      "date": "2026-10-26 22:23",
-      "author": "中新网社会新闻",
-      "timestamp": 1793024583.0,
-      "summary": "中新网郑州10月26日电 (记者 韩章云)曾经落寞的老商场，焕新成为新能源汽车科普展馆；老粮仓改造的文创街区，是年轻人喜爱的时尚打卡地……郑州市二七区是该市的主城区、老城区，如今，旧城新貌、老区新业，这里城市更新的成果正惠及这座拥有1300多万人口的城市。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "从老旧厂房到潮流地标 长沙老城更新激活消费新业态",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-26/10721412.shtml",
-      "date": "2026-10-26 22:19",
-      "author": "中新网社会新闻",
-      "timestamp": 1793024375.0,
-      "summary": "中新网长沙10月26日电 (张雪盈)走进长沙“油脂厂·1936”文创园，锈迹斑驳的油罐与一旁咖啡屋相映成趣。90年前，长沙主城区多数家庭的炒菜油从这里流出；如今，同一批油罐里飘出的却是手冲咖啡的香味。几百米外的碧湘楚巷里，始建于清光绪年间的道教宫观天符宫“化身”茶馆，老墙根旁亦不乏嗑瓜子的老人与拍照",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "苹果把TechWoven编织面料引入iPad mini 智能保护套售价79美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583942.htm",
-      "date": "2026-10-26 22:11",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793023897.0,
-      "summary": "苹果公司今日发布了适用于新一代 iPad mini 的 TechWoven 智能保护套（Smart Folio），首次把这种编织面料用于 iPad 保护套，并取代沿用多年的聚氨酯材质设计。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "广东5位代表分享奋斗故事：如何走好我们这一代人的长征路？",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-26/10721411.shtml",
-      "date": "2026-10-26 22:10",
-      "author": "中新网社会新闻",
-      "timestamp": 1793023807.0,
-      "summary": "中新网广州10月26日电 题：广东5位代表分享奋斗故事：如何走好我们这一代人的长征路？",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "飓风预报进入AI时代：DeepMind模型实现“开门即领先”",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583940.htm",
-      "date": "2026-10-26 22:09",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793023781.0,
-      "summary": "据美国国家公共广播电台（NPR）10月26日报道，飓风预报员正越来越多地借助人工智能进行预测，并称这项技术正在迅速改变整个领域。本月大西洋飓风季首个飓风生成时，一个人工智能模型的路径预测就压过了传统模型。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "任天堂Switch 2首个越狱漏洞开始被实际运用：YouTube已能运行",
-      "link": "https://www.cnbeta.com.tw/articles/game/1583938.htm",
-      "date": "2026-10-26 22:08",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793023697.0,
-      "summary": "上周，首个针对任天堂 Switch 2 的越狱漏洞被公开发布到网络上。尽管这只是一个需要连线（tethered）的漏洞利用方式，但它所打开的可能性依然让这次发布令人兴奋。几天之后，这个漏洞已经被投入实际使用：据称，一名用户解决了该系统的一项关键短板，而另一位知名黑客则据称已经开发出一个非连线式（un",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果发布搭载OLED屏幕和A20 Pro芯片的iPad mini 8 起售价699美元",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583936.htm",
-      "date": "2026-10-26 22:03",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793023390.0,
-      "summary": "苹果发布搭载OLED屏幕和A20 Pro芯片的iPad mini 8，起售价699美元，10月28日开启预购，预计11月6日发货。这款产品在iPhone Duo上市仅数日后亮相，被外界视为苹果在小型可携设备市场中的又一次布局。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "Anthropic上市 押上的几乎是整个AI市场",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583934.htm",
-      "date": "2026-10-26 22:01",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793023311.0,
-      "summary": "Anthropic最快下月登陆资本市场，这场IPO远不止这家AI公司的公开亮相，它同时是检验美国经济的试金石，数万亿美元的资本命运系于此役。这家推出Claude对话机器人的企业，是AI行业的支柱型巨头。它在一级市场估值接近1万亿美元，累计融资超1300亿美元；本次上市有望募资1000亿美元，一举跻身",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "Anthropic公开递交纳斯达克IPO申请 目标下月16日当周上市",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583932.htm",
-      "date": "2026-10-26 22:01",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793023277.0,
-      "summary": "Anthropic正式踏上上市之路。这家成立仅五年、身处生成式AI浪潮核心的企业，本次IPO有望创下历史纪录。Anthropic在提交给美国证券交易委员会（SEC）的文件中披露，计划登陆纳斯达克交易所，股票代码定为“ANT”，目标在11月16日当周进行IPO。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "超低生育率的另一个解释：谁该带孩子？| 大侦探经济学",
@@ -402,56 +662,6 @@
       "category": "News"
     },
     {
-      "title": "科技赋能油茶采收 湖南祁阳老产业解锁空中转运新模式",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-26/10721395.shtml",
-      "date": "2026-10-26 21:58",
-      "author": "中新网社会新闻",
-      "timestamp": 1793023092.0,
-      "summary": "中新网祁阳10月26日电(谭俊杰 欧勇强 伍彬彬)眼下，湖南祁阳市60多万亩油茶迎来“霜降籽”采摘旺季。群山之间，村民俯身采摘鲜果，无人机往返穿梭转运果实，传统油茶采收迎来科技新帮手。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "广东以赛带训 推动智能机器人等技能培训与产业升级同频",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-26/10721390.shtml",
-      "date": "2026-10-26 21:57",
-      "author": "中新网社会新闻",
-      "timestamp": 1793023062.0,
-      "summary": "中新网佛山10月26日电 (记者 王坚)来自广州、深圳、珠海等地先进制造业的技能人才25日齐聚佛山，在2026年广东省智能机器人与数字制造应用技术项目职业技能竞赛的赛场上，比学赶超、各展身手，绘就一幕幕“人机协作”的智造画卷。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "数智赋能护理创新 国际交流共探学科发展新路径",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-26/10721384.shtml",
-      "date": "2026-10-26 21:55",
-      "author": "中新网社会新闻",
-      "timestamp": 1793022930.0,
-      "summary": "中新网长沙10月26日电 (刘新娥)10月26日，第十三届湘雅护理国际学术会议暨第三届智汇护理·未来科学家论坛在长沙开幕，来自美国、荷兰、卢森堡、中国等国的97所高校和医疗机构的近300名专家学者及青年学子，聚焦数智技术应用、学科交叉创新与青年人才培养，交流护理领域前沿研究，探讨护理教育、科研与临床",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "“制止餐饮浪费”青少年志愿服务行动特别活动在北京举办",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-26/10721386.shtml",
-      "date": "2026-10-26 21:52",
-      "author": "中新网社会新闻",
-      "timestamp": 1793022756.0,
-      "summary": "中新网北京10月26日电 (记者 刘亮)作为2026年全国食品安全宣传周重点活动之一，“追光少年青春守护中国粮”——“制止餐饮浪费”青少年志愿服务行动特别活动日前在北京举办。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "ChatGPT网页版现在也可以设置强调色/背景色/前景色 不过可能还是默认的比较好",
-      "link": "https://www.landian.news/archives/127679.html",
-      "date": "2026-10-26 20:50",
-      "author": "蓝点网",
-      "timestamp": 1793019049.0,
-      "summary": "#人工智能 ChatGPT 网页版现在也可以设置强调色 / 背景色 / 前景色，虽然用户可以直接输入色值调整配色，但可能还是内置的比较好。用户可以在主题里选择 Codex 主题，然后选择 ChatGPT 已经配置好的现成配色方案，包括暖色调和 Xcode 风格等。查看全文：https://ourl.",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
       "title": "抑郁症笼罩下，一个家庭日复一日的生活",
       "link": "https://www.infzm.com/contents/343235",
       "date": "2026-10-26 20:00",
@@ -460,26 +670,6 @@
       "summary": "父母在漫长的照料中承受的疲惫、他们各自的伤痛，也变得更清楚\n\n（本文首发于南方人物周刊）\n                \n                \n                                        南方人物周刊记者 孟依依",
       "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
-    },
-    {
-      "title": "三星与SK海力士调整HBM4策略：8层堆叠方案或于2027年中大规模供应英伟达",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583930.htm",
-      "date": "2026-10-26 19:27",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793014038.0,
-      "summary": "随着高带宽内存（HBM）技术向更高层数堆叠演进，散热和良率问题正成为产业链面临的新挑战。最新消息显示，三星电子和SK海力士计划从2027年第二季度开始，大幅增加面向英伟达下一代AI加速器Rubin Ultra的8层HBM4内存供应，而非此前被广泛看好的12层堆叠方案。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "英特尔CEO称已与苏姿丰探讨合作可能性 14A工艺即将迈入风险试产阶段",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1583928.htm",
-      "date": "2026-10-26 19:25",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793013945.0,
-      "summary": "英特尔首席执行官陈立武（Lip-Bu Tan）近日在华美半导体专业协会（CASPA）于10月24日举办的一场炉边谈话中透露，公司正在积极推进先进制程与客户合作战略。他表示，英特尔不仅将全力争夺CPU性能领导地位，还正在探索与竞争对手AMD开展合作的潜在机会。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "闯过祸的AI，成为网络安全“吹哨人” | 科创要闻",
@@ -510,156 +700,6 @@
       "summary": "华图教育轮值CEO郑文照向南方周末记者分析，经过多年调整，公务员招录岗位和人数整体趋于稳定。连续两年缩招更应被理解为高位上的结构优化，而非简单的“国考降温”。\n\n“公考围岗”，是指个别考生或培训机构私下串联，组织多人集中报考同一职位，人为制造虚假报名热度，干扰其他考生的选岗判断，甚至试图影响面试入围",
       "source_url": "https://www.infzm.com/contents?term_id=2",
       "category": "News"
-    },
-    {
-      "title": "微软Xbox首席运营官海伦·蒋上任3个月就离职 消息称离职原因是涉嫌政策违规",
-      "link": "https://www.landian.news/archives/127678.html",
-      "date": "2026-10-26 16:41",
-      "author": "蓝点网",
-      "timestamp": 1793004087.0,
-      "summary": "#行业资讯 微软 Xbox 部门首席运营官海伦・蒋上任 3 个月后就离职，曾长期负责 Minecraft 游戏相关的业务。海伦・蒋在 2005 年加盟微软，之后很长时间都在负责我的世界游戏业务，2026 年 7 月成为 Xbox 首席运营官。知情人士称海伦・蒋违反公司政策被解雇，不过具体情况暂时还不",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "9·30新规关闸：基金“大V”营销带货时代落幕",
-      "link": "https://www.infzm.com/contents/343399",
-      "date": "2026-10-26 15:39",
-      "author": "南方周末-新闻",
-      "timestamp": 1793000391.0,
-      "summary": "公募行业迫切需要线上低成本触达海量个人投资者，“轻量化内容种草”的模式，恰好匹配基金普惠传播、长尾获客的需求。\n\n算法倾斜收益型内容，博主、MCN、公募便形成流量变现联动动机，把个人分享外壳变成绕开资质监管的营销通道。\n\n部分营销内容容易突出短期业绩、热门赛道或所谓“实盘收益”，将复杂的基金投资简化",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
-      "title": "苹果宣布删除eMudhra G3根证书的信任 但Mac命令行工具还需要等待后续更新",
-      "link": "https://www.landian.news/archives/127677.html",
-      "date": "2026-10-26 15:00",
-      "author": "蓝点网",
-      "timestamp": 1792998000.0,
-      "summary": "#系统资讯 苹果已经删除 emSign ECC Root CA G3 根证书的信任，不过 macOS 命令行工具暂时还未更新，还需要等待苹果后续更新。谷歌已经决定在 10 月 27 日从 Chrome 中删除 G3 根证书的信任，苹果的删除速度更快，目前已经通过云端配置完成删除和下发操作。macOS",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "谋智基金会启动重返Firefox活动 以古早表情包吸引曾经的用户回归火狐",
-      "link": "https://www.landian.news/archives/127676.html",
-      "date": "2026-10-26 14:30",
-      "author": "蓝点网",
-      "timestamp": 1792996200.0,
-      "summary": "#软件资讯 谋智基金会启动重返 Firefox 活动，以古早表情包吸引曾经的用户回归火狐浏览器。新的广告宣传片将在美国、德国、英国、法国播出，侧重点是火狐浏览器的隐私保护与控制。例如火狐浏览器内置跟踪保护、在 iOS 端提供内置的原生广告拦截以及用户可以决定是否使用内置 AI 功能等。查看全文：ht",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "知名虚拟组网软件Tailscale存在SSH权限缺陷 已获准接入设备可以横向取得root",
-      "link": "https://www.landian.news/archives/127675.html",
-      "date": "2026-10-26 14:00",
-      "author": "蓝点网",
-      "timestamp": 1792994400.0,
-      "summary": "#安全资讯 知名虚拟组网工具 Tailscale 存在 SSH 权限缺陷，已经获准的设备可以横向取得其他设备的 root 权限。目前 Tailscale 官方正在评估漏洞影响范围，相关修复程序也在密集开发合并中。Tailscale 建议用户先收紧访问与转发权限，对于不需要 SSH 转发的用户直接关闭",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果在零售店部署密封盒iPhone检测设备 退货验机时不需要拆箱即可校验手机",
-      "link": "https://www.landian.news/archives/127674.html",
-      "date": "2026-10-26 13:30",
-      "author": "蓝点网",
-      "timestamp": 1792992600.0,
-      "summary": "#行业资讯 苹果开始在零售店部署新设备用于检测密封盒 iPhone 的状态，主要用于打击拆封掉包 iPhone 或零件后退货的欺诈行为。新设备可以在不开箱的情况下开启、运行诊断程序，确认商品没问题后再给顾客退货。直到现在苹果都经常遇到开箱掉包和拆机后掉包零件的行为，有新设备检测后这种情况应该更容易被",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "Windows 11预览版出现APX高级性能扩展开关 对于受支持的硬件可以提高性能",
-      "link": "https://www.landian.news/archives/127673.html",
-      "date": "2026-10-26 13:00",
-      "author": "蓝点网",
-      "timestamp": 1792990800.0,
-      "summary": "#系统资讯 Windows 11 预览版出现 APX 高级性能扩展开关，对于受支持的硬件，开启后可以提升整体性能。APX 是英特尔开发的指令集扩展，该技术将通用寄存器数量从 16 个增加到 32 个，编译器可以将更多数据留在处理器内部，不需要在内存之间频繁搬运数据。目前微软正在测试该技术，后续还需要",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "开源项目GPU Unlock让RTX 30系显卡AI吞吐提升近60% 可以本地运行量化模型",
-      "link": "https://www.landian.news/archives/127672.html",
-      "date": "2026-10-26 12:00",
-      "author": "蓝点网",
-      "timestamp": 1792987200.0,
-      "summary": "#开源项目 GPU Unlock 项目：可以让 RTX 30 系显卡 AI 吞吐提升近 60%，解锁后本地运行量化模型性能明显提升。使用 RTX 3090 Ti 进行 8192³ 稠密矩阵乘法测试，测试结果如下：FP16 性能从 87.46 提升到 118.39；BF16 从 87.50 提升到 1",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "喜报！微软测试在Windows 11中添加原生网络测速 不需要再跳转到浏览器",
-      "link": "https://www.landian.news/archives/127604.html",
-      "date": "2026-10-26 11:30",
-      "author": "蓝点网",
-      "timestamp": 1792985400.0,
-      "summary": "#系统资讯 喜报！微软测试在 Windows 11 中添加原生网络测速功能，不需要再打开浏览器跳转到必应搜索测速。之前微软添加的测速就是自动打开必应搜索网页版，然后这个功能被很多用户吐槽。现在微软将其变成 Windows 11 的原生功能，测试结果也都在桌面直接显示。查看全文：https://our",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "日本GMO旗下云桌面服务遭到攻击 由于各种低级配置失误 黑客已获取所有信息",
-      "link": "https://www.landian.news/archives/127603.html",
-      "date": "2026-10-26 11:00",
-      "author": "蓝点网",
-      "timestamp": 1792983600.0,
-      "summary": "#安全资讯 日本上市公司 GMO 互联网集团旗下的云桌面服务 お名前.com Desktop Cloud 遭到黑客攻击，黑客直指该系统存在多种低级配置问题。整个系统架构采用微软 AD 管理，可以横向连接到其他服务器。GMO 还使用通用的超级管理员账户来访问客户服务器，访问后超管凭证可能还会泄露给客户",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "警惕扳手攻击：知名硬件钱包Keystone数据泄露 用户姓名/电话/住址等被黑客获取",
-      "link": "https://www.landian.news/archives/127602.html",
-      "date": "2026-10-26 10:30",
-      "author": "蓝点网",
-      "timestamp": 1792981800.0,
-      "summary": "#加密货币 扳手攻击：知名加密钱包 Keystone 数据泄露，用户姓名、联系电话、住址等被黑客窃取，已经有用户接到诈骗电话。Keystone 自称会在 180 天内删除用户订单信息，但事实似乎是数据被长期保留。而个人信息泄露后用户可能会遭遇扳手攻击，即犯罪团伙根据信息在现实世界中跟踪目标进行绑票强",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "巨额资金已经冲进AI，宏观账还没算清",
-      "link": "https://www.infzm.com/contents/343350",
-      "date": "2026-10-26 10:00",
-      "author": "南方周末-新闻",
-      "timestamp": 1792980023.0,
-      "summary": "AI从投资、金融、财政三个层面同时冲击了宏观经济。AI何时能赚钱以及宏观回报的讨论，由此甚嚣尘上。\n                \n                \n                                        南方周末研究员 徐庭芳",
-      "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
-      "title": "比特币软钱包Electrum存在高危漏洞 攻击者可以将收款地址替换为自己的钱包地址",
-      "link": "https://www.landian.news/archives/127601.html",
-      "date": "2026-10-26 10:00",
-      "author": "蓝点网",
-      "timestamp": 1792980000.0,
-      "summary": "#加密货币 比特币轻钱包 Electrum 存在高危安全漏洞，攻击者利用缺陷可以将用户转账地址替换为自己的钱包地址。目前 Electrum 已经发布 4.8.3 版加强签名验证并移除可能伪造的交易历史记录，而用户每次转账时也应该核对完整地址，不能只看前四位和后四位。查看全文：https://ourl",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "真热闹！爱好者们使用eMudhra泄露证书为谷歌签发10.6万张证书 能通过CA公钥认证",
-      "link": "https://www.landian.news/archives/127600.html",
-      "date": "2026-10-26 09:30",
-      "author": "蓝点网",
-      "timestamp": 1792978200.0,
-      "summary": "#行业资讯 真热闹！爱好者们使用 eMudhra 泄露的证书为谷歌签发 10.6 万张证书，能通过 CA 公钥认证。目前 CT 日志公开记录的提交达到 10.7 万条 (用泄露证书签发的)，其中适用于 Google.com 域名的为 10.6 万条，占比 99%。这些证书可以通过 CA 公钥认证但由",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "B站大促继续：京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售",
-      "link": "https://www.ithome.com/1/017/751.htm",
-      "date": "2026-10-26 09:16",
-      "author": "IT之家",
-      "timestamp": 1792977365.0,
-      "summary": "B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：京东哔哩哔哩大会员 12 个月年卡 + 京东 PLUS 会员年卡 148 元直达链接如果不需要京东 PLUS 会员，还有单会员也在大促中，年卡原价 233 元，11.11 大促期间，",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
     }
   ]
 }
