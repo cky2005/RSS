@@ -2,6 +2,396 @@
   "update_time": "2026-11-05",
   "articles": [
     {
+      "title": "启元 T1 机器人首次 OTA 明日推送：智能识别楼梯并自动变形、远程音视频通话",
+      "link": "https://www.ithome.com/1/022/530.htm",
+      "date": "2026-11-05 09:51",
+      "author": "IT之家",
+      "timestamp": 1793843460.0,
+      "summary": "IT之家 11 月 5 日消息，启元 T1 机器人首次 OTA 将于明日开启推送，新增支持智能识别楼梯并自动变形、远程音视频通话等。IT之家整理如下：智能识别楼梯自动变形，四足跟随：支持跟随中自主识别楼梯并切换成四足跟随上下楼梯，也支持用户主动指令：“跟我上楼梯”/“跟我下楼梯”。远程音视频通话：不",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "英伟达 App 新增 GPU 优先级设置：支持前后台应用 95:5 分配，RTX 50 系列灰度测试中",
+      "link": "https://www.ithome.com/1/022/529.htm",
+      "date": "2026-11-05 09:50",
+      "author": "IT之家",
+      "timestamp": 1793843415.0,
+      "summary": "IT之家 11 月 5 日消息，部分用户发现，英伟达似乎正在测试一项新的 GPU 资源优先级控制功能。据 Reddit 用户 Warkratos 反馈，在最新版 NVIDIA App（11.0.9.585）中，系统高级设置里出现了名为 GPU App Prioritization 的选项，可以手动调",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "启境 CEO 刘嘉铭称 L3 是下一代智能汽车分水岭，并非 L2 简单升级",
+      "link": "https://www.ithome.com/1/022/528.htm",
+      "date": "2026-11-05 09:47",
+      "author": "IT之家",
+      "timestamp": 1793843244.0,
+      "summary": "IT之家 11 月 5 日消息，据新浪汽车本周报道，启境 CEO 刘嘉铭在媒体专访播客中谈到 L3 路线之争。针对行业关注的“L3 是否会被跳过”“L3 是技术升级还是架构革命”等问题，刘嘉铭判断，L3 是下一代智能汽车的分水岭，并非 L2 的简单升级。他认为，冰箱、彩电、大沙发等更多属于场景功能创",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "断网也能搜邮件：微软给 Win10/Win11 经典版 Outlook 加上“本地搜索”",
+      "link": "https://www.ithome.com/1/022/527.htm",
+      "date": "2026-11-05 09:45",
+      "author": "IT之家",
+      "timestamp": 1793843141.0,
+      "summary": "IT之家 11 月 5 日消息，科技媒体 Windows Latest 今天（11 月 5 日）发布博文，报道称针对 Windows 10、Windows 11 平台经典版 Outlook 应用（Outlook Classic），微软计划升级搜索体验，在断网情况下也能搜索邮件。该媒体指出在云端搜索响",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "游族网络拟 42 亿元买 GPU，推进公司转型升级",
+      "link": "https://www.ithome.com/1/022/526.htm",
+      "date": "2026-11-05 09:35",
+      "author": "IT之家",
+      "timestamp": 1793842502.0,
+      "summary": "IT之家 11 月 5 日消息，游族网络 11 月 4 日发布关于签署日常经营合同的公告，全资子公司上海游族信息技术有限公司（简称“游族信息”）于近日与 A 公司签署了《销售合同》，游族信息向 A 公司采购型号为 PRO5500 (PCIe) 的 GPU 产品，协议总金额为人民币 42.25 亿元（",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "美国 AI 扩张遭遇地方阻力：水电资源和环境争议升温，76% 选民反对在社区建设数据中心",
+      "link": "https://www.ithome.com/1/022/525.htm",
+      "date": "2026-11-05 09:33",
+      "author": "IT之家",
+      "timestamp": 1793842400.0,
+      "summary": "北京时间 11 月 5 日，据美国科技媒体 The Verge 报道，随着 2026 年美国中期选举结果陆续出炉，人工智能行业赖以发展的数据中心建设遭遇重大阻力。美国多地选民通过地方公投限制数据中心扩张，多名支持暂停相关项目建设的候选人赢得选举，意味着美国 AI 数据中心开发商未来可能面临更加严格的",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "微软修复 Win11 画图应用 8.1 分高危漏洞，但用户反馈看不到更新",
+      "link": "https://www.ithome.com/1/022/523.htm",
+      "date": "2026-11-05 09:32",
+      "author": "IT之家",
+      "timestamp": 1793842338.0,
+      "summary": "IT之家 11 月 5 日消息，科技媒体 Windows Latest 今天（11 月 5 日）发布博文，报道称微软确认 Windows 11 内置“画图”（Paint）应用存在 8.1 分（满分 10 分）高危漏洞，但用户无法正常安装微软补丁。该漏洞追踪编号为 CVE-2026-83844，微软已",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "谷歌浏览器金丝雀版测试横向标签页滚动 打开大量标签页时可以用鼠标滚轮切换",
+      "link": "https://www.landian.news/archives/128049.html",
+      "date": "2026-11-05 09:30",
+      "author": "蓝点网",
+      "timestamp": 1793842200.0,
+      "summary": "#软件资讯 谷歌浏览器金丝雀版测试标签页横向滚动功能，如果你使用横向标签页且经常打开大量页面，可以通过鼠标滚轮快速切换。该功能仅适用于横向标签栏，不支持垂直标签栏。谷歌以前也测试过横向滚动功能但后来被删除，此次添加的是重新设计的新版本。新版本支持固定标签页保留区域，只有非固定标签页被挤出视野后才能滚",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "曝 OpenAI 新一代 GPT-6.2 Astra、Sol 及 Cyber 网安模型最快周五发布",
+      "link": "https://www.ithome.com/1/022/522.htm",
+      "date": "2026-11-05 09:28",
+      "author": "IT之家",
+      "timestamp": 1793842138.0,
+      "summary": "IT之家 11 月 5 日消息，据《The Information》当地时间 11 月 4 日报道，OpenAI 最快可能于当地时间周五（11 月 6 日）发布新一代 Astra、Sol 系列模型，以及面向网络安全领域的 Cyber 模型。不过，报道没有披露具体型号编号，也未提供定价、上下文窗口长度",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "文创“进化”，路在何方？（金台随笔）",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726397.shtml",
+      "date": "2026-11-05 09:28",
+      "author": "中新网社会新闻",
+      "timestamp": 1793842116.0,
+      "summary": "深耕文创这么些年，不难发觉一条清晰的博物馆文创“进化论”。从在柜台售卖等比缩小的馆藏文物“复制品”，到把文物图案或博物馆标识印制于日常用品之上，再到运用3D技术精准还原器物，融合珐琅、鎏金、榫卯等传统工艺……如今，“文旅+科技”成为行业潮流，博物馆文创发展进入新阶段。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "JBL Professional 推出 3 系列 MkIII 家族有源监听音箱及超低音音箱",
+      "link": "https://www.ithome.com/1/022/521.htm",
+      "date": "2026-11-05 09:25",
+      "author": "IT之家",
+      "timestamp": 1793841919.0,
+      "summary": "IT之家 11 月 5 日消息，三星电子旗下 HARMAN Professional Solutions 本月早些时候发布了 JBL Professional 3 系列 MkIII 产品家族。新品传承系列经典基因，同时拥有全新设计的声学系统、全新 D 类功放、简化的房间优化功能、集成式安装方案。JB",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "中国移动支付业务“和包”升级为“移动钱包”，带来三大全新体验",
+      "link": "https://www.ithome.com/1/022/520.htm",
+      "date": "2026-11-05 09:22",
+      "author": "IT之家",
+      "timestamp": 1793841723.0,
+      "summary": "IT之家 11 月 5 日消息，中移支付有限公司今日官宣，中国移动“和包”升级为“移动钱包”，汇聚话费充值、移动出行、权益卡券等各类场景与优惠。该应用最早在 2011 年推出，原名“手机支付”“手机钱包”，是中国移动面向个人和企业客户提供的一项综合性移动支付业务。用户开通业务后，即可享受线上支付（互",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "《万智牌》真人电影步入正轨：首位演员确定为《怪奇物语》玛雅 · 霍克",
+      "link": "https://www.ithome.com/1/022/519.htm",
+      "date": "2026-11-05 09:20",
+      "author": "IT之家",
+      "timestamp": 1793841643.0,
+      "summary": "IT之家 11 月 5 日消息，据 Deadline 今日报道，《怪奇物语》演员玛雅 · 霍克（Maya Hawke）已确认加盟并成为《万智牌》（Magic：The Gathering）真人电影首位正式确定出演的演员。这意味着，在历经多年波折后，由 Legendary Entertainment 与",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "消息称荣耀 700 系列采用同档唯一双 8 芯片，Pro 用上骁龙 8 Gen5",
+      "link": "https://www.ithome.com/1/022/518.htm",
+      "date": "2026-11-05 09:19",
+      "author": "IT之家",
+      "timestamp": 1793841548.0,
+      "summary": "IT之家 11 月 5 日消息，据博主 @数码闲聊站 今日爆料，荣耀 700 系列手机采用同档唯一双 8 芯片，标准版是骁龙 8s Gen4，Pro 直接了上骁龙 8 Gen5，拥有更强性能 + 更大电池 + 潜望镜 + 旗舰影像 + 自拍背屏。荣耀全球首席营销官关海涛于 11 月 3 日发文，正式",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "我国中东部将现大范围降水 气温大面积创新低",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726393.shtml",
+      "date": "2026-11-05 09:18",
+      "author": "中新网社会新闻",
+      "timestamp": 1793841536.0,
+      "summary": "中国天气网讯 今明天(11月5日至6日)，我国中东部地区降水范围有所缩减，江南部分地区雨势较强，东北降雪频繁。后天中东部降水范围将明显扩展，部分地区降水强度大，需防范雨雪天气对交通出行等方面的不利影响。受降水和冷空气影响，今天至10日，全国气温将大面积创今年下半年来新低。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "京东红包今日 10 点再加码：猜数字抢 5 元红包",
+      "link": "https://www.ithome.com/1/022/517.htm",
+      "date": "2026-11-05 09:18",
+      "author": "IT之家",
+      "timestamp": 1793841529.0,
+      "summary": "今日 10 点京东红包再加码，猜数字有机会抢 5 元加码红包：点此抽取。猜数字红包玩法：每人 3 次机会，猜中锦鲤数字后即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。猜错后会缩小锦鲤数字的范围并提示用户，如果用户 3 次机会均未猜中，则无法获得任何奖励。蚊子肉也是肉，节点开",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "转正后被调入其他部门，还能再约定试用期吗？人社部解答",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726383.shtml",
+      "date": "2026-11-05 09:18",
+      "author": "中新网社会新闻",
+      "timestamp": 1793841506.0,
+      "summary": "中新网11月5日电 转正后被调入其他部门，还能再约定试用期吗？人社部5日通过官方微信公众号作出解答。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "冷空气即将驱散大雾 东北华北等地降温显著",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726382.shtml",
+      "date": "2026-11-05 09:17",
+      "author": "中新网社会新闻",
+      "timestamp": 1793841424.0,
+      "summary": "中新网11月5日电 据中央气象台网站消息，今晨，河北中南部、天津西部、北京大部、山西南部、山东西部、河南北部和南部、湖北东部等地出现大雾天气，其中河北中南部、北京东部、山东西部、河南南部、湖北东部等地出现能见度不足200米的强浓雾；华北中南部、东北地区南部等地有轻度霾，局地中度霾。预计今天上午起，受",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "苹果 App Store 新规：用户退订时，开发者可设置“挽留优惠”",
+      "link": "https://www.ithome.com/1/022/516.htm",
+      "date": "2026-11-05 09:15",
+      "author": "IT之家",
+      "timestamp": 1793841341.0,
+      "summary": "IT之家 11 月 5 日消息，苹果开发者官网昨日（11 月 4 日）发布公告，宣布面向 App Store 开发者上线了“订阅挽留”功能。用户在 iPhone、iPad 或 Mac 上尝试取消自动续订订阅后，开发者可以在取消流程中插入文字、图片或特别优惠，例如折扣、延长会员期或说明继续订阅的理由。",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "三星显示在中国启动 QD-OLED 网吧认证，目标到 2026 年扩展至 60 家",
+      "link": "https://www.ithome.com/1/022/514.htm",
+      "date": "2026-11-05 09:13",
+      "author": "IT之家",
+      "timestamp": 1793841202.0,
+      "summary": "IT之家 11 月 5 日消息，三星显示 (SDC) 今日宣布携手 AOC、华硕、HKC、微星、泰坦军团、优派在中国启动“三星显示 QD-OLED 认证店”网吧认证计划，目标到 2026 年底将获认证网吧从当前的 10 家扩展至 60 家。获得“三星显示 QD-OLED 认证店”称号的网吧需要配备至",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "新型网络诈骗方式出现：本地号码、“真人”面孔、“正规”界面……全都可能是假的！（附真实案例+防骗指南）",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726387.shtml",
+      "date": "2026-11-05 09:09",
+      "author": "中新网社会新闻",
+      "timestamp": 1793840943.0,
+      "summary": "公安部日前通报",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "OpenAI称ChatGPT搜索类查询已经达到谷歌的20% 周活跃用户增长至12亿",
+      "link": "https://www.landian.news/archives/128048.html",
+      "date": "2026-11-05 09:00",
+      "author": "蓝点网",
+      "timestamp": 1793840400.0,
+      "summary": "#人工智能 OpenAI 称 ChatGPT 搜索类查询已经达到谷歌的 20%，周活跃用户增长至 12 亿。该数据也反映出越来越多的用户开始通过 AI 助手类工具查找所需信息，而不是依赖传统搜索引擎。不过 OpenAI 并未透露 ChatGPT 搜索类查询具体次数，也不知道相当于谷歌的 20% 这个",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "贵州湖南江西等地有中到大雨 冷空气将影响内蒙古和东北地区等地",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726375.shtml",
+      "date": "2026-11-05 08:32",
+      "author": "中新网社会新闻",
+      "timestamp": 1793838745.0,
+      "summary": "中新网11月5日电 据中央气象台网站消息，昨日，广东、江西等地出现大到暴雨；内蒙古及东北地区出现大风降温天气，部分地区出现雨雪。预计5日至6日，冷空气继续影响内蒙古、东北、华北等地，内蒙古、黑龙江等地有较强降雪；贵州、湖南、江西等地有较强降雨；上述地区需做好交通、旅游、城市运行等安全管理工作。7日至",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "无论走到哪都被精准跟踪，原因竟是它！",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726369.shtml",
+      "date": "2026-11-05 07:59",
+      "author": "中新网社会新闻",
+      "timestamp": 1793836753.0,
+      "summary": "近日，一则不法分子利用技术手段精准定位他人的新闻，再次敲响了网络安全警钟。陈某与周某存在债务纠纷。陈某发现，周某总能掌握他的行踪，即便他外出出差，对方也能精准获知其位置，并持续向他催讨欠款。陈某工作生活受到严重影响，不堪其扰之下，他选择了报警求助。警方调查发现，周某在“极速定位”非法网站付费注册后，",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "“大字吸睛小字免责”式促销法律不认",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726363.shtml",
+      "date": "2026-11-05 07:41",
+      "author": "中新网社会新闻",
+      "timestamp": 1793835718.0,
+      "summary": "蒋玘瑞",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "涉案超20亿元！特大养老集资诈骗案经抗诉改判",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726362.shtml",
+      "date": "2026-11-05 07:41",
+      "author": "中新网社会新闻",
+      "timestamp": 1793835660.0,
+      "summary": "先以“养老基金会”圈钱 再借“预付费养老院”吸金",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "投保者身故却无法定继承人 非亲扶养者能分保险金吗？",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726361.shtml",
+      "date": "2026-11-05 07:37",
+      "author": "中新网社会新闻",
+      "timestamp": 1793835474.0,
+      "summary": "本报记者 柳姗姗 彭冰",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "入职前必须先租房？当心骗局！",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726359.shtml",
+      "date": "2026-11-05 07:36",
+      "author": "中新网社会新闻",
+      "timestamp": 1793835406.0,
+      "summary": "本报记者 邹倜然",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "卖脸卖声的“躺赚”噱头后，藏着诸多风险",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726358.shtml",
+      "date": "2026-11-05 07:34",
+      "author": "中新网社会新闻",
+      "timestamp": 1793835284.0,
+      "summary": "上传几张照片、录一段声音就能赚钱？记者实测人脸、声音授权兼职过程",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "秋招面试AI攻防大战，究竟谁是赢家",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726354.shtml",
+      "date": "2026-11-05 07:28",
+      "author": "中新网社会新闻",
+      "timestamp": 1793834908.0,
+      "summary": "黄彬彬",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "补办身份证得先刷身份证？别让便民服务被细节卡住",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726353.shtml",
+      "date": "2026-11-05 07:26",
+      "author": "中新网社会新闻",
+      "timestamp": 1793834812.0,
+      "summary": "刘少华",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "信医生还是信AI？这是一个问题",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726352.shtml",
+      "date": "2026-11-05 07:25",
+      "author": "中新网社会新闻",
+      "timestamp": 1793834756.0,
+      "summary": "丰收",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "​OpenAI提前布局2028美国大选议题 力推“AI新政”",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585066.htm",
+      "date": "2026-11-05 06:30",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793831413.0,
+      "summary": "距离2028年美国总统大选还有两年时间，但OpenAI已经开始试图影响这场选举中有关人工智能的讨论方向。公司全球事务主管克里斯·莱哈恩近日公开表示，人工智能可能成为2028年美国大选最具决定性的议题之一，并呼吁政界人士尽快建立一套能够回应公众担忧的AI政策框架。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "旅行者1号再创历史 即将成为首个距离地球“一光日”的人类航天器",
+      "link": "https://www.cnbeta.com.tw/articles/science/1585064.htm",
+      "date": "2026-11-05 03:59",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793822381.0,
+      "summary": "美国国家航空航天局（NASA）的“旅行者1号”探测器即将迎来又一个历史性里程碑。这艘已经飞行近半个世纪的深空探测器，预计将在未来数周内达到距离地球一光日的位置，成为人类历史上首个与地球相隔整整一天光程的航天器。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "DuckDuckGo借Google AI争议进军校园市场",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585062.htm",
+      "date": "2026-11-05 03:35",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793820955.0,
+      "summary": "在Google最新教育产品政策引发广泛争议后，主打隐私保护的搜索引擎DuckDuckGo迅速抓住机会，开始积极向美国各地学校推广自身服务，试图在长期由Google主导的教育市场争取更多份额。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "自发电抗菌牙刷问世：利用压电效应产生电荷 实验中牙菌斑清除率超过99%",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585060.htm",
+      "date": "2026-11-05 03:34",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793820862.0,
+      "summary": "传统电动牙刷主要依靠机械振动和刷毛摩擦清除牙齿表面的牙菌斑，而中国研究人员近日开发出一种全新的实验性牙刷，将压电材料直接编织进刷毛之中。使用者刷牙时，刷毛受到机械作用便会产生电荷，进而触发抗菌化学反应，生成能够破坏细菌的活性氧物质。整个过程无需额外电池供电，有望让普通牙刷同时具备机械清洁和主动杀菌能",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "ChatGPT升级图片能力 支持直接生成和编辑GIF动画",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585058.htm",
+      "date": "2026-11-05 03:33",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793820787.0,
+      "summary": "OpenAI宣布为ChatGPT推出全新GIF动画生成功能，用户如今只需输入文字提示或上传一张图片，即可直接创建可播放的GIF动画。这项新能力将随着全新的Images 2.6图像模型一同向用户开放，进一步扩展了ChatGPT在图像创作领域的能力边界。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "免费开源项目让Windows 11彻底摆脱GPU 仅利用处理器NPU渲染整个桌面",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585056.htm",
+      "date": "2026-11-05 03:31",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793820668.0,
+      "summary": "随着人工智能处理器逐渐普及，越来越多的PC开始配备专门用于AI计算的神经网络处理单元（NPU）。不过，这类硬件目前主要用于本地AI模型推理和图像处理，日常Windows桌面仍然主要依赖集成显卡或独立显卡完成图形渲染。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果将在iOS 27.3中审查公开iCloud分享链接内容 违规账号或面临封禁",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1585054.htm",
+      "date": "2026-11-05 03:29",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1793820561.0,
+      "summary": "苹果公司宣布，将从即将发布的iOS 27.3、iPadOS 27.3、macOS 27.3以及visionOS 27.3开始，对通过公开iCloud链接分享的内容进行安全审查。此举意味着部分原本由用户公开分享的照片和文件内容，将被苹果检测是否包含有害内容。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
       "title": "2026年最抽象的数码产品，该不会是无人快递车吧？",
       "link": "https://www.cnbeta.com.tw/articles/tech/1585052.htm",
       "date": "2026-11-05 02:28",
@@ -32,16 +422,6 @@
       "category": "Blog"
     },
     {
-      "title": "华为小艺 Work 率先上线 openPangu-2.1-Pro 模型，主打“鸿蒙任务增强”",
-      "link": "https://www.ithome.com/1/022/472.htm",
-      "date": "2026-11-05 00:39",
-      "author": "IT之家",
-      "timestamp": 1793810380.0,
-      "summary": "IT之家 11 月 5 日消息，华为云 11 月 1 日发布公告，MaaS 模型即服务平台将于 2026 年 11 月 6 日停止销售 openPangu-2.0-Flash 和 openPangu-2.0-Pro 两款模型服务，并于 11 月 30 日 00:00 正式下线。不过华为官方表示，op",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "30000年前法国女性的DNA改写冰河时代欧洲史 远隔数千公里的人群早已存在基因交流",
       "link": "https://www.cnbeta.com.tw/articles/science/1585046.htm",
       "date": "2026-11-05 00:25",
@@ -52,16 +432,6 @@
       "category": "Blog"
     },
     {
-      "title": "微信鸿蒙版 App 推 8.0.23.34 正式版更新，更多用户灰度合并发图功能",
-      "link": "https://www.ithome.com/1/022/470.htm",
-      "date": "2026-11-04 23:56",
-      "author": "IT之家",
-      "timestamp": 1793807779.0,
-      "summary": "IT之家 11 月 4 日消息，微信鸿蒙版 App 今晚在华为应用市场（App Gallery）发布了 8.0.23.34 正式版更新。和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据用户反馈，8.0.23 版本的微信新增了如下特性：部分 Flutter 跨端页面（如朋友圈、听一听、表情管",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "蓝牙迎来近四倍速度提升 HDT技术为高品质音频和高速传输铺路",
       "link": "https://www.cnbeta.com.tw/articles/tech/1585044.htm",
       "date": "2026-11-04 23:32",
@@ -69,36 +439,6 @@
       "timestamp": 1793806332.0,
       "summary": "蓝牙技术即将迎来自诞生以来最重要的性能升级之一。蓝牙技术联盟（Bluetooth SIG）日前正式宣布推出“高数据吞吐量”（High Data Throughput，简称HDT）技术，这项新标准将显著提升蓝牙低功耗（Bluetooth LE）的传输能力，为未来无线耳机、智能穿戴设备、电脑及移动设备带",
       "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "华硕正式带来 ROG XG Station 3 显卡坞：提供 GC-HPWR 接口，支持雷电 5",
-      "link": "https://www.ithome.com/1/022/469.htm",
-      "date": "2026-11-04 23:20",
-      "author": "IT之家",
-      "timestamp": 1793805639.0,
-      "summary": "IT之家 11 月 4 日消息，华硕 (ASUS) 今日正式带来了 ROG XG Station 3。当前距这款雷电 5 显卡坞首次面世已过去了 1.5 年。ROG XG Station 3 采用开放式结构，兼容最大 361 × 139.3 × 93.9 (mm) 的显卡，支持 SFX 或 SFX-",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "电动自行车违停难禁 “管不住”究竟卡在哪？",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726331.shtml",
-      "date": "2026-11-04 23:18",
-      "author": "中新网社会新闻",
-      "timestamp": 1793805525.0,
-      "summary": "物业是住宅小区消防管理的前哨，依法落实小区电动自行车消防安全管理，既是物业履行消防安全职责的应有之举，也是保障全体业主居住安全的关键环节。然而近期，多地消防部门在检查中发现，一些小区物业对电动自行车停放管理存在不作为等情况。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "连续 2 小时 40 分钟纯代码生成 66 秒动画，Anthropic 新旗舰 Fable 5.5 实测曝光",
-      "link": "https://www.ithome.com/1/022/468.htm",
-      "date": "2026-11-04 23:14",
-      "author": "IT之家",
-      "timestamp": 1793805243.0,
-      "summary": "北京时间 11 月 4 日消息，Anthropic 尚未正式发布的下一代旗舰模型 Claude Fable 5.5 近日在海外开发者社区引发关注。多名开发者在社交平台 X 上分享了据称来自该模型的早期测试结果。其中，一段完全通过编程生成的 66 秒动画短片尤为引人注目。测试者称，模型在没有调用图像或",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -132,36 +472,6 @@
       "category": "Blog"
     },
     {
-      "title": "柯林斯词典正式收录“friendslop” 词义褒贬引发玩家争论",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1585036.htm",
-      "date": "2026-11-04 23:11",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793805111.0,
-      "summary": "“朋友乐色”（friendslop）这个词一直很有争议。玩家们争论的焦点是，这到底是一种亲昵的叫法，还是在冒犯这些游戏。不管你喜不喜欢，这个词现在应该不会消失了。柯林斯词典已经把它列入2026年度最佳词汇名单，并正式收录进词典。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "AMD Radeon显卡在美国亚马逊销量历史首次超过英伟达",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1585034.htm",
-      "date": "2026-11-04 23:09",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793804965.0,
-      "summary": "可以说，AMD目前的桌面游戏GPU市场表现相当不错。尽管目前还没有旗舰级的RDNA 4 GPU，而且AMD的一些定价策略也颇具争议。AMD的业绩如此出色，以至于其在亚马逊上的Radeon GPU销量首次超过了GeForce显卡。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "法国血液中心确认受 11 月 2 日黑客升温攻击波及，幸无实际影响",
-      "link": "https://www.ithome.com/1/022/461.htm",
-      "date": "2026-11-04 23:02",
-      "author": "IT之家",
-      "timestamp": 1793804524.0,
-      "summary": "IT之家 11 月 4 日消息，法国公共血液服务机构法国血液中心 (EFS) 当地时间本月 3 日发布声明确认，其三个场地的冷库监控与控制系统由于供应商的关系成为本月 2 日黑客“升温攻击”的间接目标。这些冷库中保存着待交付给医疗机构的制品以及供内部生物样本库使用的样本。幸运的是，该机构的监控和报警",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "中国技工在越南：抢一个时间差",
       "link": "https://www.infzm.com/contents/343996",
       "date": "2026-11-04 23:00",
@@ -169,296 +479,6 @@
       "timestamp": 1793804400.0,
       "summary": "“抢中国普工，那不可能。但你说懂技术、能调机器、能带徒弟的，那确实缺，非常缺。”\n\n中国技工填补的，是产业转移与当地技术人才成长之间的时间差。\n\n现在中国技工在越南的工资大概是国内的1.5倍，但差距在变小。",
       "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
-      "title": "苹果重申不会合并macOS与iPadOS 两大平台将继续独立发展",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1585032.htm",
-      "date": "2026-11-04 22:58",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793804328.0,
-      "summary": "尽管 Mac 与 iPad 在过去几年中变得越来越相似，但苹果表示并不打算将 macOS 和 iPadOS 合并为单一操作系统。随着首款触控版 MacBook Pro 的推出，外界关于苹果是否最终打造统一平台的猜测再度升温，而苹果高层给出的答案依然是否定的。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "真 · 互通：国行 Apple 智能创作内容、问询结果会同步至千问 App",
-      "link": "https://www.ithome.com/1/022/459.htm",
-      "date": "2026-11-04 22:49",
-      "author": "IT之家",
-      "timestamp": 1793803795.0,
-      "summary": "IT之家 11 月 4 日消息，苹果今日凌晨面向 iPhone 推送了 iOS 27.3 系统首个开发者预览版，为国行用户带来了「Apple 智能与 Siri」。国行 Apple 智能与阿里巴巴达成合作，在部分体验中接入千问。国内用户可直接在 Siri、写作工具和视觉智能中调用千问，覆盖文本与图像理",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "刷脸打卡就能日结工资？警惕这种新型兼职骗局",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726327.shtml",
-      "date": "2026-11-04 22:48",
-      "author": "中新网社会新闻",
-      "timestamp": 1793803725.0,
-      "summary": "不用技能、坐一会儿刷个脸就能日结工资，这样的兼职工作是不是很吸引人？当在镜头前配合“眨眨眼、点点头”完成刷脸核验的瞬间，你的身份信息可能已经被当作商品，流入了电信诈骗和网络赌博等犯罪团伙手中。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "马斯克加速进军移动通信市场 SpaceX联手高通打造美国全国性5G网络",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1585030.htm",
-      "date": "2026-11-04 22:48",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793803707.0,
-      "summary": "埃隆·马斯克旗下SpaceX正在加速进军美国移动通信市场。11月4日，高通正式宣布与SpaceX达成多年期合作协议，将为Starlink Mobile提供5G蜂窝网络基础设施技术，帮助其在美国建设覆盖全国的地面移动通信网络。这意味着SpaceX不再满足于通过卫星为手机提供有限的直连服务，而是准备建立",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "Google地图完成适配iPhone Duo双屏设计 内外屏空间利用率提升",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1585028.htm",
-      "date": "2026-11-04 22:46",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793803590.0,
-      "summary": "随着苹果全新折叠屏手机 iPhone Duo 进入市场，越来越多开发者开始针对其双屏形态进行优化。最新加入适配行列的是Google地图。Google日前推送了新版 Google Maps 更新，使应用能够充分利用 iPhone Duo 的内外两块显示屏，为用户带来更完整的地图浏览体验。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "苹果或逐步淘汰非触控版高端MacBook Pro产品线",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1585026.htm",
-      "date": "2026-11-04 22:44",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793803472.0,
-      "summary": "据彭博社记者马克·古尔曼最新披露的信息，苹果未来很可能围绕触控屏机型重组其高端MacBook Pro产品线，当前同时销售的非触控版高端机型最终可能退出市场。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "“上头”烟弹竟是兽用麻醉剂 警惕“变味”的果味电子烟",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726326.shtml",
-      "date": "2026-11-04 22:42",
-      "author": "中新网社会新闻",
-      "timestamp": 1793803355.0,
-      "summary": "根据《电子烟管理办法》，水果味道的调味电子烟早已被明令禁售。可眼下，这些带着香甜风味的产品，仍在电商和社交平台不断改换名目隐秘流通，甚至成了不少年轻人追捧的“时尚单品”。更让人担心的是，这些来路不明的烟弹里，还可能被掺进违禁物质，严重影响身心健康。那一口甜味里，究竟藏着什么？",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "华为 MatePad Mini 小平板获 HarmonyOS 7.0.0.111 SP16 升级，互助通信共享功能下放",
-      "link": "https://www.ithome.com/1/022/447.htm",
-      "date": "2026-11-04 22:28",
-      "author": "IT之家",
-      "timestamp": 1793802490.0,
-      "summary": "IT之家 11 月 4 日消息，据用户反馈，华为 MatePad Mini 小平板今日开启了鸿蒙 HarmonyOS 7.0.0.111 SP16 版本升级，系统包大小约 657.43MB。据介绍，新版本升级通信共享功能，与搭载 HarmonyOS 7 系统的手机、平板、鸿蒙电脑之间支持多人互助通信",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "陶哲轩警告：人类把思考交给 AI，危险可能很快到来",
-      "link": "https://www.ithome.com/1/022/440.htm",
-      "date": "2026-11-04 22:20",
-      "author": "IT之家",
-      "timestamp": 1793802030.0,
-      "summary": "北京时间 11 月 4 日，菲尔兹奖得主、著名数学家陶哲轩（Terence Tao）近日对人类日益依赖人工智能发出警告。他担心，随着人们逐渐将思考和解决问题的过程交给 AI，人类正在失去对问题本身及其解决方案的理解，而这一趋势可能很快在现实世界中产生严重后果。这番言论来自陶哲轩 10 月 16 日在",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "英伟达发布 Game Ready 621.14 驱动：优化《魔兽世界：永恒》，修复视频黑屏问题",
-      "link": "https://www.ithome.com/1/022/438.htm",
-      "date": "2026-11-04 22:18",
-      "author": "IT之家",
-      "timestamp": 1793801919.0,
-      "summary": "IT之家 11 月 4 日消息，NVIDIA（英伟达）发布 GeForce &amp; RTX Spark Game Ready 621.14 显卡驱动，面向《魔兽世界：永恒》、《毁灭战士：黑暗时代》新内容及新增 DLSS 5 支持的游戏提供优化，并修复此前版本引入的视频播放异常问题。IT之家附官方",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "中国首例绿猴双胞胎满月",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726293.shtml",
-      "date": "2026-11-04 22:06",
-      "author": "中新网社会新闻",
-      "timestamp": 1793801165.0,
-      "summary": "中新网清远11月4日电(王华 　邓泳怡)清远长隆森林王国(简称：清远长隆)绿猴双胞胎幼崽4日迎来满月，这是中国首例绿猴双胞胎。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "高通史上最大 5G 交易：联合 SpaceX 建设星链移动全美国 5G 网络",
-      "link": "https://www.ithome.com/1/022/434.htm",
-      "date": "2026-11-04 21:58",
-      "author": "IT之家",
-      "timestamp": 1793800724.0,
-      "summary": "IT之家 11 月 4 日消息，高通宣布，SpaceX 选择其跃龙（Dragonwing）蜂窝基础设施平台，为星链移动（Starlink Mobile）美国全国 5G 地面网络提供技术支持。IT之家获悉，此次合作涉及 Dragonwing QRU100 和 QDU100 平台，采用 64T64R 大",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "小米 WorldCast 3D 运镜在 REDMI K100 上线：平面照片还原成三维场景，并虚拟出真实相机轨迹",
-      "link": "https://www.ithome.com/1/022/433.htm",
-      "date": "2026-11-04 21:53",
-      "author": "IT之家",
-      "timestamp": 1793800405.0,
-      "summary": "IT之家 11 月 4 日消息，小米 REDMI K100 手机已于 10 月 27 日正式发布。据小米技术官方今日介绍，该机在影像上新增了 3D 运镜的 AI 玩法 —— 从相册选一张静态照片，AI 就能生成一段大角度 3D 运镜视频，镜头可以环绕、推拉、倾斜，而画面中人物的五官、发型、衣着始终保",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "字节旗下 AI 开发平台“扣子”：推进企业级服务产品整合升级，现售企业版将先暂停新售",
-      "link": "https://www.ithome.com/1/022/432.htm",
-      "date": "2026-11-04 21:40",
-      "author": "IT之家",
-      "timestamp": 1793799614.0,
-      "summary": "IT之家 11 月 4 日消息，字节跳动旗下 AI 开发平台“扣子（Coze）”发布公告，正在推进企业级服务的产品整合升级，并规划后续可供企业客户选择的产品和套餐方案。配合本次整合，现售扣子企业版将先暂停新售。IT之家注：官网显示，“扣子”是面向 Agent 时代的新一代 AI 团队协作平台。用户可",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "葡语国家“洋中医”江西学艺",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726263.shtml",
-      "date": "2026-11-04 21:29",
-      "author": "中新网社会新闻",
-      "timestamp": 1793798965.0,
-      "summary": "中新社南昌11月4日电 (朱莹)在位于南昌市的江西中医药大学附属医院西湖院区，针灸治疗室内艾草香弥漫。来自巴西的克里斯蒂娜·卡鲁索(Cristina Caruso)4日在带教医生的指导下，练习推拿。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "开源项目通过 NPU 而非 GPU 渲染 Win11 桌面：目前刷新率仅 2-3Hz，目标 30Hz",
-      "link": "https://www.ithome.com/1/022/430.htm",
-      "date": "2026-11-04 21:24",
-      "author": "IT之家",
-      "timestamp": 1793798651.0,
-      "summary": "IT之家 11 月 4 日消息，开发者团队 labscommunity 发布了一款面向 Windows 11 的原型驱动程序，尝试使用 NPU 而非系统集成显卡或独立显卡来渲染桌面画面。这款驱动名为 npu-driver，采用 Apache 2.0 开源协议，代码已发布在 GitHub 上。目前，该",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "《影之刃零》发售后首个补丁更新上线：优化流畅度，调整部分战斗表现",
-      "link": "https://www.ithome.com/1/022/429.htm",
-      "date": "2026-11-04 21:21",
-      "author": "IT之家",
-      "timestamp": 1793798470.0,
-      "summary": "IT之家 11 月 4 日消息，国产武侠游戏《影之刃零》于 10 月 29 日正式发售，登陆 PS5 与 PC 平台，国区数字标准版售价 268 元，数字豪华版售价 328 元。11 月 2 日，《影之刃零》发售后 72 小时全平台销量突破 400 万。今日，《影之刃零》发售后首个补丁更新（版本号：",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "中兴手机官方微信公众号账号迁移，主体变更为上海申启纪元智能终端有限责任公司",
-      "link": "https://www.ithome.com/1/022/428.htm",
-      "date": "2026-11-04 21:18",
-      "author": "IT之家",
-      "timestamp": 1793798309.0,
-      "summary": "IT之家 11 月 4 日消息，中兴手机公众号今日发布《关于账号进行迁移的说明》。因运营需要，你所关注的账号“中兴手机”将进行账号迁移。届时本账号的业务、功能将转移至新账号“中兴终端”。迁移详情如下：旧账号名称：中兴手机旧账号主体：中兴通讯股份有限公司新账号名称：中兴终端新账号主体：上海申启纪元智能",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "湖南新田携手广州花都协同守护流动妇女儿童",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726247.shtml",
-      "date": "2026-11-04 21:11",
-      "author": "中新网社会新闻",
-      "timestamp": 1793797900.0,
-      "summary": "中新网永州11月4日电 (黄新 李雪琪)近日，“粤湘巾帼牵手·新新相联筑家”跨省共建签约暨揭牌仪式在广州市花都区“新新相映”流动人员党群服务中心举办。湖南永州市新田县妇联与广州市花都区妇联携手共建“新新相联”妇女联合会。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "烟火里开讲 浙江松阳理论宣讲扎根乡土走“新”更走“心”",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726236.shtml",
-      "date": "2026-11-04 21:09",
-      "author": "中新网社会新闻",
-      "timestamp": 1793797753.0,
-      "summary": "中新网丽水11月4日电(周健 周晴)近日，在位于北京的中国共产党历史展览馆红色大厅内，随着铿锵有力的呐喊，舞台上几名身着红军服、头戴八角帽的“红小鬼”齐刷刷举起右臂，小小的身姿挺拔如松，目光灼灼望向远方，仿佛穿越漫漫烽火岁月，接续先辈心中不灭的信仰。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "中国首部火腿产业地方性法规在浙“亮相”",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726244.shtml",
-      "date": "2026-11-04 21:02",
-      "author": "中新网社会新闻",
-      "timestamp": 1793797371.0,
-      "summary": "中新网金华11月4日电(董易鑫)11月4日，《金华市火腿产业发展促进条例》解读新闻发布会在浙江金华召开。会上，金华市副市长于佳木介绍，《金华市火腿产业发展促进条例》(下称《条例》)于今年9月获浙江省人大常委会审议批准，将于11月7日(立冬节气)正式施行，是中国首部火腿产业地方性法规。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "云南“十五五”将推进城市“5分钟消防救援圈”建设",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726234.shtml",
-      "date": "2026-11-04 20:59",
-      "author": "中新网社会新闻",
-      "timestamp": 1793797181.0,
-      "summary": "中新网昆明11月4日电 (记者 陈静)云南省“开局起步‘十五五’”主题系列新闻发布会·消防专场4日在昆明召开。记者从会上获悉，“十五五”期间，云南将优化城乡公共消防资源配置，推进城市“5分钟消防救援圈”建设。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "《GTA6》可能仅靠预购就已经赚了7.51亿美元",
-      "link": "https://www.cnbeta.com.tw/articles/game/1585024.htm",
-      "date": "2026-11-04 20:57",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1793797054.0,
-      "summary": "数据分析机构Sensor Tower有一套销量追踪工具，可以随时查看游戏卖出了多少份。不过，能达到《GTA6》这种数字的游戏肯定不多。该网站称，Rockstar这款犯罪题材续作最近仅靠预购，收入就已经突破7.51亿美元。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "2026鼓岭论坛在福州开幕",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726228.shtml",
-      "date": "2026-11-04 20:56",
-      "author": "中新网社会新闻",
-      "timestamp": 1793796969.0,
-      "summary": "中新社福州11月4日电 (郑江洛)以“汇聚相向而行的力量”为主题的2026鼓岭论坛4日在福州开幕，这是该论坛创办以来首次回到鼓岭故事的发源地举办。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "报告显示：中国多地秋假催热11月错峰游",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726225.shtml",
-      "date": "2026-11-04 20:43",
-      "author": "中新网社会新闻",
-      "timestamp": 1793796190.0,
-      "summary": "中新社北京11月4日电 (记者 刘文文)随着中国多个省份推行中小学秋假，11月不再是国庆之后的“出行淡季”，而是分散形成多个5天“小长假”，有效带动旅客出行需求释放。记者4日从航旅纵横获悉，截至目前，11月中国国内航线机票预订量超1864万张，同比有所增长。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "《中国特色国际化高中课程规范》团体标准正式发布",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726215.shtml",
-      "date": "2026-11-04 20:28",
-      "author": "中新网社会新闻",
-      "timestamp": 1793795295.0,
-      "summary": "10月31日上午，在北京国家会议中心举行的第27届中国国际教育年会论坛上，《中国特色国际化高中课程规范》(T/CEAIE 10—2026)团体标准正式发布。该标准由中国教育国际交流协会提出并归口，枫叶教育集团担任主编单位，怡海教育集团、横琴粤澳深度合作区哈罗礼德学校、广州南方学院番禺附属中学和深圳建",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "青藏高原发现全球最早似野犬异豺化石 距今约195万年—177万年",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726203.shtml",
-      "date": "2026-11-04 20:02",
-      "author": "中新网社会新闻",
-      "timestamp": 1793793736.0,
-      "summary": "中新网北京11月4日电 (记者 孙自法)记者11月4日从中国科学院古脊椎动物与古人类研究所(古脊椎所)江左其杲副研究员团队获悉，该团队与中外合作者最近在青藏高原研究发现一件似野犬异豺下颌化石标本，距今约195万年—177万年，是目前所知全球最早的似野犬异豺化石。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "第四届全国人工智能应用技术技能大赛湖北荆州开赛",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726202.shtml",
-      "date": "2026-11-04 19:59",
-      "author": "中新网社会新闻",
-      "timestamp": 1793793598.0,
-      "summary": "中新网荆州11月4日电 (吴淘淘)第四届全国人工智能应用技术技能大赛4日在湖北荆州开幕。本届大赛由中国机械工业联合会、人力资源社会保障部、中华全国总工会共同主办，以“智赋新能、技创未来”为主题。赛程为期4天。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "中新网评：“床虱地图”走红，咬疼了谁？",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10726197.shtml",
-      "date": "2026-11-04 19:57",
-      "author": "中新网社会新闻",
-      "timestamp": 1793793450.0,
-      "summary": "中新网北京11月4日电(记者 李京统)近期，一款可以标记“哪些酒店出现过床虱”的微信小程序悄然走红。用户既能查询“避雷”，也能提交证据、参与标注。",
-      "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
     {
@@ -608,26 +628,6 @@
       "author": "蓝点网",
       "timestamp": 1793761200.0,
       "summary": "#系统资讯 好功能：谷歌通过 Google Play 服务更新为安卓设备带来照片和视频自动备份到 Windows PC。该功能在 Google Play 服务更新 26.43 版中提供，Windows PC 需安装谷歌的快速共享客户端。配置完成后安卓设备将在后台自动通过局域网将照片和视频备份到 PC",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "谷歌将推出快速共享SDK 让安卓和iOS应用集成跨设备文件共享 支持苹果AirDrop",
-      "link": "https://www.landian.news/archives/128034.html",
-      "date": "2026-11-04 10:30",
-      "author": "蓝点网",
-      "timestamp": 1793759400.0,
-      "summary": "#行业资讯 谷歌宣布将在明年上半年推出快速共享 SDK，让安卓和 iOS 应用集成快速共享功能，支持安卓与苹果互传文件。快速共享功能此前已经扩展支持苹果的 AirDrop 协议，因此集成 SDK 后，在安卓设备上的应用程序也可以将文件分享给 iOS 设备。查看全文：https://ourl.co/1",
-      "source_url": "https://www.landian.news",
-      "category": "Blog"
-    },
-    {
-      "title": "微软在Windows 11测试版中预览从搜索栏直接打开安卓应用 将手机应用投屏到电脑",
-      "link": "https://www.landian.news/archives/128033.html",
-      "date": "2026-11-04 10:00",
-      "author": "蓝点网",
-      "timestamp": 1793757600.0,
-      "summary": "#系统资讯 微软在 Windows 11 中测试从搜索栏直接搜索安卓应用并投屏到 PC 上，支持键盘和鼠标执行操作。该功能依赖手机连接应用，在兼容设备上，用户可以在 PC 上启动来自安卓设备的应用。该功能在测试后会逐步推送给 Windows 11 正式版用户，使用安卓设备的用户可以期待下。查看全文：",
       "source_url": "https://www.landian.news",
       "category": "Blog"
     }
