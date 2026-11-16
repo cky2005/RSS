@@ -2,6 +2,366 @@
   "update_time": "2026-11-16",
   "articles": [
     {
+      "title": "PyPI加强软件包来源展示应对供应链攻击 发布文件异常将直接显示警告",
+      "link": "https://www.landian.news/archives/128384.html",
+      "date": "2026-11-16 09:30",
+      "author": "蓝点网",
+      "timestamp": 1794792600.0,
+      "summary": "#软件资讯 PyPI 项目完成页面改版，新增安全标签集中展示软件包各版本的来源状态和文件证明。如果同一版本的文件来源不完整、构建来源不一致，或项目更换发布工作流，页面都会显示警告。用户可以在下载软件包时检查页面，综合安全和项目信息来判断潜在风险。查看全文：https://ourl.co/128384",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "Cubot 推出 MegaPad 平板：内置 RGB 律动灯光、14700mAh 大电池",
+      "link": "https://www.ithome.com/1/027/500.htm",
+      "date": "2026-11-16 09:27",
+      "author": "IT之家",
+      "timestamp": 1794792455.0,
+      "summary": "IT之家 11 月 16 日消息，Cubot 现已在海外市场推出 MegaPad 平板电脑。新品采用 13.36 英寸屏幕、六扬声器系统，具备 14700mAh 大容量电池。据介绍，这款平板搭载联发科 Helio G81 处理器，具备 6GB 内存和 128GB 存储空间，支持通过虚拟内存技术扩展至",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "联想 Googlebook Duet 13 分体式二合一更多图片曝光，料 CES 2027 发布",
+      "link": "https://www.ithome.com/1/027/499.htm",
+      "date": "2026-11-16 09:27",
+      "author": "IT之家",
+      "timestamp": 1794792431.0,
+      "summary": "IT之家 11 月 16 日消息，消息人士 Evan Blass (@_evanblass_) 北京时间今日凌晨曝光了联想 (Lenovo) Googlebook Duet 13 的更多图片。其预计将成为首批键盘可拆卸的 Googlebook 二合一设备。Evan Blass 表示该设备将于（202",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "里程碑时刻！曝华为鸿蒙 HarmonyOS 装机量突破 1 亿台",
+      "link": "https://www.ithome.com/1/027/498.htm",
+      "date": "2026-11-16 09:25",
+      "author": "IT之家",
+      "timestamp": 1794792327.0,
+      "summary": "IT之家 11 月 16 日消息，奇妙工具箱今日数据显示，华为鸿蒙 HarmonyOS 操作系统装机量突破 1 亿台，又一里程碑时刻达成。根据奇妙工具箱说明：鸿蒙系统（HarmonyOS 5 及以上）装机量数据来源于华为 App Gallery 应用市场。每日人工收集并更新数据，确保信息的时效性。参",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "三星启动 144 万亿韩元大投资，扩建半导体、显示器、基板和电池的生产设施",
+      "link": "https://www.ithome.com/1/027/497.htm",
+      "date": "2026-11-16 09:22",
+      "author": "IT之家",
+      "timestamp": 1794792146.0,
+      "summary": "IT之家 11 月 16 日消息，据 The Elec 报道，三星将在韩国忠清地区投资总计 144 万亿韩元（IT之家注：现汇率约合 7,202.88 亿元人民币），用于扩建半导体、显示器、基板和电池的生产设施。11 月 12 日，三星电子在其温阳园区举行了忠清大型项目的奠基仪式，并公布了旗下主要子",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "三星 SDI 签署数万亿韩元合同，向 Jupiter Power 供应 16GWh LFP 储能电池",
+      "link": "https://www.ithome.com/1/027/496.htm",
+      "date": "2026-11-16 09:14",
+      "author": "IT之家",
+      "timestamp": 1794791649.0,
+      "summary": "IT之家 11 月 16 日消息，三星 SDI 当地时间今日宣布，将在 2029~2031 年向美国公用事业电池储能系统企业 Jupiter Power 供应总计 16GWh 的磷酸铁锂棱柱电池。这笔交易预计价值数万亿韩元（IT之家注：1 万亿韩元当前约合 50.02 亿元人民币）。这些电池将由三星",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "大范围雨雪持续影响中东部 北方大部地区进入低温模式",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732566.shtml",
+      "date": "2026-11-16 09:13",
+      "author": "中新网社会新闻",
+      "timestamp": 1794791591.0,
+      "summary": "中新网11月16日电 据中央气象台网站消息，昨日，新疆伊犁河谷、青海南部、甘肃东部、宁夏、陕西北部、内蒙古中西部、山西中北部、河北西北部、北京西北部等地出现小到中雪或雨夹雪，局地大雪或暴雪。今晨，新疆东部、内蒙古西部和东北部、黑龙江中南部、吉林等地部分地区出现4～8℃的降温，局地降幅超过10℃。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "消息称某厂明年的阔直板手机已开屏，预计为小米旗下",
+      "link": "https://www.ithome.com/1/027/495.htm",
+      "date": "2026-11-16 09:08",
+      "author": "IT之家",
+      "timestamp": 1794791326.0,
+      "summary": "IT之家 11 月 16 日消息，博主 @数码闲聊站 今日爆料，某厂明年的阔直板手机已开屏，目前早期方案是 6.3-6.4 英寸 ±，屏幕比例 16:9，采用 1mm± 极窄四等边设计，支持 BT.2020 色域并配备高规格阔屏。结合该博主此前的爆料习惯，预计这款新机为小米旗下。IT之家注意到，该博",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "华为 Mate X8 及全场景新品发布会定档 11 月 24 日，大折叠旗舰全方位焕新",
+      "link": "https://www.ithome.com/1/027/493.htm",
+      "date": "2026-11-16 09:03",
+      "author": "IT之家",
+      "timestamp": 1794791033.0,
+      "summary": "IT之家 11 月 16 日消息，华为今日官宣，Mate X8 及全场景新品发布会定档 11 月 24 日 14:30。华为董事、终端 BG CEO 何刚表示，作为华为大折叠旗舰，Mate X 系列 8 年 8 代一路走来，已经成为 2,000 万用户手里的主力大屏。Mate X8 在外观、屏幕、性",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "KTC 预告 6K Mini LED 显示器 M32P2，CES 2027 展出样品",
+      "link": "https://www.ithome.com/1/027/492.htm",
+      "date": "2026-11-16 09:03",
+      "author": "IT之家",
+      "timestamp": 1794791003.0,
+      "summary": "IT之家 11 月 16 日消息，据外媒 TechRadar 数小时前报道，KTC 计划在 CES 2027 上展示多款显示新品，其中 M32P2 是一款基于 31.5\" 6016×3384 IPS 面板的 2304 分区 Mini LED 背光显示器。▲ 图源：KTC该型号刷新率 60Hz；拥有",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "影院成 BLG《英雄联盟》S16 夺冠隐藏赢家，凌晨三点难挡玩家热情",
+      "link": "https://www.ithome.com/1/027/491.htm",
+      "date": "2026-11-16 09:01",
+      "author": "IT之家",
+      "timestamp": 1794790878.0,
+      "summary": "IT之家 11 月 16 日消息，在昨日早间结束的《英雄联盟》2026 全球总决赛（S16）冠亚军决赛中，来自中国 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队，连斩四支韩国战队，勇夺《英雄联盟》S16 冠军。这也是中国战队时隔五年再度夺得英雄联盟全球总决赛冠",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "不调用图像模型，Anthropic Claude Fable 5.2 用 Python 代码模拟真实画笔作画",
+      "link": "https://www.ithome.com/1/027/490.htm",
+      "date": "2026-11-16 09:01",
+      "author": "IT之家",
+      "timestamp": 1794790865.0,
+      "summary": "IT之家 11 月 16 日消息，Anthropic 于当地时间 11 月 9 日发布了最新的 Claude Fable 5.2 和 Claude Mythos 5.2 模型。其中，Fable 5.2 不仅面向复杂编程、科学研究和工程任务，还展示了一种异类的“AI 生图”功能（IT之家注：Anthr",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "苹果新款 Apple TV 4K 提供 8GB 内存，但应用程序和游戏最多只能使用 2GB",
+      "link": "https://www.ithome.com/1/027/489.htm",
+      "date": "2026-11-16 09:00",
+      "author": "IT之家",
+      "timestamp": 1794790843.0,
+      "summary": "IT之家 11 月 16 日消息，据科技媒体 9To5Mac 昨天报道，苹果新款 Apple TV 4K 搭载 A19 芯片，配备 128GB 存储空间和 8GB 内存。其中内存相比上一代产品翻倍，但应用程序和游戏却无法使用更多内存。IT之家从原报道获悉，Apple TV 上的应用受到 tvOS 操",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "Cursor披露恶意扩展事件经过：访问密钥被窃取 随后黑客发布恶意Claude Code扩展",
+      "link": "https://www.landian.news/archives/128383.html",
+      "date": "2026-11-16 09:00",
+      "author": "蓝点网",
+      "timestamp": 1794790800.0,
+      "summary": "#安全资讯 Cursor 发布 10 月 29 日恶意 Claude Code 扩展程序事件复盘报告，密钥泄露根源还是 Cursor 自己的不规范操作。黑客最初使用的密钥来自 Cursor 共享给 Fireworks AI 的数据，Cursor 自己也将敏感密钥直接发给 AI IDE。由于当时的对话",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "中东部大范围雨雪天气持续发展 南北方大片地区气温将创新低",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732564.shtml",
+      "date": "2026-11-16 08:53",
+      "author": "中新网社会新闻",
+      "timestamp": 1794790382.0,
+      "summary": "中国天气网讯 今天(11月16日)，冷空气影响继续，长江以北大部将降温，明后两天冷空气势力将进一步增强，南北方大片地区将迎来气温新低。此外，中东部大范围雨雪天气将进一步向东发展，明后两天东北地区降雪还会增多、增强，需注意防滑，并做好保暖措施。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "董明珠：格力对文凭的考虑已逐步取消，本事才是硬通行证",
+      "link": "https://www.ithome.com/1/027/488.htm",
+      "date": "2026-11-16 08:52",
+      "author": "IT之家",
+      "timestamp": 1794790353.0,
+      "summary": "IT之家 11 月 16 日消息，据央视财经 11 月 14 日报道，董明珠和格力技校学生面对面，她在《对话》现场表示，三年后想留下的学生，基本都能留在格力。她鼓励孩子们在这所学校学真技术、培养工匠精神；格力对文凭的考虑也已经逐步取消，本事才是硬通行证。董明珠还说，想让技校学生和普通高中生 PK 一",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "腾讯 WorkBuddy 国际版上线 Gemini 4 Carbon 大模型：支持百万 Token 上下文，暂仅限 Pro 用户使用",
+      "link": "https://www.ithome.com/1/027/487.htm",
+      "date": "2026-11-16 08:44",
+      "author": "IT之家",
+      "timestamp": 1794789877.0,
+      "summary": "IT之家 11 月 16 日消息，腾讯 WorkBuddy 国际版昨日宣布，已正式上线谷歌 Gemini 4 Carbon 模型，主要面向需要更深入推理和处理更长任务的使用场景。官方将其定位为适合处理复杂问题的模型，目前仅面向 Pro 计划用户开放。IT之家此前报道，谷歌称 Gemini 4 Car",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "PC Mag 调查：约 1250 万美国人计划在《GTA6》发售日请假或缺课",
+      "link": "https://www.ithome.com/1/027/486.htm",
+      "date": "2026-11-16 08:44",
+      "author": "IT之家",
+      "timestamp": 1794789862.0,
+      "summary": "IT之家 11 月 16 日消息，科技媒体 PC Mag 近日发布调查报告，显示上千万美国人计划在《GTA6》11 月 19 日发售当日请假或调整上班、上学时间，只为第一时间体验这款开放世界大作。据报道，8% 美国成年玩家计划在 11 月 19 日当天请带薪假，或者调整工作、上学时间，以便第一时间玩",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "微软全新 WinUI3“中文输入法”悄悄上架：可导入个人词库，主打无广告并支持必应搜索",
+      "link": "https://www.ithome.com/1/027/484.htm",
+      "date": "2026-11-16 08:40",
+      "author": "IT之家",
+      "timestamp": 1794789625.0,
+      "summary": "IT之家 11 月 16 日消息，昨日有用户发现，微软通过 Microsoft Store 悄悄上架了一款全新的中文拼音输入法，面向 Windows 用户提供中文输入服务。目前，该输入法需要通过 Microsoft Store 单独下载安装，安装后不会直接替换 Windows 系统原有的微软中文输入",
+      "source_url": "https://www.ithome.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "意大利对Facebook罚款8.05亿美元 原因是其安卓版未经用户授权访问整个相册",
+      "link": "https://www.landian.news/archives/128382.html",
+      "date": "2026-11-16 08:30",
+      "author": "蓝点网",
+      "timestamp": 1794789000.0,
+      "summary": "#行业资讯 意大利监管机构对 Facebook 处以 8.05 亿欧元罚款，原因是该应用安卓版未取得用户明确同意的情况下，读取整个相册内容及元数据。监管机构称 Facebook 使用笼统权限诱导用户授权相册权限，但实际上还默认开启浏览推荐功能，用于收集相册内容作为发帖推荐。Meta 称该功能运行前需",
+      "source_url": "https://www.landian.news",
+      "category": "Blog"
+    },
+    {
+      "title": "购买儿童票，看身高还是看年龄？",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732555.shtml",
+      "date": "2026-11-16 08:22",
+      "author": "中新网社会新闻",
+      "timestamp": 1794788565.0,
+      "summary": "“高个儿童买全价票”“儿童购票可能比大学生买票贵”……",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "中东部将有大范围大风降温和雨雪天气",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732551.shtml",
+      "date": "2026-11-16 08:16",
+      "author": "中新网社会新闻",
+      "timestamp": 1794788162.0,
+      "summary": "中新网11月16日电 据中央气象台网站消息，预计16日至18日，冷空气继续影响中东部，带来明显大风降温天气，西北、内蒙古、华北、东北等地部分地区有降雪，黄淮及其以南地区有小到中雨，江南、华南局地有大雨，关注对交通、城市运行、能源保供等的影响。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "医保钱包2.0版上线，“异地孝心”一键直达",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732546.shtml",
+      "date": "2026-11-16 07:51",
+      "author": "中新网社会新闻",
+      "timestamp": 1794786695.0,
+      "summary": "跨省共济202.61万人次，医保个账结余变“家庭健康金”",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "老龄陪伴式服务正从社区试点走向家庭场景 如何让陪伴服务更可持续？",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732545.shtml",
+      "date": "2026-11-16 07:46",
+      "author": "中新网社会新闻",
+      "timestamp": 1794786399.0,
+      "summary": "人口老龄化是当前和今后较长时期我国的基本国情，空巢、独居老人已经成为一个不可忽视的群体，不少异地打拼的子女难以时常陪伴在长辈身边，老人精神慰藉缺口凸显，于是，多地出现了老龄陪伴式服务。",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "骑手拿了“新职伤”，就不能获赔商业意外险？",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732538.shtml",
+      "date": "2026-11-16 07:27",
+      "author": "中新网社会新闻",
+      "timestamp": 1794785234.0,
+      "summary": "保险公司在商业意外险中设置的“‘新职伤’免赔”条款是否具备合法性，成为同类案件的争议焦点",
+      "source_url": "http://www.chinanews.com/society.shtml",
+      "category": "News"
+    },
+    {
+      "title": "Xbox明确Project Helix定位：首先是能运行PC游戏的主机",
+      "link": "https://www.cnbeta.com.tw/articles/game/1586534.htm",
+      "date": "2026-11-16 07:16",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1794784577.0,
+      "summary": "Xbox明确了代号Project Helix的下一代硬件定位：它首先是一台能够运行用户PC游戏的主机，而不是一台附带主机游戏能力的PC。设备将以简单、直观且即时的游戏访问体验为设计起点，同时为核心玩家和进阶用户保留深入调整设置与性能选项的空间。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "1250万美国人计划在《GTA6》发售日请假或缺课",
+      "link": "https://www.cnbeta.com.tw/articles/game/1586532.htm",
+      "date": "2026-11-16 07:15",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1794784536.0,
+      "summary": "PCMag的一项大规模调查显示，约有1250万美国人计划在《GTA6》11月19日发售当天请假或缺课，留在家中第一时间体验游戏。这一人数约占美国成年玩家的8%。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "Xbox计划用神经渲染降低Project Helix算力与内存压力",
+      "link": "https://www.cnbeta.com.tw/articles/game/1586530.htm",
+      "date": "2026-11-16 07:15",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1794784515.0,
+      "summary": "Xbox正为下一代主机Project Helix探索神经渲染技术，希望通过新的画面帧生成方式缓解算力和额外内存需求，同时兼顾技术进步与产品的可负担性。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "《GTA6》盒装版不含光盘 部分买家称下载码缺失",
+      "link": "https://www.cnbeta.com.tw/articles/game/1586528.htm",
+      "date": "2026-11-16 07:15",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1794784501.0,
+      "summary": "《GTA6》盒装版不附带游戏光盘，购买者需要使用盒内的数字下载码获取游戏。不过，Reddit和X上已有部分买家表示，拆封后本应印有兑换码的位置一片空白，包装内只剩游戏盒和海报。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "税务师考试第一名用AI作弊 韩国启动全面调查",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586526.htm",
+      "date": "2026-11-16 07:14",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1794784451.0,
+      "summary": "据韩国雇佣劳动部消息，在第63届税务师考试头名承认使用生成式AI作弊后，韩国政府决定立即排查2026年举行的全部国家资格考试，并计划在年内出台综合防范措施。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "黄仁勋同意赴美国国会闭门作证 作证日期尚未确定",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586524.htm",
+      "date": "2026-11-16 07:13",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1794784425.0,
+      "summary": "11月16日，据彭博社报道，美国共和党众议员约翰·穆勒纳尔(John Moolenaar)透露，黄仁勋(Jensen Huang)已同意在闭门听证会上向议员作证，说明他与一位女商人之间的关系。几天前，黄仁勋因婚外情风波辞去了英伟达CEO。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "挪威团队突破百年工艺限制 新技术有望实现铝生产“零排放”",
+      "link": "https://www.cnbeta.com.tw/articles/science/1586522.htm",
+      "date": "2026-11-16 07:12",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1794784375.0,
+      "summary": "铝曾在19世纪被视为比黄金还珍贵的金属，如今已成为全球仅次于铁的第二大常用金属。然而，在过去140年间，铝的基础生产工艺几乎没有发生根本性变化，而这一传统工艺的最大问题在于会释放大量二氧化碳。按照现有方法，每生产1公斤铝，化学反应本身就会直接产生约1.5公斤二氧化碳。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "美国联合发射联盟火神火箭发射失败：40颗亚马逊卫星全部损毁",
+      "link": "https://www.cnbeta.com.tw/articles/science/1586520.htm",
+      "date": "2026-11-16 07:12",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1794784337.0,
+      "summary": "美国当地时间11月15日，由波音和洛克希德·马丁合资成立的联合发射联盟（ULA）遭遇重大挫折。该公司新一代重型运载火箭“火神”（Vulcan）在佛罗里达州卡纳维拉尔角太空军基地发射升空约10分钟后发生异常，最终未能将搭载的40颗亚马逊Leo卫星送入预定轨道，整批卫星全部损失。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "《GTA6》11月19日发售 专家称其为罕见文化时刻",
+      "link": "https://www.cnbeta.com.tw/articles/game/1586518.htm",
+      "date": "2026-11-16 05:03",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1794776595.0,
+      "summary": "R星计划于11月19日推出《GTA6》。在经历多年开发和多次延期后，这次发售已受到游戏业及其他行业关注，普华永道专家Bart Spiegel将其形容为类似奥运会的“罕见文化时刻”。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "黄仁勋辞职仅数日便传出考虑复出：英伟达内部酝酿“迎回创始人”行动",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586516.htm",
+      "date": "2026-11-16 05:02",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1794776567.0,
+      "summary": "英伟达创始人黄仁勋辞去首席执行官职务后，围绕其未来去向的争议并未平息。硅谷内部已经出现推动黄仁勋重新执掌英伟达的声音，甚至有消息称，他本人正在考虑重返公司最高管理职位。与此同时，卷入整场风波的新加坡企业Megaspeed International也发布了最新声明，试图澄清有关其前高管艾丽丝·黄（A",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
+      "title": "英伟达风波引发两党施压 美国国会酝酿收紧AI芯片对华出口限制",
+      "link": "https://www.cnbeta.com.tw/articles/tech/1586514.htm",
+      "date": "2026-11-16 04:05",
+      "author": "cnBeta.COM.TW RSS订阅",
+      "timestamp": 1794773109.0,
+      "summary": "美国国会正在酝酿进一步收紧先进人工智能芯片对华出口的限制。随着围绕英伟达前首席执行官黄仁勋及其与新加坡商界人士艾丽丝·黄（Alice Huang）关系的争议持续发酵，美国两党议员开始重新审视现有芯片出口管制政策，并推动将更多限制措施写入法律。 阅读全文",
+      "source_url": "https://www.cnbeta.com.tw",
+      "category": "Blog"
+    },
+    {
       "title": "美财长施压英伟达：要求外部换帅 限期10天回应合规问题",
       "link": "https://www.cnbeta.com.tw/articles/tech/1586512.htm",
       "date": "2026-11-16 00:20",
@@ -9,36 +369,6 @@
       "timestamp": 1794759635.0,
       "summary": "针对英伟达近期的出口限制争议，美国财政部长贝森特发表系列强硬表态，要求英伟达必须从外部寻找新领导人，并对公司现有领导层进行“大幅调整”。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "零刻 ME Pro 358H 四盘位 NAS 开售，32GB + 1TB 起价 11499 元",
-      "link": "https://www.ithome.com/1/027/461.htm",
-      "date": "2026-11-16 00:14",
-      "author": "IT之家",
-      "timestamp": 1794759284.0,
-      "summary": "IT之家 11 月 16 日消息，零刻 (Beelink) 现已启动 ME Pro 358H 四盘位 NAS 的销售。其基于英特尔酷睿 Ultra X7 处理器 358H，包含 32GB LPDDR5X-9600 内存、1TB PCIe Gen4 TLC M.2 SSD。ME Pro 358H 四盘",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "微星推出 PRO CORELIQUID R13 360 液冷，399 / 419 元",
-      "link": "https://www.ithome.com/1/027/460.htm",
-      "date": "2026-11-15 23:56",
-      "author": "IT之家",
-      "timestamp": 1794758203.0,
-      "summary": "IT之家 11 月 15 日消息，微星 (MSI) 近期推出了处理器 AIO 液冷散热器 PRO CORELIQUID R13 360。这一型号兼容英特尔 FCLGA 1851 / 1700、AMD Socket AM5 / AM4 处理器，享受 3 年质保。PRO CORELIQUID R13 3",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "《GTA 6》通关时长爆料：主线约 50 小时，白金全成就预计 200 小时",
-      "link": "https://www.ithome.com/1/027/459.htm",
-      "date": "2026-11-15 23:06",
-      "author": "IT之家",
-      "timestamp": 1794755177.0,
-      "summary": "IT之家 11 月 15 日消息，《GTA 6》定于 2026 年 11 月 19 日正式发售，不少玩家已经开始关注游戏的奖杯和成就系统：想要拿到白金奖杯或完成全部成就，究竟需要投入多少时间？从目前披露的信息来看，《GTA 6》的主线剧情相当漫长，而想要完成全部成就，所需时间可能更加惊人。要想准确预",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -50,66 +380,6 @@
       "summary": "中新社深圳11月15日电 题：APEC盛会核心场馆“静待花开” 会场外围成打卡热点",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "韦布望远镜发现迄今最古老类星体双星，现有黑洞成长理论难以解释",
-      "link": "https://www.ithome.com/1/027/457.htm",
-      "date": "2026-11-15 22:37",
-      "author": "IT之家",
-      "timestamp": 1794753433.0,
-      "summary": "IT之家 11 月 15 日消息，利用詹姆斯 · 韦布空间望远镜（JWST），天文学家发现了迄今观测到的最古老的一对由超大质量黑洞驱动的类星体。不过，这项发现也带来了一个难题：按照现有理论，它们本不应该如此早就存在。这对紧密相邻的类星体借助双子座北望远镜（Gemini North）得到确认，编号为",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态",
-      "link": "https://www.ithome.com/1/027/456.htm",
-      "date": "2026-11-15 22:16",
-      "author": "IT之家",
-      "timestamp": 1794752211.0,
-      "summary": "IT之家 11 月 15 日消息，磷光发光拥有显著高于荧光发光的内量子效率，可改进 OLED 显示的能量利用效率，进而降低功耗、提升峰值亮度。▲ 10.95\" 平板电脑屏幕OLED 此前已在红光和绿光器件上实现了磷光发光。然而由于光能量等因素的差异，蓝光的磷光化一直是一大难题，相关技术的商业化直到近",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "鸿蒙智行尚界 Z7T 星野套装实车图曝光，新增行李架、跨界套件、黑色尾翼等",
-      "link": "https://www.ithome.com/1/027/454.htm",
-      "date": "2026-11-15 21:53",
-      "author": "IT之家",
-      "timestamp": 1794750826.0,
-      "summary": "IT之家 11 月 15 日消息，汽车博主 @未来的学习笔记 昨日分享了鸿蒙智行尚界 Z7T 星野套装实车图。尚界 Z7T 星野套装最明显的变化属车尾部分。从画面可以看到，该版本车型新增了银色行李架、银色后视镜外壳、全车跨界套件以及黑色尾翼。参考IT之家此前报道，尚界 Z7T 是一款猎装车型，于今年",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "韩国税务师考试头名 AI 作弊曝光后，政府全面调查今年国家资格考试",
-      "link": "https://www.ithome.com/1/027/453.htm",
-      "date": "2026-11-15 21:42",
-      "author": "IT之家",
-      "timestamp": 1794750171.0,
-      "summary": "IT之家 11 月 15 日消息，据韩联社今日报道，由于税务师考试第一名考生存在利用人工智能进行作弊的行为被曝光，韩国政府决定对今年所有国家资格考试进行全面调查，以打击此类作弊行为。报道称，劳动部和相关机构决定对在第 63 届税务师考试中发现有 AI 作弊行为的第一名考生 A 进行取消考试成绩的处理",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "RGB 基础上引入第四基色 X，TCL 华星展出三款全球首款 10.95 英寸 OLED 平板屏幕",
-      "link": "https://www.ithome.com/1/027/452.htm",
-      "date": "2026-11-15 21:39",
-      "author": "IT之家",
-      "timestamp": 1794749985.0,
-      "summary": "IT之家 11 月 15 日消息，在本周举行的 TCL 华星全球显示生态大会 DTC 2026 上，TCL 华星以 RGBX 四基色显示架构为主题，展出三款全球首款 10.95 英寸 OLED 平板屏幕 —— 四基色双模色域、四基色双模低功耗、四基色双模低蓝害。官方表示，三款展品同源同平台，在传统",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "研究警告：地球冰冻圈退化正突破安全环境极限，海平面上升与极端灾害风险加剧",
-      "link": "https://www.ithome.com/1/027/451.htm",
-      "date": "2026-11-15 21:20",
-      "author": "IT之家",
-      "timestamp": 1794748840.0,
-      "summary": "IT之家 11 月 15 日消息，据福布斯报道，一项最新研究指出，地球上的冰冻区域正在全面退化，冰盖、山地冰川、海冰、积雪和永久冻土等关键组成部分，均面临日益严峻的环境风险。研究人员警告，这些区域的变化正在超出安全环境极限，并给地球及其生态系统带来越来越大的长期威胁。这项研究由斯德哥尔摩大学斯德哥尔",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
     },
     {
       "title": "全美停飞令余波未平，航班延误持续 航空公司正竭力恢复运营",
@@ -132,16 +402,6 @@
       "category": "Blog"
     },
     {
-      "title": "开源盘古模型 openPangu-2.1-Pro 上线华为云，围绕 Agent 开发、AI 编码、推理优化方向能力升级",
-      "link": "https://www.ithome.com/1/027/450.htm",
-      "date": "2026-11-15 21:16",
-      "author": "IT之家",
-      "timestamp": 1794748614.0,
-      "summary": "IT之家 11 月 15 日消息，华为云今日宣布，华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。该模型围绕 Agent 开发、AI 编码和推理优化三大方向进行能力升级，在深度研究、鸿蒙系统操控、鸿蒙 App 开发、昇腾算子生成及推理链路优化等场景实现增强。",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "亚洲象种群持续减少或引发社会结构崩塌 研究警告保护工作面临新挑战",
       "link": "https://www.cnbeta.com.tw/articles/science/1586506.htm",
       "date": "2026-11-15 21:15",
@@ -149,26 +409,6 @@
       "timestamp": 1794748527.0,
       "summary": "一项针对斯里兰卡野生亚洲象长达12年的研究显示，当种群数量持续下降到一定程度后，亚洲象社会体系可能跨越一个关键临界点，导致长期形成的社会关系网络瓦解，群体规模缩小、联系减少并日益孤立，最终威胁整个物种的长期生存。 阅读全文",
       "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "法官驳回三星、美光与SK海力士抗辩请求 DRAM供应操纵反垄断诉讼进入实质审理阶段",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1586504.htm",
-      "date": "2026-11-15 21:15",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1794748500.0,
-      "summary": "美国加利福尼亚州联邦法院近日作出重要裁决，一起针对全球三大DRAM内存制造商的集体反垄断诉讼得以继续推进。法院驳回了三星电子、美光科技和SK海力士提出的撤诉请求，认为原告提出的证据和指控具备合理依据，案件将进入后续审理程序。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "上汽大通 27 款大拿 V1L 上市：标配宁德时代电池，11.68 万起",
-      "link": "https://www.ithome.com/1/027/449.htm",
-      "date": "2026-11-15 21:13",
-      "author": "IT之家",
-      "timestamp": 1794748423.0,
-      "summary": "IT之家 11 月 15 日消息，11 月 13 日，上汽大通 27 款大拿 V1L 正式上市，售价 11.68 万元起，官方称全系标配宁德时代天行商用电池。IT之家从官方公布信息获悉，27 款大拿 V1L 共带来 7 项升级，官方将其概括为“加配不加价”。车身采用方圆之融的前脸设计，本次为焕新前脸",
-      "source_url": "https://www.ithome.com/",
       "category": "Blog"
     },
     {
@@ -182,16 +422,6 @@
       "category": "News"
     },
     {
-      "title": "比亚迪何志奇：匈牙利工厂马上进入大批量生产，兵马未动、粮草得先行",
-      "link": "https://www.ithome.com/1/027/448.htm",
-      "date": "2026-11-15 21:07",
-      "author": "IT之家",
-      "timestamp": 1794748024.0,
-      "summary": "IT之家 11 月 15 日消息，比亚迪股份有限公司执行副总裁何志奇发文，称匈牙利工厂马上进入大批量生产，兵马未动，粮草得先行。早上意大利空心面，中午斯洛文尼亚披萨，晚上克罗地亚 seafood，一天跑了三个国家，三个港口，好想煮碗方便面，里面加个鸡蛋。欧洲的基础设施比不得国内，经常几十年不变，堵港",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "广州官宣“入秋” 今年夏季长达235天",
       "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732508.shtml",
       "date": "2026-11-15 21:06",
@@ -202,26 +432,6 @@
       "category": "News"
     },
     {
-      "title": "魅族 MIFI N1 随身 Wi-Fi 上架官网，79 元",
-      "link": "https://www.ithome.com/1/027/447.htm",
-      "date": "2026-11-15 20:52",
-      "author": "IT之家",
-      "timestamp": 1794747155.0,
-      "summary": "IT之家 11 月 15 日消息，魅族官网上架了一款魅族 MIFI N1 随身 Wi-Fi，标价 79 元，显示为“即将发售”。据介绍，这款随身 Wi-Fi 搭载移芯 EC800LE，集成基带、射频、电源管理，支持智能切网；尺寸为 96.6×58×14.8mm，重约 102g；支持 Wi-Fi 6",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "长城汽车：不法分子冒用哈弗、坦克品牌名义发送虚假召回短信，已向公安机关报案",
-      "link": "https://www.ithome.com/1/027/446.htm",
-      "date": "2026-11-15 20:51",
-      "author": "IT之家",
-      "timestamp": 1794747115.0,
-      "summary": "IT之家 11 月 15 日消息，长城汽车今日在官方微博发布声明称，有不法分子冒充旗下哈弗、坦克品牌官方名义，通过短信渠道向车主发送伪造的召回提醒，谎称车辆零部件存在安全隐患，并附带陌生网址链接，公司已就相关冒名诈骗线索向公安机关报案。长城汽车在声明中表示，短信所称的“召回事项”纯属捏造，请车主高度",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
       "title": "把服务阵地建到群众家门口 福建漳州持续推进民生综合体建设",
       "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732496.shtml",
       "date": "2026-11-15 20:51",
@@ -230,26 +440,6 @@
       "summary": "中新网漳州11月15日电 (记者 张金川)11月15日，福建省漳州市芗城区瑞民新苑“好客邻里中心”正式投入使用，这是芗城区投用的第四个民生综合体。",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
-    },
-    {
-      "title": "达摩鲨 28g 指握鼠标 AIR28 国行预售，到手价 499 元",
-      "link": "https://www.ithome.com/1/027/444.htm",
-      "date": "2026-11-15 20:50",
-      "author": "IT之家",
-      "timestamp": 1794747043.0,
-      "summary": "IT之家 11 月 15 日消息，Darmoshark（达摩鲨）现已启动 AIR28 鼠标的国行预售。这一型号采用非对称的指握模具，提供小指支撑，质量仅有 28g，可选星曜黑 / 冰瓷白 / 雾松绿 3 种配色，到手价为 499 元。AIR28 三维 73.9 × 59.6 × 27.06 (mm)",
-      "source_url": "https://www.ithome.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "英国“伊丽莎白女王”号航母首次完成同时弹射四架攻击无人机",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1586502.htm",
-      "date": "2026-11-15 19:43",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1794742994.0,
-      "summary": "英国皇家海军近日完成一项具有里程碑意义的海上测试。在北大西洋举行的军事演习期间，排水量约6.5万吨的“伊丽莎白女王”号航空母舰成功从飞行甲板上发射四架“Nyan”攻击无人机。这是无人作战飞机与传统舰载航空力量协同运用的重要验证，也标志着舰载无人机作战能力迈出了关键一步。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
     },
     {
       "title": "中韩青年江西共建“友谊橙园”",
@@ -282,52 +472,12 @@
       "category": "News"
     },
     {
-      "title": "Stellantis获AI电动拖车专利 普通小车也能拖房车",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1586500.htm",
-      "date": "2026-11-15 18:03",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1794737028.0,
-      "summary": "近日，汽车巨头Stellantis获得一项颇具创新性的电动拖车装置专利。该设计通过为拖车配备独立电机、电池以及AI辅助控制系统，让原本动力有限的小型汽车也有望具备拖挂房车的能力，甚至可能改变传统房车出行对大马力皮卡的依赖。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "英伟达陷入CEO继承难题",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1586498.htm",
-      "date": "2026-11-15 18:03",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1794736980.0,
-      "summary": "多年来，黄仁勋一直开玩笑说，作为英伟达的联合创始人兼首席执行官，他执掌这家公司已逾三十年，想要取代他几乎是不可能的。“再也不会有第二个我，”他在今年1月的一次采访中说道。“原因就在于，我是在这家公司里成长起来的。” 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "R星称GTA6开发预算略低于迪拜哈利法塔15亿美元造价",
-      "link": "https://www.cnbeta.com.tw/articles/game/1586496.htm",
-      "date": "2026-11-15 18:02",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1794736957.0,
-      "summary": "《GTA6》的开发预算一直是官方严守的机密，但Rockstar Games近日给出了一个颇为特别的参照，向彭博社表示这款待发新作的制作成本，略低于迪拜哈利法塔15亿美元的建造费用。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
       "title": "百元包吃住还能看海景房？起底“低价团”围猎老年人内幕",
       "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732414.shtml",
       "date": "2026-11-15 17:44",
       "author": "中新网社会新闻",
       "timestamp": 1794735864.0,
       "summary": "每周质量报告丨百元包吃住还能看海景房？总台起底“低价团”围猎老年人内幕",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "连休5天、免费滑雪！多地公布“雪假”时间",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732413.shtml",
-      "date": "2026-11-15 17:29",
-      "author": "中新网社会新闻",
-      "timestamp": 1794734998.0,
-      "summary": "专属冬日的假期来了！",
       "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
@@ -339,126 +489,6 @@
       "timestamp": 1794733200.0,
       "summary": "西尔维娅的诗歌里充满了愤怒、原始的力量，和精神创伤带来的想象力\n\n（本文首发于南方人物周刊）\n                \n                \n                                        南方人物周刊特约撰稿 boho",
       "source_url": "https://www.infzm.com/contents?term_id=2",
-      "category": "News"
-    },
-    {
-      "title": "天涯共此诗",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732389.shtml",
-      "date": "2026-11-15 16:30",
-      "author": "中新网社会新闻",
-      "timestamp": 1794731454.0,
-      "summary": "“言有尽而意无穷”，中国诗，向来以含蓄为美。山水无言、离愁难书、相思入骨……许多难以直说的感受，都被凝练成短短的几行。诗，成了中国人感知世界、安放情感的独特方式。当外国人隔着语言的雾，读懂那些意境与留白时，一种跨越山海的共鸣，便由此而生。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "从登山到“读山”：秦岭“轻户外”渐成风尚",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732361.shtml",
-      "date": "2026-11-15 16:03",
-      "author": "中新网社会新闻",
-      "timestamp": 1794729813.0,
-      "summary": "中新社西安11月15日电 题：从登山到“读山”：秦岭“轻户外”渐成风尚",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "《GTA6》实体版爆出两类问题 空码与兑换码提前被盗用",
-      "link": "https://www.cnbeta.com.tw/articles/game/1586494.htm",
-      "date": "2026-11-15 15:39",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1794728377.0,
-      "summary": "不断有玩家反馈，Rockstar即将推出的开放世界动作冒险游戏《GTA6》，部分实体包装盒内没有内置游戏兑换码。不少玩家表示，自己从游戏驿站、百思买，甚至直接从Rockstar官方购入的PS5、Xbox Series X|S版《GTA6》实体盒，拆开后都没有兑换码。玩家联系零售商求助时，两家销售渠道",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "英伟达缩减AI融资支持 并不会让价格亲民的GeForce显卡在2027年重回市场",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1586492.htm",
-      "date": "2026-11-15 15:39",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1794728366.0,
-      "summary": "英伟达据称正在缩减面向云服务商和AI企业的“循环式融资”支持，但这并不意味着GeForce游戏显卡会迅速增加供应或降低价格。受产品设计、制造资源和生产周期限制，分析认为亲民价位的游戏GPU在2027年仍难全面回归。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "前任天堂员工表示《姆吉拉的假面》重制已是必然趋势",
-      "link": "https://www.cnbeta.com.tw/articles/game/1586490.htm",
-      "date": "2026-11-15 15:38",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1794728316.0,
-      "summary": "既然有了和1998年相同的开发基底，任天堂在《时之笛》之后推出《姆吉拉的假面》重制版，本是顺理成章的事。但爆料人谢普萨尔·尼克本周早些时候却打破了玩家的期待，声称目前该重制项目“没有进入任何形式的开发阶段”。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "隐患可致停放自燃 宝马在美召回72万辆车 修复前建议室外停放",
-      "link": "https://www.cnbeta.com.tw/articles/tech/1586488.htm",
-      "date": "2026-11-15 15:38",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1794728296.0,
-      "summary": "美国国家公路交通安全管理局发布公告，宝马于当地启动大规模召回，涉及720796台车辆。水泵电气连接器存在短路起火隐患，即便熄火停放也有自燃风险，官方提醒车主停在室外远离建筑与其他车辆。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "游戏业“超级印钞机”下周上新 《GTA VI》缘何牵动华尔街？",
-      "link": "https://www.cnbeta.com.tw/articles/game/1586486.htm",
-      "date": "2026-11-15 15:35",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1794728139.0,
-      "summary": "一款卖了13年、累计销量接近2.35亿份的游戏，即将在下周迎来续作。对于华尔街而言，这场发售承载着一个期待：一项持续多年创收的生意，能否开启新的盈利增长周期？下周四，《Grand Theft Auto VI》（《侠盗猎车手VI》，下称《GTA VI》）将在全球范围内正式上线。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "天津大学团队研发0.01毫米柔性透明显示屏 比头发丝还薄",
-      "link": "https://www.cnbeta.com.tw/articles/science/1586484.htm",
-      "date": "2026-11-15 15:35",
-      "author": "cnBeta.COM.TW RSS订阅",
-      "timestamp": 1794728106.0,
-      "summary": "天津大学团队研发的0.01毫米柔性透明显示屏已实现量产，是全球最薄的柔性透明显示屏之一。其核心突破在于“光量子显示技术”，摆脱了传统电驱动电路背板，实现屏幕自主发光、高透明与高柔性并存。 阅读全文",
-      "source_url": "https://www.cnbeta.com.tw",
-      "category": "Blog"
-    },
-    {
-      "title": "第三十八届韩素音国际翻译大赛颁奖仪式在京举行",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732336.shtml",
-      "date": "2026-11-15 14:56",
-      "author": "中新网社会新闻",
-      "timestamp": 1794725765.0,
-      "summary": "中新网北京11月15日电 (记者 应妮)口译一时着急把俄罗斯“天鹅湖”说成“企鹅湖”，正在北京外国语大学读研二的俄罗斯姑娘刘若兮的自曝引来现场一片欢乐的笑声。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "多个景区接连被降级、摘牌！A级旅游景区如何“重构”？",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732322.shtml",
-      "date": "2026-11-15 14:24",
-      "author": "中新网社会新闻",
-      "timestamp": 1794723840.0,
-      "summary": "不久前，多地文旅主管部门陆续公布A级旅游景区复核结果，一批景区被取消等级、降级或限期整改。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "石家庄湾里庙灯会启幕 自贡彩灯点亮“羊”气中国年",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732303.shtml",
-      "date": "2026-11-15 12:11",
-      "author": "中新网社会新闻",
-      "timestamp": 1794715876.0,
-      "summary": "中新网石家庄11月15日电 (艾广德 梁子栋 崔鹏)14日傍晚，随着千盏花灯次第点亮，石家庄第四届“湾里潮灯会·‘羊’气中国年”在湾里庙步行街掌灯启幕。作为全国示范步行街、国家级旅游休闲街区，这条承载城市记忆的老街再度以光影盛宴点亮冬夜。",
-      "source_url": "http://www.chinanews.com/society.shtml",
-      "category": "News"
-    },
-    {
-      "title": "今起北方多地供暖！不热怎么办？注意这几件事",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732278.shtml",
-      "date": "2026-11-15 11:29",
-      "author": "中新网社会新闻",
-      "timestamp": 1794713370.0,
-      "summary": "今天(15日)，北方地区进入全面供暖季。北京、天津、石家庄、济南、郑州以及陕西关中地区等地今天零时起正式集中供热。陕西关中多地持续优化供热结构，大力发展地热等清洁供暖。",
-      "source_url": "http://www.chinanews.com/society.shtml",
       "category": "News"
     },
     {
